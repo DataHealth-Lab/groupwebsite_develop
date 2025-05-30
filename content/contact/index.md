@@ -7,26 +7,23 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Visit Us
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        If you want to visit us, find us, etc.
+
+      email: labdatahealth at gmail dot com
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Carrer de Sant Quintí, 77-79
+        city: Barcelona
+        region: Catalonia
+        postcode: '08041'
+        country: Spain
+        country_code: ES
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        latitude: '41.41517420645786'
+        longitude: '2.1756747530393192'
+      directions: Enter Sant Pau Research Institute Building, Office P3-035 on Floor 3
+      
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -37,16 +34,15 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '1'
-
   - block: markdown
     content:
       title:
@@ -64,6 +60,6 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['10px', '0', '10px', '0']
       css_class: fullscreen
 ---
