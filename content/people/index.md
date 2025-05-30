@@ -14,6 +14,7 @@ sections:
         - Principal Investigators
         - Researchers
         - PostDoc
+        - Research Fellow
         - PhD Candidate
         - MSc Student
         - Grad Students
@@ -27,6 +28,7 @@ sections:
         - Principal Investigators
         - Researchers
         - PostDoc
+        - Research Fellow
         - PhD Candidate
         - MSc Student
         - Grad Students
