@@ -50,6 +50,5 @@ sections:
       # Optional group headers
       show_group_headers: true  # Add section headers between groups
       group_headers_centered: false  # Left-align headers
-      
 ---
         
