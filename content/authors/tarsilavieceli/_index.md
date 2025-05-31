@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Amanda Batista
+title: Tarsila Vieceli
 
 # Full name (for SEO)
-first_name: Amanda
-last_name: Batista
+first_name: Tarsila
+last_name: Vieceli
 
 avatar_filename: avatar.jpg
 
 # Username (this should match the folder name)
 authors:
-  - amandabatista
+  - tarsilavieceli
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: PUC-Rio
+  - name: UFRGS
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,9 +54,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Bar-BLYAAAAJ&hl=
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen

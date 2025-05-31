@@ -15,7 +15,7 @@ role: Group Leader
 # Organizations/Affiliations
 organizations:
   - name: Sant Pau Research Institute
-    url: ''
+    url: 'https://www.recercasantpau.cat/en/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an epidemiologist.
@@ -27,14 +27,14 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Epidemiology
+      institution: University of São Paulo, Brazil
+      year: 2018
+    - course: MSc in Epidemiology
+      institution: London School of Hygiene & Tropical Medicine (LSHTM)
+      year: 2014
+    - course: MD in Medicine
+      institution: University of São Paulo, Brazil
       year: 2008
 
 # Social/Academic Networking
@@ -45,6 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:oranzani@santpau.cat'
+  - icon: icons/custom/bluesky
+    # icon_pack: fab
+    link: https://bsky.app/profile/otavioranzani.bsky.social
   - icon: twitter
     icon_pack: fab
     link: https://x.com/otavio_ranzani
@@ -54,9 +57,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/oranzani
-  - icon: bluesky  # Font Awesome 6 icon name
-    icon_pack: fab  # "fab" for brand icons
-    link: https://bsky.app/profile/otavioranzani.bsky.social
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

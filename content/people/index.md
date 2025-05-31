@@ -46,7 +46,7 @@ sections:
       show_role: true  # Show their role/position
       show_social: true  # Show social icons
       card_view: true  # Display as cards (false for list view)
-      columns: "2"  # Number of columns for cards
+      columns: "3"  # Number of columns for cards
       # Optional group headers
       show_group_headers: true  # Add section headers between groups
       group_headers_centered: false  # Left-align headers

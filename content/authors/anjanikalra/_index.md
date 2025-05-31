@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Amanda Batista
+title: Anjani Kalra
 
 # Full name (for SEO)
-first_name: Amanda
-last_name: Batista
+first_name: Anjani
+last_name: Kalra
 
 avatar_filename: avatar.jpg
 
 # Username (this should match the folder name)
 authors:
-  - amandabatista
+  - anjanikalra
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: PUC-Rio
+  - name: ISGlobal
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
