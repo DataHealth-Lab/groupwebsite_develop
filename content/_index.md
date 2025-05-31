@@ -15,7 +15,8 @@ sections:
       text: |
         <br>
         
-         Making the best use of **Data** and **Science** to support, delivery and make lives healthier
+        Turning **DATA** into action against Climate Health threats, Superbugs, and Broken systems.  
+  
   
   - block: collection
     content:

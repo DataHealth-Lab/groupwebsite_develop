@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Join us
 date: 2022-10-24
 
 type: landing
@@ -13,13 +13,13 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: contact.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: Health’s biggest fights need your brain—and your hands.
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Global, World-Class Lab for Science and Health
+        content: 'Always looking for talented and new ideas minds'
         align: right
         background:
           image:

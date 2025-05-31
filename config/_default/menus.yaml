@@ -24,14 +24,17 @@ main:
     url: publication
     weight: 40
   - name: Outreach
-    url: media
+    url: outreach
     weight: 50
   - name: Impact
     url: impact
     weight: 60
   - name: Posts
-    url: posts
+    url: post
     weight: 70
   - name: Contact
     url: contact
     weight: 80
+  - name: Join us
+    url: join
+    weight: 90
