@@ -16,8 +16,11 @@ sections:
         <br>
         
         Turning **DATA** into action against Climate Health threats, Superbugs, and Broken systems.  
-  
-  
+        </br>
+    # design:
+    #     background:
+    #         image:
+    #             filename: welcome.jpg
   - block: collection
     content:
       title: Latest News
