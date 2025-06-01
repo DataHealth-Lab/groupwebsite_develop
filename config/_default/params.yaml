@@ -19,10 +19,9 @@ marketing:
     local_business_type: 'MedicalBusiness'
     org_name: 'DataHealth Lab'
     description: >
-        "Otavio Ranzani's research group at IR SANT PAU Barcelona: 
-        Advancing health through data science, clinical epidemiology, 
-        and implementation research. Focused on ['antimicrobial resistance', 
-        'climate health', 'AI', 'vaccine', 'pneumonia']."
+        Otavio Ranzani's research group at IR SANT PAU, Barcelona. 
+        Advancing health through epidemiology, data science, 
+        and implementation research.
     twitter: 'otavio_ranzani'
   analytics:
     google_analytics: ''
