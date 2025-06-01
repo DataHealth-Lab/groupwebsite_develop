@@ -132,3 +132,11 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+
+custom_js:
+  - src: "//gc.zgo.at/count.js"
+    async: true
+    defer: false
+    attributes: |
+      data-goatcounter="https://datahealthlab.goatcounter.com/count"
