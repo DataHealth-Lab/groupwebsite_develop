@@ -61,3 +61,32 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  changefreq: weekly  # Default for all pages
+  priority: 0.8       # Default priority (0.0-1.0)
+  filename: sitemap.xml
+  
+  # HugoBlox-specific optimizations
+  excludePaths:
+    - "/search/"       # Exclude search pages
+    - "/404.html"      # Exclude error pages
+    - "/admin/**"      # Exclude admin sections
+  
+  # Academic content priority boosts
+  priorities:
+    "/publications/*": 0.9
+    "/projects/*": 0.8
+    "/team/*": 0.7
+    "/posts/*": 0.6
+    
+    
+    
+# For Google Scholar Visibility
+# Add this to layouts/_default/_markup/render-link.html to include publication PDFs:
+# 
+# html
+# {{ if eq .Page.Type "publications" }}
+#   <url>
+#     <loc>{{ .Page.Params.url_pdf | absURL }}</loc>
+#     <lastmod>{{ .Page.Lastmod.Format "2006-01-02" }}</lastmod>
+#   </url>
+# {{ end }}
