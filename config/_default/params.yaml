@@ -15,9 +15,9 @@ appearance:
 
 marketing:
   seo:
-    site_type: ResearchOrganization
+    site_type: Person
     local_business_type: 'MedicalBusiness'
-    org_name: 'DataHealth Lab'
+    org_name: 'Otavio Ranzani'
     description: >
         Otavio Ranzani's research group at IR SANT PAU, Barcelona. 
         Advancing health through epidemiology, data science, 
@@ -88,7 +88,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/DataHealth-Lab/groupwebsite_develop'
     content_dir: content
     branch: main
   avatar:
