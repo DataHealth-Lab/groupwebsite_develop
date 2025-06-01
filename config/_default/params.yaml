@@ -15,11 +15,15 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    site_type: ResearchOrganization
+    local_business_type: 'MedicalBusiness'
+    org_name: 'DataHealth Lab'
+    description: >
+        "Otavio Ranzani's research group at IR SANT PAU Barcelona: 
+        Advancing health through data science, clinical epidemiology, 
+        and implementation research. Focused on ['antimicrobial resistance', 
+        'climate health', 'AI', 'vaccine', 'pneumonia']."
+    twitter: 'otavio_ranzani'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -28,7 +32,18 @@ marketing:
   verification:
     google: ''
     baidu: ''
-
+    bing: ''
+  # priority_pages: 
+  #   - "/publications/"
+  #   - "/research/"
+  #   - "/projects/"
+  #   - "/team/"
+  # keyword_strategy:
+  #   primary: "health data science"
+  #   secondary: ["medical AI", "pneumonia", "climate", "vaccine"]
+  # scholar: "fXwnz6AAAAAJ&hl"  # For citation tracking
+  # orcid: "0000-0002-4677-6862"  # Principal investigator's ORCID
+  
 # Site header
 
 header:

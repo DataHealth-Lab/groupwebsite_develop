@@ -75,7 +75,10 @@ sections:
       title:
       subtitle:
       text: |
+        <div style="display: flex; justify-content: center; gap: 1rem;">
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./research/" cta_text="We’re working on →" %}}
+        {{% cta cta_link="./join/" cta_text="Join Us →" %}}
     design:
       columns: '1'
 ---
