@@ -45,8 +45,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:oranzani@santpau.cat'
-  - icon: icons/custom/bluesky
-    # icon_pack: fab
+  - icon: bluesky
+    icon_pack: fab
     link: https://bsky.app/profile/otavioranzani.bsky.social
   - icon: twitter
     icon_pack: fab
