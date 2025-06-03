@@ -6,10 +6,12 @@
 # Appearance
 
 appearance:
+  mode: system
   theme_day: minimal
-  theme_night:
+  theme_night: dark
   font: native
   font_size: L
+
 
 # SEO
 
@@ -48,6 +50,7 @@ marketing:
 header:
   navbar:
     enable: true
+    # block: my-navbar
     align: r
     show_logo: true
     show_language: false
@@ -55,6 +58,8 @@ header:
     show_search: true
     highlight_active_link: false
     show_theme_chooser: true
+    # logo:
+    #   image: "/assets/media/icon.jpg"
 
 
 # Site footer
@@ -79,7 +84,9 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    theme_light: github-light
+    theme_dark: github-dark
+    enable: true
     extra_languages:
       - r
       - latex
