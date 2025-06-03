@@ -50,7 +50,7 @@ marketing:
 header:
   navbar:
     enable: true
-    # block: my-navbar
+    # blox: my-navbar
     align: r
     show_logo: true
     show_language: false
