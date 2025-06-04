@@ -19,7 +19,7 @@ authors:
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
-doi: "10.1136/bmj.n2015"
+doi: "10.1016/S1473-3099(19)30518-3"
 add_badge: true
 
 featured: true

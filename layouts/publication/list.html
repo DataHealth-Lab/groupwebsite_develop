@@ -4,10 +4,7 @@
   {{ range .Pages }}
     <div class="publication-item">
       {{ partial "li_citation.html" . }}
-      {{ partial "altmetric_badge.html" . }}
+      <!-- No badges here -->
     </div>
   {{ end }}
-
-  {{/* Load the Altmetric embed.js script ONCE after all badges */}}
-  <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 {{ end }}
