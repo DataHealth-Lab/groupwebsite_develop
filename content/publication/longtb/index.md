@@ -1,16 +1,24 @@
 ---
-title: "An example journal article"
+title: "Long-term survival and cause-specific mortality of patients newly diagnosed with tuberculosis in São Paulo state, Brazil, 2010-15: a population-based, longitudinal study"
 authors:
-- admin
-- Robert Ford
+- Otavio T Ranzani
+- Laura C Rodrigues
+- Sidney Bombarda
+- Cátia M Minto
+- Eliseu A Waldman
+- Carlos R R Carvalho
+
+publication: "**The Lancet Infectious Diseases**, *20*(1):123-132. <a href='https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30518-3/fulltext' target='_blank' rel='noopener noreferrer'>10.1016/S1473-3099(19)30518-3</a>"
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2020-01-20"
+doi: "10.1016/S1473-3099(19)30518-3"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-06-02"
+
+external_link: "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30518-3/fulltext"
+
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,36 +26,31 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+math: true
+
+links: 
+ - name: PDF
+   url: "https://www.thelancet.com/action/showPdf?pii=S1473-3099%2819%2930518-3"
+ - name: Supplemental Material
+   url: "https://www.thelancet.com/cms/10.1016/S1473-3099(19)30518-3/attachment/afe38ac9-910f-428c-aba9-0318eb43d09c/mmc1.pdf"
+ - name: Editorial
+   url: "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30583-3/fulltext"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -61,7 +64,12 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
+
+add_badge: true
+
+featured: true
+
 ---
 
 {{% callout note %}}
