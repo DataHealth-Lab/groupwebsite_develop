@@ -19,13 +19,12 @@ authors:
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
-
+doi: 10.1136/bmj.n2015
 add_badge: true
 
-featured: true
+featured: false
 
 date: "2020-01-20"
-doi: "10.1016/S1473-3099(19)30518-3"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-02"
