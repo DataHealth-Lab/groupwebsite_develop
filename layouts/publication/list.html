@@ -1,10 +1,13 @@
 {{ define "main" }}
   <h1>Publication List</h1>
 
-  {{ range .Pages }}
+  {{ $filtered := where .Pages "Params.publication_types" "intersect" (slice "article-journal") }}
+  {{ $sorted := sort $filtered "Date" "desc" }}
+
+  {{ range $sorted }}
     <div class="publication-item">
       {{ partial "li_citation.html" . }}
-      <!-- No badges here -->
+      {{ partial "altmetric_badge.html" . }}
     </div>
   {{ end }}
 {{ end }}
