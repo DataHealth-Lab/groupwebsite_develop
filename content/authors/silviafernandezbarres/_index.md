@@ -1,47 +1,47 @@
 ---
 # Display name
-title: Valdirene Siqueira
+title: Silvia Fernandez-Barres
 
 # Full name (for SEO)
-first_name: Valdirene
-last_name: Siqueira
+first_name: Silvia
+last_name: Fernandez-Barres
 
 avatar_filename: avatar.jpg
 
 # Username (this should match the folder name)
 authors:
-  - valdirenesiqueira
+  - silviafernandez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc Student
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: ISGlobal / UB
+  - name: Agència de Salut Pública de Barcelona (ASPB) 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-# 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
-# 
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+interests:
+  - Nutrition
+  - Public Health
+  - Interventions
+
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,13 +50,13 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: linkedin
+    link: 'mailto:sfernand@aspb.cat'
+  - icon: twitter
     icon_pack: fab
-    link: https://www.linkedin.com/in/valdirene-siqueira-459924213/
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/GeorgeCushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=hxEoytsAAAAJ&hl
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
@@ -73,5 +73,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-weight: 4
+weight: 2
 ---
+
+Sivia. TBF

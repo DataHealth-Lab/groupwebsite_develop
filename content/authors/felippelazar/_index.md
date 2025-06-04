@@ -7,9 +7,6 @@ first_name: Felippe
 last_name: Lazar
 
 avatar_filename: avatar.jpg
-avatar: 
-  url: https://avatars.githubusercontent.com/u/9045109?v=4  # Direct URL to the image
-  local: false
 # Username (this should match the folder name)
 authors:
   - felippelazar
@@ -29,9 +26,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Oncology
+  - AI
+  - Public Health
 
 education:
   courses:
@@ -75,8 +72,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+weight: 3
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+TBF
