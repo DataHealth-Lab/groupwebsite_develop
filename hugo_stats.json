@@ -48,6 +48,7 @@
       "alert",
       "alert-note",
       "align-items-center",
+      "altmetric-embed",
       "article",
       "article-banner",
       "article-container",
@@ -289,6 +290,7 @@
       "pub-icon",
       "pub-list-item",
       "pub-row-heading",
+      "pubtype-0",
       "pubtype-article",
       "pubtype-article-journal",
       "pubtype-paper-conference",
@@ -343,6 +345,7 @@
       "wg-people",
       "wg-portfolio",
       "wg-slider",
+      "year-0001",
       "year-2013",
       "year-2019",
       "year-2020"
