@@ -38,6 +38,11 @@ links:
    url: "https://www.thelancet.com/cms/10.1016/S1473-3099(19)30518-3/attachment/afe38ac9-910f-428c-aba9-0318eb43d09c/mmc1.pdf"
  - name: Editorial
    url: "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30583-3/fulltext"
+ - name: Media
+   url: "https://jornal.usp.br/ciencias/ciencias-da-saude/quais-sao-os-caminhos-para-vencer-a-tuberculose-resistente/"
+ # - name: Radio
+ #   url: "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30583-3/fulltext"
+
 
 math: true
 
