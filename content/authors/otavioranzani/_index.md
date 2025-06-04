@@ -1,13 +1,9 @@
 ---
 # Display name
-title: Otavio Ranzani
-
-# Full Name (for SEO)
-first_name: Otavio
-last_name: Ranzani
+title: Ranzani OT
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Group Leader
@@ -73,15 +69,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-weight: 1
+  - Visitors
 ---
-
-I am a scientist with a far-reaching understanding of current societal health issues, with a robust methodological reasoning and international experience. I completed my medical degree (summa cum laude, 2008) and clinical training (2014) in Brazil. In 2015, I obtained a MSc in Epidemiology from the London School of Hygiene & Tropical Medicine, UK (LSHTM, Distinction) and, in 2018, my PhD from the University of São Paulo (USP) in collaboration with the LSHTM.
-
-
-My research is centred on utilizing data to assess disease mechanisms and provide real-world evidence. I integrate causal inference, exposome concepts, and advanced research methods into my work. I am highly committed to open science, creating public repository with shared code and data on github. I view science as a social construct essential for enhancing and promoting the health and well-being of individuals.
-
-In 2016 I completed a Research Fellowship at the Hospital Clinic, Spain, followed by a postdoctoral position at the ISGlobal until 2021, when I was promoted to Assistant Professor.
-
-My direct contribution to science has been substantial. 

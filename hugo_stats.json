@@ -61,6 +61,7 @@
       "article-title",
       "article-widget",
       "author-card",
+      "author-highlighted",
       "author-notes",
       "avatar",
       "avatar-circle",
@@ -343,7 +344,6 @@
       "wg-portfolio",
       "wg-slider",
       "year-2013",
-      "year-2015",
       "year-2019",
       "year-2020"
     ],
