@@ -342,6 +342,7 @@
     ],
     "ids": [
       "container-publications",
+      "doctoral-thesis",
       "map",
       "map-api-key",
       "map-dir",
@@ -356,6 +357,7 @@
       "page-data",
       "person-address",
       "person-email",
+      "professional-experience",
       "profile",
       "profile-page",
       "projects",
