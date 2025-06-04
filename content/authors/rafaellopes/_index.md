@@ -50,7 +50,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:lopes1313@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -89,3 +89,8 @@ I do Science communication, mainly in Portuguese:
 * [O "fim" da história e o Homem final](https://www.blogs.unicamp.br/covid-19/o-fim-da-historia-e-o-homem-final/)
 * [600 dias e um desabafo: as pessoas são sempre maiores que as estatísticas](https://www.blogs.unicamp.br/covid-19/600-dias-e-um-desabafo-as-pessoas-sao-sempre-maiores-que-as-estatisticas/)
 * [Ciência, o que é e como utilizar: receitas práticas para uma pandemia moderna](https://www.blogs.unicamp.br/covid-19/ciencia-o-que-e-e-como-utilizar/)
+
+
+<p><strong>Phd output:</strong><br>
+<a href="https://journals.lww.com/environepidem/fulltext/2025/02000/ambient_temperature_and_dengue_hospitalization_in.4.aspx" target="_blank">"Ambient temperature and dengue hospitalization in Brazil: A 10-year period case time series analysis"</a>
+</p>
