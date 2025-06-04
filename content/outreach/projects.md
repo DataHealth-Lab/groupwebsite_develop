@@ -6,7 +6,7 @@ active = true # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "We promote our science to society"
-subtitle = ""
+subtitle = "selected outreach from the group"
 
 [content]
   # Page type to display. E.g. project.
