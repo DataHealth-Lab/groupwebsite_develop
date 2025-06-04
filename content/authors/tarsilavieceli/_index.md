@@ -27,9 +27,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Infectious Disease
+  - Epidemiology
+  - HIV/ISTs
 
 education:
   courses:
@@ -75,6 +75,6 @@ user_groups:
   - Alumni
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<p><strong>Fellow output:</strong><br>
+<a href="https://linkinghub.elsevier.com/retrieve/pii/S0033-3506(24)00427-X" target="_blank">"The burden, clinical features and outcomes of SARS-CoV-2, Influenza and co-infections during concurrently out-of-season outbreaks in Brazil"</a>
+</p>
