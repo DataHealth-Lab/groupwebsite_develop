@@ -1,7 +1,6 @@
 ---
 title: About
 date: 2022-10-24
-
 type: landing
 
 sections:
@@ -11,10 +10,10 @@ sections:
       subtitle: "Emerging group"
       text: |
         - Group / PI
-        - Through academic channels (Nature Careers, EURAXESS)
         - Values
     design:
       columns: '1'
+  
   - block: markdown
     content:
       title: "IR Sant Pau"
@@ -25,25 +24,13 @@ sections:
     design:
       columns: '1'
 
-
-
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      text: |
+        ![Sant Pau Logo](logo_santpau.png)
     design:
       columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
       spacing:
-        padding: ['10px', '0', '10px', '0']
-      css_class: fullscreen
+        padding: ['20px', '20px', '20px', '20px']
+      css_class: text-center
 ---
