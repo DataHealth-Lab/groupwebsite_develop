@@ -24,6 +24,8 @@ add_badge: true
 
 featured: true
 
+tags: ["Tuberculosis","post-infection","respiratory"]
+
 date: "2020-01-20"
 
 # Schedule page publish date (NOT publication's date).
@@ -49,6 +51,4 @@ math: true
 projects: []
 
 slides: example
-
-tags: []
 ---
