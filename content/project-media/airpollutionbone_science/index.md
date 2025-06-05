@@ -1,8 +1,7 @@
 ---
 title: Novelty in Air Pollution
 summary: ""
-tags:
-- Journals
+tags: []
 date: "2024-07-26"
 
 # Optional external URL for project (replaces project detail page).

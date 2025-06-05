@@ -1,8 +1,7 @@
 ---
 title: Day of Science
 summary: ""
-tags:
-- Press
+tags: []
 date: "2022-07-19"
 
 # Optional external URL for project (replaces project detail page).
