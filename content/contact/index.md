@@ -23,13 +23,14 @@ sections:
       subtitle: "Seeking motivated researchers!"
       text: |
         If you're interested in applying for your own funding (fellowships, postdoc or PhD), we <span style="color: #2a5c99; font-weight: 600;">welcome your initiative</span>.<br> 
-        At <span style="color: #d32f2f; font-weight: 600;">IR SANT PAU</span>, we provide full institutional support to secure your fellowship and accelerate your research career.
+        At <span style="color: #d32f2f; font-weight: 600;">IR SANT PAU</span>, we provide full institutional support to secure your fellowship and accelerate your research career. Please, [email](mailto:oranzani@santpau.cat) me.
     design:
       columns: '1'
 
   - block: contact
     content:
       title: Visit us
+      subtitle: ":recycle: The IR building received LEED Gold certification from the U.S. Green Building Council for its sustainability :seedling:"
       text: |-
       email: labdatahealth at gmail dot com
       address:
