@@ -55,7 +55,7 @@ social:
     link: https://www.linkedin.com/in/felippe-lazar-neto-990249118
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=uwtPoPcAAAAJ&hl
   - icon: github
     icon_pack: fab
     link: https://github.com/felippelazar

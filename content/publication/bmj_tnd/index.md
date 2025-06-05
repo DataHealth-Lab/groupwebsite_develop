@@ -65,5 +65,5 @@ projects: []
 
 slides: example
 
-tags: ["pneumonia","vaccine","covid", "respiratory"]
+categories: ["pneumonia","vaccine","covid", "respiratory"]
 ---

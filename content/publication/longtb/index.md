@@ -24,7 +24,7 @@ add_badge: true
 
 featured: true
 
-tags: ["Tuberculosis","post-infection","respiratory"]
+categories: ["Tuberculosis","post-infection","respiratory"]
 
 date: "2020-01-20"
 

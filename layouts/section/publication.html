@@ -52,10 +52,10 @@
         </div>
 
         <div class="col-auto">
-          <select class="pub-filters pubtag-select form-control form-control-sm" data-filter-group="tag">
-            <option value="*">Tags</option>
-            {{ range $tag, $taxonomy := site.Taxonomies.tags }}
-            <option value=".tag-{{ $tag | urlize }}">{{ $tag }}</option>
+          <select class="pub-filters pubtag-select form-control form-control-sm" data-filter-group="category">
+            <option value="*">Keyword</option>
+            {{ range $tag, $taxonomy := site.Taxonomies.categories }}
+            <option value=".category-{{ $tag | urlize }}">{{ $tag }}</option>
             {{ end }}
           </select>
         </div>
@@ -71,7 +71,7 @@
             {{ $.Scratch.Set "pubtype" 0 }}
           {{ end }}
 
-          <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }} {{ range .Params.tags }}tag-{{ . | urlize }} {{ end }}">
+          <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }} {{ range .Params.categories }}category-{{ . | urlize }} {{ end }}">
             {{ partial "li_citation.html" . }}
           </div>
 
