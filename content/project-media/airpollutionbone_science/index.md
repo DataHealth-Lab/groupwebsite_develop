@@ -29,4 +29,4 @@ url_video: ""
 # slides: example
 ---
 
-Otavio Ranzani is interviewed for the Science special issue on Air Pollution about his new findings on the effect of air pollution on bone health.
+Otavio Ranzani is interviewed for the **Science** special issue on Air Pollution about his new findings on the effect of air pollution on bone health.
