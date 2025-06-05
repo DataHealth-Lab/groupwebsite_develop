@@ -20,12 +20,12 @@ sections:
       background:
         image:
           filename: ocean_climatechange_ianward.jpeg
-          caption: Ian Ward
         image_darken: 0.4
         color: "#000000"
         position: center
         size: cover
       spacing:
         padding: ["5rem", "5rem", "5rem", "18rem"]  # top, right, bottom, left
-      height: "75vh"
+      height: "auto"
+      alignment: center
 ---
