@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>Publication List</h1>
+
+  {{ $filtered := where .Pages "Params.publication_types" "intersect" (slice "article-journal") }}
+  {{ $sorted := sort $filtered "Date" "desc" }}
+
+  {{ range $sorted }}
+    <div class="publication-item">
+      {{ partial "li_citation.html" . }}
+    </div>
+  {{ end }}
+{{ end }}
