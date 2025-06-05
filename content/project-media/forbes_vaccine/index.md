@@ -1,7 +1,7 @@
 ---
 title: The World's Vaccine Capital
 summary: ""
-tags: []
+categories: ['Press']
 date: "2022-01-23"
 
 # Optional external URL for project (replaces project detail page).

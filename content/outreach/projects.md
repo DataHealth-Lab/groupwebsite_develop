@@ -23,19 +23,19 @@ subtitle = "selected outreach from the group"
   
    [[content.filter_button]]
      name = "All"
-     tag = "*"
+     category = "*"
   
    [[content.filter_button]]
      name = "Press"
-     tag = "Press"
+     category = "Press"
   
    [[content.filter_button]]
      name = "Journals"
-     tag = "Journals"
+     category = "Journals"
   
    [[content.filter_button]]
      name = "Radio"
-     tag = "Radio"
+     category = "Radio"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
