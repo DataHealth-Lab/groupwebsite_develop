@@ -19,6 +19,15 @@
     {{ end }}
   </div>
 
+{{ with .Params.tags }}
+  <div class="publication-tags">
+    {{ range . }}
+      <span class="badge badge-secondary">{{ . }}</span>
+    {{ end }}
+  </div>
+{{ end }}
+
+
   <!-- RIGHT SIDE: badges -->
   {{ if and .Params.add_badge .Params.doi }}
     <div class="ml-3 d-flex flex-column align-items-center">

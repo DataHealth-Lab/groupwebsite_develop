@@ -28,6 +28,10 @@ authors:
 - "Ko AI"
 - "Croda J"
 
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
@@ -61,5 +65,5 @@ projects: []
 
 slides: example
 
-tags: []
+tags: ["pneumonia","vaccine","covid", "respiratory"]
 ---
