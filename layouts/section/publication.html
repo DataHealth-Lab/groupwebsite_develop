@@ -53,7 +53,7 @@
 
         <div class="col-auto">
           <select class="pub-filters pubtag-select form-control form-control-sm" data-filter-group="tag">
-            <option value="*">{{ i18n "tags" }}</option>
+            <option value="*">Tags</option>
             {{ range $tag, $taxonomy := site.Taxonomies.tags }}
             <option value=".tag-{{ $tag | urlize }}">{{ $tag }}</option>
             {{ end }}
