@@ -11,7 +11,7 @@ external_link: "https://www.forbes.com/sites/christinero/2022/01/23/how-so-paulo
 image:
   caption: "vaccine"
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   url: "https://specials-images.forbesimg.com/imageserve/61ed3ce3f36b400a1b4cef6b/Two-men-in-a-car-with-the-windows-down--One-is-receiving-an-injection-in-his-arm-/960x0.jpg"
 
 #links:
