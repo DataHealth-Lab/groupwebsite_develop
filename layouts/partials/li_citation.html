@@ -9,7 +9,7 @@
         {{ partial "page_metadata_authors" . }}
       </span>
       ({{ .Date.Format "2006" }}).
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+      <span class="citation-title">{{ .Title }}</span>.
       {{ if .Params.publication_short }}
         {{ .Params.publication_short | markdownify }}.
       {{ else if .Params.publication }}

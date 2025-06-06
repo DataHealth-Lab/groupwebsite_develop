@@ -41,6 +41,16 @@
     {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   {{ end }}
 
+{{ $img_url := $item.Params.image.url }}
+{{ if and $img_url (strings.HasPrefix $img_url "http") }}
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+    <div class="img-hover-zoom">
+      <img src="{{ $img_url }}"
+           class="article-banner-card"
+           alt="{{ $item.Title }}" loading="lazy">
+    </div>
+  </a>
+{{ else }}
   {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
   {{ with $resource }}
@@ -49,10 +59,12 @@
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
       <div class="img-hover-zoom">
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-            class="article-banner-card" alt="{{ $item.Title }}" loading="lazy">
+             class="article-banner-card" alt="{{ $item.Title }}" loading="lazy">
       </div>
     </a>
-  {{end}}
+  {{ end }}
+{{ end }}
+
 
   <div class="section-subheading article-title mb-1 mt-3">
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
