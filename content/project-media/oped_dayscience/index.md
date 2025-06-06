@@ -1,6 +1,6 @@
 ---
 title: Day of Science
-summary: ""
+summary: "Invited as guest columnist for Brazil's **Day of Science** in a leading national journal, contributing the Op-Ed 'Without Science, Rebuilding Brazil Is Impossible'"
 tags: ['Press']
 date: "2022-07-19"
 
@@ -9,9 +9,8 @@ external_link: "https://www1.folha.uol.com.br/colunas/karla-monteiro/2022/07/sem
 
 image:
   caption: "science"
-  focal_point: Center
-  placement: 1 # Makes it full-width
-  preview_only: false
+  focal_point: smart
+  preview_only: true
 
 
 #links:
@@ -31,5 +30,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-Invited as guest columnist for Brazil's Day of Science in a leading national journal, contributing the Op-Ed 'Without Science, Rebuilding Brazil Is Impossible'

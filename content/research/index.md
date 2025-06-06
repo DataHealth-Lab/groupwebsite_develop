@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research & Initiatives
 subtitle: Where we look for challenges to solve
 
 type: landing

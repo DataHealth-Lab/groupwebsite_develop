@@ -1,6 +1,7 @@
 ---
 title: Novelty in Air Pollution
-summary: ""
+summary: "
+Otavio Ranzani is interviewed for the **Science** special issue on Air Pollution about his new findings on the effect of air pollution on bone health."
 tags: ['Journals']
 date: "2024-07-26"
 
@@ -8,8 +9,8 @@ date: "2024-07-26"
 external_link: "https://www.science.org/content/article/breathing-polluted-air-increases-risk-osteoporosis-growing-evidence-shows"
 
 image:
-  caption: "science"
-  focal_point:
+  caption: Science cover air pollution
+  focal_point: smart
 
 #links:
 #- icon: twitter
@@ -28,5 +29,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-Otavio Ranzani is interviewed for the **Science** special issue on Air Pollution about his new findings on the effect of air pollution on bone health.

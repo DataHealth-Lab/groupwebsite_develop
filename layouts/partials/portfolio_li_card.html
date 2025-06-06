@@ -1,0 +1,56 @@
+{{ $item := .item }}
+{{ $widget := .widget }}
+
+{{ $link := .link }}
+{{ $target := .target }}
+
+{{/* Get summary. */}}
+{{ $summary := "" }}
+{{ if $item.Params.summary }}
+  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ else if .Params.abstract }}
+  {{ $summary = .Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+{{ else if $item.Summary }}
+  {{ $summary = $item.Summary }}
+{{ end }}
+
+{{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+{{ $img_url := "" }}
+{{ $img_lq_url := "" }}
+
+{{ if $item.Params.image.url }}
+  {{ $img_url = $item.Params.image.url }}
+{{ else if $resource }}
+  {{ $filters := slice (images.GaussianBlur 21) (images.Pixelate 8) }}
+  {{ $image := $resource.Resize "550x" }}
+  {{ $image_lq := ($resource.Resize "550x q1").Filter $filters }}
+  {{ $img_url = $image.RelPermalink }}
+  {{ $img_lq_url = $image_lq.RelPermalink }}
+{{ end }}
+
+{{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
+
+<div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
+  <div class="card">
+
+    {{ if $img_url }}
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
+        {{ if $item.Params.image.url }}
+          <img src="{{ $img_url }}" alt="{{ $item.Title }}" class="img-responsive">
+        {{ else }}
+          <img src="{{ $img_lq_url }}" data-src="{{ $img_url }}" alt="{{ $item.Title }}" class="img-responsive lazyload">
+        {{ end }}
+      </a>
+    {{ end }}
+
+    <div class="card-text">
+      <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
+      {{ with $summary }}
+        <div class="article-style">
+          <p>{{ . }}</p>
+        </div>
+      {{ end }}
+    </div>
+
+  </div>
+</div>

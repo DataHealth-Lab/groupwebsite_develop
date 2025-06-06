@@ -1,6 +1,7 @@
 ---
 title: The World's Vaccine Capital
-summary: ""
+summary: "
+Interview for **The Forbes** on the successful COVID-19 campaign vaccination in São Paulo."
 tags: ['Press']
 date: "2022-01-23"
 
@@ -9,7 +10,7 @@ external_link: "https://www.forbes.com/sites/christinero/2022/01/23/how-so-paulo
 
 image:
   caption: "vaccine"
-  focal_point: Center
+  focal_point: Smart
   preview_only: true
   url: "https://specials-images.forbesimg.com/imageserve/61ed3ce3f36b400a1b4cef6b/Two-men-in-a-car-with-the-windows-down--One-is-receiving-an-injection-in-his-arm-/960x0.jpg"
 
@@ -30,5 +31,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-Interview for **The Forbes** on the successful COVID-19 campaign vaccination in São Paulo.
