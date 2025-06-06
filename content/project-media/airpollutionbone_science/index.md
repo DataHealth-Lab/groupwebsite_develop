@@ -11,6 +11,7 @@ external_link: "https://www.science.org/content/article/breathing-polluted-air-i
 image:
   caption: Science cover air pollution
   focal_point: smart
+  full_image: true
 
 #links:
 #- icon: twitter

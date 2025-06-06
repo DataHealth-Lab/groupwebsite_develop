@@ -1,6 +1,5 @@
 {{ $item := .item }}
 {{ $widget := .widget }}
-
 {{ $link := .link }}
 {{ $target := .target }}
 
@@ -14,29 +13,35 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-{{/* Try remote image first */}}
+{{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
+
+{{/* Detect if full image is requested */}}
+{{ $full := or ($item.Params.full_image | default false) false }}
+{{ $img_width := cond $full "1024x" "550x" }}
+
+{{/* Get image */}}
 {{ $img_url := "" }}
-{{ with $item.Params.image.url }}
-  {{ $img_url = . }}
+{{ $is_external := false }}
+
+{{ if $item.Params.image.url }}
+  {{ $img_url = $item.Params.image.url }}
+  {{ $is_external = true }}
 {{ else }}
   {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
   {{ if $resource }}
-    {{ $filters := slice (images.GaussianBlur 21) (images.Pixelate 8) }}
-    {{ $image := $resource.Resize "550x" }}
-    {{ $image_lq := ($resource.Resize "550x q1").Filter $filters }}
+    {{ $image := $resource.Resize $img_width }}
     {{ $img_url = $image.RelPermalink }}
-    {{ $img_lq_url := $image_lq.RelPermalink }}
   {{ end }}
 {{ end }}
 
-{{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
 
 <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
   <div class="card">
-
     {{ if $img_url }}
       <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
-        <img src="{{ $img_url }}" alt="{{ $item.Title }}" class="img-responsive">
+        <img src="{{ $img_url }}" alt="{{ $item.Title }}"
+             class="img-responsive {{ if not $full }}thumbnail{{ end }}"
+             style="{{ if not $full }}max-height: 200px; object-fit: cover;{{ end }}">
       </a>
     {{ end }}
 
@@ -48,6 +53,5 @@
         </div>
       {{ end }}
     </div>
-
   </div>
 </div>

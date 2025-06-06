@@ -10,6 +10,7 @@ external_link: "https://www1.folha.uol.com.br/colunas/karla-monteiro/2022/07/sem
 image:
   caption: "science"
   focal_point: smart
+  full_image: true
 
 #links:
 #- icon: twitter
