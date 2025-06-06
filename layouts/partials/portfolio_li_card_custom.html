@@ -15,33 +15,37 @@
 
 {{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
 
-{{/* Detect if full image is requested */}}
+{{/* Detect full image display request */}}
 {{ $full := or ($item.Params.full_image | default false) false }}
-{{ $img_width := cond $full "1024x" "550x" }}
 
-{{/* Get image */}}
+{{/* Get image URL */}}
 {{ $img_url := "" }}
-{{ $is_external := false }}
+{{ $img_classes := "img-responsive" }}
 
 {{ if $item.Params.image.url }}
+  {{/* External image */}}
   {{ $img_url = $item.Params.image.url }}
-  {{ $is_external = true }}
 {{ else }}
+  {{/* Try to get local image from resources */}}
   {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
   {{ if $resource }}
-    {{ $image := $resource.Resize $img_width }}
-    {{ $img_url = $image.RelPermalink }}
+    {{ $img_url = $resource.RelPermalink }}
   {{ end }}
 {{ end }}
 
+{{/* Image styling */}}
+{{ if not $full }}
+  {{ $img_classes = print $img_classes " thumbnail" }}
+{{ end }}
 
 <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
   <div class="card">
+
     {{ if $img_url }}
       <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
         <img src="{{ $img_url }}" alt="{{ $item.Title }}"
-             class="img-responsive {{ if not $full }}thumbnail{{ end }}"
-             style="{{ if not $full }}max-height: 200px; object-fit: cover;{{ end }}">
+             class="{{ $img_classes }}"
+             style="{{ if not $full }}max-height: 200px; object-fit: cover; width: 100%;{{ end }}">
       </a>
     {{ end }}
 
@@ -53,5 +57,6 @@
         </div>
       {{ end }}
     </div>
+
   </div>
 </div>
