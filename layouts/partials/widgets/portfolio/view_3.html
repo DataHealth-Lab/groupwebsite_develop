@@ -1,7 +1,0 @@
-{{ $page := .page }}
-{{ $widget := .widget }}
-{{ range $item := $widget.Pages }}
-  {{ $link := $item.Params.external_link | default $item.RelPermalink }}
-  {{ $target := cond (isset $item.Params "external_link") `target="_blank" rel="noopener"` "" }}
-  {{ partial "portfolio_li_card_custom.html" (dict "item" $item "widget" $widget "link" $link "target" $target) }}
-{{ end }}

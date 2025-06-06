@@ -23,7 +23,7 @@ bio: I am an epidemiologist.
 interests:
   - Respiratory Infections
   - Critical Care
-  - Enviroment
+  - Environment
 
 education:
   courses:
