@@ -39,7 +39,7 @@
 
         <div class="col-auto">
           <select class="pub-filters form-control form-control-sm" data-filter-group="year">
-            <option value="*">{{ i18n "date" }}</option>
+            <option value="*">Year</option>
             {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
             {{ if $years_sorted }}
               {{ range $year := sort $years_sorted "" "desc" }}

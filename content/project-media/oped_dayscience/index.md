@@ -1,6 +1,6 @@
 ---
 title: Day of Science
-summary: "Invited as guest columnist for Brazil's **Day of Science** in a leading national journal, contributing the **Op-Ed** 'Without Science, Rebuilding Brazil Is Impossible'"
+summary: "Invited as guest for Brazil's Day of Science in a leading journal— with the **Op-Ed** 'Without Science, Rebuilding Brazil Is Impossible.'"
 tags: ['Press']
 date: "2022-07-19"
 
