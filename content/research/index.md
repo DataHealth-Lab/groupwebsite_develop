@@ -39,7 +39,7 @@ sections:
             <div class="col-md-6 mb-4">
               <div class="card">
                 <a href="link1">
-                  <img src="/media/chicken_amazon.jpg" alt="critica care ICU" class="card-img-top"  style="height: 270px; object-fit: cover;">
+                  <img src="/media/chicken_amazon.jpg" alt="critical care ICU" class="card-img-top"  style="height: 400px; object-fit: cover;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Critical Care Science & Innovation</h5>
                   </div>
@@ -50,7 +50,7 @@ sections:
             <div class="col-md-6 mb-4">
               <div class="card">
                 <a href="link2">
-                  <img src="/media/ocean_climatechange_ianward.jpeg" alt="climate change" class="card-img-top"  style="height: 270px; object-fit: cover;">
+                  <img src="/media/ocean_climatechange_ianward.jpeg" alt="climate change" class="card-img-top"  style="height: 400px; object-fit: smart;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Climate Change & Environmental Stressors</h5>
                   </div>
@@ -61,7 +61,7 @@ sections:
             <div class="col-md-6 mb-4">
               <div class="card">
                 <a href="link3">
-                  <img src="/media/vacina_mare.jpg" alt="Project 3" class="card-img-top"  style="height: 270px; object-fit: cover;">
+                  <img src="https://live.staticflickr.com/65535/51614500271_3576a2364d_o.jpg" alt="Project 3" class="card-img-top"  style="height: 400px; object-fit: cover;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Infectious Diseases & Vaccines</h5>
                   </div>
@@ -72,9 +72,9 @@ sections:
             <div class="col-md-6 mb-4">
               <div class="card">
                 <a href="link4">
-                  <img src="/media/ocean_climatechange_ianward.jpeg" alt="Project 4" class="card-img-top"  style="height: 270px; object-fit: cover;">
+                  <img src="/media/ocean_climatechange_ianward.jpeg" alt="Project 4" class="card-img-top"  style="height: 400px; object-fit: cover;">
                   <div class="card-body">
-                    <h5 class="card-title text-center">Post-Acute Infection Outcomes & Chronic Manifestations</h5>
+                    <h5 class="card-title text-center">Post-Acute Infection & Chronic Manifestations</h5>
                   </div>
                 </a>
               </div>
