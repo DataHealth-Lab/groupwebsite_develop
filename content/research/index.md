@@ -12,7 +12,7 @@ sections:
           .banner-title, .banner-text {
             margin-left: 15rem;
             max-width: 600px;
-            color: white;
+            color: black;
           }
           /* Photo credit */
           .photo-credit {
@@ -25,10 +25,11 @@ sections:
           /* Mobile adjustments */
           @media (max-width: 768px) {
             .banner-title, .banner-text {
-              margin-left: 1rem !important;
+              margin-left: 5rem !important;
               max-width: 90vw;
               padding-right: 1rem;
               font-size: 1.2rem;
+              color: black !important; /* Make sure color stays black */
             }
             /* Adjust photo credit */
             .photo-credit {
