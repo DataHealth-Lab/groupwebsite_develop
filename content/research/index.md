@@ -6,75 +6,76 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: |
-        <style>
-          /* Default desktop styles */
-          .banner-title, .banner-text {
-            margin-left: 15rem;
-            max-width: 600px;
-            color: black;
-          }
-          /* Photo credit */
-          .photo-credit {
-            position: absolute;
-            bottom: -5rem;
-            right: -4.5rem;
-            font-size: 0.7rem;
-            color: #ccc;
-          }
-          /* Mobile */
-          @media (max-width: 768px) {
-            .banner-title, .banner-text {
-              margin-left: 5rem !important;
-              max-width: 90vw;
-              padding: 0.5rem 1rem; /* Top-bottom and left-right padding */
-              font-size: 1.15rem;
-              color: black !important;
-              line-height: 1.5; /* More line height for readability */
-              word-spacing: normal;
-            }
-            .banner-title {
-              font-weight: 600;
-              margin-bottom: 0.3rem;
-            }
-            .banner-text {
-              font-weight: 400;
-            }
-            .photo-credit {
-              bottom: -2rem;
-              right: 1rem;
-              font-size: 0.6rem;
-              color: rgba(0,0,0,0.5); /* softer black */
-              position: fixed; /* so it stays visible nicely */
-            }
-          }
-        </style>
-
-        <div class="banner-title">Where we think on challenges to solve</div>
       text: |
-        <div class="banner-text">
-          We explore critical health challenges through research and data.
-        </div>
-        <div class="photo-credit">
-          Photo by Ian Ward
-        </div>
-    design:
-      background:
-        image:
-          filename: ocean_climatechange_ianward.jpeg
-        image_darken: 0.4
-        color: "#000000"
-        position: center
-        size: cover
-      spacing:
-        padding: ["5rem", "3rem", "5rem", "3rem"]
-      height: "auto"
-      alignment: center
+        <div style="margin: 0; padding: 0;">
+          <img src="/media/banner_climatechange_ianward.jpg" alt="climate change banner" style="width: 100vw; max-width: 100%; height: auto; display: block; margin: 0 auto;"> 
+      # title: |
+      #   <style>
+      #     /* Default desktop styles */
+      #     .banner-title, .banner-text {
+      #       margin-left: 15rem;
+      #       max-width: 600px;
+      #       color: black;
+      #     }
+      #     /* Photo credit */
+      #     .photo-credit {
+      #       position: absolute;
+      #       bottom: -5rem;
+      #       right: -4.5rem;
+      #       font-size: 0.7rem;
+      #       color: #ccc;
+      #     }
+      #     /* Mobile */
+      #     @media (max-width: 768px) {
+      #       .banner-title, .banner-text {
+      #         margin-left: 5rem !important;
+      #         max-width: 90vw;
+      #         padding: 0.5rem 1rem; /* Top-bottom and left-right padding */
+      #         font-size: 1.15rem;
+      #         color: black !important;
+      #         line-height: 1.5; /* More line height for readability */
+      #         word-spacing: normal;
+      #       }
+      #       .banner-title {
+      #         font-weight: 600;
+      #         margin-bottom: 0.3rem;
+      #       }
+      #       .banner-text {
+      #         font-weight: 400;
+      #       }
+      #       .photo-credit {
+      #         bottom: -2rem;
+      #         right: 1rem;
+      #         font-size: 0.6rem;
+      #         color: rgba(0,0,0,0.5); /* softer black */
+      #         position: fixed; /* so it stays visible nicely */
+      #       }
+      #     }
+      #   </style>
+      # 
+      #   <div class="banner-title">Where we think on challenges to solve</div>
+      # text: |
+      #   <div class="banner-text">
+      #     We explore critical health challenges through research and data.
+      #   </div>
+      #   <div class="photo-credit">
+      #     Photo by Ian Ward
+      #   </div>
+    # design:
+    #   background:
+    #     image:
+    #       filename: banner_climatechange_ianward.jpg
+    #     image_darken: 0.4
+    #     color: "#000000"
+    #     position: center
+    #     size: contain
+    #   # height: "auto"
+    #   alignment: center
 
 
   - block: markdown
     content:
-      title: "Featured Projects"
+      title: "Research Areas"
       subtitle: "A curated selection"
       text: |
         <div class="container">

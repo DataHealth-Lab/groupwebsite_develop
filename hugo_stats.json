@@ -38,6 +38,7 @@
       "select",
       "span",
       "strong",
+      "style",
       "title",
       "ul"
     ],
@@ -71,6 +72,8 @@
       "avatar-circle",
       "badge",
       "badge-light",
+      "banner-text",
+      "banner-title",
       "bg-image",
       "bg-primary-200",
       "bg-primary-700",
