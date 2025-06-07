@@ -34,7 +34,7 @@ subtitle = "selected outreach from the group"
      tag = "Journals"
   
    [[content.filter_button]]
-     name = "Radio"
+     name = "Radio/TV"
      tag = "Radio"
 
 [design]
