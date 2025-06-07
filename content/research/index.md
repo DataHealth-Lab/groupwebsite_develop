@@ -34,7 +34,7 @@ sections:
             }
             /* Adjust photo credit */
             .photo-credit {
-              bottom: -2rem;
+              bottom: -1rem;
               right: 1rem;
             }
           }
@@ -104,7 +104,7 @@ sections:
                 <a href="link4">
                   <img src="/media/chicken_amazon.jpg" alt="Project 4" class="card-img-top"  style="height: 400px; object-fit: cover;">
                   <div class="card-body">
-                    <h5 class="card-title text-center">Post Infections & Chronic Diseases</h5>
+                    <h5 class="card-title text-center">Post-Infectious Syndromes</h5>
                   </div>
                 </a>
               </div>
