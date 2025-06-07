@@ -22,19 +22,30 @@ sections:
             font-size: 0.7rem;
             color: #ccc;
           }
-          /* Mobile adjustments */
+          /* Mobile */
           @media (max-width: 768px) {
             .banner-title, .banner-text {
               margin-left: 5rem !important;
               max-width: 90vw;
-              padding-right: 1rem;
-              font-size: 1.2rem;
-              color: black !important; /* Make sure color stays black */
+              padding: 0.5rem 1rem; /* Top-bottom and left-right padding */
+              font-size: 1.15rem;
+              color: black !important;
+              line-height: 1.5; /* More line height for readability */
+              word-spacing: normal;
             }
-            /* Adjust photo credit */
+            .banner-title {
+              font-weight: 600;
+              margin-bottom: 0.3rem;
+            }
+            .banner-text {
+              font-weight: 400;
+            }
             .photo-credit {
               bottom: -2rem;
               right: 1rem;
+              font-size: 0.6rem;
+              color: rgba(0,0,0,0.5); /* softer black */
+              position: fixed; /* so it stays visible nicely */
             }
           }
         </style>
