@@ -6,13 +6,44 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: '<div style="margin-left: 15rem;">Where we think on challenges to solve</div>'
-      text: |-
-        <div style="margin-left: 20rem;">
+      title: |
+        <style>
+          /* Default desktop styles */
+          .banner-title, .banner-text {
+            margin-left: 15rem;
+            max-width: 600px;
+            color: white;
+          }
+          /* Photo credit */
+          .photo-credit {
+            position: absolute;
+            bottom: -5rem;
+            right: -4.5rem;
+            font-size: 0.7rem;
+            color: #ccc;
+          }
+          /* Mobile adjustments */
+          @media (max-width: 768px) {
+            .banner-title, .banner-text {
+              margin-left: 1rem !important;
+              max-width: 90vw;
+              padding-right: 1rem;
+              font-size: 1.2rem;
+            }
+            /* Adjust photo credit */
+            .photo-credit {
+              bottom: -2rem;
+              right: 1rem;
+            }
+          }
+        </style>
+
+        <div class="banner-title">Where we think on challenges to solve</div>
+      text: |
+        <div class="banner-text">
           We explore critical health challenges through research and data.
         </div>
-
-        <div class="photo-credit" style="position: absolute; bottom: -5rem; right: -4.5rem; font-size: 0.7rem; color: #ccc;">
+        <div class="photo-credit">
           Photo by Ian Ward
         </div>
     design:
@@ -27,6 +58,7 @@ sections:
         padding: ["5rem", "3rem", "5rem", "3rem"]
       height: "auto"
       alignment: center
+
 
   - block: markdown
     content:
