@@ -65,5 +65,5 @@ projects: []
 
 slides: example
 
-categories: ["pneumonia","vaccine","covid", "respiratory"]
+categories: ["vaccine","covid"]
 ---

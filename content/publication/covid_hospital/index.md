@@ -29,7 +29,7 @@ add_badge: true
 
 featured: true
 
-categories: ["Tuberculosis","post-infection","respiratory"]
+categories: ['covid',"health system"]
 
 date: "2020-01-20"
 
