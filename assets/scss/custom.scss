@@ -39,5 +39,24 @@
   letter-spacing: 0.02em;
   text-decoration: none;       /* No underline */
 }
-
+@media (max-width: 768px) {
+  /* Reduce padding on small/mobile screens */
+  .landing-section .markdown-block {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  /* Optional: reduce font size for the title/text */
+  .landing-section .markdown-block h1,
+  .landing-section .markdown-block h2 {
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 768px) {
+  .photo-credit {
+    position: static !important;
+    text-align: right;
+    font-size: 0.6rem;
+    margin-top: 1rem;
+  }
+}
 

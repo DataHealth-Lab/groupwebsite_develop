@@ -6,13 +6,13 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Where we think on challenges to solve
+      title: '<div style="margin-left: 15rem;">Where we think on challenges to solve</div>'
       text: |-
-        <div style="padding-left: 15rem;">
-        We explore critical health challenges through research and data.
+        <div style="margin-left: 20rem;">
+          We explore critical health challenges through research and data.
         </div>
 
-        <div style="position: absolute; bottom: -5rem; right: -4.5rem; font-size: 0.7rem; color: #ccc;">
+        <div class="photo-credit" style="position: absolute; bottom: -5rem; right: -4.5rem; font-size: 0.7rem; color: #ccc;">
           Photo by Ian Ward
         </div>
     design:
@@ -24,7 +24,7 @@ sections:
         position: center
         size: cover
       spacing:
-        padding: ["5rem", "5rem", "5rem", "18rem"]
+        padding: ["5rem", "3rem", "5rem", "3rem"]
       height: "auto"
       alignment: center
 
@@ -39,7 +39,7 @@ sections:
             <div class="col-md-6 mb-4">
               <div class="card">
                 <a href="link1">
-                  <img src="/media/chicken_amazon.jpg" alt="critical care ICU" class="card-img-top"  style="height: 400px; object-fit: cover;">
+                  <img src="/media/icutimpel.jpg" alt="critical care ICU EIT" class="card-img-top"  style="height: 400px; object-fit: cover;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Critical Care Science & Innovation</h5>
                   </div>
@@ -50,7 +50,7 @@ sections:
             <div class="col-md-6 mb-4">
               <div class="card">
                 <a href="link2">
-                  <img src="/media/ocean_climatechange_ianward.jpeg" alt="climate change" class="card-img-top"  style="height: 400px; object-fit: smart;">
+                  <img src="https://www.ifrc.org/sites/default/files/styles/article_press_release_featured_image/public/2024-06/p-BRA0431.jpg?" alt="climate change" class="card-img-top"  style="height: 400px; object-fit: smart;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Climate Change & Environmental Stressors</h5>
                   </div>
@@ -72,7 +72,7 @@ sections:
             <div class="col-md-6 mb-4">
               <div class="card">
                 <a href="link4">
-                  <img src="/media/ocean_climatechange_ianward.jpeg" alt="Project 4" class="card-img-top"  style="height: 400px; object-fit: cover;">
+                  <img src="/media/chicken_amazon.jpg" alt="Project 4" class="card-img-top"  style="height: 400px; object-fit: cover;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Post-Acute Infection & Chronic Manifestations</h5>
                   </div>
