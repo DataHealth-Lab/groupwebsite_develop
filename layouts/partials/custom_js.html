@@ -8,3 +8,39 @@
 
 {{/* Dimension badges */}}
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const themeToggleBtn = document.querySelector('.js-toggle-theme');
+    if (!themeToggleBtn) return;
+
+    const icon = themeToggleBtn.querySelector('i');
+    const currentTheme = localStorage.getItem('wcTheme');
+
+    function setTheme(mode) {
+      if (mode === 'dark') {
+        document.body.classList.add('dark');
+        icon.classList.remove('fa-moon');
+        icon.classList.add('fa-sun');
+      } else {
+        document.body.classList.remove('dark');
+        icon.classList.remove('fa-sun');
+        icon.classList.add('fa-moon');
+      }
+      localStorage.setItem('wcTheme', mode);
+    }
+
+    // Initialize on load
+    if (currentTheme === 'dark') {
+      setTheme('dark');
+    } else {
+      setTheme('light');
+    }
+
+    themeToggleBtn.addEventListener('click', function (e) {
+      e.preventDefault();
+      const isDark = document.body.classList.contains('dark');
+      setTheme(isDark ? 'light' : 'dark');
+    });
+  });
+</script>
