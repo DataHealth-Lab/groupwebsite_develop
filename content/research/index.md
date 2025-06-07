@@ -7,8 +7,29 @@ sections:
   - block: markdown
     content:
       text: |
-        <div style="margin: 0; padding: 0;">
-          <img src="/media/banner_climatechange_ianward.jpg" alt="climate change banner" style="width: 100vw; max-width: 100%; height: auto; display: block; margin: 0 auto;"> 
+        <img src="/media/banner_climatechange_ianward.jpg" alt="Climate Change Banner" style="width: 100vw; height: auto; display: block; margin: 0; padding: 0;" />
+
+
+
+# sections:
+#   - block: markdown
+#     content:
+#       text: |
+#         <style>
+#           .force-full-width {
+#             position: relative;
+#             left: 50%;
+#             right: 50%;
+#             margin-left: -50vw;
+#             margin-right: -50vw;
+#             width: 100vw;
+#             max-width: 100vw;
+#             height: auto;
+#             display: block;
+#           }
+#         </style>
+# 
+#         <img src="/media/banner_climatechange_ianward.jpg" alt="climate change banner" class="full-width-banner">
       # title: |
       #   <style>
       #     /* Default desktop styles */
