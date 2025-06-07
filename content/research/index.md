@@ -7,7 +7,7 @@ sections:
   - block: markdown
     content:
       text: |
-        <img src="/media/banner_climatechange_ianward.jpg" alt="Climate Change Banner" style="width: 100vw; height: auto; display: block; margin: 0; padding: 0;" />
+        <img src="/media/banner_climatechange_ianward.jpeg" alt="Climate Change Banner" style="width: 100vw; height: auto; display: block; margin: 0; padding: 0;" />
 
 
 
@@ -97,7 +97,7 @@ sections:
   - block: markdown
     content:
       title: "Research Areas"
-      subtitle: "A curated selection"
+      subtitle: ""
       text: |
         <div class="container">
           <div class="row">
