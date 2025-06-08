@@ -42,8 +42,10 @@ sections:
         </style>
         <div class="banner-title">Where we think on challenges to solve</div>
       text: |
-        <div class="photo-credit">
-          Photo by Ian Ward
+        <div style="position: relative;">
+          <div class="photo-credit">
+            Photo by Ian Ward
+          </div>
         </div>
     design:
       background:
@@ -57,6 +59,7 @@ sections:
         padding: ["5rem", "3rem", "5rem", "3rem"]
       height: "auto"
       alignment: center
+
 
 
   - block: markdown
