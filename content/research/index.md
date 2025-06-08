@@ -34,7 +34,7 @@ sections:
             }
             /* Adjust photo credit */
             .photo-credit {
-              bottom: -4rem;
+              bottom: -3rem;
               right: 1rem;
             }
           }
