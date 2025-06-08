@@ -84,7 +84,7 @@ sections:
             <div class="col-md-5 mb-3">
               <div class="card">
                 <a href="link2">
-                  <img src="https://www.ifrc.org/sites/default/files/styles/article_press_release_featured_image/public/2024-06/p-BRA0431.jpg?" alt="climate change" class="card-img-top"  style="height: 350px; object-fit: smart;">
+                  <img src="/media/flood_brazil.jpeg" alt="climate change" class="card-img-top"  style="height: 350px; object-fit: smart;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Climate Change & Environment</h5>
                   </div>
