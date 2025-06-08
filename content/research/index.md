@@ -19,7 +19,7 @@ sections:
           .photo-credit {
             position: absolute;
             bottom: -5rem;
-            right: -4.5rem;
+            right: -2rem;
             font-size: 0.7rem;
             color: #ccc;
           }
@@ -34,7 +34,7 @@ sections:
             }
             /* Adjust photo credit */
             .photo-credit {
-              bottom: -1rem;
+              bottom: -4rem;
               right: 1rem;
             }
           }
@@ -69,7 +69,7 @@ sections:
             <div class="col-md-5 mb-3">
               <div class="card">
                 <a href="link1">
-                  <img src="/media/icutimpel.jpg" alt="critical care ICU EIT" class="card-img-top"  style="height: 400px; object-fit: cover;">
+                  <img src="/media/icutimpel.jpg" alt="critical care ICU EIT" class="card-img-top"  style="height: 350px; object-fit: cover;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Critical Care Science & Innovation</h5>
                   </div>
@@ -80,9 +80,9 @@ sections:
             <div class="col-md-5 mb-3">
               <div class="card">
                 <a href="link2">
-                  <img src="https://www.ifrc.org/sites/default/files/styles/article_press_release_featured_image/public/2024-06/p-BRA0431.jpg?" alt="climate change" class="card-img-top"  style="height: 400px; object-fit: smart;">
+                  <img src="https://www.ifrc.org/sites/default/files/styles/article_press_release_featured_image/public/2024-06/p-BRA0431.jpg?" alt="climate change" class="card-img-top"  style="height: 350px; object-fit: smart;">
                   <div class="card-body">
-                    <h5 class="card-title text-center">Climate Change & Environmental Stressors</h5>
+                    <h5 class="card-title text-center">Climate Change & Environment</h5>
                   </div>
                 </a>
               </div>
@@ -91,7 +91,7 @@ sections:
             <div class="col-md-5 mb-3">
               <div class="card">
                 <a href="link3">
-                  <img src="https://live.staticflickr.com/65535/51614500271_3576a2364d_o.jpg" alt="Project 3" class="card-img-top"  style="height: 400px; object-fit: cover;">
+                  <img src="https://live.staticflickr.com/65535/51356159980_0c373cc805_h.jpg" alt="Project 3" class="card-img-top"  style="height: 350px; object-fit: cover;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Infectious Diseases & Vaccines</h5>
                   </div>
@@ -102,7 +102,7 @@ sections:
             <div class="col-md-5 mb-3">
               <div class="card">
                 <a href="link4">
-                  <img src="/media/chicken_amazon.jpg" alt="Project 4" class="card-img-top"  style="height: 400px; object-fit: cover;">
+                  <img src="/media/chicken_amazon.jpg" alt="Project 4" class="card-img-top"  style="height: 350px; object-fit: cover;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Post-Infectious Syndromes</h5>
                   </div>
