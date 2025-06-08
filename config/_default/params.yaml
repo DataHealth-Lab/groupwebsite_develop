@@ -55,10 +55,13 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
+    show_logo: true
     highlight_active_link: false
     show_theme_chooser: true
-    # logo:
-    #   image: "/assets/media/icon.jpg"
+    logo_text: "DataHealth Lab"
+    logo: 
+      image: "media/logo.png"
+
 
 
 # Site footer
