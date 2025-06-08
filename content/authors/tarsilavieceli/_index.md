@@ -31,17 +31,17 @@ interests:
   - Epidemiology
   - HIV/ISTs
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+# education:
+#   courses:
+#     - course: PhD in Artificial Intelligence
+#       institution: Stanford University
+#       year: 2012
+#     - course: MEng in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2009
+#     - course: BSc in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,16 +50,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:tarsilavieceli@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Bar-BLYAAAAJ&hl=
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/tarsila-vieceli-88831083/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,6 +75,6 @@ user_groups:
   - Alumni
 ---
 
-<p><strong>Fellow output:</strong><br>
+## Fellow output
 <a href="https://linkinghub.elsevier.com/retrieve/pii/S0033-3506(24)00427-X" target="_blank">"The burden, clinical features and outcomes of SARS-CoV-2, Influenza and co-infections during concurrently out-of-season outbreaks in Brazil"</a>
 </p>

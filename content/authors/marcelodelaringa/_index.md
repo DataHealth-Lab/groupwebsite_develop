@@ -26,6 +26,5 @@ organizations:
 user_groups:
   - Alumni
 ---
-<p><strong>Master Dissertation:</strong><br>
+## Master Dissertation
 <a href="https://currents.plos.org/disasters/article/rios-mountainous-region-regiao-serrana-2011-landslides-impact-on-public-mental-health-system/" target="_blank">"Rio's Mountainous Region ('Região Serrana') 2011 Landslides: Impact on Public Mental Health System"</a>
-</p>
