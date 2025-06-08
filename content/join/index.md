@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: ocean_climatechange_ianward_bw.jpeg
             filters:
               brightness: 0.7
           position: center
