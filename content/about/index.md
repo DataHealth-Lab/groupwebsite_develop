@@ -55,7 +55,7 @@ sections:
             <div class="col-md-4 mb-4 text-center">
               <div style="font-size: 2rem;">👩‍⚕️</div>
               <h5>Women & Gender in Science</h5>
-              <p>Promoting equity and empowerment across genders in science and care.</p>
+              <p>Promoting equity and empowerment across all genders in science and care.</p>
             </div>
             <div class="col-md-4 mb-4 text-center">
               <div style="font-size: 2rem;">🌍</div>
@@ -65,7 +65,7 @@ sections:
             <div class="col-md-4 mb-4 text-center">
               <div style="font-size: 2rem;">🌱</div>
               <h5>Sustainability</h5>
-              <p>Committing to research that respects environmental and human futures.</p>
+              <p>Committed to research that respects both environmental and human futures.</p>
             </div>
           </div>
         </div>

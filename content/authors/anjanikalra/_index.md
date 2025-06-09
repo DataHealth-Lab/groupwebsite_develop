@@ -30,29 +30,29 @@ interests:
   - Systematic review
   - Meta-analysis
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+# education:
+#   courses:
+#     - course: PhD in Artificial Intelligence
+#       institution: Stanford University
+#       year: 2012
+#     - course: MEng in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2009
+#     - course: BSc in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:test@example.org'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/anjani-kalra/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -74,7 +74,5 @@ user_groups:
   - Alumni
 ---
 
-
-<p><strong>Fellow output:</strong><br>
+## Fellow output:
 <a href="https://dx.plos.org/10.1371/journal.pmed.1004079" target="_blank">"Urban-rural differences in hypertension prevalence in low-income and middle-income countries, 1990-2020: A systematic review and meta-analysis"</a>
-</p>

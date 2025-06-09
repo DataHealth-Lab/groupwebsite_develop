@@ -17,18 +17,18 @@ These websites served as valuable inspiration for design, structure, and content
 
 - [Emmanuel Balogun](https://www.emmanuelbalogun.org/) – Overall academic profile layout
 - [Raymond Rumpf](https://raymondrumpf.com/publications/) – Publications layout
-- [Prof. Masiello, UW](https://faculty.washington.edu/masiello/) – Quarto inspiration
-- [Jason Helvy](https://www.jhelvy.com/about) – Quarto inspiration
-- [Deep Policy Lab](https://deeppolicylab.github.io/research.html) – Beautiful Quarto research layout
-- [Rémi Thériault](https://remi-theriault.com/) – Hugo Blox, source of some customizations
+- [Rémi Thériault](https://remi-theriault.com/) – Really nice, built with Hugo Blox, source of some of my customizations (e.g., Altmetrics)
 - [Julen Etxaniz](https://julenetxaniz.eus/en/) – Clean design and custom features
-- [Tiago Zortea](https://tzcorda.github.io/) – Quarto inspiration
 - [Urban Demographics by Rafael Pereira](https://www.urbandemographics.org/publicacoes/) – Research output style
 - [Ipea Access Opportunities](https://www.ipea.gov.br/acessooportunidades/en/) – Project structure
 - [Allan Lab](https://www.allanlab.org/publications/) – Publications and team sections
 - [YX Liu Group](https://www.yxliu.group/) – Clean and highly functional lab site
 - [Gökçin Çınar](https://www.gokcincinar.com/) – Customized, elegant research group layout
-- [Parra Lab](https://parralab.netlify.app/) – Early-stage academic group website, like ours
+- [Parra Lab](https://parralab.netlify.app/) – Started an academic group website with same template temporally similar to ours
+- [Deep Policy Lab](https://deeppolicylab.github.io/research.html) – Beautiful research layout (using Quarto)
+- [Prof. Masiello, UW](https://faculty.washington.edu/masiello/) – Quarto inspiration
+- [Jason Helvy](https://www.jhelvy.com/about) – Quarto inspiration
+- [Tiago Zortea](https://tzcorda.github.io/) – Quarto inspiration
 
 ---
 
