@@ -44,9 +44,12 @@ social:
   - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/otavioranzani.bsky.social
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/otavio_ranzani
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://x.com/otavio_ranzani
+  - icon: clarivate
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/1831275
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=fXwnz6AAAAAJ&hl

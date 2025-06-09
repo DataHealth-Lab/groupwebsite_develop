@@ -13,52 +13,25 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
         Turning **DATA** into action against Climate Health threats, Superbugs, and Broken systems.  
-        </br>
-    # design:
-    #     background:
-    #         image:
-    #             filename: welcome.jpg
+
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 6
       filters:
         author: ''
         category: ''
         exclude_featured: false
         publication_type: ''
         tag: ''
-      offset: 0
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
-  # 
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: coders.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
+      view: compact
+      columns: '3'
 
   # - block: collection
   #   content:
