@@ -14,9 +14,7 @@ authors:
 - Shankar-Hari M
 - Herridge MS 
 # 
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+
   
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
