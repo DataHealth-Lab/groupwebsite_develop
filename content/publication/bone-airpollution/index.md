@@ -34,7 +34,7 @@ links:
  - name: PDF
    url: "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2758211/ranzani_2020_oi_190696.pdf"
  - name: Supplemental Material
-   url: "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/938317/zoi190696supp1_prod.pdf?Expires=1752271868&Signature=yHyLvBymWwH4XELGg-KBegwRWSOy9oYMuZP7BZqiMoIrleBZbZhL66hUM9GEz64ouX1HabTcIel35xtfzpSfF8yfe4RsvJdzN2xrgn93JWs93ib8lhbx~9xb1GtgGTysCvBvwNEIMECmMioechMNBH9hTCxEVTMOp1ceYf5T9vyxWmsktkOsEY01YEku~kZW0LwlfoybP-qo1hB1E~EFXmuqRs5D1UIDMroCZcvDRkpfL0sb3xUU0JYeIAhKy1rmfgpnsK9sYBkw~4rIHP5~rlU7ZWPjD64GmsEwJo~aXtnouFhHZ7G6GAzgenX5S5HBX~nTk6UXN5amGx02jEJhDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   url: "https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/938317/zoi190696supp1_prod.pdf"
  # - name: Code
  #   url: "https://github.com/juliocroda/VebraCOVID-19"
  # - name: Editorial
