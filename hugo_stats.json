@@ -393,6 +393,7 @@
       "figure-2018-research-award",
       "floods-brazil",
       "ir-sant-pau-building",
+      "ir_santpau",
       "map",
       "map-api-key",
       "map-dir",
@@ -432,7 +433,8 @@
       "section-slider",
       "talk_list",
       "top",
-      "vacina-maré"
+      "vacina-maré",
+      "values"
     ]
   }
 }
