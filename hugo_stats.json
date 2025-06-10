@@ -110,8 +110,10 @@
       "carousel-item",
       "category-air-pollution",
       "category-covid",
+      "category-critical-care",
       "category-health-system",
       "category-post-infection",
+      "category-telemedicine",
       "category-tuberculosis",
       "category-vaccine",
       "citation-title",
@@ -293,6 +295,7 @@
       "page-header",
       "page-item",
       "page-link",
+      "page-subtitle",
       "page-wrapper",
       "pagination",
       "parallax",
@@ -369,8 +372,11 @@
       "wg-people",
       "wg-portfolio",
       "wg-slider",
+      "year-2015",
       "year-2020",
-      "year-2021"
+      "year-2021",
+      "year-2023",
+      "year-2024"
     ],
     "ids": [
       "-forums-and-sources",

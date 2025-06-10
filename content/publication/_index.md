@@ -1,5 +1,6 @@
 ---
 title: Publications
+subtitle: selected publications
 
 # Listing view
 # View.

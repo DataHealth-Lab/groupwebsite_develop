@@ -7,7 +7,7 @@ sections:
   - block: markdown
     content:
       title: "The Group"
-      subtitle: "An ambitious team tackling urgent health challenges"
+      subtitle: "An team tackling urgent health challenges"
       text: |
         The  <span style="color: #009E73; font-weight: 600;">DataHealth Lab</span> is an emerging research group dedicated to producing **high-quality**, **policy-relevant science** that addresses today's most pressing health challenges. We work across Epidemiology, Data Science, Clinical Research, and Implementation Science, with special attention to vulnerable populations and the systems shaping their lives.    
         
@@ -15,7 +15,7 @@ sections:
         
         We **collaborate** across disciplines and borders, employing tools – from randomized trials to causal inference and artificial intelligence. Wheter generating new insights or amplifying underrepresented voices, we turn data into actionable solutions for a healthier world.
         
-        Though early in our journey, we've secured funding from national and international agencies, led high-tier [publications](https://datahealthlab.org/publications) (*Lancet*, *JAMA*, *BMJ*, etc), community [impact](https://datahealthlab.org/impact) and advancements in scientific methods and knowledge.
+        Though early in our journey, we've secured funding from national and international agencies, led high-tier [publications](https://datahealthlab.org/publication) (*Lancet*, *JAMA*, *BMJ*, etc), community [impact](https://datahealthlab.org/impact) and advancements in scientific methods and knowledge.
 
   - block: markdown
     content:
