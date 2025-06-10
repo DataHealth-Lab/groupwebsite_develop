@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PostDoc / DS
+role: PostDoc / Statistician
 
 # Organizations/Affiliations
 organizations:

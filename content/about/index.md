@@ -7,12 +7,15 @@ sections:
   - block: markdown
     content:
       title: "The Group"
-      subtitle: "Emerging group"
+      subtitle: "An ambitious team tackling urgent health challenges"
       text: |
-        - Group / PI
-        - Values
-    design:
-      columns: '1'
+        The  <span style="color: #009E73; font-weight: 600;">DataHealth Lab</span> is an emerging research group dedicated to producing **high-quality**, **policy-relevant science** that addresses today's most pressing health challenges. We work across Epidemiology, Data Science, Clinical Research, and Implementation Science, with special attention to vulnerable populations and the systems shaping their lives.    
+        
+        Founded and led by [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/), the lab is grounded in a commitment to scientific rigour, openness, and equity (values below). [Our work](https://datahealthlab.org/research) spans Critical Care & Innovation, Climate and Environmental Health, Emerging Infections, and Access to Quality Care – always aiming to produce evidence that is both **methodologically sound** and **socially meaningful**.  
+        
+        We **collaborate** across disciplines and borders, employing tools – from randomized trials to causal inference and artificial intelligence. Wheter generating new insights or amplifying underrepresented voices, we turn data into actionable solutions for a healthier world.
+        
+        Though early in our journey, we've secured funding from national and international agencies, led high-tier [publications](https://datahealthlab.org/publications) (*Lancet*, *JAMA*, *BMJ*, etc), community [impact](https://datahealthlab.org/impact) and advancements in scientific methods and knowledge.
 
   - block: markdown
     content:
