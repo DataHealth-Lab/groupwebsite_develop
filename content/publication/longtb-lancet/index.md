@@ -24,7 +24,7 @@ add_badge: true
 
 featured: true
 
-categories: ["tuberculosis","post-infection"]
+categories: ["post-infection"]
 
 date: "2020-01-20"
 

@@ -26,7 +26,7 @@ add_badge: true
 
 featured: true
 
-categories: ['telemedicine',"health system", 'critical care']
+categories: ['covid19',"post-infection"]
 
 date: "2023-08-03"
 

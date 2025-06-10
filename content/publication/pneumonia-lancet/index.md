@@ -20,7 +20,7 @@ add_badge: true
 
 featured: true
 
-categories: ['telemedicine',"health system", 'critical care']
+categories: ['pneumonia']
 
 date: "2015-09-12"
 
