@@ -12,8 +12,8 @@ sections:
         Science for Better Health
       image:
         filename: welcome.jpg
-      text: |
-        Turning **DATA** into action against Climate Health threats, Superbugs, and Broken systems.  
+      # text: |
+      #   Turning **DATA** into action against Climate Health threats, Superbugs, and Broken systems.
 
   - block: collection
     content:

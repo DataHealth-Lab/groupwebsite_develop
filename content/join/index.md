@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: Global, World-Class Lab for Science and Health
-        content: 'Always looking for talented and new ideas minds'
+        content: 'We’re always seeking talented and innovative minds.'
         align: right
         background:
           image:
