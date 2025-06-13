@@ -1,7 +1,7 @@
 ---
 title: "Association of Ambient and Household Air Pollution With Bone Mineral Content Among Adults in Peri-urban South India"
 
-publication: "**JAMA Netw Open**, *3(1)*:e1918504. <a href='https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2758211' target='_blank' rel='noopener noreferrer'>10.1001/jamanetworkopen.2019.18504</a>"
+publication: "**JAMA Netw Open**. 2020;*3(1)*:e1918504. <a href='https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2758211' target='_blank' rel='noopener noreferrer'>10.1001/jamanetworkopen.2019.18504</a>"
 
 # Publication name and optional abbreviated publication name.
 # publication_short: ""

@@ -1,7 +1,7 @@
 ---
 title: "Post-acute sequelae of COVID-19: understanding and addressing the burden of multisystem manifestations"
 
-publication: "**Lancet Respir Med**, *11*(8):739-754. <a href='https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(23)00239-4/fulltext' target='_blank' rel='noopener noreferrer'>10.1016/S2213-2600(23)00239-4</a>"
+publication: "**Lancet Respir Med**. 2023;*11*(8):739-754. <a href='https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(23)00239-4/fulltext' target='_blank' rel='noopener noreferrer'>10.1016/S2213-2600(23)00239-4</a>"
 # Publication name and optional abbreviated publication name.
 # publication_short: ""
 

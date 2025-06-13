@@ -1,7 +1,7 @@
 ---
 title: "Long-term survival and cause-specific mortality of patients newly diagnosed with tuberculosis in São Paulo state, Brazil, 2010-15: a population-based, longitudinal study"
 
-publication: "**The Lancet Infectious Diseases**, *20*(1):123-132. <a href='https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30518-3/fulltext' target='_blank' rel='noopener noreferrer'>10.1016/S1473-3099(19)30518-3</a>"
+publication: "**The Lancet Infectious Diseases**. 2020;*20*(1):123-132. <a href='https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30518-3/fulltext' target='_blank' rel='noopener noreferrer'>10.1016/S1473-3099(19)30518-3</a>"
 
 # Publication name and optional abbreviated publication name.
 # publication_short: ""

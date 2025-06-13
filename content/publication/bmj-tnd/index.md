@@ -1,32 +1,32 @@
 ---
 title: "Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil"
 
-publication: "**BMJ**, *374*:n2015. <a href='https://www.bmj.com/lookup/pmidlookup?view=long&pmid=34417194' target='_blank' rel='noopener noreferrer'>10.1136/bmj.n2015</a>"
+publication: "**BMJ**. 2021;*374*:n2015. <a href='https://www.bmj.com/lookup/pmidlookup?view=long&pmid=34417194' target='_blank' rel='noopener noreferrer'>10.1136/bmj.n2015</a>"
 
 # Publication name and optional abbreviated publication name.
 # publication_short: ""
 
 authors:
 - otavioranzani
-- "Hitchings MDT"
-- "Dorion M"
-- "D'Agostini TL"
-- "de Paula RC"
-- "de Paula OFP"
-- "Villela EFM"
-- "Torres MSS"
-- "de Oliveira SB"
-- "Schulz W"
-- "Almiron M"
-- "Said R"
-- "de Oliveira RD"
-- "Vieira da Silva P"
-- "de Araújo WN"
-- "Gorinchteyn JC"
-- "Andrews JR"
-- "Cummings DAT"
-- "Ko AI"
-- "Croda J"
+- Hitchings MDT
+- Dorion M
+- D'Agostini TL
+- de Paula RC
+- de Paula OFP
+- Villela EFM
+- Torres MSS
+- de Oliveira SB
+- Schulz W
+- Almiron M
+- Said R
+- de Oliveira RD
+- Vieira da Silva P
+- de Araújo WN
+- Gorinchteyn JC
+- Andrews JR
+- Cummings DAT
+- Ko AI
+- Croda J
 
 author_notes:
   - 'Equal contribution'

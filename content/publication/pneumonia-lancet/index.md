@@ -1,7 +1,7 @@
 ---
 title: "Community-acquired pneumonia"
 
-publication: "**Lancet**, *386*(9998):1097-108. <a href='http://dx.doi.org/10.1016/S0140-6736(15)60733-4' target='_blank' rel='noopener noreferrer'>10.1016/S0140-6736(15)60733-4</a>"
+publication: "**Lancet**. 2015;*386*(9998):1097-108. <a href='http://dx.doi.org/10.1016/S0140-6736(15)60733-4' target='_blank' rel='noopener noreferrer'>10.1016/S0140-6736(15)60733-4</a>"
 # Publication name and optional abbreviated publication name.
 # publication_short: ""
 

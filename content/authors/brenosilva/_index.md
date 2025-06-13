@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:omatematico.breno@gmail.com'
+    link: 'mailto:breno.gsilva@fiocruz.br'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/breno-gabriel-da-silva-b65a40245/

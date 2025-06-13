@@ -1,7 +1,7 @@
 ---
 title: "Effect of Tele-ICU on Clinical Outcomes of Critically Ill Patients: The TELESCOPE Randomized Clinical Trial"
 
-publication: "**JAMA**, *332*(21):1798-1807. <a href='https://jamanetwork.com/journals/jama/fullarticle/2824927' target='_blank' rel='noopener noreferrer'>10.1001/jama.2024.20651</a>"
+publication: "**JAMA**. 2024;*332*(21):1798-1807. <a href='https://jamanetwork.com/journals/jama/fullarticle/2824927' target='_blank' rel='noopener noreferrer'>10.1001/jama.2024.20651</a>"
 # Publication name and optional abbreviated publication name.
 # publication_short: ""
 
