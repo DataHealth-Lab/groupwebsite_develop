@@ -1,7 +1,7 @@
 ---
 title: Felippe Lazar Neto defends his PhD thesis
 date: 2025-06-17
-summary: With excellence, Felippe defended his PhD thesis on COVID-19 vaccine effectiveness in patients with cancer."
+summary: With excellence, Felippe defended his PhD thesis on COVID-19 vaccine effectiveness in patients with cancer.
 
 image:
   filename: featured.jpg
