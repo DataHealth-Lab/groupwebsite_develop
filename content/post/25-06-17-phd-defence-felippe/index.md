@@ -5,7 +5,7 @@ summary: With excellence, Felippe defended his PhD thesis on COVID-19 vaccine ef
 
 image:
   filename: featured.jpg
-  preview_only: false
+  preview_only: true
 ---
 
 <!--more-->

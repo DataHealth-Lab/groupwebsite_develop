@@ -136,6 +136,14 @@ extensions:
   academicons:
     enable: true
 
+
+imaging:
+  anchor: Smart
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 100
+  resampleFilter: box
+  
 # Citation style
 
 publications:
