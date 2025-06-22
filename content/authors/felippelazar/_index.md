@@ -32,15 +32,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Epidemiology
+      institution: University of São Paulo
+      year: 2025
+    - course: MBA in Data Science & Analytics
+      institution: University of São Paulo
+      year: 2024
+    - course: MD in Medicine
+      institution: University of São Paulo
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -75,4 +75,12 @@ user_groups:
 weight: 4
 ---
 
-TBF
+
+## Phd output
+<a href="https://www.nature.com/articles/s41467-024-49285-y" target="_blank">"Effectiveness of COVID-19 vaccines against severe COVID-19 among patients with cancer in Catalonia, Spain"</a>
+
+## Phd output
+<a href="https://linkinghub.elsevier.com/retrieve/pii/S2667-193X(24)00082-6" target="_blank">"Effectiveness of the fourth dose of COVID-19 vaccines against severe COVID-19 among adults 40 years or older in Brazil: a population-based cohort study"</a>
+
+## Phd output
+<a href="https://publications.ersnet.org/content/book/monograph/978-1-84984-182-5/part/part_1/chapter/chapter_6" target="_blank">"Vaccination against COVID-19 in a post-pandemic era"</a>
