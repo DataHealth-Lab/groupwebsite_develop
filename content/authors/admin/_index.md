@@ -83,6 +83,9 @@ user_groups:
   - Researchers
 weight: 1
 ---
+
+<div style="font-size: 85%;">
+
 *I view science as a social construct essential for enhancing and promoting the health and well-being of individuals.*
 
 I am a scientist with a **far-reaching understanding** of current societal health issues, with a **robust methodological reasoning** and international experience. I completed my medical degree (summa cum laude, 2008) and clinical training (2014) in Internal Medicine & Critical Care in Brazil, with periods in Italy and Spain. In 2015, I obtained a MSc in Epidemiology from the London School of Hygiene & Tropical Medicine (Award Distinction), and in 2018, my PhD from the University of São Paulo in collaboration with LSHTM.
@@ -95,4 +98,46 @@ I am the **Principal Investigator** of the [DataHealth Lab](https://datahealthla
 
 Our work has informed policy discussions on severe infections, air pollution, vaccines, and health systems. I serve as Associate Editor for a leading journal in Critical Care and contribute to teaching at postgraduate programs in epidemiology and global health.
 
----
+</div>
+
+<!-- Grants and Awards Section -->
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-12 col-lg-4">
+      <h2 class="text-primary">Grants and Awards (Selected)</h2>
+    </div>
+    <div class="col-12 col-lg-8">
+      <div class="card experience course">
+        <div class="card-body">
+          <a href="https://socmedawards.com/2023/" target="_blank" rel="noopener">
+            <h4 class="card-title exp-title text-muted my-0">Nominee to COVID-19 Influencers 2023 Social Media Awards</h4>
+          </a>
+          <div class="card-subtitle my-0 article-metadata">
+            UniteHealth Social Media Awards Team<span class="middot-divider"></span> 2023
+          </div>
+        </div>
+      </div>
+      <div class="card experience course">
+        <div class="card-body">
+          <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank" rel="noopener">
+            <h4 class="card-title exp-title text-muted my-0">Listed among top 2% cited scientists in the world in the years 2023 and 2024</h4>
+          </a>
+          <div class="card-subtitle my-0 article-metadata">
+            Stanford & Elsevier<span class="middot-divider"></span>Dec 2024
+          </div>
+        </div>
+      </div>
+      <div class="card experience course">
+        <div class="card-body">
+          <a href="https://www.webofscience.com/wos/author/record/1831275" target="_blank" rel="noopener">
+            <h4 class="card-title exp-title text-muted my-0">Top Reviewer in Medicine, 2017 and 2018</h4>
+          </a>
+          <div class="card-subtitle my-0 article-metadata">
+            Publons - Web of Science <span class="middot-divider"></span> 2018
+          </div>
+        </div>
+      </div>
+      <!-- Add more award entries as needed -->
+    </div>
+  </div>
+</div>
