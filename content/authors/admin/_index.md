@@ -24,6 +24,7 @@ interests:
   - Respiratory Infections
   - Critical Care
   - Environment
+  - Methods
 
 education:
   courses:
@@ -48,9 +49,9 @@ social:
   - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/otavioranzani.bsky.social
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://x.com/otavio_ranzani
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/otavio_ranzani
   - icon: clarivate
     icon_pack: ai
     link: https://www.webofscience.com/wos/author/record/1831275
@@ -82,13 +83,16 @@ user_groups:
   - Researchers
 weight: 1
 ---
-
-I am a scientist with a **far-reaching understanding** of current societal health issues, with a **robust methodological reasoning** and international experience. I completed my medical degree (summa cum laude, 2008) and clinical training (2014) in Internal Medicine & Critical Care in Brazil. In 2015, I obtained a MSc in Epidemiology from the London School of Hygiene & Tropical Medicine, UK (LSHTM, Distinction) and, in 2018, my PhD from the University of São Paulo (USP) in collaboration with the LSHTM.
-
-
-My research is centred on utilizing data to assess disease mechanisms and provide real-world evidence. I integrate causal inference, exposome concepts, and advanced research methods into my work. I am highly committed to these [values](https://datahealthlab.org/about#values) on leading my research group.
-
-In 2016 I completed a Research Fellowship, funded by the European Respiratory Society, at the Hospital Clinic, Spain, followed by a postdoctoral position at the ISGlobal until 2021, when I was promoted to Assistant Professor. In 2024, I was awarded the prestigious Ramon y Cajal Fellowship by the Spanish Ministry of Science, Innovation and Universities, that allowed me to be an Emerging Group Leader at the amazing [IR SANT PAU](https://datahealthlab.org/about#ir_santpau)
-
-
 *I view science as a social construct essential for enhancing and promoting the health and well-being of individuals.*
+
+I am a scientist with a **far-reaching understanding** of current societal health issues, with a **robust methodological reasoning** and international experience. I completed my medical degree (summa cum laude, 2008) and clinical training (2014) in Internal Medicine & Critical Care in Brazil, with periods in Italy and Spain. In 2015, I obtained a MSc in Epidemiology from the London School of Hygiene & Tropical Medicine (Award Distinction), and in 2018, my PhD from the University of São Paulo in collaboration with LSHTM.
+
+My research is centred on using data to assess disease mechanisms and generate real-world evidence through an in-depth epidemiological lens. I also work on Implementation Science and Clinical Trials — both methodologically and in applied settings — integrating causal inference, exposome concepts, and modern analytics. I am highly committed to these [values](https://datahealthlab.org/about#values) in leading my research group.
+
+I completed a Research Fellowship (ERS, 2016) at Hospital Clinic, Barcelona, a postdoctoral and Assistant Professor positions at [ISGlobal](https://www.isglobal.org) (Sara Borrell Fellow). In 2024, I was awarded the prestigious **Ramon y Cajal Fellowship** from the Spanish Ministry of Science, Innovation and Universities and by the European Social Fund Plus (ESF+), which supports my role as Emerging Group Leader at [IR SANT PAU](https://datahealthlab.org/about#ir_santpau).
+
+I am the **Principal Investigator** of the [DataHealth Lab](https://datahealthlab.org), where I supervise undergraduates, Master and PhD students, postdocs, and junior researchers. My group receives support from competitive funding, including national and international grants and we are actively involved in international networks.
+
+Our work has informed policy discussions on severe infections, air pollution, vaccines, and health systems. I serve as Associate Editor for a leading journal in Critical Care and contribute to teaching at postgraduate programs in epidemiology and global health.
+
+---
