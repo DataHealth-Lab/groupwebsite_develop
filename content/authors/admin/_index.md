@@ -104,7 +104,7 @@ Our work has informed policy discussions on severe infections, air pollution, va
 <div class="container mt-4">
   <div class="row">
     <div class="col-12 col-lg-4">
-      <h2 class="text-primary">Grants and Awards (Selected)</h2>
+      <h2 class="text-primary"> Awards & Accomplishments (Selected)</h2>
     </div>
     <div class="col-12 col-lg-8">
       <div class="card experience course">
@@ -137,7 +137,18 @@ Our work has informed policy discussions on severe infections, air pollution, va
           </div>
         </div>
       </div>
+            <div class="card experience course">
+        <div class="card-body">
+          <a href="https://www.lshtm.ac.uk/" target="_blank" rel="noopener">
+            <h4 class="card-title exp-title text-muted my-0">Award Distinction, MSc Epidemiology (Final highest GPA category: 4.44/5)</h4>
+          </a>
+          <div class="card-subtitle my-0 article-metadata">
+            London School of Hygiene & Tropical Medicine (LSHTM), University of London<span class="middot-divider"></span> 2023
+          </div>
+        </div>
+      </div>
       <!-- Add more award entries as needed -->
     </div>
   </div>
 </div>
+

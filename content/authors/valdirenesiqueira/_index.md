@@ -75,3 +75,5 @@ user_groups:
   - Researchers
 weight: 5
 ---
+
+## Master of Clinical Research International Health
