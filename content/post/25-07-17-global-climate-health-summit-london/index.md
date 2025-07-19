@@ -10,7 +10,7 @@ image:
 
 <!--more-->
 
-{{< figure src="sara_koch_otavio_ranzani_summit.png" title="With my amazing friend [Sara Koch](https://dsbg.unibas.ch/de/personen/sarah-koch/) at the Global Climate & Health Summit 2025" lightbox="true" >}}
+{{< figure src="sarah_koch_otavio_ranzani_summit.png" title="With my amazing friend [Sarah Koch](https://dsbg.unibas.ch/de/personen/sarah-koch/) at the Global Climate & Health Summit 2025" lightbox="true" >}}
 
 🌍 **The Global Climate and Health Summit 2025** took place on **16–17 July** at the QEII Centre in London and online, gathering in person **200 multidisciplinary leaders** in science, health, policy, and advocacy from across the world. I had the honor of serving as one of the **Vice-Chairs** of this remarkable event, supported by the [**Wellcome Trust**](https://wellcome.org/) and organized by [**The Physiological Society**](https://www.physoc.org/).
 
