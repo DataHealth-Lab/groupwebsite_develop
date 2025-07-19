@@ -1,5 +1,5 @@
 ---
-title: Otavio Ranzani as Vice-Chair at the Global Climate & Health Summit
+title: Otavio Ranzani as Vice-Chair on the Global Climate & Health Summit
 date: 2025-07-17
 summary: Otavio joined global leaders at the Global Climate and Health Summit in London, bringing voices from the Global South and Global North to the heart of climate-health solutions.
 
