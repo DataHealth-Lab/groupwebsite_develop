@@ -1,6 +1,6 @@
 ---
 title: Image Gallery & Credits
-date: 2021-11-27
+date: 2021-11-25
 summary: A collection of the images used across our website and their respective attributions.
 show_table_of_contents: false
 ---
