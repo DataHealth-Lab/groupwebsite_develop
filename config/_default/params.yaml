@@ -1,0 +1,149 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  mode: system
+  theme_day: minimal
+  theme_night: dark
+  font: native
+  font_size: L
+
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: 'MedicalBusiness'
+    org_name: 'Otavio Ranzani'
+    description: >
+        Otavio Ranzani's research group at IR SANT PAU, Barcelona. 
+        Advancing health through epidemiology, data science, 
+        and implementation research.
+    twitter: 'otavio_ranzani'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
+    bing: ''
+  priority_pages:
+    - "/publications/"
+    - "/research/"
+    - "/projects/"
+    - "/team/"
+  keyword_strategy:
+    primary: "health data science"
+    secondary: ["medical AI", "pneumonia", "climate", "vaccine"]
+  scholar: "fXwnz6AAAAAJ&hl"  # For citation tracking
+  orcid: "0000-0002-4677-6862"  # Principal investigator's ORCID
+  
+# Site header
+
+header:
+  navbar:
+    enable: true
+    # blox: my-navbar
+    align: r
+    show_language: false
+    show_day_night: true
+    show_search: true
+    show_logo: true
+    highlight_active_link: false
+    show_theme_chooser: true
+    logo_text: "DataHealth Lab"
+    logo: 
+      image: "media/logo.png"
+
+
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} Otavio Ranzani. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+
+features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: github-dark
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/DataHealth-Lab/groupwebsite_develop'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+
+imaging:
+  anchor: Smart
+  bgColor: '#ffffff'
+  quality: 100
+  
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa

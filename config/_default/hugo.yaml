@@ -1,0 +1,96 @@
+# Configuration of Hugo
+# Guide: https://docs.hugoblox.com/tutorial/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+title: DataHealth Lab # Website name
+baseURL: 'datahealthlab.org/' # Website URL
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## ADVANCED
+############################
+
+enableGitInfo: false
+summaryLength: 30
+pagination:
+  pagerSize: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+permalinks:
+  authors: '/author/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
+  publication_types: '/publication-type/:slug/'
+disableAliases: true
+outputs:
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  section: [HTML, RSS]
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart
+timeout: 600000
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+markup:
+  _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
+  changefreq: weekly  # Default for all pages
+  priority: 0.8       # Default priority (0.0-1.0)
+  filename: sitemap.xml
+  
+  # HugoBlox-specific optimizations
+  excludePaths:
+    - "/search/"       # Exclude search pages
+    - "/404.html"      # Exclude error pages
+    - "/admin/**"      # Exclude admin sections
+  
+  # Academic content priority boosts
+  priorities:
+    "/publications/*": 0.9
+    "/projects/*": 0.8
+    "/team/*": 0.7
+    "/posts/*": 0.6
+    
+build:
+  writeStats: true    
+    
+# For Google Scholar Visibility
+# Add this to layouts/_default/_markup/render-link.html to include publication PDFs:
+# 
+# html
+# {{ if eq .Page.Type "publications" }}
+#   <url>
+#     <loc>{{ .Page.Params.url_pdf | absURL }}</loc>
+#     <lastmod>{{ .Page.Lastmod.Format "2006-01-02" }}</lastmod>
+#   </url>
+# {{ end }}

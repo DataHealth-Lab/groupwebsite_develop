@@ -1,0 +1,30 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const themeToggle = document.getElementById('simple-theme-toggle');
+  if (!themeToggle) return;
+
+  // Initialize theme
+  const storedTheme = localStorage.getItem('theme');
+  const systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const initialTheme = storedTheme || (systemDark ? 'dark' : 'light');
+  document.documentElement.setAttribute('data-theme', initialTheme);
+
+  // Toggle on click
+  themeToggle.addEventListener('click', () => {
+    const html = document.documentElement;
+    const newTheme = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    html.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    console.log("Theme set to:", newTheme); // Verify in console
+  });
+});
+</script>
+<!-- Load badge scripts only once per page -->
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", function () {
+    if (window._altmetric_embed_init) _altmetric_embed_init();
+    if (window.DimensionsBadgeFormatter) DimensionsBadgeFormatter.processBadgeElements();
+  });
+</script>

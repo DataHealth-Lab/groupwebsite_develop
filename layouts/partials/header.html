@@ -1,0 +1,41 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <!-- Site Title -->
+      <a class="navbar-brand" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+      
+      <!-- Menu Items -->
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          {{ $pages := where .Site.Pages "Section" "in" site.Params.mainSections }}
+          {{ range $pages }}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+<!-- Highlight current page -->
+
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+      <a 
+        class="{{ if eq $currentPage.RelPermalink .URL }}active{{ end }}" 
+        href="{{ .URL }}">{{ .Name }}
+      </a>
+  {{ end }}
+
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Other head elements -->
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "assets/css/custom.css" | relURL }}">
+</head>
+<body>
+    <!-- Body content -->
+</body>
+</html>
