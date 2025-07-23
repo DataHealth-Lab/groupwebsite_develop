@@ -116,7 +116,17 @@ Our work has informed policy discussions on severe infections, air pollution, va
             <h4 class="card-title exp-title text-muted my-0">Listed among top 2% cited scientists in the world in the years 2023 and 2024</h4>
           </a>
           <div class="card-subtitle my-0 article-metadata">
-            Stanford & Elsevier<span class="middot-divider"></span>Dec 2024
+            Stanford & Elsevier<span class="middot-divider"></span> 2024
+          </div>
+        </div>
+      </div>
+      <div class="card experience course">
+        <div class="card-body">
+          <a href="https://socmedawards.com/2023/" target="_blank" rel="noopener">
+            <h4 class="card-title exp-title text-muted my-0">International Advisory and Data Safety Boards</h4>
+          </a>
+          <div class="card-subtitle my-0 article-metadata">
+            Precision Medicine in Intensive Care; RENOVATE; VATICAN; REVOLUTION; STOP-COVID; etc<span class="middot-divider"></span> 2023
           </div>
         </div>
       </div>
