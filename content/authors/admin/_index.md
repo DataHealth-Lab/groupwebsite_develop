@@ -46,12 +46,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:oranzani@santpau.cat'
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/otavioranzani.bsky.social
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/otavio_ranzani
   - icon: clarivate
     icon_pack: ai
     link: https://www.webofscience.com/wos/author/record/1831275
@@ -64,6 +58,15 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-4677-6862
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/otavioranzani.bsky.social
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/otavio_ranzani
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/otavio-ranzani-79052aa6/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -107,6 +110,16 @@ Our work has informed policy discussions on severe infections, air pollution, va
       <h2 class="text-primary"> Awards & Accomplishments (Selected)</h2>
     </div>
     <div class="col-12 col-lg-8">
+    <div class="card experience course">
+        <div class="card-body">
+          <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank" rel="noopener">
+            <h4 class="card-title exp-title text-muted my-0">Listed among top 2% cited scientists in the world in the years 2023 and 2024</h4>
+          </a>
+          <div class="card-subtitle my-0 article-metadata">
+            Stanford & Elsevier<span class="middot-divider"></span>Dec 2024
+          </div>
+        </div>
+      </div>
       <div class="card experience course">
         <div class="card-body">
           <a href="https://socmedawards.com/2023/" target="_blank" rel="noopener">
@@ -114,16 +127,6 @@ Our work has informed policy discussions on severe infections, air pollution, va
           </a>
           <div class="card-subtitle my-0 article-metadata">
             UniteHealth Social Media Awards Team<span class="middot-divider"></span> 2023
-          </div>
-        </div>
-      </div>
-      <div class="card experience course">
-        <div class="card-body">
-          <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank" rel="noopener">
-            <h4 class="card-title exp-title text-muted my-0">Listed among top 2% cited scientists in the world in the years 2023 and 2024</h4>
-          </a>
-          <div class="card-subtitle my-0 article-metadata">
-            Stanford & Elsevier<span class="middot-divider"></span>Dec 2024
           </div>
         </div>
       </div>
@@ -143,7 +146,7 @@ Our work has informed policy discussions on severe infections, air pollution, va
             <h4 class="card-title exp-title text-muted my-0">Award Distinction, MSc Epidemiology (Final highest GPA category: 4.44/5)</h4>
           </a>
           <div class="card-subtitle my-0 article-metadata">
-            London School of Hygiene & Tropical Medicine (LSHTM), University of London<span class="middot-divider"></span> 2023
+            London School of Hygiene & Tropical Medicine (LSHTM), University of London<span class="middot-divider"></span> 2015
           </div>
         </div>
       </div>
