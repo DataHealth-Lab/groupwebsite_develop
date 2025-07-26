@@ -26,16 +26,16 @@ subtitle = "under construction"
      tag = "*"
   
    [[content.filter_button]]
-     name = "Press"
-     tag = "Press"
+     name = "Society"
+     tag = "Society"
   
    [[content.filter_button]]
-     name = "Video"
-     tag = "Video"
+     name = "Science"
+     tag = "Science"
   
    [[content.filter_button]]
-     name = "Radio"
-     tag = "Radio"
+     name = "Guidelines"
+     tag = "Guidelines"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
