@@ -61,13 +61,27 @@ Photo by [Redes da Maré](https://www.flickr.com/photos/redesmare/albums/7215771
 **Major Flooding Disaster in South of Brazil, 2024**  
 Photo by [Tarsila Vieceli](https://datahealthlab.org/author/tarsila-vieceli/)  
 
+<div style="background-color: #f5f5f5; padding: 1rem; margin: 1rem 0; border-radius: 4px;">
 
 ### ![Vaccine Impact](/media/vaccine_impact_soraida.jpeg)  
-**Figure 3 of BMJ Open research article, 2024**  
+**COVID-19 Vaccine Impact, BMJ Open, 2024**  
 Figure by [Aguilar S. et al. Impact of the first year of COVID-19 vaccination strategy in Brazil: an ecological study](https://bmjopen.bmj.com/content/bmjopen/14/7/e072314.full.pdf)  
 
 </div>  
 
+---
+
+### ![Burden COVID Brazil](/media/lancet_burden_covid_brazil.png)  
+**Burden of COVID-19 in Brazil, Lancet Respiratory Medicine, 2021**  
+Figure 5 by [Ranzani O. et al.Characterisation of the first 250 000 hospital admissions for COVID-19 in Brazil: a retrospective analysis of nationwide data](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30560-9/)  
+
+<div style="background-color: #f5f5f5; padding: 1rem; margin: 1rem 0; border-radius: 4px;">
+
+### ![Tuberculosis burden](/media/tuberculosis_post_mortality.png)  
+**Cause-specific long-term mortality of TB, Lancet Infectious Diseases, 2020**  
+eFigure 8 by [Ranzani OT. et al. Long-term survival and cause-specific mortality of patients newly diagnosed with tuberculosis in São Paulo state, Brazil, 2010–15: a population-based, longitudinal study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30518-3/fulltext#supplementary-material)  
+
+</div>  
 
 <br>
 <small>

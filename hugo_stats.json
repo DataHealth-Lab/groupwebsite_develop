@@ -238,6 +238,7 @@
       "js-id-journals",
       "js-id-press",
       "js-id-radio",
+      "js-id-science",
       "js-id-society",
       "js-layout-masonry",
       "js-search",
@@ -394,6 +395,7 @@
       "-other-platforms-considered",
       "awards",
       "brazilian-tree",
+      "burden-covid-brazil",
       "chicken-in-the-amazon",
       "climate-change",
       "container-publications",
@@ -446,6 +448,7 @@
       "section-slider",
       "talk_list",
       "top",
+      "tuberculosis-burden",
       "vaccine-impact",
       "vacina-maré",
       "values"
