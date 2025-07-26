@@ -238,6 +238,7 @@
       "js-id-journals",
       "js-id-press",
       "js-id-radio",
+      "js-id-society",
       "js-layout-masonry",
       "js-search",
       "js-toggle-theme",
@@ -445,6 +446,7 @@
       "section-slider",
       "talk_list",
       "top",
+      "vaccine-impact",
       "vacina-maré",
       "values"
     ]

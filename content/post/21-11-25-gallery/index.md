@@ -61,7 +61,14 @@ Photo by [Redes da Maré](https://www.flickr.com/photos/redesmare/albums/7215771
 **Major Flooding Disaster in South of Brazil, 2024**  
 Photo by [Tarsila Vieceli](https://datahealthlab.org/author/tarsila-vieceli/)  
 
+
+### ![Vaccine Impact](/media/vaccine_impact_soraida.jpeg)  
+**Figure 3 of BMJ Open research article, 2024**  
+Figure by [Aguilar S. et al. Impact of the first year of COVID-19 vaccination strategy in Brazil: an ecological study](https://bmjopen.bmj.com/content/bmjopen/14/7/e072314.full.pdf)  
+
 </div>  
+
+
 <br>
 <small>
 Copyright Notice: Content and media are property of their respective owners. Licensed for display on this domain only.
