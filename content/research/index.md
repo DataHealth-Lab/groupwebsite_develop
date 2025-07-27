@@ -78,7 +78,7 @@ sections:
             <!-- Project 1 -->
             <div class="col-md-5 mb-3">
               <div class="card">
-                <a href="link1">
+                <a href="critical-care">
                   <img src="/media/icutimpel.jpg" alt="critical care ICU EIT" class="card-img-top"  style="height: 350px; object-fit: cover;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Critical Care Science & Innovation</h5>
@@ -89,7 +89,7 @@ sections:
             <!-- Project 2 -->
             <div class="col-md-5 mb-3">
               <div class="card">
-                <a href="link2">
+                <a href="climate-environment-health">
                   <img src="/media/flood_brazil.jpeg" alt="climate change" class="card-img-top"  style="height: 350px; object-fit: smart;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Climate Change & Environment</h5>
@@ -100,7 +100,7 @@ sections:
             <!-- Project 3 -->
             <div class="col-md-5 mb-3">
               <div class="card">
-                <a href="link3">
+                <a href="infectious-diseases-vaccines">
                   <img src="https://live.staticflickr.com/65535/51356159980_0c373cc805_h.jpg" alt="Project 3" class="card-img-top"  style="height: 350px; object-fit: cover;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Infectious Diseases & Vaccines</h5>
@@ -111,7 +111,7 @@ sections:
             <!-- Project 4 -->
             <div class="col-md-5 mb-3">
               <div class="card">
-                <a href="link4">
+                <a href="post-infectious-syndromes">
                   <img src="/media/chicken_amazon.jpg" alt="Project 4" class="card-img-top"  style="height: 350px; object-fit: cover;">
                   <div class="card-body">
                     <h5 class="card-title text-center">Post-Infectious Syndromes</h5>
