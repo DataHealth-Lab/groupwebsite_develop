@@ -4,7 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: DataHealth Lab # Website name
-baseURL: 'datahealthlab.org/' # Website URL
+baseURL: 'https://datahealthlab.org/' # Website URL
+canonifyURLs: true
+uglyURLs: false
 
 ############################
 ## LANGUAGE
