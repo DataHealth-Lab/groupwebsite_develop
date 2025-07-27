@@ -5,7 +5,7 @@
 
 title: DataHealth Lab # Website name
 baseURL: 'https://datahealthlab.org/' # Website URL
-canonifyURLs: true
+# canonifyURLs: false
 uglyURLs: false
 
 ############################
