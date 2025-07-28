@@ -23,6 +23,7 @@ sections:
       subtitle: "Seeking motivated researchers!"
       text: |
         If you're interested in applying for your own funding (fellowships, postdoc or PhD), we <span style="color: #2a5c99; font-weight: 600;">welcome your initiative</span>.<br> 
+        Examples as Marie Curie framework, those from medical/scientific societies (e.g., European Respiratory Society-ERS) and many others available, including from your own country/institution (e.g., CAPes Print from Brazil).<br> 
         At <span style="color: #d32f2f; font-weight: 600;">IR SANT PAU</span>, we provide full institutional support to secure your fellowship and accelerate your research career. Please, [email](mailto:oranzani@santpau.cat) me.
     design:
       columns: '1'
