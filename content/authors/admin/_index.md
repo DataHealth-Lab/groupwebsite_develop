@@ -126,7 +126,8 @@ Our work has informed policy discussions on severe infections, air pollution, va
             <h4 class="card-title exp-title text-muted my-0">International Advisory and Data Safety Boards</h4>
           </a>
           <div class="card-subtitle my-0 article-metadata">
-            Precision Medicine in Intensive Care; RENOVATE; VATICAN; REVOLUTION; STOP-COVID; etc<span class="middot-divider"></span> 2023
+            <strong>Projects</strong>: Precision Medicine in Intensive Care; ISARIC Arbovirus IPOP <br> 
+            <strong>Trials</strong>: RENOVATE; VATICAN; REVOLUTION; STOP-COVID; etc<span class="middot-divider"></span> 2021
           </div>
         </div>
       </div>
@@ -146,7 +147,7 @@ Our work has informed policy discussions on severe infections, air pollution, va
             <h4 class="card-title exp-title text-muted my-0">Top Reviewer in Medicine, 2017 and 2018</h4>
           </a>
           <div class="card-subtitle my-0 article-metadata">
-            Publons - Web of Science <span class="middot-divider"></span> 2018
+            Publons - Web of Science <span class="middot-divider"></span> 2017, 2018
           </div>
         </div>
       </div>

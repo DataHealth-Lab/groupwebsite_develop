@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: selected publications
+subtitle: <strong>selected publications</strong>
 
 # Listing view
 # View.
