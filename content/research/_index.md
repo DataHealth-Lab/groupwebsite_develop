@@ -69,10 +69,10 @@ sections:
       text: |
       
         ## Problems we are currently actively working on:
-        - Mechanisms by which Temperature and Air Pollutants Acutely affect Heart, Brain and Lung, and Adaptation actions
-        - Epidemiology, Mechanisms and Treatment of Post-Infectious Syndromes: Chikungunya, Tuberculosis, COVID-19, and Pneumonia
+        - Mechanisms by which Temperature and Air Pollutants Acutely Affect Heart, Brain and Lung; and Adaptation actions
+        - Epidemiology, Mechanisms and Treatment of Post-Infectious Syndromes: Chikungunya, Tuberculosis, COVID-19 and Pneumonia
         - Respiratory viruses, Dengue, HPV and Herpes-Zoster Vaccines Effectiveness and Impact
-        - Innovation, Implementation and Clinical Trials in Critical Care: Telemedicine, A.I, Antimicrobial Stewardship and Resistance  
+        - Innovation, Implementation and Clinical Trials in Critical Care: Telemedicine, A.I., Antimicrobial Stewardship and Resistance  
         <div class="container">
           <div class="row justify-content-center"> <!-- Added justify-content-center -->
             <!-- Project 1 -->

@@ -40,7 +40,7 @@ We have played leadership roles in several national and international initiative
 
 ### 🗂️ Direct Contributions
 
-#### 📄 WHO, Expanding our our understanding of Post COVID-19 condition (2021)
+#### 📄 WHO, Expanding our understanding of Post COVID-19 condition (2021)
 
 > Member of the Working Group (WG1), Pathophysiology
 📎 [See Webnar](https://www.who.int/news-room/events/detail/2021/06/15/default-calendar/expanding-our-understanding-of-post-covid-19-condition-webinar-2)
@@ -69,7 +69,7 @@ We have played leadership roles in several national and international initiative
 ---
 
 
-## 📚 Our Research Cited in Guidelines
+## 📚 Our Research Cited in Patents, Policy Documents and Guidelines
 
 Our scientific publications have been cited in several key documents, including:
 
