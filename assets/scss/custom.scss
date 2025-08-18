@@ -63,3 +63,29 @@
   min-height:  7em; /* adjust until the shortest entries don't overlap badges */
   padding-bottom: 0.5em;
 }
+
+.publication-all-page .grid-sizer {
+    font-size: 0.7rem;       /* smaller font */
+}
+
+.publication-all-page .li-cite-author,
+.publication-all-page .citation-title {
+    font-size: 0.7rem;       /* ensure author/title text is smaller */
+}
+/* --- Adjust spacing between citations --- */
+.publication-all-page .pub-list-item,
+.publication-all-page .media.stream-item,
+.publication-all-page #container-publications > .grid-sizer {
+    margin-bottom: 0.25rem !important;  /* reduce vertical space */
+    padding-bottom: 0 !important;       /* remove extra padding */
+    min-height: auto !important;        /* allow natural height */
+}
+
+/* Optional: tighten line height inside each citation */
+.publication-all-page .pub-list-item p,
+.publication-all-page .pub-list-item span,
+.publication-all-page .pub-list-item a {
+    line-height: 1.1 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}

@@ -9,32 +9,28 @@ main:
     weight: 10
   - name: Research
     url: research
-    menu:
-      - name: Areas
-        url: areas
-        weight: 1
-      - name: Projects
-        url: projects
-        weight: 2
     weight: 20
   - name: Team
     url: people
     weight: 30
-  - name: Publications
+  - name: Featured Publications
     url: publication
     weight: 40
+  - name: Publications
+    url: publication_all
+    weight: 50
   - name: Outreach
     url: outreach
-    weight: 50
+    weight: 60
   - name: Impact
     url: impact
-    weight: 60
+    weight: 70
   - name: Posts
     url: post
-    weight: 70
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90
   - name: Join us
     url: join
-    weight: 90
+    weight: 100
