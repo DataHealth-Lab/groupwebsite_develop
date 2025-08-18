@@ -1,6 +1,6 @@
 ---
-title: Guidelines & Consensus
-summary: "Engagement in clinical guideline development through methodological expertise, evidence synthesis, and implementation research."
+title: Patents, Policy & Guidelines
+summary: "Impact on translation and engagement in clinical guideline development through methodological expertise and implementation research."
 tags: ['Guidelines']
 date: "2016-10-22"
 
@@ -36,6 +36,15 @@ We have played leadership roles in several national and international initiative
 
 ---
 
+## 📚 Our Research Cited in Patents, Policy Documents and Guidelines
+
+Our scientific publications have been cited in several key documents, including (<strong>Under construction</strong>):
+
+- 10 articles were cited in 12 Patents (source: Dimensions/Altmetric)
+- 28 articles were cited in 31 Policy Documents (source: Dimensions/Altmetric)
+
+---
+
 ## 🧭 Guidelines We've Authored or Contributed To
 
 ### 🗂️ Direct Contributions
@@ -68,12 +77,4 @@ We have played leadership roles in several national and international initiative
 
 ---
 
-
-## 📚 Our Research Cited in Patents, Policy Documents and Guidelines
-
-Our scientific publications have been cited in several key documents, including:
-
-- Under construction
-
----
 
