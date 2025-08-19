@@ -40,10 +40,10 @@ We have played leadership roles in several national and international initiative
 
 Our scientific publications have been cited in several key documents, including (<strong>Under construction</strong>):
 
-- 10 articles were cited in 12 Patents (source: Dimensions)
-- 26 articles were cited in 29 Policy Documents (source: Dimensions)
-- 15 articles were cited in 15 Guidelines (source: Dimensions)
-- 04 articles were cited 14 Wikipedia entries (source: Dimensions)
+- 06 articles were cited in 07 Patents (source: Dimensions)
+- 18 articles were cited in 21 Policy Documents (source: Dimensions)
+- 09 articles were cited in 09 Guidelines (source: Dimensions)
+- 03 articles were cited in 09 Wikipedia entries (source: Dimensions)
 
 ---
 

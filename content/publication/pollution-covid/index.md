@@ -37,7 +37,7 @@ add_badge: true
 
 featured: true
 
-categories: ['covid',"pollution"]
+categories: ['covid',"air pollution"]
 
 date: "2023-05-24"
 

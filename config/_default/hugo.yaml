@@ -33,6 +33,7 @@ permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
+  pub_keys: '/pub_key/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
@@ -48,6 +49,7 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+  pub_key: pub_keys
 markup:
   _merge: deep
   goldmark:

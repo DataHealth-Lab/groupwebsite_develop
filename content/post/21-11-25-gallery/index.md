@@ -83,6 +83,11 @@ eFigure 8 by [Ranzani OT. et al. Long-term survival and cause-specific mortality
 
 </div>  
 
+---
+### ![Beach Sardinia Climate](/media/sardegna_beach_science.png)  
+**Sardinia, Summer 2025**  
+Photo by [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/) in Tuerredda Beach, Italy  
+
 <br>
 <small>
 Copyright Notice: Content and media are property of their respective owners. Licensed for display on this domain only.

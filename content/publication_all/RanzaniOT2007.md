@@ -1,16 +1,11 @@
 ---
-title: "Association of ambient and household air pollution with lung function in young adults in an peri-urban area of South-India: A cross-sectional study"
-publication: "**Environment international**. 165:107290. <a href='https://doi.org/10.1016/j.envint.2022.107290' target='_blank' rel='noopener noreferrer'>10.1016/j.envint.2022.107290</a>"
+title: "Intraluminal plugs in idiopathic and secondary organizing pneumonia: repair or remodelling?"
+publication: "**Histopathology**. 51(5):622-30. <a href='https://doi.org/10.1111/j.1365-2559.2007.02845.x' target='_blank' rel='noopener noreferrer'>10.1111/j.1365-2559.2007.02845.x</a>"
 authors:
 - otavioranzani
-- Bhogadi S
-- Milà C
-- Kulkarni B
-- Balakrishnan K
-- Sambandam S
-- Garcia-Aymerich J
-- Marshall JD
-- Kinra S
-- Tonne C
-date: "2022-07-01"
+- Parra ER
+- de Morais Fernezlian S
+- Capelozzi VL
+date: "2007-11-01"
+pub_keys: [pneumonia]
 ---

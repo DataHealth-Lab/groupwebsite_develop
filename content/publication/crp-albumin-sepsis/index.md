@@ -23,7 +23,7 @@ add_badge: true
 
 featured: true
 
-categories: ['covid',"pollution"]
+categories: ['sepsis',"biomarker"]
 
 date: "2013-03-12"
 

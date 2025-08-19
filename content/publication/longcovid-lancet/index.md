@@ -26,7 +26,7 @@ add_badge: true
 
 featured: true
 
-categories: ['covid19',"post-infection"]
+categories: ['covid',"post-infection"]
 
 date: "2023-08-03"
 

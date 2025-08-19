@@ -16,4 +16,7 @@ banner:
   caption: 'science'
   image: 'sardegna_beach_science.png'
 ---
-PI's full list with citations [here](https://scholar.google.com/citations?user=fXwnz6AAAAAJ&hl)  
+PI's full list with citations: 
+[{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=fXwnz6AAAAAJ&hl) 
+[{{< icon name="scopus" pack="ai" >}}](https://www.scopus.com/authid/detail.uri?authorId=16679396800) 
+[{{< icon name="clarivate" pack="ai" >}}](https://www.webofscience.com/wos/author/record/1831275)
