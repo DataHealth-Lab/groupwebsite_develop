@@ -2,7 +2,7 @@
 title: Patents, Policy & Guidelines
 summary: "Impact on translation and engagement in clinical guideline development through methodological expertise and implementation research."
 tags: ['Guidelines']
-date: "2016-10-22"
+date: "2024-10-22"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://www.science.org/content/article/breathing-polluted-air-increases-risk-osteoporosis-growing-evidence-shows"
@@ -61,7 +61,7 @@ Our scientific publications have been cited in several key documents, including 
 #### 📄 ICM Practice Guidelines, Dexmedetomidine (2022)
 
 > Rapid Practice Guidelines from the European Society of Intensive Care Medicine (ESICM)
-📎 [View guideline (PDF)](https://link.springer.com/article/10.1007/s00134-022-06660-x)
+📎 [View guideline](https://link.springer.com/article/10.1007/s00134-022-06660-x)
 
 ---
 
@@ -72,11 +72,17 @@ Our scientific publications have been cited in several key documents, including 
 
 ---
 
-#### 📄 Conference Reports and Expert Panel, Resuscitation fluids (2025)
+#### 📄 Conference Reports and Expert Panel, Volume of Resuscitation Fluids (2025)
 
 > European Society of Intensive Care Medicine (ESICM) 2025 clinical practice guideline on fluid therapy in adult critically ill patients 
-📎 [View guideline (PDF)](https://link.springer.com/article/10.1007/s00134-025-07840-1)
+📎 [View guideline](https://link.springer.com/article/10.1007/s00134-025-07840-1)
 
 ---
 
+#### 📄 Conference Reports and Expert Panel, Fluid Removal at De-escalation phase (2025)
+
+> European Society of Intensive Care Medicine (ESICM) 2025 clinical practice guideline on fluid therapy in adult critically ill patients 
+📎 [View guideline](https://link.springer.com/article/10.1007/s00134-025-08058-x)
+
+---
 
