@@ -20,5 +20,5 @@ PI's full list with citations:
 [{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.com/citations?user=fXwnz6AAAAAJ&hl) 
 [{{< icon name="scopus" pack="ai" >}}](https://www.scopus.com/authid/detail.uri?authorId=16679396800) 
 [{{< icon name="clarivate" pack="ai" >}}](https://www.webofscience.com/wos/author/record/1831275)<br>
-Wordcloud of titles here: 
+Wordcloud of titles: 
 [🧠](https://datahealthlab.org/post/21-11-27-worldcloud-publications/)
