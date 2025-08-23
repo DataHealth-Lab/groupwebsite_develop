@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Pandemic in Brazil
-summary: "Impact on Policy and Society from our work COVID-19 Burden in Brazil"
+summary: "Impact on Policy and Society from our work on COVID-19 Burden in Brazil"
 tags: ['Society']
 date: "2020-11-10"
 
