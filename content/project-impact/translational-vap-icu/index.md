@@ -18,7 +18,7 @@ full_image: true
 
 ### 📜 Background  
 
-Translating discoveries from the laboratory to clinical trials is **rare and challenging**, especially in critical care. During my research fellowship in 2011—supported by **ALAT-SEPAR (Latin American & Spanish Pulmonary Societies)**—I joined a [leading translational research group](https://www.idibapsrespiratoryresearch.org/), led by Prof. Antoni Torres, at **Hospital Clínic-IDIBAPS (Barcelona)**, investigating the **role of gravity in the pathophysiology of VAP**.  
+Translating discoveries from the laboratory to clinical trials is **rare and challenging**, especially in critical care. During Otavio's research fellowship in 2011—supported by **ALAT-SEPAR (Latin American & Spanish Pulmonary Societies)**— he joined a [leading translational research group](https://www.idibapsrespiratoryresearch.org/), led by Prof. Antoni Torres, at **Hospital Clínic-IDIBAPS (Barcelona)**, investigating the **role of gravity in the pathophysiology of VAP**.  
 
 This work integrated **medicine, engineering, and physics**, challenging a longstanding critical care dogma: that patients should remain semi-recumbent to prevent VAP.  
 
