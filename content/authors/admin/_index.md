@@ -61,9 +61,9 @@ social:
   - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/otavioranzani.bsky.social
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/otavio_ranzani
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://x.com/otavio_ranzani
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/otavio-ranzani-79052aa6/
@@ -112,8 +112,8 @@ Our work has informed policy discussions on severe infections, air pollution, va
     <div class="col-12 col-lg-8">
     <div class="card experience course">
         <div class="card-body">
-          <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank" rel="noopener">
-            <h4 class="card-title exp-title text-muted my-0">Listed among top 2% cited scientists in the world in the years 2023 and 2024</h4>
+          <a href="https://topscinet.com/scientist_profile/Ranzani,%20Otavio%20T./2007/?stype=single_year" target="_blank" rel="noopener">
+            <h4 class="card-title exp-title text-muted my-0">Listed among top 2% cited scientists in the world in the years 2022, 2023 and 2024</h4>
           </a>
           <div class="card-subtitle my-0 article-metadata">
             Stanford & Elsevier<span class="middot-divider"></span> 2024
