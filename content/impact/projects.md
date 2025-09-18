@@ -6,7 +6,7 @@ active = true # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Impact"
-subtitle = "under construction"
+subtitle = "a [conceptual change](https://www.isglobal.org/en/healthisglobal/-/custom-blog-portlet/what-do-we-mean-when-we-talk-about-impact-) (how we think about something) <br> a [change in capacities](https://www.isglobal.org/en/healthisglobal/-/custom-blog-portlet/what-do-we-mean-when-we-talk-about-impact-) (the ability to do something) <br> an [instrumental change](https://www.isglobal.org/en/healthisglobal/-/custom-blog-portlet/what-do-we-mean-when-we-talk-about-impact-) (changing something)"
 
 [content]
   # Page type to display. E.g. project.
