@@ -18,7 +18,7 @@ full_image: true
 
 ### 📜 Background  
 
-Translating discoveries from the laboratory to clinical trials is **rare and challenging**, especially in critical care. During Otavio's research fellowship in 2011—supported by **ALAT-SEPAR (Latin American & Spanish Pulmonary Societies)**— he joined a [leading translational research group](https://www.idibapsrespiratoryresearch.org/), led by Prof. Antoni Torres, at **Hospital Clínic-IDIBAPS (Barcelona)**, investigating the **role of gravity in the pathophysiology of VAP**.  
+Translating discoveries from the laboratory to clinical trials is **rare and challenging**, especially in critical care. During Otavio's research fellowship in 2011, supported by ALAT-SEPAR (Latin American & Spanish Pulmonary Societies), he joined a [leading translational research group](https://www.idibapsrespiratoryresearch.org/), led by Prof. Antoni Torres, at **Hospital Clínic-IDIBAPS** (Barcelona), investigating the **role of gravity in the pathophysiology of VAP**.  
 
 This work integrated **medicine, engineering, and physics**, challenging a longstanding critical care dogma: that patients should remain semi-recumbent to prevent VAP.  
 
@@ -29,10 +29,10 @@ This work integrated **medicine, engineering, and physics**, challenging a longs
 ### 🔬 My Contribution  
 
 - **Bench Experiments:** First-author work on in vitro studies using artificial saliva to model secretion dynamics in endotracheal tubes under gravitational influence.  
-- **Animal Models:** Contributed to large-scale porcine models simulating severe VAP.  
-- **Clinical Translation:** Designed and co-led analyses for the **GRAVITY-VAP Trial**, a **randomized multicenter clinical trial** testing these hypotheses in humans.  
+- **Animal Models:** Contributed to large-scale porcine models to experiment different scenarios of VAP prevention and severe VAP treatment.  
+- **Clinical Translation:** Designed and the led analyses for the **GRAVITY-VAP Trial**, a randomized multicenter clinical trial testing these hypotheses in humans.  
 
-The trial was presented in the **Clinical Trials Session at LIVES 2017 (Vienna)**—an acknowledgment reserved for impactful research in intensive care medicine.
+The trial was presented in the **Clinical Trials Session at LIVES 2017 (Vienna)**, an acknowledgment reserved for impactful research in intensive care medicine.
 
 <figure style="text-align:center;">
   <a href="https://www.esicm.org/ictv-clinical-trial-results-the-gravity-vap-trial/" target="_blank">
@@ -40,7 +40,7 @@ The trial was presented in the **Clinical Trials Session at LIVES 2017 (Vienna)*
          alt="GRAVITY-VAP trial" width="600"/>
   </a>
   <figcaption>
-    Drs. Gianluigi Li Bassi and Mauro Panigada presenting the trial at LIVES 2017.
+    CO-PIs Drs. Gianluigi Li Bassi and Mauro Panigada bieng interviewed at LIVES 2017
   </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The trial was presented in the **Clinical Trials Session at LIVES 2017 (Vienna)*
 ### 🌍 Impact  
 
 - **Bridged bench-to-bedside science** across multiple disciplines  
-- **Published in *Intensive Care Medicine*** 
+- **Published** in Intensive Care Medicine 
 - **Highly** cited and generated ongoing debates on positioning strategies in ICUs  
 - **Challenged established practice**, influencing VAP prevention discussions worldwide  
 

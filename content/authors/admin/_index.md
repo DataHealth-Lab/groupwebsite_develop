@@ -21,10 +21,10 @@ organizations:
 bio: I am a scientist, born in <span style="color:green">🇧🇷</span>.
 
 interests:
-  - Respiratory Infections
   - Critical Care
   - Environment
   - Methods
+  - Respiratory Infections
 
 education:
   courses:

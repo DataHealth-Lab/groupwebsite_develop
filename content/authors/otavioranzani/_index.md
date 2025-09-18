@@ -14,12 +14,14 @@ organizations:
     url: 'https://www.recercasantpau.cat/en/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an epidemiologist.
+bio: I am a scientist, born in <span style="color:green">🇧🇷</span>.
 
 interests:
-  - Respiratory Infections
   - Critical Care
-  - Enviroment
+  - Environment
+  - Methods
+  - Respiratory Infections
+
 
 education:
   courses:
@@ -41,12 +43,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:oranzani@santpau.cat'
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/otavioranzani.bsky.social
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://x.com/otavio_ranzani
   - icon: clarivate
     icon_pack: ai
     link: https://www.webofscience.com/wos/author/record/1831275
@@ -56,9 +52,18 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/oranzani
-  # - icon: scopus
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-4677-6862
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/otavioranzani.bsky.social
+  # - icon: twitter
   #   icon_pack: fab
-  #   link: https://www.scopus.com/authid/detail.uri?authorId=16679396800
+  #   link: https://x.com/otavio_ranzani
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/otavio-ranzani-79052aa6/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -78,3 +83,10 @@ highlight_name: true
 user_groups:
   - Visitors
 ---
+
+
+<div style="font-size: 85%;">
+
+*I view science as a social construct essential for enhancing and promoting the health and well-being of individuals.*
+
+Full profile: [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/)
