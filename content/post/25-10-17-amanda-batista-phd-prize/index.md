@@ -17,7 +17,7 @@ lightbox="true" width="300" height="200">}}
 
 🎉 Congratulations to Amanda Batista — Winner of the ABEPRO Best PhD Thesis Award!
 
-We are delighted to celebrate [Amanda Batista](https://datahealthlab.org/author/amanda-batista/), PhD, for receiving the Best Doctoral Thesis Award in the Thesis category at the 45th National Meeting on Production Engineering ([ENEGEP 2025]("https://portal.abepro.org.br/enegep/2025/premiacao/")), organized by the Brazilian Association of Production Engineering (ABEPRO).
+We are delighted to celebrate [Amanda Batista](https://datahealthlab.org/author/amanda-batista/), PhD, for receiving the Best Doctoral Thesis Award in the Thesis category at the 45th National Meeting on Production Engineering ([ENEGEP 2025](https://portal.abepro.org.br/enegep/2025/premiacao/)), organized by the Brazilian Association of Production Engineering (ABEPRO).
 
 Amanda defended her thesis, "Preparedness for Public Health Emergencies: The COVID-19 Response from a Vulnerabilised Community in Brazil", in April 2025 and was co-supervised by [Silvio Hamacher](https://scholar.google.com/citations?user=piH7UswAAAAJ&hl=en) (PUC-Rio, Brazil), [Fernando Bozza](https://scholar.google.com/citations?user=B01VyPgAAAAJ&hl=en) (Fiocruz, Brazil) and Otavio Ranzani (DataHealth Lab, Spain). Her work provides a powerful and timely analysis of how vulnerable communities respond to public health crises, highlighting lessons for improving preparedness and resilience in future emergencies.
 
