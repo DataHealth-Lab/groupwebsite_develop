@@ -9,7 +9,7 @@ external_link: "https://theconversation.com/onda-de-calor-no-brasil-sua-saude-fi
 
 image:
   preview_only: true
-  url: "https://images.theconversation.com/files/549623/original/file-20230921-23-di2jtc.jpg"
+  # url: "https://flic.kr/p/2oqbS65"
   full_image: true
 
 ---
