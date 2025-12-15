@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Dolça Gras Pacheco
+title: Miquel Félez Galán 
 
 # degree: [MD]
 
 # Full name (for SEO)
-first_name: Dolça
-last_name: Gras Pacheco
+first_name: Miquel
+last_name: Félez Galán
 
 avatar_filename: avatar.jpg
 # Username (this should match the folder name)
 authors:
-  - dolcagraspacheco
+  - miquelfelezgalan
 
 # Is this the primary user of the site?
 superuser: false
@@ -28,18 +28,21 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Cardio-Respiratory Physioterapy
-  - Critical Care
-  - Innovation
+- Cardiorespiratory Rehabilitation
+- Intensive Care and Intermediate Respiratory Care
+- Clinical Research and Innovation in Physiotherapy
 
 education:
   courses:
-    - course: MSc in Thoracic Physioterapy
+    - course: Postgraduate Training in Cardiorespiratory Physiotherapy
+      institution: Blanquerna – Universitat Ramon Llull
+      year: 2023
+    - course: Bachelor’s Degree in Physiotherapy
       institution: Escoles Universitàries Gimbernat i Tomàs Cerdà (UAB)
-      year: 2021
-    - course: Physioterapy
-      institution: Universitat International de Catalunya
-      year: 2009
+      year: 2017
+
+
+
 
 
 
@@ -54,7 +57,7 @@ social:
   #   link: 'mailto:breno.gsilva@fiocruz.br'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/dol%C3%A7a-gras-54638ab2/
+    link: https://www.linkedin.com/in/miquel-f%C3%A9lez-gal%C3%A1n-919129285/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com.br/citations?hl=pt-BR&user=su0GfTEAAAAJ
