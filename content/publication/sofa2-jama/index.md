@@ -1,7 +1,7 @@
 ---
 title: "Development and Validation of the Sequential Organ Failure Assessment (SOFA)-2 Score"
 
-publication: "**JAMA**. 2025; Online 29 Oct <a href='https://jamanetwork.com/journals/jama/fullarticle/2840822' target='_blank' rel='noopener noreferrer'>10.1001/jama.2025.20516</a>"
+publication: "**JAMA**. 2025;334(23):2090-2103. <a href='https://jamanetwork.com/journals/jama/fullarticle/2840822' target='_blank' rel='noopener noreferrer'>10.1001/jama.2025.20516</a>"
 # Publication name and optional abbreviated publication name.
 # publication_short: ""
 

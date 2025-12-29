@@ -1,7 +1,7 @@
 ---
 title: "Effectiveness of the TAK-003 dengue vaccine in adolescents during the 2024 outbreak in São Paulo, Brazil: a test-negative, case–control study"
 
-publication: "**The Lancet Infectious Diseases**. 2025;.. <a href='https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(25)00382-2/abstract' target='_blank' rel='noopener noreferrer'>10.1016/S1473-3099(25)00382-2</a>"
+publication: "**The Lancet Infectious Diseases**. 2026;26(1):91-100 <a href='https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(25)00382-2/abstract' target='_blank' rel='noopener noreferrer'>10.1016/S1473-3099(25)00382-2</a>"
 
 # Publication name and optional abbreviated publication name.
 # publication_short: ""
