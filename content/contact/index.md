@@ -9,12 +9,25 @@ sections:
     content:
       title: "Jobs"
       subtitle: "Current Openings"
-      text: |
-        **We currently have no open positions.**  
-        New opportunities will be announced:
-        - On this website
-        - Through academic channels (Nature Careers, EURAXESS)
-        - On our social media
+      text: | 
+        **📢 Postdoctoral Opportunity – Sara Borrell Fellowship (Barcelona, Spain)**
+
+        We are seeking highly motivated postdoctoral candidates to apply for the **Sara Borrell Fellowship (ISCIII)** in the upcoming call.
+        The proposed project will investigate the **effects of temperature and air pollution on chronic respiratory diseases**, with a particular focus on **vulnerable populations** and **adaptation measures**, using advanced epidemiological methods and large-scale population data.
+        **Key requirements**
+        - PhD obtained **after January 2022**
+        - Strong background in epidemiology, biostatistics, environmental health, or related fields
+        - Interest in climate-related health research and population-based studies
+        - Excellent analytical and scientific writing skills
+
+        **What we offer**
+        - An enthusiastic and growing research group
+        - A stimulating and supportive research environment
+        - Collaboration with national and international partners
+        - Strong mentoring for fellowship preparation and career development
+
+        If you are interested, please contact [me](mailto:oranzani@santpau.cat) with a **CV and a brief statement of research interests.**  
+        **Deadline:** 02/02/2026
     design:
       columns: '1'
   - block: markdown
