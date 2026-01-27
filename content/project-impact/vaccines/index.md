@@ -1,6 +1,6 @@
 ---
-title: COVID-19 Vaccines
-summary: "Impact on Policy, Society and Science from our work on COVID-19 Vaccines"
+title: Vaccines
+summary: "Impact on Policy, Society and Science from our work on Vaccines"
 tags: ['Society']
 date: "2021-03-18"
 
