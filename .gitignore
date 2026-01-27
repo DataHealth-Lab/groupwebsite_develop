@@ -14,4 +14,4 @@ assets/jsconfig.json
 .Ruserdata
 
 # Other
-.httr-oauth
+.httr-oauth.Rhistory
