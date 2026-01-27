@@ -1,8 +1,17 @@
 # IDEs
 .idea/
+
 # Hugo
 /resources/
 public/
 assets/jsconfig.json
+
+# R files
 .Rproj.user
+.Rhistory
+.RData
+.Rapp.history
+.Ruserdata
+
+# Other
 .httr-oauth
