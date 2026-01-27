@@ -13,6 +13,11 @@ assets/jsconfig.json
 .Rapp.history
 .Ruserdata
 
-# Other
+
+# Authentication
 .httr-oauth.Rhistory
 .httr-oauth
+*.httr-oauth
+.Renviron
+.env
+secrets/
