@@ -15,7 +15,7 @@ sections:
         We are seeking highly motivated postdoctoral candidates (any nationality) to apply for the **Sara Borrell Fellowship (ISCIII)**, 3 years postdoc funding, in the 2026 upcoming call (starts on Jan 2027 if funded).
         The proposed project will investigate the **effects of temperature and air pollution on chronic respiratory diseases**, with a particular focus on **vulnerable populations** and **adaptation measures**, using advanced epidemiological methods and large-scale population data.
         **Key requirements**
-        - PhD obtained **after January 2022**
+        - PhD obtained **after January 2022** (and before 05/03/2026)
         - Strong background in epidemiology, biostatistics, environmental health, or related fields
         - Interest in climate-related health research and population-based studies
         - Excellent analytical and scientific writing skills
