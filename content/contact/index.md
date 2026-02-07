@@ -9,36 +9,38 @@ sections:
     content:
       title: "Jobs"
       subtitle: "Current Openings"
-      text: | 
-        **📢 Postdoctoral Opportunity – Sara Borrell Fellowship (Barcelona, Spain)**
-
-        We are seeking highly motivated postdoctoral candidates (any nationality) to apply for the **Sara Borrell Fellowship (ISCIII)**, 3 years postdoc funding, in the 2026 upcoming call (starts on Jan 2027 if funded).
-        The proposed project will investigate the **effects of temperature and air pollution on chronic respiratory diseases**, with a particular focus on **vulnerable populations** and **adaptation measures**, using advanced epidemiological methods and large-scale population data.
+      text: |
+        We periodically have openings for **Postdoctoral Researchers**, **PhD Students**, and **Research Assistants**.
+        
+        Even when no formal calls are active, feel free to send your CV and research interests to [DataHealth Lab](mailto:labdatahealth@gmail.com) for future opportunities.  
         <br>
-        **Key requirements**
-        - PhD obtained **after January 2022** (and before 05/03/2026)
-        - Strong background in epidemiology, biostatistics, environmental health, or related fields
-        - Interest in climate-related health research and population-based studies
-        - Excellent analytical and scientific writing skills
-
-        **What we offer**
-        - An enthusiastic and growing research group
-        - A stimulating and supportive research environment
-        - Collaboration with national and international partners
-        - Strong mentoring for fellowship preparation and career development
-
-        If you are interested, please contact [me](mailto:oranzani@santpau.cat) with a **CV and a brief statement of research interests.**  
-        **Deadline:** 02/02/2026
-    design:
+        **Regularly check:**  
+        • [Euraxess](https://euraxess.ec.europa.eu/)  
+        • [IR SANT PAU Careers](https://www.recercasantpau.cat/en/the-institute/human-resources/job-openings/)  
+        • This page (regularly updated)     
+        <br>
       columns: '1'
   - block: markdown
     content:
       title: "Personal Fellowships"
       subtitle: "Seeking motivated researchers!"
       text: |
-        If you're interested in applying for your own funding (fellowships, postdoc or PhD), we <span style="color: #2a5c99; font-weight: 600;">welcome your initiative</span>.<br> 
-        Examples as **Marie Curie** framework, those from medical/scientific societies (e.g., **European Respiratory Society-ERS**) and many others available, including from your own country/institution (e.g., **CAPES PrInt** from Brazil).<br> 
-        At <span style="color: #d32f2f; font-weight: 600;">IR SANT PAU</span>, we provide full institutional support to secure your fellowship and accelerate your research career. Please, [email](mailto:oranzani@santpau.cat) me.
+        ### We Support Your Fellowship Applications
+  
+         If you're interested in applying for your own funding, we <span style="color: #2a5c99; font-weight: 600;">welcome your initiative</span> and provide full institutional support.
+         #### Popular Fellowship Programs:
+         -**Marie Skłodowska-Curie Actions** (Postdoctoral Fellowships)  
+         -**European Respiratory Society (ERS)** Fellowships  
+         -**CAPES PrInt** (Brazilian researchers)  
+         -National fellowships from your home country
+  
+         #### Our Support Includes:
+         ✓ Project development guidance  
+         ✓ Administrative assistance  
+         ✓ Access to research facilities  
+         ✓ Mentorship throughout the process  
+         <br>
+         **Next Steps:** Please prepare a 1-page research concept and your CV, then [email me](mailto:oranzani@santpau.cat) to discuss possibilities.
     design:
       columns: '1'
 
