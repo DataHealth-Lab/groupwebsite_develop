@@ -10,5 +10,5 @@ authors:
 - Aliberti S
 - Torres A
 date: "2017-09-01"
-pub_keys: [unknown]
+pub_keys: [critical care, pneumonia]
 ---

@@ -12,5 +12,5 @@ authors:
 - Salje H
 - Cummings DAT
 date: "2026-02-06"
-pub_keys: [unknown]
+pub_keys: [dengue, vaccine]
 ---

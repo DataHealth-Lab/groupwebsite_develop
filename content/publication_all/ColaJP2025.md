@@ -8,5 +8,5 @@ authors:
 - Noia Maciel EL
 - Vicente CR
 date: "2025-01-01"
-pub_keys: [unknown]
+pub_keys: [other]
 ---
