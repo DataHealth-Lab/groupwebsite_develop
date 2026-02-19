@@ -5,7 +5,7 @@ authors:
 - Pescarini JM
 - Cardoso AM
 - Santos RV
-- ..
+- ...
 - otavioranzani
 - ...
 - Barreto ML

@@ -5,8 +5,9 @@ authors:
 - Cola JP
 - do Prado TN
 - otavioranzani
+- ...
 - Noia Maciel EL
 - Vicente CR
 date: "2025-01-01"
-pub_keys: [other]
+pub_keys: [unknown]
 ---

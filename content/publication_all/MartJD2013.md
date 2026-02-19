@@ -5,7 +5,7 @@ authors:
 - Martí JD
 - Li Bassi G
 - Rigol M
-- ..
+- ...
 - otavioranzani
 - ...
 - Kolobow T

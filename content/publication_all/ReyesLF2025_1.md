@@ -5,7 +5,7 @@ authors:
 - Reyes LF
 - Sanabria-Herrera N
 - Nseir S
-- ..
+- ...
 - otavioranzani
 - ...
 - Martin-Loeches I

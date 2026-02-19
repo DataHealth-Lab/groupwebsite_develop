@@ -5,7 +5,7 @@ authors:
 - Cerbino-Neto J
 - Peres IT
 - Varela MC
-- ..
+- ...
 - otavioranzani
 - ...
 - Bozza FA

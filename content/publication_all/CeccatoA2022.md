@@ -5,7 +5,7 @@ authors:
 - Ceccato A
 - Dominedò C
 - Ferrer M
-- ..
+- ...
 - otavioranzani
 - ...
 - Antonelli M

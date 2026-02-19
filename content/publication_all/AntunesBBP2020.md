@@ -5,7 +5,7 @@ authors:
 - Antunes BBP
 - Peres IT
 - Baião FA
-- ..
+- ...
 - otavioranzani
 - ...
 - Hamacher S

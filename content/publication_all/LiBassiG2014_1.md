@@ -5,7 +5,7 @@ authors:
 - Li Bassi G
 - Marti JD
 - Saucedo L
-- ..
+- ...
 - otavioranzani
 - ...
 - Vila J

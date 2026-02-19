@@ -5,11 +5,11 @@ authors:
 - de Morais Batista F
 - Carcamo PM
 - Nelson E
-- ..
+- ...
 - otavioranzani
 - ...
 - Maymone Gonçalves CC
 - Croda J
 date: "2026-02-01"
-pub_keys: [dengue]
+pub_keys: [unknown]
 ---

@@ -5,11 +5,11 @@ authors:
 - Dorn de Carvalho JM
 - McGuire SS
 - Oliveira LLR
-- ..
+- ...
 - otavioranzani
 - ...
 - Hajjar LA
 - Maia IWA
 date: "2025-10-17"
-pub_keys: [critical care]
+pub_keys: [unknown]
 ---

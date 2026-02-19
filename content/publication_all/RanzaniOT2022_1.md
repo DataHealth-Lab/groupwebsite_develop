@@ -5,6 +5,7 @@ authors:
 - otavioranzani
 - Hitchings MDT
 - de Melo RL
+- ...
 - Ko AI
 - Croda J
 date: "2022-10-06"

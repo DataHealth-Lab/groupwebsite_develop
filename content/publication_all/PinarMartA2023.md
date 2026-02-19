@@ -5,7 +5,7 @@ authors:
 - Pinar-Martí A
 - Gignac F
 - Fernández-Barrés S
-- ..
+- ...
 - otavioranzani
 - ...
 - Sunyer J

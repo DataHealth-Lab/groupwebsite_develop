@@ -5,6 +5,7 @@ authors:
 - otavioranzani
 - Hitchings MDT
 - Dorion M
+- ...
 - Ko AI
 - Croda J
 date: "2021-08-20"

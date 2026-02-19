@@ -5,6 +5,7 @@ authors:
 - otavioranzani
 - Milà C
 - Sanchez M
+- ...
 - Kinra S
 - Tonne C
 date: "2020-02-01"

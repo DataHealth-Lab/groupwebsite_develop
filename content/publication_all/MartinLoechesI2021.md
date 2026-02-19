@@ -5,7 +5,7 @@ authors:
 - Martin-Loeches I
 - Ceccato A
 - Carbonara M
-- ..
+- ...
 - otavioranzani
 - ...
 - Ferrer M

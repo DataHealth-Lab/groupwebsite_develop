@@ -5,6 +5,7 @@ authors:
 - Mekontso Dessap A
 - AlShamsi F
 - Belletti A
+- ...
 - Alhazzani W
 - European Society of Intensive Care Medicine
 date: "2025-03-01"

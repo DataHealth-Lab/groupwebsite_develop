@@ -5,6 +5,7 @@ authors:
 - Ceccato A
 - Panagiotarakou M
 - otavioranzani
+- ...
 - Bermejo-Martin JF
 - Torres A
 date: "2019-06-13"

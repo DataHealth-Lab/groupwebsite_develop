@@ -5,6 +5,7 @@ authors:
 - otavioranzani
 - Martín Pérez C
 - Rubio R
+- ...
 - Moncunill G
 - Dobaño C
 date: "2025-12-13"

@@ -5,7 +5,7 @@ authors:
 - Martin FP
 - Poulain C
 - Mulier JH
-- ..
+- ...
 - otavioranzani
 - ...
 - Cremer O

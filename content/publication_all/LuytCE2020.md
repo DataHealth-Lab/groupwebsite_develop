@@ -5,7 +5,7 @@ authors:
 - Luyt CE
 - Bouadma L
 - Morris AC
-- ..
+- ...
 - otavioranzani
 - ...
 - Torres A

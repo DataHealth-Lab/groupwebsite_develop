@@ -5,7 +5,7 @@ authors:
 - Julvez J
 - Gignac F
 - Fernández-Barrés S
-- ..
+- ...
 - otavioranzani
 - ...
 - Salas-Salvadó J

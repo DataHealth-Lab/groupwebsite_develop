@@ -5,7 +5,7 @@ authors:
 - Li Bassi G
 - Comaru T
 - Martí D
-- ..
+- ...
 - otavioranzani
 - ...
 - Fraser J

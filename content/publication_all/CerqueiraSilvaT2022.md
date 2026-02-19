@@ -5,7 +5,7 @@ authors:
 - Cerqueira-Silva T
 - Andrews JR
 - Boaventura VS
-- ..
+- ...
 - otavioranzani
 - ...
 - Croda J

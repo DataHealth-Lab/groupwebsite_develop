@@ -5,6 +5,7 @@ authors:
 - Li Bassi G
 - Panigada M
 - otavioranzani
+- ...
 - Torres A
 - Gravity-VAP Network
 date: "2017-11-01"

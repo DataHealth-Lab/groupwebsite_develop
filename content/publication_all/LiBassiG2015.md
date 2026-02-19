@@ -5,7 +5,7 @@ authors:
 - Li Bassi G
 - Fernandez-Barat L
 - Saucedo L
-- ..
+- ...
 - otavioranzani
 - ...
 - Ferrer M

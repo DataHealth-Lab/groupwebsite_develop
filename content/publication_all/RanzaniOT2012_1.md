@@ -5,6 +5,7 @@ authors:
 - otavioranzani
 - Prada LF
 - Zampieri FG
+- ...
 - Azevedo LC
 - Park M
 date: "2012-10-01"

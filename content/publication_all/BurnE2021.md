@@ -5,7 +5,7 @@ authors:
 - Burn E
 - Sena AG
 - Prats-Uribe A
-- ..
+- ...
 - otavioranzani
 - ...
 - Kostka K

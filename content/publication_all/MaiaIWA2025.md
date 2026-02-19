@@ -5,7 +5,7 @@ authors:
 - Maia IWA
 - Besen BAMP
 - Silva LOJE
-- ..
+- ...
 - otavioranzani
 - ...
 - Alencar JCG

@@ -5,6 +5,7 @@ authors:
 - otavioranzani
 - Lazar Neto F
 - Mareto LK
+- ...
 - Hitchings MDT
 - Croda J
 date: "2026-01-01"

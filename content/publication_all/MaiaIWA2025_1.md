@@ -5,7 +5,7 @@ authors:
 - Maia IWA
 - Decker SRR
 - Oliveira J E Silva L
-- ..
+- ...
 - otavioranzani
 - ...
 - Besen BAMP

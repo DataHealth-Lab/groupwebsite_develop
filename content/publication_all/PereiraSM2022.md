@@ -5,7 +5,7 @@ authors:
 - Pereira SM
 - Sinedino BE
 - Costa ELV
-- ..
+- ...
 - otavioranzani
 - ...
 - Brochard L

@@ -5,7 +5,7 @@ authors:
 - Pepper M
 - Rebouças P
 - Falcão IR
-- ..
+- ...
 - otavioranzani
 - ...
 - Barreto ML

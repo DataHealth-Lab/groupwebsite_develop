@@ -5,7 +5,7 @@ authors:
 - Lazar Neto F
 - Marino LO
 - Torres A
-- ..
+- ...
 - otavioranzani
 - ...
 - Residents

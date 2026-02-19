@@ -5,7 +5,7 @@ authors:
 - López-Aguilar J
 - Bassi GL
 - Quílez ME
-- ..
+- ...
 - otavioranzani
 - ...
 - Torres A

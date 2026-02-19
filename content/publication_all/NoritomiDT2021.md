@@ -5,6 +5,7 @@ authors:
 - Noritomi DT
 - otavioranzani
 - Ferraz LJR
+- ...
 - Pereira AJ
 - TELESCOPE Trial Investigators
 date: "2021-06-21"

@@ -5,7 +5,7 @@ authors:
 - Wagstaff D
 - Amuasi J
 - Arfin S
-- ..
+- ...
 - otavioranzani
 - ...
 - Waweru-Siika W

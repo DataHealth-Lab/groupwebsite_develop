@@ -5,7 +5,7 @@ authors:
 - Fernando SM
 - Tran A
 - Cheng W
-- ..
+- ...
 - otavioranzani
 - ...
 - Guyatt GH

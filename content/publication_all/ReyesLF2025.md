@@ -5,7 +5,7 @@ authors:
 - Reyes LF
 - Torres A
 - Olivella-Gomez J
-- ..
+- ...
 - otavioranzani
 - ...
 - Martin-Loeches I

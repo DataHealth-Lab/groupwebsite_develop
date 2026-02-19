@@ -5,7 +5,7 @@ authors:
 - Møller MH
 - Alhazzani W
 - Lewis K
-- ..
+- ...
 - otavioranzani
 - ...
 - Pandharipande P

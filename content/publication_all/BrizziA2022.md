@@ -5,7 +5,7 @@ authors:
 - Brizzi A
 - Whittaker C
 - Servo LMS
-- ..
+- ...
 - otavioranzani
 - ...
 - Bhatt S

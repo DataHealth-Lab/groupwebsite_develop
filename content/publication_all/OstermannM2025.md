@@ -5,7 +5,7 @@ authors:
 - Ostermann M
 - Alshamsi F
 - Artigas Raventos A
-- ..
+- ...
 - otavioranzani
 - ...
 - De Backer D

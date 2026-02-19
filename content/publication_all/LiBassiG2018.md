@@ -5,7 +5,7 @@ authors:
 - Li Bassi G
 - Prats RG
 - Artigas A
-- ..
+- ...
 - otavioranzani
 - ...
 - Pelosi P

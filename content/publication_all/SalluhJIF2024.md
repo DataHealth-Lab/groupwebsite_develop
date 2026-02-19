@@ -5,7 +5,7 @@ authors:
 - Salluh JIF
 - Besen BAMP
 - González-Dambrauskas S
-- ..
+- ...
 - otavioranzani
 - ...
 - Ferreira JC

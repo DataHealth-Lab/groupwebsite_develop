@@ -5,7 +5,7 @@ authors:
 - Azambuja P
 - Bastos LSL
 - Batista-da-Silva AA
-- ..
+- ...
 - otavioranzani
 - ...
 - Hamacher S

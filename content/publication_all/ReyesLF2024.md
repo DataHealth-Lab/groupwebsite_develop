@@ -5,7 +5,7 @@ authors:
 - Reyes LF
 - Serrano-Mayorga CC
 - Zhang Z
-- ..
+- ...
 - otavioranzani
 - ...
 - Conway Morris A

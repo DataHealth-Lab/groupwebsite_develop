@@ -5,7 +5,7 @@ authors:
 - Li Bassi G
 - Chiurazzi C
 - Aguilera E
-- ..
+- ...
 - otavioranzani
 - ...
 - Chiumello D

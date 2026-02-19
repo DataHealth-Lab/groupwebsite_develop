@@ -5,7 +5,7 @@ authors:
 - Reinikainen M
 - Delamarre L
 - Blaser AR
-- ..
+- ...
 - otavioranzani
 - ...
 - Singer M
