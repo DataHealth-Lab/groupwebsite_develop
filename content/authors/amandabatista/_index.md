@@ -51,12 +51,12 @@ social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: 'mailto:test@example.org'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-8256-2178
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=A1OVJvgAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
