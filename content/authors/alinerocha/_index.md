@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Reseacher/PostDoc
+role: Researcher / PostDoc
 
 # Organizations/Affiliations
 organizations:
