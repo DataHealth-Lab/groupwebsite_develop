@@ -21,7 +21,7 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: European Commission (EC) / SANTPAU
+  - name: European Commission / SANTPAU
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
