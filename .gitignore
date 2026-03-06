@@ -13,6 +13,7 @@ assets/jsconfig.json
 .Rapp.history
 .Ruserdata
 
+.DS_Store
 
 # Authentication
 .httr-oauth.Rhistory
