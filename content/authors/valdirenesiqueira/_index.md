@@ -72,8 +72,12 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 weight: 5
 ---
 
 ## Master of Clinical Research International Health
+
+
+## MSc Dissertation
+"Sex-associated differences in the immune response against fractional and full booster doses of COVID-19 vaccines: a cohort study analysis of the FRACT-COV trial in Brazil"
