@@ -56,7 +56,8 @@ We also considered the vulnerable determinants of long-term outcomes of TB, incl
 </div>
 
 ---
-**Key Publications:**  
+📚 Selected References
+
 <strong>Ranzani OT,</strong> Rodrigues LC, Bombarda S, et al. (2020). *Long-term survival and cause-specific mortality of patients newly diagnosed with tuberculosis in São Paulo state, Brazil, 2010-15: a population-based, longitudinal study.* Lancet Infect Dis. 20(1):123–132. doi: [10.1016/S1473-3099(19)30518-3](https://doi.org/10.1016/S1473-3099(19)30518-3).  
 
-Cerqueira-Silva T, Boaventura VS, Paixão ES, Sanchez M, Leyrat C, <strong>Ranzani O,</strong> Barreto ML, Pescarini JM. et al. (2026). *Long-term risk of death after tuberculosis diagnosis and treatment.* Nat Med. 2026 Mar 19. doi: [10.1038/s41591-026-04294-w](https://doi.org/10.1038/s41591-026-04294-w).  
+Cerqueira-Silva T, Boaventura VS, ..., <strong>Ranzani O,</strong> ..., Pescarini JM. (2026). *Long-term risk of death after tuberculosis diagnosis and treatment.* Nat Med. 2026 Mar 19. doi: [10.1038/s41591-026-04294-w](https://doi.org/10.1038/s41591-026-04294-w).  

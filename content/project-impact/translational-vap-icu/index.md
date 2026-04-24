@@ -63,5 +63,5 @@ https://doi.org/10.1007/s00134-017-4858-1
 Li Bassi G*, <strong>Ranzani OT</strong>*, Marti JD, et al. (2013). An in vitro study to assess determinant features associated with fluid sealing in the design of endotracheal tube cuffs and exerted tracheal pressures. Crit Care Med, 41(2):518–526.
 https://doi.org/10.1097/CCM.0b013e31826a4804
 
-Li Bassi G, Marti JD, ..,<strong>Ranzani OT</strong>, …, et al. (2014). Gravity predominates over ventilatory pattern in the prevention of ventilator-associated pneumonia. Crit Care Med, 42(9):e620–e627.
+Li Bassi G, Marti JD, ..., <strong>Ranzani OT</strong>, ..., Torres A. (2014). Gravity predominates over ventilatory pattern in the prevention of ventilator-associated pneumonia. Crit Care Med, 42(9):e620–e627.
 https://doi.org/10.1097/CCM.0000000000000487

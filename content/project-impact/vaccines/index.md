@@ -94,12 +94,33 @@ For instance, we are leading partners on the **VEBRA** Research Network on Vacci
 
 ---
 
-**Key Publications:**    
+<div class="callout callout-info" style="display:flex; align-items:center; gap:15px; padding:12px; border-radius:8px; background-color:#f0f8ff; flex-wrap:wrap;">
+
+  <img src="/media/logo_paho.jpg" alt="PAHO" width="90"/>
+  <img src="/media/logo_bmgf.png" alt="Bill & Melinda Gates Foundation" width="90"/>
+  <img src="/media/logo_cnpq.jpg" alt="CNPq" width="90"/>
+
+  <span style="font-weight:bold; font-size:0.8em;">
+    This work was supported in part by the 
+    <a href="https://www.paho.org/" target="_blank">Pan American Health Organization (PAHO)</a>, 
+    the <a href="https://www.gatesfoundation.org/" target="_blank">Bill & Melinda Gates Foundation</a>, <a href="https://www.gov.br/cnpq/" target="_blank">CNPq</a>, 
+    <a href="https://www.itps.org.br/" target="_blank">ITpS</a>, and many other partners and stakeholders.
+  </span>
+
+</div>
+
+---
+
+📚 Selected References
 
 <strong>Ranzani OT,</strong> Lazar Neto F, Mareto LK, et al. (2026). *Effectiveness of the TAK-003 dengue vaccine in adolescents during the 2024 outbreak in São Paulo, Brazil: a test-negative, case-control study.* Lancet Infect Dis. 26(1):91-100. doi: [10.1016/S1473-3099(25)00382-2](https://doi.org/10.1016/S1473-3099(25)00382-2).  
-Batista-da-Silva AA, Bastos LSL, Arouca LE, Gonzaga-da-Silva TW, Hamacher S, Bozza FA, <strong>Ranzani OT</strong>. (2024) *#VacinaMare campaign: addressing vaccine inequity in socially vulnerabilised communities.* Lancet Reg Health Am. 36:100827. doi: [10.1016/j.lana.2024.100827](https://doi.org/10.1016/j.lana.2024.100827).  
+
+Batista-da-Silva AA, Bastos LSL, ..., <strong>Ranzani OT</strong>. (2024) *#VacinaMare campaign: addressing vaccine inequity in socially vulnerabilised communities.* Lancet Reg Health Am. 36:100827. doi: [10.1016/j.lana.2024.100827](https://doi.org/10.1016/j.lana.2024.100827).  
+
 <strong>Ranzani OT,</strong> Hitchings MDT, de Melo RL, et al. (2022). *Effectiveness of an inactivated Covid-19 vaccine with homologous and heterologous boosters against Omicron in Brazil.* Nat Commun. 13(1):5536. doi: [10.1038/s41467-022-33169-0](https://doi.org/10.1038/s41467-022-33169-0).  
-Hitchings MDT, Lewnard JA, Dean NE, Ko AI, <strong>Ranzani OT,</strong> Andrews JR, Cummings DAT. (2022). *Use of Recently Vaccinated Individuals to Detect Bias in Test-Negative Case-Control Studies of COVID-19 Vaccine Effectiveness.* Epidemiology. 33(4):450-456. doi: [10.1097/EDE.0000000000001484](https://doi.org/10.1097/EDE.0000000000001484).  
-<strong>Ranzani OT*,</strong> Hitchings MDT*, Dorion M,et al. (2021). *Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study.* BMJ. 374:n2015. doi: [10.1136/bmj.n2015](https://doi.org/110.1136/bmj.n2015).  
+
+Hitchings MDT, Lewnard JA, ..., <strong>Ranzani OT,</strong> ..., Cummings DAT. (2022). *Use of Recently Vaccinated Individuals to Detect Bias in Test-Negative Case-Control Studies of COVID-19 Vaccine Effectiveness.* Epidemiology. 33(4):450-456. doi: [10.1097/EDE.0000000000001484](https://doi.org/10.1097/EDE.0000000000001484).  
+
+<strong>Ranzani OT*,</strong> Hitchings MDT*, Dorion M, et al. (2021). *Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study.* BMJ. 374:n2015. doi: [10.1136/bmj.n2015](https://doi.org/110.1136/bmj.n2015).  
 
 ---
