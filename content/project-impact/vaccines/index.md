@@ -77,7 +77,7 @@ Our work spans the full translational spectrum, from **methodological innovation
 
 This work was conducted through a **multinational research network**, integrating academic institutions, public health agencies, and local stakeholders, such as PAHO, Brazilian Ministry of Health, State and Municipal Health Secretaries.
 
-For instance, we are leading partners on the **VEBRA** Research Network on Vaccines
+For instance, we are leading partners on the **VEBRA** Research Network on Vaccines.
 
 {{< figure src="vebra_vaccine_research_group.png" title="**VEBRA** Institutions" lightbox="true" >}}
 
