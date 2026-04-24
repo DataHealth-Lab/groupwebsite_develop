@@ -79,7 +79,7 @@ This work was conducted through a **multinational research network**, integratin
 
 For instance, we are leading partners on the **VEBRA** Research Network on Vaccines
 
-![VEBRA Research Network on Vaccines](/media/vebra_vaccine_research_group.png)
+{{< figure src="vebra_vaccine_research_group.png" title="**VEBRA** Institutions" lightbox="true" >}}
 
 ---
 
