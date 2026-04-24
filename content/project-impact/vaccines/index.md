@@ -39,6 +39,10 @@ Our work spans the full translational spectrum, from **methodological innovation
 - **Implementation Science:** Designed and evaluated large-scale vaccination strategies in vulnerable settings, including the **Vacina Maré initiative** in Rio de Janeiro.  
 - **Policy Engagement:** Contributed evidence used in **national and international decision-making**, including WHO-linked processes.  
 
+{{< figure src="cover_vaccine_lancet.png" title="Two of our vaccine studies were featured on the covers of [The Lancet Regional Health Americas](https://www.thelancet.com/journals/lanam/issue/vol1nonull/PIIS2667-193X(21)X0002-6#) (2022, *left*) and [The Lancet Infections Diseases](https://www.thelancet.com/journals/laninf/issue/vol26no1/PIIS1473-3099(25)X0013-X) (2026, *right*)" lightbox="true" >}}
+
+
+
 ---
 
 ### 🌍 Impact  
