@@ -28,7 +28,7 @@ Tuberculosis (TB) is a model of chronic respiratory infection. During my PhD, I 
 
 At the start of Otavio's PhD, **Post-TB Lung Disease** was an emerging field, which has now become **consolidated and is gaining importance**, particularly in quantifying the long-term burden of TB. Using record linkage methods between administrative and health big databases, we quantified **mortality and cause-specific outcomes**, contributing foundational knowledge to this area.  
 
-We also considered the vulnerable determinants of long-term outcomes of TB, including biological (diabetes and mental diseases), social (homelessness and incarcerated individuals) and health behaviour (alcohol and drug use).  
+We also considered the vulnerable determinants of long-term outcomes of TB, including biological (diabetes and mental diseases), social (homelessness and incarcerated individuals) and health behaviour (alcohol and drug use). In a new evaluation of this research area, our group published an original article tackling some limitations of previous analysis, inclusing better evaluation of socioeconomic confounders, comparing with an individually-matched cohort (instead of using life-tables), including contacts without TB, and reinforced the burden of Post-TB disease.   
 
 ---
 
@@ -56,5 +56,7 @@ We also considered the vulnerable determinants of long-term outcomes of TB, incl
 </div>
 
 ---
-**Key Publication:**  
+**Key Publications:**  
 <strong>Ranzani OT,</strong> Rodrigues LC, Bombarda S, et al. (2020). *Long-term survival and cause-specific mortality of patients newly diagnosed with tuberculosis in São Paulo state, Brazil, 2010-15: a population-based, longitudinal study.* Lancet Infect Dis. 20(1):123–132. doi: [10.1016/S1473-3099(19)30518-3](https://doi.org/10.1016/S1473-3099(19)30518-3).  
+
+Cerqueira-Silva T, Boaventura VS, Paixão ES, Sanchez M, Leyrat C, <strong>Ranzani O,</strong> Barreto ML, Pescarini JM. et al. (2026). *Long-term risk of death after tuberculosis diagnosis and treatment.* Nat Med. 2026 Mar 19. doi: [10.1038/s41591-026-04294-w](https://doi.org/10.1038/s41591-026-04294-w).  

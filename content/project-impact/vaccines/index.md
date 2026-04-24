@@ -1,31 +1,101 @@
 ---
 title: Vaccines
-summary: "Impact on Policy, Society and Science from our work on Vaccines"
-tags: ['Society']
-date: "2021-03-18"
-
-# Optional external URL for project (replaces project detail page).
-# external_link: "https://www.science.org/content/article/breathing-polluted-air-increases-risk-osteoporosis-growing-evidence-shows"
+summary: "From evidence to policy and implementation: global impact of vaccine effectiveness research"
+tags: ['Science', 'Impact']
+date: "2021-05-01"
 
 image:
-  caption: vaccine
+  caption: Vaccine Impact from Evidence to Policy
   focal_point: smart
 full_image: true
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+---
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+## 💉 Transforming Vaccine Science into Policy and Practice
+
+**From Real-World Evidence to Global Decisions and Community Impact**
+
+---
+
+### 📜 Background  
+
+Vaccination is one of the most powerful public health interventions. **Real-world effectiveness, population impact, and implementation strategies** are critical to inform policy decisions, particularly during pandemics and emerging outbreaks.  
+
+During the COVID-19 pandemic, rapid and robust evidence on vaccine effectiveness (VE) was urgently needed to guide **global immunization strategies**, emergency authorizations, and public trust. At the same time, implementation in vulnerabilized populations required **context-specific, community-driven approaches**.  
+
+Our work spans the full translational spectrum, from **methodological innovation and large-scale effectiveness studies** to **direct implementation in vulnerabilized communities**.
+
+---
+
+### 🔬 Our Contribution  
+
+- **Vaccine Effectiveness (VE) Science:** Led and contributed to large-scale observational studies evaluating COVID-19 vaccines using rigorous designs (e.g., test-negative case-control; target trial emulations).  
+- **Methodological Innovation:** Advanced analytical approaches for VE estimation under real-world conditions, including bias control and rapid evidence generation during epidemics.  
+- **Global Collaboration (VEBRA):** Co-led the VEBRA consortium, integrating data across Brazil and international partners (Fiocruz, UFMS, IR Sant Pau, Yale, Stanford, Emory, Johns Hopkins, University of Florida).  
+- **Implementation Science:** Designed and evaluated large-scale vaccination strategies in vulnerable settings, including the **Vacina Maré initiative** in Rio de Janeiro.  
+- **Policy Engagement:** Contributed evidence used in **national and international decision-making**, including WHO-linked processes.  
+
+---
+
+### 🌍 Impact  
+
+- **Global Policy and Emergency Use:**  
+  - Our landmark studies in *The Lancet Regional Health Americas* and *The BMJ* on CoronaVac were among the **first large-scale real-world evaluations** of an inactivated COVID-19 vaccine. The *BMJ* manuscript had massive dissemination both as a [pre-print](https://medrxiv.altmetric.com/details/106229054) and when [published](https://www.altmetric.com/details/112107472). We presented it at the WHO SAGE Committee and it was one of the main **pillars** supporting the vaccine's emergency authorization, particularly for having data on those aged ≥70 years who were not included in the phase-3 randomized trials. By Jan 2022, CoronaVac (Sinovac) was the [most used vaccine](https://www.nature.com/articles/d41586-022-00079-6) in the world.  
+  - Overall evidence from VEBRA-COVID contributed to **emergency use decisions and global policy discussions**, particularly in low- and middle-income countries.
+  - Findings were cited in **WHO and national immunization guidelines**, patents, Wikipedia and broadly discussed in the academic and lay media, influencing vaccine deployment strategies worldwide.
+
+{{< figure src="bmj_impact_vaccine.png" title="**BMJ** email showing their reconigtion for our publication as a major policy change" lightbox="true" >}}
+
+
+- **Scientific Breakthrough in Real-World VE:**  
+  - Established robust evidence on vaccine performance against **Gamma and Omicron variants**, including booster strategies.  
+  - Contributed to defining **methodological standards for VE studies**, widely adopted during the pandemic.  
+
+- **Implementation at Scale – Vacina Maré:**  
+  - Led a **community-based mass vaccination campaign** in one of Brazil’s largest favelas.  
+  - Achieved **near-universal vaccine coverage**, demonstrating feasibility of equitable vaccine delivery.  
+  - Generated direct reductions in **cases and transmission**, while strengthening **trust between communities and health systems**.  
+  - Became a **model for implementation science in vulnerable settings**, integrating civil society, local leaders, and public health authorities.  
+
+- **Impact on Global Health Institutions:**  
+  - Evidence contributed to **WHO SAGE deliberations** and broader vaccine policy frameworks.  
+  - Influenced decisions across **ministries of health, PAHO, and international agencies**.  
+  - Work cited in **policy documents, media, and global health reports**, amplifying its reach beyond academia.  
+
+- **Next-Generation Vaccines – Dengue:**  
+  - First real-world evaluation of **TAK-003 dengue vaccine effectiveness** (*Lancet Infectious Diseases*, 2026).  
+  - Provided critical evidence for **national immunization programs**, particularly in the context of prior safety concerns with dengue vaccines.  
+  - Supports safe and evidence-based deployment in endemic regions.  
+
+---
+
+### 🤝 Global Collaborative Network  
+
+This work was conducted through a **multinational research network**, integrating academic institutions, public health agencies, and local stakeholders, such as PAHO, Brazilian Ministry of Health, State and Municipal Health Secretaries.
+
+For instance, we are leading partners on the **VEBRA** Research Network on Vaccines
+
+![VEBRA Research Network on Vaccines](/media/vebra_vaccine_research_group.png)
+
+---
+
+
+### 🧠 Key Insight  
+
+> High-quality real-world evidence, when combined with strong partnerships and community engagement, can directly shape global health policy and deliver measurable benefits to populations.
+
+---
+
+**Key Publications:**    
+
+<strong>Ranzani OT,</strong> Lazar Neto F, Mareto LK, et al. (2026). *Effectiveness of the TAK-003 dengue vaccine in adolescents during the 2024 outbreak in São Paulo, Brazil: a test-negative, case-control study.* Lancet Infect Dis. 26(1):91-100. doi: [10.1016/S1473-3099(25)00382-2](https://doi.org/10.1016/S1473-3099(25)00382-2).  
+Batista-da-Silva AA, Bastos LSL, Arouca LE, Gonzaga-da-Silva TW, Hamacher S, Bozza FA, <strong>Ranzani OT</strong>. (2024) *#VacinaMare campaign: addressing vaccine inequity in socially vulnerabilised communities.* Lancet Reg Health Am. 36:100827. doi: [10.1016/j.lana.2024.100827](https://doi.org/10.1016/j.lana.2024.100827).  
+<strong>Ranzani OT,</strong> Hitchings MDT, de Melo RL, et al. (2022). *Effectiveness of an inactivated Covid-19 vaccine with homologous and heterologous boosters against Omicron in Brazil.* Nat Commun. 13(1):5536. doi: [10.1038/s41467-022-33169-0](https://doi.org/10.1038/s41467-022-33169-0).  
+Hitchings MDT, Lewnard JA, Dean NE, Ko AI, <strong>Ranzani OT,</strong> Andrews JR, Cummings DAT. (2022). *Use of Recently Vaccinated Individuals to Detect Bias in Test-Negative Case-Control Studies of COVID-19 Vaccine Effectiveness.* Epidemiology. 33(4):450-456. doi: [10.1097/EDE.0000000000001484](https://doi.org/10.1097/EDE.0000000000001484).  
+<strong>Ranzani OT*,</strong> Hitchings MDT*, Dorion M,et al. (2021). *Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study.* BMJ. 374:n2015. doi: [10.1136/bmj.n2015](https://doi.org/110.1136/bmj.n2015).  
+
 ---
