@@ -27,7 +27,7 @@ Vaccination is one of the most powerful public health interventions. **Real-worl
 
 During the COVID-19 pandemic, rapid and robust evidence on vaccine effectiveness (VE) was urgently needed to guide **global immunization strategies**, emergency authorizations, and public trust. At the same time, implementation in vulnerabilized populations required **context-specific, community-driven approaches**.  
 
-Our work spans the full translational spectrum, from **methodological innovation and large-scale effectiveness studies** to **direct implementation in vulnerabilized communities**.
+Our work spans the full translational spectrum, from methodological innovation and large-scale effectiveness studies to direct implementation in vulnerabilized communities. These interventions were developed **horizontally and co-designed with communities and civil society**, engaging stakeholders across multiple levels, including local leaders, politicians, municipal authorities, ministries of health, and academia. This approach was grounded in **best-practice implementation science** frameworks, incorporating principles of patient and public involvement and engagement (PPIE) to ensure acceptability, equity, and sustainability of vaccination strategies.  
 
 ---
 
@@ -75,7 +75,7 @@ Our work spans the full translational spectrum, from **methodological innovation
 <br>  
 - **Next-Generation Vaccines - Dengue:**  
   - First real-world evaluation of **TAK-003 dengue vaccine effectiveness** (*Lancet Infectious Diseases*, 2026). 
-  - Researcger in the **community-based mass vaccination campaign** in the city of Dourados, Brazil (~250,000 inhabitants), for [TAK-003](https://pubmed.ncbi.nlm.nih.gov/40006668/), still on evaluation. 
+  - Researcher in the **community-based mass vaccination campaign** in the city of Dourados, Brazil (~250,000 inhabitants), for [TAK-003](https://pubmed.ncbi.nlm.nih.gov/40006668/), still on evaluation. 
   - Provided critical evidence for **national immunization programs**, particularly in the context of prior safety concerns with dengue vaccines.  
   - Supports safe and evidence-based deployment in endemic regions.  
 
@@ -108,7 +108,7 @@ For instance, we are leading partners on the **VEBRA** Research Network on Vacci
     This work was supported in part by the 
     <a href="https://www.paho.org/" target="_blank">Pan American Health Organization (PAHO)</a>, 
     the <a href="https://www.gatesfoundation.org/" target="_blank">Bill & Melinda Gates Foundation</a>, <a href="https://www.gov.br/cnpq/" target="_blank">CNPq</a>, 
-    <a href="https://www.itps.org.br/" target="_blank">ITpS</a>, and many other partners and stakeholders.
+    <a href="https://www.itps.org.br/" target="_blank">ITpS</a>, CDC and many other partners and stakeholders.
   </span>
 
 </div>
