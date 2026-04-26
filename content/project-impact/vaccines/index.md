@@ -54,22 +54,23 @@ Our work spans the full translational spectrum, from **methodological innovation
 
 {{< figure src="bmj_impact_vaccine.png" title="**BMJ** email showing their reconigtion for our publication as a major policy change" lightbox="true" >}}
 
-
 - **Scientific Breakthrough in Real-World VE:**  
   - Established robust evidence on vaccine performance against **Gamma and Omicron variants**, including booster strategies.  
   - Contributed to defining **methodological standards for VE studies**, widely adopted during the pandemic.  
+<br>  
+- **Implementation at Scale: [#VacinaMaré](https://www.vacinamare.org.br/english)**  
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/redesmare/52320325064/in/album-72157719586288512" title="Seminário Vacina Maré"><img src="https://live.staticflickr.com/65535/52320325064_fb11846135_k.jpg" width="2048" height="923" alt="Seminário Vacina Maré"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-- **Implementation at Scale – Vacina Maré:**  
-  - Led a **community-based mass vaccination campaign** in one of Brazil’s largest favelas.  
+  - Co-led a **community-based mass vaccination campaign** in one of Brazil’s largest favelas.  
   - Achieved **near-universal vaccine coverage**, demonstrating feasibility of equitable vaccine delivery.  
   - Generated direct reductions in **cases and transmission**, while strengthening **trust between communities and health systems**.  
-  - Became a **model for implementation science in vulnerable settings**, integrating civil society, local leaders, and public health authorities.  
-
+  - Became a **model for implementation science in vulnerabilized settings**, integrating civil society, local leaders, and public health authorities.  
+<br>  
 - **Impact on Global Health Institutions:**  
   - Evidence contributed to **WHO SAGE deliberations** and broader vaccine policy frameworks.  
-  - Influenced decisions across **ministries of health, PAHO, and international agencies**.  
+  - Influenced decisions across **ministries of health, PAHO, WB, and international agencies**.  
   - Work cited in **policy documents, media, and global health reports**, amplifying its reach beyond academia.  
-
+<br>  
 - **Next-Generation Vaccines – Dengue:**  
   - First real-world evaluation of **TAK-003 dengue vaccine effectiveness** (*Lancet Infectious Diseases*, 2026).  
   - Provided critical evidence for **national immunization programs**, particularly in the context of prior safety concerns with dengue vaccines.  
@@ -79,7 +80,7 @@ Our work spans the full translational spectrum, from **methodological innovation
 
 ### 🤝 Global Collaborative Network  
 
-This work was conducted through a **multinational research network**, integrating academic institutions, public health agencies, and local stakeholders, such as PAHO, Brazilian Ministry of Health, State and Municipal Health Secretaries.
+This work was conducted through a **multinational research network**, integrating academic institutions, public health agencies, and local stakeholders, always with active collaboration with PAHO, Brazilian Ministry of Health, State and Municipal Health Secretaries.
 
 For instance, we are leading partners on the **VEBRA** Research Network on Vaccines.
 
