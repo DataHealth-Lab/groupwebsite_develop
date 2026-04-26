@@ -61,18 +61,21 @@ Our work spans the full translational spectrum, from **methodological innovation
 - **Implementation at Scale: [#VacinaMaré](https://www.vacinamare.org.br/english)**  
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/redesmare/52320325064/in/album-72157719586288512" title="Seminário Vacina Maré"><img src="https://live.staticflickr.com/65535/52320325064_fb11846135_k.jpg" width="2048" height="923" alt="Seminário Vacina Maré"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-  - Co-led a **community-based mass vaccination campaign** in one of Brazil’s largest favelas.  
+  - Co-led a **community-based mass vaccination campaign** in one of Brazil’s largest favelas.
+  - The first phase of the mass vaccination campaign was performed in the 16 slums of Maré. It occurred between July 29 and August 1, 2021, which immunized more than 36,000 residents over the age of 18 in just four days.
   - Achieved **near-universal vaccine coverage**, demonstrating feasibility of equitable vaccine delivery.  
   - Generated direct reductions in **cases and transmission**, while strengthening **trust between communities and health systems**.  
-  - Became a **model for implementation science in vulnerabilized settings**, integrating civil society, local leaders, and public health authorities.  
+  - Became a **model for implementation science in vulnerabilized settings**, integrating civil society, local leaders, and public health authorities.
+  - Covered in the [New York Times](https://www.nytimes.com/2023/04/09/opinion/brazil-favelas-pandemic-trust.html)  
 <br>  
 - **Impact on Global Health Institutions:**  
   - Evidence contributed to **WHO SAGE deliberations** and broader vaccine policy frameworks.  
   - Influenced decisions across **ministries of health, PAHO, WB, and international agencies**.  
   - Work cited in **policy documents, media, and global health reports**, amplifying its reach beyond academia.  
 <br>  
-- **Next-Generation Vaccines – Dengue:**  
-  - First real-world evaluation of **TAK-003 dengue vaccine effectiveness** (*Lancet Infectious Diseases*, 2026).  
+- **Next-Generation Vaccines - Dengue:**  
+  - First real-world evaluation of **TAK-003 dengue vaccine effectiveness** (*Lancet Infectious Diseases*, 2026). 
+  - Researcger in the **community-based mass vaccination campaign** in the city of Dourados, Brazil (~250,000 inhabitants), for [TAK-003](https://pubmed.ncbi.nlm.nih.gov/40006668/), still on evaluation. 
   - Provided critical evidence for **national immunization programs**, particularly in the context of prior safety concerns with dengue vaccines.  
   - Supports safe and evidence-based deployment in endemic regions.  
 
