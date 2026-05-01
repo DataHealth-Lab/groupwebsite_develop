@@ -63,7 +63,8 @@ Our work spans the full translational spectrum, from methodological innovation a
 
   - Co-led a **community-based mass vaccination campaign** in one of Brazil’s largest favelas.
   - The first phase of the mass vaccination campaign was performed in the 16 slums of Maré. It occurred between July 29 and August 1, 2021, which immunized more than 36,000 residents over the age of 18 in just four days.
-  - Achieved **near-universal vaccine coverage**, demonstrating feasibility of equitable vaccine delivery.  
+  - Achieved **near-universal vaccine coverage**, demonstrating feasibility of equitable vaccine delivery. 
+  - Embedded a test-negative design (TND) [vaccine effectiveness](https://linkinghub.elsevier.com/retrieve/pii/S1198743X22001781) study, requested by and co-developed with the community to quantify real-world protection and directly address local concerns about vaccine performance. This **community-driven evidence** generation reinforced the campaign during a period of political controversy and rising vaccine hesitancy in Brazil.
   - Generated direct reductions in **cases and transmission**, while strengthening **trust between communities and health systems**.  
   - Became a **model for implementation science in vulnerabilized settings**, integrating civil society, local leaders, and public health authorities.
   - Covered in the [New York Times](https://www.nytimes.com/2023/04/09/opinion/brazil-favelas-pandemic-trust.html)  
