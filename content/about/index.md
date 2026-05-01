@@ -9,7 +9,7 @@ sections:
       title: "The Group"
       subtitle: "An team tackling urgent health challenges"
       text: |
-        The  <span style="color: #009E73; font-weight: 600;">DataHealth Lab</span> is an emerging research group dedicated to producing **high-quality**, **policy-relevant science** that addresses today's most pressing health challenges. We work across Epidemiology, Data Science, Clinical Research, and Implementation Science, with special attention to vulnerable populations and the systems shaping their lives.    
+        The  <span style="color: #009E73; font-weight: 600;">DataHealth Lab</span> is a research group dedicated to producing **high-quality**, **policy-relevant science** that addresses today's most pressing health challenges. We work across Epidemiology, Data Science, Clinical Research, and Implementation Science, with special attention to vulnerable populations and the systems shaping their lives.    
         
         Founded and led by [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/), the lab is grounded in a commitment to scientific rigour, openness, and equity (our values below). [Our work](https://datahealthlab.org/research) focuses on <span style="color: #009E73; font-weight: 600;">acute systemic stressors</span>, particularly infections and environmental exposures, and their biological and structural consequences for acute clinical decompensation and health systems. Through this lens, we integrate critical care science, climate and environmental health, emerging infections, and health system organization to generate evidence that is both **methodologically sound** and **socially meaningful**.  
         
