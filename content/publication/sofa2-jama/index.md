@@ -46,7 +46,8 @@ links:
    url: "https://jamanetwork.com/journals/jama/fullarticle/2840827"
  - name: Podcast
    url: "https://edhub.ama-assn.org/jn-learning/audio-player/19013724"
-
+ - name: Video
+   url: "https://youtube.com/shorts/Daya6X7fAe4?si=Z4sAob-CC-zwwyuo"
 
 math: true
 

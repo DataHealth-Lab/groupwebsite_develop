@@ -48,7 +48,10 @@ links:
  - name: Supplemental Material
    url: "https://www.thelancet.com/cms/10.1016/S1473-3099(25)00382-2/attachment/2df5cf81-4a21-42e4-afa0-34d36ba88c45/mmc2.pdf"
  - name: Media
-   url: "https://www.cnnbrasil.com.br/saude/vacina-da-dengue-tem-675-de-eficacia-contra-internacao-de-adolescentes/"
+   url: "https://medicalxpress.com/news/2025-10-dengue-vaccine-effectiveness-real-world.html"
+ - name: Cover
+   url: "https://www.thelancet.com/journals/laninf/issue/vol26no1/PIIS1473-3099(25)X0013-X#fullCover"
+
 
 
 math: true
