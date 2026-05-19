@@ -33,7 +33,7 @@ Our work spans the full translational spectrum, from methodological innovation a
 
 ### 🔬 Our Contribution  
 
-- **Vaccine Effectiveness (VE) Science:** Led and contributed to large-scale observational studies evaluating COVID-19 vaccines using rigorous designs (e.g., test-negative case-control; target trial emulations).  
+- **Vaccine Effectiveness (VE) Science:** Led and contributed to large-scale observational studies evaluating COVID-19 and Dengue vaccines using rigorous designs (e.g., test-negative case-control; target trial emulations).  
 - **Methodological Innovation:** Advanced analytical approaches for VE estimation under real-world conditions, including bias control and rapid evidence generation during epidemics.  
 - **Global Collaboration (VEBRA):** Co-led the VEBRA consortium, integrating data across Brazil and international partners (Fiocruz, UFMS, IR Sant Pau, Yale, Stanford, Emory, Johns Hopkins, University of Florida).  
 - **Implementation Science:** Designed and evaluated large-scale vaccination strategies in vulnerable settings, including the **Vacina Maré initiative** in Rio de Janeiro.  
@@ -72,7 +72,7 @@ Our work spans the full translational spectrum, from methodological innovation a
 - **Impact on Global Health Institutions:**  
   - Evidence contributed to **WHO SAGE deliberations** and broader vaccine policy frameworks.  
   - Influenced decisions across **ministries of health, PAHO, WB, and international agencies**.  
-  - Work cited in **policy documents, media, and global health reports**, amplifying its reach beyond academia.  
+  - Work cited in **policy documents, media, and global health reports**, amplifying its impact beyond academia.  
 <br>  
 - **Next-Generation Vaccines - Dengue:**  
   - First real-world evaluation of **TAK-003 dengue vaccine effectiveness** (*Lancet Infectious Diseases*, 2026). 
