@@ -93,15 +93,17 @@ weight: 1
 
 *I view science as a social construct essential for enhancing and promoting the health and well-being of individuals.*
 
-I am a scientist with a **far-reaching understanding** of current societal health issues, with a **robust methodological reasoning** and international experience. I completed my medical degree (summa cum laude, 2008) and clinical training (2014) in Internal Medicine & Critical Care in Brazil, with periods in Italy and Spain. In 2015, I obtained a MSc in Epidemiology from the London School of Hygiene & Tropical Medicine (Award Distinction), and in 2018, my PhD from the University of São Paulo in collaboration with LSHTM.
+I am a scientist with a **far-reaching understanding** of current societal health issues, **robust methodological reasoning**, and international experience. I completed my medical degree (*summa cum laude*, 2008) and clinical training (2014) in Internal Medicine & Critical Care in Brazil, with periods in Italy and Spain. In 2015, I obtained a **MSc** in Epidemiology from the London School of Hygiene & Tropical Medicine (LSHTM, Award Distinction), and in 2018, my **PhD** from the University of São Paulo in collaboration with LSHTM.
 
-My research is centred on using data to assess disease mechanisms and generate real-world evidence through an in-depth epidemiological lens. I also work on Implementation Science and Clinical Trials — both methodologically and in applied settings — integrating causal inference, exposome concepts, and modern analytics. I am highly committed to these [values](https://datahealthlab.org/about#values) in leading my research group.
+My research is centred on using data to assess disease mechanisms and generate real-world evidence through an in-depth epidemiological lens. I **lead a research programme on the epidemiology of acute systemic stressors**, including infectious threats and environmental-climate exposures, and their impact on critical illness, population health, health-system resilience and climate-sensitive care pathways. I embed this research programme with **Implementation Science and Clinical Trials**, both methodologically and in applied settings, integrating causal inference, exposome concepts, and modern analytics. I am highly committed to these [values](https://datahealthlab.org/about#values) in leading my research group.
 
-I completed a Research Fellowship (ERS, 2016) at Hospital Clinic, Barcelona, a postdoctoral and Assistant Professor positions at [ISGlobal](https://www.isglobal.org) (Sara Borrell Fellow). In 2024, I was awarded the prestigious **Ramon y Cajal Fellowship** from the Spanish Ministry of Science, Innovation and Universities and by the European Social Fund Plus (ESF+), which supports my role as Emerging Group Leader at [IR SANT PAU](https://datahealthlab.org/about#ir_santpau).
+A central motivation of my current work is that **climate hazards and infections** should not be viewed only as distant or population-level risks, but also as **acute physiological and organisational stressors**. Heat, air pollution, respiratory and emerging infections, and antimicrobial resistance can shape who becomes severely ill, how patients deteriorate, how health professionals make decisions, and how hospitals respond under pressure. My group studies these processes across the pathway from exposure, prevention, and vulnerability to acute illness, recovery, and health-system adaptation.
+
+I completed a Research Fellowship (ERS, 2016) at Hospital Clinic, Barcelona, a postdoctoral (Sara Borrell Fellow) and Assistant Professor positions at [ISGlobal](https://www.isglobal.org), 2017-2025. In 2025, I was awarded the prestigious **Ramon y Cajal Fellowship** from the Spanish Ministry of Science, Innovation and Universities and by the European Social Fund Plus (ESF+), which supports my role as Group Leader at [IR SANT PAU](https://datahealthlab.org/about#ir_santpau).
 
 I am the **Principal Investigator** of the [DataHealth Lab](https://datahealthlab.org), where I supervise undergraduates, Master and PhD students, postdocs, and junior researchers. My group receives support from competitive funding, including national and international grants and we are actively involved in international networks.
 
-Our work has informed policy discussions on severe infections, air pollution, vaccines, and health systems. I serve as Associate Editor for a leading journal in Critical Care and contribute to teaching at postgraduate programs in epidemiology and global health.
+Our work has informed [policy discussions](https://datahealthlab.org/impact/) on severe infections, air pollution, vaccines, and health systems. I serve as Associate Editor for a leading journal in Critical Care and contribute to teaching at postgraduate programs in epidemiology and global health.
 
 </div>
 
@@ -115,10 +117,10 @@ Our work has informed policy discussions on severe infections, air pollution, va
     <div class="card experience course">
         <div class="card-body">
           <a href="https://topscinet.com/scientist_profile/Ranzani,%20Otavio%20T./2007/?stype=single_year" target="_blank" rel="noopener">
-            <h4 class="card-title exp-title text-muted my-0">Listed among top 2% cited scientists in the world in the years 2022, 2023 and 2024</h4>
+            <h4 class="card-title exp-title text-muted my-0">Listed among top 2% cited scientists in the world in the years 2022, 2023, 2024 and 2025</h4>
           </a>
           <div class="card-subtitle my-0 article-metadata">
-            Stanford & Elsevier<span class="middot-divider"></span> 2024
+            Stanford & Elsevier<span class="middot-divider"></span> 2025
           </div>
         </div>
       </div>
