@@ -14,7 +14,7 @@ image:
 title="Dra. Aline Rocha joins the DataHealth Lab"
 lightbox="true" width="300" height="200">}}
 
-🎉 We are delighted to welcome [Dra. Aline Rocha]("https://datahealthlab.org/author/aline-rocha/") to the DataHealth Lab!
+🎉 We are delighted to welcome [Dra. Aline Rocha](https://datahealthlab.org/author/aline-rocha/) to the DataHealth Lab!
 
 Aline joins our group as a Senior Postdoctoral Researcher, bringing valuable expertise in Epidemiology, Nutrition, and Environment. She is funded by an International Mobility Grant from the National Council for Scientific and Technological Development ([CNPq](https://www.gov.br/cnpq/pt-br)), a Brazilian funding agency.
 
