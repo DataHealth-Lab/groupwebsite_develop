@@ -4,7 +4,7 @@ date: 2026-04-19
 summary: Aline Rocha joins our group as a Senior Postdoctoral Researcher, strengthening our work in epidemiology, data science, and population health
 
 image:
-  filename: featured.jpe
+  filename: featured.jpeg
   preview_only: true
 ---
 

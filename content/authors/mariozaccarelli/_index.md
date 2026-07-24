@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mario Zacarelli
+title: Mario Zaccarelli
 
 # Full name (for SEO)
 first_name: Mario
