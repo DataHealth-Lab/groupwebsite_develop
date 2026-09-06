@@ -120,6 +120,8 @@ For instance, we are leading partners on the **VEBRA** Research Network on Vacci
 
 <strong>Ranzani OT,</strong> Lazar Neto F, Mareto LK, et al. (2026). *Effectiveness of the TAK-003 dengue vaccine in adolescents during the 2024 outbreak in São Paulo, Brazil: a test-negative, case-control study.* Lancet Infect Dis. 26(1):91-100. doi: [10.1016/S1473-3099(25)00382-2](https://doi.org/10.1016/S1473-3099(25)00382-2).  
 
+Mareto LK, Brumatti TS, de Oliveira RD, ..., <strong>Ranzani OT*</strong>, Croda J*. (2026). *1-Year follow-up evaluation of TAK-003 dengue vaccine effectiveness against symptomatic disease and hospitalisation in adolescents during the 2024–2025 outbreak in São Paulo, Brazil: a test-negative case-control study.* eClinicalMedicine. 99:104181. doi: [10.1016/j.eclinm.2026.104181](https://doi.org/10.1016/j.eclinm.2026.104181).  
+
 Batista-da-Silva AA, Bastos LSL, ..., <strong>Ranzani OT</strong>. (2024) *#VacinaMare campaign: addressing vaccine inequity in socially vulnerabilised communities.* Lancet Reg Health Am. 36:100827. doi: [10.1016/j.lana.2024.100827](https://doi.org/10.1016/j.lana.2024.100827).  
 
 <strong>Ranzani OT,</strong> Hitchings MDT, de Melo RL, et al. (2022). *Effectiveness of an inactivated Covid-19 vaccine with homologous and heterologous boosters against Omicron in Brazil.* Nat Commun. 13(1):5536. doi: [10.1038/s41467-022-33169-0](https://doi.org/10.1038/s41467-022-33169-0).  
