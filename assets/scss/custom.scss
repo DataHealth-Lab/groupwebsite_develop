@@ -228,3 +228,15 @@
 .article-style h2 + p strong ~ * {
   font-size: 0.88rem;
 }
+
+
+/* ============================================================
+   CONTENT WIDTH
+   Hugo Blox default article-container max-width is ~760px,
+   which looks narrow on wide monitors. Widened here to give
+   impact pages, posts and research pages more breathing room.
+   ============================================================ */
+
+.article-container {
+  max-width: 960px;
+}
