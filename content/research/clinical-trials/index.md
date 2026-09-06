@@ -49,8 +49,8 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
       <strong>Period:</strong> Jan 2024 - Jan 2026
     </div>
     <div class="trial-links">
-          <a href="https://clinicaltrials.gov/study/NCT05960994" class="tl-btn ct">🔗 NCT05960994</a>
-      <a href="https://doi.org/10.1016/j.ccrj.2026.100193" class="tl-btn protocol">📄 Protocol - Crit Care Resusc 2026</a>
+          <a href="https://clinicaltrials.gov/study/NCT05960994" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT05960994</a>
+      <a href="https://doi.org/10.1016/j.ccrj.2026.100193" class="tl-btn protocol" target="_blank" rel="noopener">📄 Protocol - Crit Care Resusc 2026</a>
     </div>
   </div>
 </div>
@@ -91,10 +91,10 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
       <strong>Setting:</strong> 30 ICUs &nbsp;·&nbsp; 2019-2021
     </div>
     <div class="trial-links">
-      <a href="https://clinicaltrials.gov/study/NCT03920501" class="tl-btn ct">🔗 NCT03920501</a>
-      <a href="https://doi.org/10.1136/bmjopen-2020-042302" class="tl-btn protocol">📄 Protocol - BMJ Open 2021</a>
-      <a href="https://criticalcarescience.org/wp-content/uploads/sites/7/articles_xml/1982-4335-rbti-34-01-0087-20003/1982-4335-rbti-34-01-0087-20003-en.pdf" class="tl-btn sap">📊 SAP - RBTI 2022</a>
-      <a href="https://doi.org/10.1001/jama.2024.20651" class="tl-btn paper">📑 JAMA 2024</a>
+      <a href="https://clinicaltrials.gov/study/NCT03920501" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT03920501</a>
+      <a href="https://doi.org/10.1136/bmjopen-2020-042302" class="tl-btn protocol" target="_blank" rel="noopener">📄 Protocol - BMJ Open 2021</a>
+      <a href="https://criticalcarescience.org/wp-content/uploads/sites/7/articles_xml/1982-4335-rbti-34-01-0087-20003/1982-4335-rbti-34-01-0087-20003-en.pdf" class="tl-btn sap" target="_blank" rel="noopener">📊 SAP - RBTI 2022</a>
+      <a href="https://doi.org/10.1001/jama.2024.20651" class="tl-btn paper" target="_blank" rel="noopener">📑 JAMA 2024</a>
     </div>
   </div>
 </div>
@@ -113,8 +113,8 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
       <strong>Setting:</strong> Multi-european countries &nbsp;·&nbsp; 2010-2015
     </div>
     <div class="trial-links">
-      <a href="https://clinicaltrials.gov/study/NCT01138540" class="tl-btn ct">🔗 NCT01138540</a>
-      <a href="https://doi.org/10.1007/s00134-017-4858-1" class="tl-btn paper">📑 Intensive Care Med 2017</a>
+      <a href="https://clinicaltrials.gov/study/NCT01138540" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT01138540</a>
+      <a href="https://doi.org/10.1007/s00134-017-4858-1" class="tl-btn paper" target="_blank" rel="noopener">📑 Intensive Care Med 2017</a>
     </div>
   </div>
 </div>
@@ -133,7 +133,7 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
       <strong>Setting:</strong> Brazil &nbsp;·&nbsp; 2021
     </div>
     <div class="trial-links">
-      <a href="https://doi.org/10.5935/0103-507X.20210029" class="tl-btn paper">📑 Rev Bras Ter Intensiva 2021</a>
+      <a href="https://doi.org/10.5935/0103-507X.20210029" class="tl-btn paper" target="_blank" rel="noopener">📑 Rev Bras Ter Intensiva 2021</a>
     </div>
   </div>
 </div>
@@ -152,7 +152,7 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
       <strong>Setting:</strong> Barcelona, Spain &nbsp;·&nbsp; 2020
     </div>
     <div class="trial-links">
-      <a href="https://doi.org/10.1016/j.envres.2020.109812" class="tl-btn paper">📑 Environ Res 2020</a>
+      <a href="https://doi.org/10.1016/j.envres.2020.109812" class="tl-btn paper" target="_blank" rel="noopener">📑 Environ Res 2020</a>
     </div>
   </div>
 </div>
@@ -180,9 +180,11 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
       <strong>N:</strong> >36,000 residents vaccinated
     </div>
     <div class="trial-links">
-      <a href="https://www.vacinamare.org.br/english" class="tl-btn report">🌐 Website</a>
-      <a href="https://doi.org/10.1016/j.lana.2024.100827" class="tl-btn paper">📑 Campaign Paper</a>
-      <a href="https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(22)00056-8/fulltext" class="tl-btn paper">📑 VE Paper</a>
+      <a href="https://www.vacinamare.org.br/english" class="tl-btn report" target="_blank" rel="noopener">🌐 Website</a>
+      <a href="https://www.youtube.com/watch?v=gX9Z-pTfuSc" class="tl-btn report" target="_blank" rel="noopener">▶ Video 1</a>
+      <a href="https://www.youtube.com/watch?v=AOmLPzsxFJA" class="tl-btn report" target="_blank" rel="noopener">▶ Video 2</a>
+      <a href="https://doi.org/10.1016/j.lana.2024.100827" class="tl-btn paper" target="_blank" rel="noopener">📑 Lancet Reg Health Am 2024</a>
+      <a href="https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(22)00056-8/fulltext" class="tl-btn paper" target="_blank" rel="noopener">📑 CMI 2022</a>
     </div>
   </div>
 </div>
@@ -222,7 +224,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
       <strong>Setting:</strong> Campo Grande, Brazil (first federal Wolbachia deployment) &nbsp;·&nbsp; 2020-2024
     </div>
     <div class="trial-links">
-      <a href="https://doi.org/10.1016/j.lana.2025.101327" class="tl-btn paper">📑 Lancet Reg Health Am 2026</a>
+      <a href="https://doi.org/10.1016/j.lana.2025.101327" class="tl-btn paper" target="_blank" rel="noopener">📑 Lancet Reg Health Am 2026</a>
     </div>
   </div>
 </div>
@@ -244,8 +246,8 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
       <strong>Setting:</strong> Asia & Africa, CCAA Network
     </div>
     <div class="trial-links">
-      <a href="https://clinicaltrials.gov/study/NCT06666738" class="tl-btn ct">🔗 NCT06666738</a>
-      <a href="https://doi.org/10.1186/s13012-024-01413-4" class="tl-btn protocol">📄 Protocol - Implement Sci 2025</a>
+      <a href="https://clinicaltrials.gov/study/NCT06666738" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT06666738</a>
+      <a href="https://doi.org/10.1186/s13012-024-01413-4" class="tl-btn protocol" target="_blank" rel="noopener">📄 Protocol - Implement Sci 2025</a>
     </div>
   </div>
 </div>
@@ -264,7 +266,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
       <strong>Setting:</strong> Tertiary hospital network, Brazil &nbsp;·&nbsp; 2014-2015
     </div>
     <div class="trial-links">
-      <a href="https://doi.org/10.1016/j.jcrc.2019.02.002" class="tl-btn paper">📑 J Crit Care 2019</a>
+      <a href="https://doi.org/10.1016/j.jcrc.2019.02.002" class="tl-btn paper" target="_blank" rel="noopener">📑 J Crit Care 2019</a>
     </div>
   </div>
 </div>
@@ -283,7 +285,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
       <strong>Setting:</strong> AMIL network, Brazil &nbsp;·&nbsp; 2010-2012
     </div>
     <div class="trial-links">
-      <a href="https://doi.org/10.1186/s13054-014-0580-3" class="tl-btn paper">📑 Crit Care 2014</a>
+      <a href="https://doi.org/10.1186/s13054-014-0580-3" class="tl-btn paper" target="_blank" rel="noopener">📑 Crit Care 2014</a>
     </div>
   </div>
 </div>
@@ -302,7 +304,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
       <strong>Setting:</strong> AMIL network, Brazil &nbsp;·&nbsp; 2010–2012
     </div>
     <div class="trial-links">
-      <a href="https://doi.org/10.1007/s00134-013-3131-5" class="tl-btn paper">📑 Intensive Care Med 2014</a>
+      <a href="https://doi.org/10.1007/s00134-013-3131-5" class="tl-btn paper" target="_blank" rel="noopener">📑 Intensive Care Med 2014</a>
     </div>
   </div>
 </div>
@@ -330,7 +332,7 @@ As an expert, I have contributed to independent DSMBs, either as chair, trialist
       <strong>Period:</strong> 2024-present
     </div>
     <div class="trial-links">
-      <a href="https://doi.org/10.62675/2965-2774.20240029-en" class="tl-btn protocol">📄 Protocol 2024</a>
+      <a href="https://doi.org/10.62675/2965-2774.20240029-en" class="tl-btn protocol" target="_blank" rel="noopener">📄 Protocol 2024</a>
     </div>
   </div>
 </div>
@@ -350,8 +352,8 @@ As an expert, I have contributed to independent DSMBs, either as chair, trialist
       <strong>Condition:</strong> Acute respiratory failure (5 patient groups)
     </div>
     <div class="trial-links">
-      <a href="https://clinicaltrials.gov/study/NCT03643939" class="tl-btn ct">🔗 NCT03643939</a>
-      <a href="https://doi.org/10.1001/jama.2024.26244" class="tl-btn paper">📑 JAMA 2025</a>
+      <a href="https://clinicaltrials.gov/study/NCT03643939" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT03643939</a>
+      <a href="https://doi.org/10.1001/jama.2024.26244" class="tl-btn paper" target="_blank" rel="noopener">📑 JAMA 2025</a>
     </div>
   </div>
 </div>
@@ -371,8 +373,8 @@ As an expert, I have contributed to independent DSMBs, either as chair, trialist
       <strong>Condition:</strong> Hospitalised COVID-19 with hypoxaemia
     </div>
     <div class="trial-links">
-      <a href="https://clinicaltrials.gov/study/NCT04468087" class="tl-btn ct">🔗 NCT04468087</a>
-      <a href="https://doi.org/10.1016/j.lana.2023.100466" class="tl-btn paper">📑 Lancet Reg Health Am 2023</a>
+      <a href="https://clinicaltrials.gov/study/NCT04468087" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT04468087</a>
+      <a href="https://doi.org/10.1016/j.lana.2023.100466" class="tl-btn paper" target="_blank" rel="noopener">📑 Lancet Reg Health Am 2023</a>
     </div>
   </div>
 </div>
@@ -384,7 +386,7 @@ As an expert, I have contributed to independent DSMBs, either as chair, trialist
     <div class="trial-header">
       <span class="trial-name">Leronlimab in COVID-19 Trial</span>
       <span class="trial-pill dsmb-pill">DSMB Chair</span>
-      <span class="trial-pill" style="background:rgba(180,30,30,0.1);color:#a02020;font-size:0.67rem;font-weight:700;padding:2px 9px;border-radius:20px;text-transform:uppercase;letter-spacing:0.06em;">Halted — Safety</span>
+      <span class="trial-pill" style="background:rgba(180,30,30,0.1);color:#a02020;font-size:0.67rem;font-weight:700;padding:2px 9px;border-radius:20px;text-transform:uppercase;letter-spacing:0.06em;">Halted - Safety</span>
     </div>
     <div class="trial-meta">
       <strong>Intervention:</strong> Leronlimab (CCR5 antagonist) &nbsp;·&nbsp;
@@ -392,7 +394,8 @@ As an expert, I have contributed to independent DSMBs, either as chair, trialist
       <strong>Period:</strong> 2021-2022
     </div>
     <div class="trial-links">
-      <a href="https://clinicaltrials.gov/search?term=leronlimab+covid" class="tl-btn ct">🔗 ClinicalTrials.gov</a>
+      <a href="https://clinicaltrials.gov/study/NCT04901676" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT04901676</a>
+      <a href="https://clinicaltrials.gov/study/NCT04901689" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT04901689</a>
     </div>
   </div>
 </div>
@@ -412,8 +415,8 @@ As an expert, I have contributed to independent DSMBs, either as chair, trialist
       <strong>Condition:</strong> Hospitalised COVID-19 pneumonia
     </div>
     <div class="trial-links">
-      <a href="https://clinicaltrials.gov/study/NCT04469114" class="tl-btn ct">🔗 NCT04469114</a>
-      <a href="https://doi.org/10.1056/NEJMoa2101643" class="tl-btn paper">📑 NEJM 2021</a>
+      <a href="https://clinicaltrials.gov/study/NCT04469114" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT04469114</a>
+      <a href="https://doi.org/10.1056/NEJMoa2101643" class="tl-btn paper" target="_blank" rel="noopener">📑 NEJM 2021</a>
     </div>
   </div>
 </div>
