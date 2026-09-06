@@ -171,7 +171,7 @@ sections:
           <div class="row justify-content-center mt-2">
             <div class="col-md-10">
               <div class="card" style="border-top: 4px solid #2a7a2a; overflow: hidden;">
-                <a href="/project-impact/clinical-trials/" style="text-decoration: none; color: inherit;">
+                <a href="clinical-trials" style="text-decoration: none; color: inherit;">
                   <div class="d-flex flex-column flex-md-row">
                     <img src="/media/clinical_trials_implementation.jpeg" alt="Clinical Trials & Implementation Science"
                          style="width: 100%; max-width: 320px; height: 200px; object-fit: cover; flex-shrink: 0;">
