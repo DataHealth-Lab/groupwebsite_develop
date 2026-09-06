@@ -49,12 +49,33 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
       <strong>Period:</strong> Jan 2024 - Jan 2026
     </div>
     <div class="trial-links">
-      <a href="https://doi.org/10.1016/j.ccrj.2026.100193" class="tl-btn protocol">📄 Protocol — Crit Care Resusc 2026</a>
+          <a href="https://clinicaltrials.gov/study/NCT05960994" class="tl-btn ct">🔗 NCT05960994</a>
+      <a href="https://doi.org/10.1016/j.ccrj.2026.100193" class="tl-btn protocol">📄 Protocol - Crit Care Resusc 2026</a>
+    </div>
+  </div>
+</div>
+<!-- ── SAFE-REDUCE ────────────────────────────────────────────── -->
+<div class="trial-card">
+  <div class="trial-badge">SAFE-<br>REDUCE</div>
+  <div class="trial-body">
+    <div class="trial-header">
+      <span class="trial-name">SAFE-REDUCE: SAFEly REDUCE Antimicrobial Consumption in Intensive Care Units (Registry-Embedded trial)</span>
+      <span class="trial-pill ongoing">Ongoing</span>
+      <span class="trial-pill" style="background:rgba(42,122,42,0.1);color:#2a7a2a;font-size:0.67rem;font-weight:700;padding:2px 9px;border-radius:20px;text-transform:uppercase;letter-spacing:0.06em;">2025–2026</span>
+    </div>
+    <div class="trial-meta">
+      <strong>Design:</strong> Hybrid effectiveness-implementation Type I, stepped-wedge cluster RCT &nbsp;·&nbsp; 
+      <strong>Setting:</strong> 9 ICUs &nbsp;·&nbsp;
+      <strong>Platform/Registry:</strong> <a href="https://criticalcarescience.org/wp-content/uploads/sites/7/articles_xml/1982-4335-rbti-34-04-0418-20209/1982-4335-rbti-34-04-0418-20209-en.pdf" target="_blank" rel="noopener" style="font-weight:normal;">IMPACTO-MR</a> &nbsp;·&nbsp;
+      <strong>Role:</strong> Researcher / Trialist
+    </div>
+    <div class="trial-links">
+      <a href="https://clinicaltrials.gov/study/NCT07093450" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT07093450</a>
     </div>
   </div>
 </div>
 
-<div class="ct-section-title" style="font-size:1rem;margin-top:2rem;margin-bottom:0.5rem;color:#555;">✅ Completed Clinical Trials</div>
+✅ Completed Clinical Trials</div>
 
 <!-- ── TELESCOPE ────────────────────────────────────────────── -->
 <div class="trial-card completed">
@@ -71,7 +92,8 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
     </div>
     <div class="trial-links">
       <a href="https://clinicaltrials.gov/study/NCT03920501" class="tl-btn ct">🔗 NCT03920501</a>
-      <a href="https://doi.org/10.5935/0103-507x.20220003-pt" class="tl-btn sap">📊 SAP — RBTI 2022</a>
+      <a href="https://doi.org/10.1136/bmjopen-2020-042302" class="tl-btn protocol">📄 Protocol - BMJ Open 2021</a>
+      <a href="https://criticalcarescience.org/wp-content/uploads/sites/7/articles_xml/1982-4335-rbti-34-01-0087-20003/1982-4335-rbti-34-01-0087-20003-en.pdf" class="tl-btn sap">📊 SAP - RBTI 2022</a>
       <a href="https://doi.org/10.1001/jama.2024.20651" class="tl-btn paper">📑 JAMA 2024</a>
     </div>
   </div>
@@ -83,12 +105,12 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
   <div class="trial-body">
     <div class="trial-header">
       <span class="trial-name">Gravity-VAP: Lateral Trendelenburg vs Semirecumbent Position for VAP Prevention</span>
-      <span class="trial-pill completed">Completed — Stopped Early</span>
+      <span class="trial-pill completed">Completed - Stopped Early</span>
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Multicenter RCT, N = 395 patients &nbsp;·&nbsp;
       <strong>Role:</strong> Methodologist/Trialist &nbsp;·&nbsp;
-      <strong>Setting:</strong> Multi-european countries and others &nbsp;·&nbsp; 2010-2015
+      <strong>Setting:</strong> Multi-european countries &nbsp;·&nbsp; 2010-2015
     </div>
     <div class="trial-links">
       <a href="https://clinicaltrials.gov/study/NCT01138540" class="tl-btn ct">🔗 NCT01138540</a>
@@ -139,36 +161,38 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
 
 <div class="ct-section-title">🏘️ Implementation Science</div>
 
-Implementation science addresses the gap between evidence and practice — asking not just *what works* in trials, but *how* proven interventions can be delivered equitably at scale, in the communities that need them most. Our work in this domain has focused on vaccine delivery and infectious disease prevention in vulnerabilised urban settings, co-designed **with** communities rather than merely *for* them.
+Implementation science asks not just *what works* in trials, but *how* proven interventions can be delivered equitably at scale, in hospitals and communities that need them most. Our work spans vaccine delivery and infectious disease prevention in vulnerabilised urban settings, and quality improvement in emergency and critical care globally.
+
+We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-Implementation Trial Designs](https://doi.org/10.1097/MLR.0b013e3182408812) and the [Consolidated Framework for Implementation Research (CFIR)](https://cfirguide.org/), while embracing **innovative and creative approaches** that go beyond standard templates: partnering with local organisations, embedding community health workers, co-designing data collection tools with frontline staff, and adapting interventions to resource-constrained realities. We work **with** communities and clinicians, never merely *for* them.
 
 <!-- ── VACINA MARÉ ────────────────────────────────────────────── -->
 <div class="trial-card completed">
   <div class="trial-badge completed">Vacina<br>Maré</div>
   <div class="trial-body">
     <div class="trial-header">
-      <span class="trial-name">#VacinaMaré: Community-Based Mass Vaccination Campaign & Embedded VE Study</span>
+      <span class="trial-name">#VacinaMaré: Community-Based Mass Vaccination Campaign & Embedded Vaccine Effectiveness Study</span>
       <span class="trial-pill completed">Completed</span>
     </div>
     <div class="trial-meta">
       <strong>Setting:</strong> Maré favela complex, Rio de Janeiro, Brazil &nbsp;·&nbsp;
-      <strong>Role:</strong> Co-Investigator / Implementation Scientist &nbsp;·&nbsp;
+      <strong>Role:</strong> Scientitific Coordinator / Implementation Scientist &nbsp;·&nbsp;
       <strong>Design:</strong> Implementation study + embedded test-negative VE study &nbsp;·&nbsp;
       <strong>N:</strong> >36,000 residents vaccinated
     </div>
     <div class="trial-links">
-      <a href="https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(22)00056-8/fulltext" class="tl-btn paper">📑 VE Paper</a>
-      <a href="https://doi.org/10.1016/j.lana.2024.100827" class="tl-btn paper">📑 Campaign Paper</a>
       <a href="https://www.vacinamare.org.br/english" class="tl-btn report">🌐 Website</a>
+      <a href="https://doi.org/10.1016/j.lana.2024.100827" class="tl-btn paper">📑 Campaign Paper</a>
+      <a href="https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(22)00056-8/fulltext" class="tl-btn paper">📑 VE Paper</a>
     </div>
   </div>
 </div>
 
 <!-- ── DOURADOS DENGUE ───────────────────────── -->
 <div class="trial-card completed">
-  <div class="trial-badge completed">TAK-003<br>Dourados</div>
+  <div class="trial-badge completed">Dengue</div>
   <div class="trial-body">
     <div class="trial-header">
-      <span class="trial-name">TAK-003 Dengue Vaccine: Community-Based Campaign, Dourados</span>
+      <span class="trial-name">Dengue Vaccine: Community-Based Campaign, Dourados</span>
       <span class="trial-pill completed">Completed - Under Evaluation</span>
     </div>
     <div class="trial-meta">
@@ -177,8 +201,6 @@ Implementation science addresses the gap between evidence and practice — askin
       <strong>Design:</strong> Implementation study + prospective cohort for VE estimation
     </div>
     <div class="trial-links">
-      <a href="https://pubmed.ncbi.nlm.nih.gov/40006668/" class="tl-btn paper">📑 Lancet Infect Dis 2026</a>
-      <a href="https://doi.org/10.1016/j.eclinm.2026.104181" class="tl-btn paper">📑 eClinicalMedicine 2026</a>
     </div>
   </div>
 </div>
@@ -197,7 +219,7 @@ Implementation science addresses the gap between evidence and practice — askin
     <div class="trial-meta">
       <strong>Design:</strong> Ecological study, neighbourhood-level interrupted time series &nbsp;·&nbsp;
       <strong>Role:</strong> Epidemiologist / External Evaluator &nbsp;·&nbsp;
-      <strong>Setting:</strong> Campo Grande, Brazil (first federal Wolbachia deployment) &nbsp;·&nbsp; 2020–2024
+      <strong>Setting:</strong> Campo Grande, Brazil (first federal Wolbachia deployment) &nbsp;·&nbsp; 2020-2024
     </div>
     <div class="trial-links">
       <a href="https://doi.org/10.1016/j.lana.2025.101327" class="tl-btn paper">📑 Lancet Reg Health Am 2026</a>
@@ -217,13 +239,13 @@ Implementation science addresses the gap between evidence and practice — askin
       <span class="trial-pill ongoing">Ongoing</span>
     </div>
     <div class="trial-meta">
-      <strong>Design:</strong> Type III hybrid implementation-effectiveness study, 35 ICUs, ≤11 LMICs &nbsp;·&nbsp;
+      <strong>Design:</strong> Type III hybrid implementation-effectiveness study, 35 ICUs, 11 LMICs &nbsp;·&nbsp;
       <strong>Role:</strong> Co-Investigator (active) &nbsp;·&nbsp;
-      <strong>Setting:</strong> Low- and middle-income countries (Africa, Asia, South America)
+      <strong>Setting:</strong> Asia & Africa, CCAA Network
     </div>
     <div class="trial-links">
       <a href="https://clinicaltrials.gov/study/NCT06666738" class="tl-btn ct">🔗 NCT06666738</a>
-      <a href="https://doi.org/10.1186/s13012-024-01413-4" class="tl-btn protocol">📄 Protocol — Implement Sci 2025</a>
+      <a href="https://doi.org/10.1186/s13012-024-01413-4" class="tl-btn protocol">📄 Protocol - Implement Sci 2025</a>
     </div>
   </div>
 </div>
@@ -233,13 +255,13 @@ Implementation science addresses the gap between evidence and practice — askin
   <div class="trial-badge completed">ICU<br>Triage</div>
   <div class="trial-body">
     <div class="trial-header">
-      <span class="trial-name">ICU Triage Decision-Aid: Implementation of a Decision-Aid Tool for ICU Admission Triage</span>
+      <span class="trial-name">ICU Triage: Implementation of a Decision-Aid Tool for ICU Admission Triage</span>
       <span class="trial-pill completed">Completed</span>
     </div>
     <div class="trial-meta">
-      <strong>Design:</strong> Prospective before-after study, 10 ICUs, N = 2,201 referrals &nbsp;·&nbsp;
-      <strong>Role:</strong> Co-Investigator &nbsp;·&nbsp;
-      <strong>Setting:</strong> Tertiary hospital network, Brazil &nbsp;·&nbsp; 2019
+      <strong>Design:</strong> Prospective before-after study, Tertiary Hospital, 110 ICU beds, N = 2,374 urgent referrals &nbsp;·&nbsp;
+      <strong>Role:</strong> Researcher &nbsp;·&nbsp;
+      <strong>Setting:</strong> Tertiary hospital network, Brazil &nbsp;·&nbsp; 2014-2015
     </div>
     <div class="trial-links">
       <a href="https://doi.org/10.1016/j.jcrc.2019.02.002" class="tl-btn paper">📑 J Crit Care 2019</a>
@@ -257,8 +279,8 @@ Implementation science addresses the gap between evidence and practice — askin
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Quality improvement multicenter project, interrupted time series, 10 ICUs, N = 22,963 patients &nbsp;·&nbsp;
-      <strong>Role:</strong> Lead Investigator (first author) &nbsp;·&nbsp;
-      <strong>Setting:</strong> AMIL non-teaching hospital network, Brazil &nbsp;·&nbsp; 2010–2012
+      <strong>Role:</strong> Implementation scientist &nbsp;·&nbsp;
+      <strong>Setting:</strong> AMIL network, Brazil &nbsp;·&nbsp; 2010-2012
     </div>
     <div class="trial-links">
       <a href="https://doi.org/10.1186/s13054-014-0580-3" class="tl-btn paper">📑 Crit Care 2014</a>
@@ -276,8 +298,8 @@ Implementation science addresses the gap between evidence and practice — askin
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Pre-post multicentre study, 10 hospitals (1,650 beds), N = 2,120 patients &nbsp;·&nbsp;
-      <strong>Role:</strong> Co-Investigator (2nd author) &nbsp;·&nbsp;
-      <strong>Setting:</strong> Brazil (private network) &nbsp;·&nbsp; 2010–2012
+      <strong>Role:</strong> Co-Investigator / Methodologist &nbsp;·&nbsp;
+      <strong>Setting:</strong> AMIL network, Brazil &nbsp;·&nbsp; 2010–2012
     </div>
     <div class="trial-links">
       <a href="https://doi.org/10.1007/s00134-013-3131-5" class="tl-btn paper">📑 Intensive Care Med 2014</a>
@@ -290,7 +312,7 @@ Implementation science addresses the gap between evidence and practice — askin
 
 <div class="ct-section-title dsmb-title">🛡️ Data Safety Monitoring Board (DSMB) Memberships</div>
 
-As an independent DSMB member or chair, my role is to protect participant safety, review accumulating unblinded data on efficacy and harm, and make independent recommendations to trial steering committees — including decisions to stop, modify, or continue a trial.
+As an expert, I have contributed to independent DSMBs, either as chair, trialist or statistician. My role is to protect participant safety, guaranteeing high methodological and ethical standards, review accumulating unblinded data on efficacy and harm, and make independent recommendations to trial steering committees, including decisions to stop, modify, or continue a trial.
 
 <!-- ── VATICAN ──────────────────────────────────────────────── -->
 <div class="trial-card dsmb-card">
@@ -303,9 +325,9 @@ As an independent DSMB member or chair, my role is to protect participant safety
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Noninferiority RCT, open-label, multicenter &nbsp;·&nbsp;
-      <strong>Setting:</strong> Brazil (BRICNet) &nbsp;·&nbsp;
-      <strong>Condition:</strong> Ventilator-associated tracheobronchitis (ICU) &nbsp;·&nbsp;
-      <strong>Period:</strong> 2024–present
+      <strong>Setting:</strong> <a href="https://doi.org/10.62675/2965-2774.20250284" target="_blank" rel="noopener">BRICNet</a>  &nbsp;·&nbsp;
+<strong>Condition:</strong> Ventilator-associated tracheobronchitis (ICU) &nbsp;·&nbsp;
+      <strong>Period:</strong> 2024-present
     </div>
     <div class="trial-links">
       <a href="https://doi.org/10.62675/2965-2774.20240029-en" class="tl-btn protocol">📄 Protocol 2024</a>
@@ -318,13 +340,13 @@ As an independent DSMB member or chair, my role is to protect participant safety
   <div class="trial-badge dsmb">RENO-<br>VATE</div>
   <div class="trial-body">
     <div class="trial-header">
-      <span class="trial-name">RENOVATE — High-Flow Nasal Oxygen vs Noninvasive Ventilation in Acute Respiratory Failure</span>
+      <span class="trial-name">RENOVATE: High-Flow Nasal Oxygen vs Noninvasive Ventilation in Acute Respiratory Failure</span>
       <span class="trial-pill dsmb-pill">DSMB Member</span>
-      <span class="trial-pill completed">2021–2023</span>
+      <span class="trial-pill completed">2021-2023</span>
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Bayesian adaptive noninferiority RCT, 1,800 participants &nbsp;·&nbsp;
-      <strong>Setting:</strong> 33 hospitals, Brazil &nbsp;·&nbsp;
+      <strong>Setting:</strong> 33 hospitals &nbsp;·&nbsp;
       <strong>Condition:</strong> Acute respiratory failure (5 patient groups)
     </div>
     <div class="trial-links">
@@ -339,13 +361,13 @@ As an independent DSMB member or chair, my role is to protect participant safety
   <div class="trial-badge dsmb">REVO-<br>LUTIOn</div>
   <div class="trial-body">
     <div class="trial-header">
-      <span class="trial-name">COALITION COVID-19 BRAZIL IX — REVOLUTIOn Trial</span>
+      <span class="trial-name">REVOLUTIOn Trial</span>
       <span class="trial-pill dsmb-pill">DSMB Member</span>
-      <span class="trial-pill completed">2021–2022</span>
+      <span class="trial-pill completed">2021-2022</span>
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Phase II/III adaptive multi-arm RCT, 255 participants &nbsp;·&nbsp;
-      <strong>Setting:</strong> 35 centres, Brazil &nbsp;·&nbsp;
+      <strong>Setting:</strong> 35 centres &nbsp;·&nbsp;
       <strong>Condition:</strong> Hospitalised COVID-19 with hypoxaemia
     </div>
     <div class="trial-links">
@@ -367,7 +389,7 @@ As an independent DSMB member or chair, my role is to protect participant safety
     <div class="trial-meta">
       <strong>Intervention:</strong> Leronlimab (CCR5 antagonist) &nbsp;·&nbsp;
       <strong>Condition:</strong> COVID-19 &nbsp;·&nbsp;
-      <strong>Period:</strong> 2021–2022
+      <strong>Period:</strong> 2021-2022
     </div>
     <div class="trial-links">
       <a href="https://clinicaltrials.gov/search?term=leronlimab+covid" class="tl-btn ct">🔗 ClinicalTrials.gov</a>
@@ -380,14 +402,13 @@ As an independent DSMB member or chair, my role is to protect participant safety
   <div class="trial-badge dsmb">STOP-<br>COVID</div>
   <div class="trial-body">
     <div class="trial-header">
-      <span class="trial-name">STOP-COVID — Tofacitinib in Patients Hospitalized with Covid-19 Pneumonia</span>
+      <span class="trial-name">STOP-COVID: Tofacitinib in Patients Hospitalized with Covid-19 Pneumonia</span>
       <span class="trial-pill dsmb-pill">DSMB Chair</span>
       <span class="trial-pill completed">2020</span>
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Phase III RCT, 1:1, 289 participants &nbsp;·&nbsp;
-      <strong>Setting:</strong> 15 sites, Brazil &nbsp;·&nbsp;
-      <strong>Sponsor:</strong> Pfizer &nbsp;·&nbsp;
+      <strong>Setting:</strong> 15 sites &nbsp;·&nbsp;
       <strong>Condition:</strong> Hospitalised COVID-19 pneumonia
     </div>
     <div class="trial-links">
