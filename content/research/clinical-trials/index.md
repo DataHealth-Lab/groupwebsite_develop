@@ -12,12 +12,11 @@ image:
 
 <div style="
   width:100%; height:220px;
-  background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('/media/clinical_trials_implementation.jpeg') center/cover no-repeat;
+  background: linear-gradient(rgba(255,255,255,0.18), rgba(255,255,255,0.18)), url('/media/clinical_trials_implementation.jpeg') center/cover no-repeat;
   border-radius:8px;
-  margin-bottom:2rem;
+  margin-bottom:0;
 "></div>
-
-**Rigorous Evidence · Equitable Delivery · Community Partnership**
+<p style="font-size:0.75rem; font-weight:600; text-transform:uppercase; letter-spacing:0.12em; color:#5a6372; text-align:center; margin:0.55rem 0 2rem;">Rigorous Evidence &nbsp;·&nbsp; Equitable Delivery &nbsp;·&nbsp; Community Partnership</p>
 
 ---
 

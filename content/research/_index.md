@@ -94,6 +94,11 @@ sections:
         .ra-card-cl .ra-card-label { color: #1a7070; }
         .ra-card-vx .ra-card-label { color: #8a5500; }
         .ra-card-pi .ra-card-label { color: #5a3a88; }
+        @media (max-width: 600px) {
+          .ra-row { flex-direction: column; gap: 5px; }
+          .ra-tag { align-self: flex-start; }
+          .ra-topics { gap: 14px; }
+        }
         </style>
 
         <div class="ra-topics">
