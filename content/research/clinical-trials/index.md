@@ -22,15 +22,15 @@ image:
 
 Clinical trials are the backbone of evidence-based medicine, but generating evidence and implementing it are two different disciplines: both equally demanding. Our group works across this entire spectrum: co-designing and contributing to interventional trials as investigators, trialists and statisticians/methodologists, and embedding implementation science to ensure findings reach the populations who need them most.
 
-We bring particular expertise in **critical care and infectious disease trials**, frequently contributing rigorous statistical frameworks including pre-registered statistical analysis plans (SAPs). In parallel, our **community-embedded implementation science** addresses the gap between what trials show and what actually happens on the ground, particularly in **vulnerabilised settings** where standard trial infrastructure is absent and community trust must be earned.
+We bring particular expertise in **critical care and infectious disease trials**, either national and international, frequently contributing rigorous statistical frameworks including pre-registered protocols and statistical analysis plans (SAPs). In parallel, our **community-embedded implementation science** addresses the gap between what trials show and what actually happens on the ground. We have acquired special expertise with implementation science particularly in **vulnerabilised settings** where standard trial infrastructure is absent and community trust must be earned.
 
-Our **Data Safety Monitoring Board (DSMB) work** gives us experience and a privileged vantage point across a broad portfolio of trials worldwide, informing decisions that directly affect participant safety and the integrity of the evidence base.
+Our **Data Safety Monitoring Board (DSMB) work** gives us experience and a privileged advantage point across a broad portfolio of trials worldwide, informing decisions that directly affect participant safety and the integrity of the evidence base.
 
 ---
 
 <div class="ct-section-title">🧪 Clinical Trials</div>
 
-Randomised controlled trials where I contributed as PI, co-investigator, trialist or lead statistician, including pre-registered statistical analysis plans and adaptive designs.
+Randomised controlled trials where I contributed as PI, co-investigator, trialist or lead statistician, including traditional and adaptive designs, frequentist and Bayesian frameworks.
 
 <div class="ct-section-title" style="font-size:1rem;margin-top:1.5rem;margin-bottom:0.5rem;color:#555;">🟡 Ongoing / Analysis Phase</div>
 
@@ -163,7 +163,7 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
 
 Implementation science asks not just *what works* in trials, but *how* proven interventions can be delivered equitably at scale, in hospitals and communities that need them most. Our work spans vaccine delivery and infectious disease prevention in vulnerabilised urban settings, and quality improvement in emergency and critical care globally.
 
-We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-Implementation Trial Designs](https://doi.org/10.1097/MLR.0b013e3182408812) and the [Consolidated Framework for Implementation Research (CFIR)](https://cfirguide.org/), while embracing **innovative and creative approaches** that go beyond standard templates: partnering with local organisations, embedding community health workers, co-designing data collection tools with frontline staff, and adapting interventions to resource-constrained realities. We work **with** communities and clinicians, never merely *for* them.
+We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-Implementation Trial Designs](https://doi.org/10.1097/MLR.0b013e3182408812) and the [Consolidated Framework for Implementation Research (CFIR)](https://cfirguide.org/), while embracing **innovative and creative approaches** that go beyond standard templates: partnering with local organisations, embedding community health workers, co-designing data collection tools with frontline staff, and adapting interventions to resource-constrained realities. We work **with** communities, clinicians and stakeholders.
 
 <!-- ── VACINA MARÉ ────────────────────────────────────────────── -->
 <div class="trial-card completed">
