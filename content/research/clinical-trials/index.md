@@ -25,6 +25,28 @@ Clinical trials are the backbone of evidence-based medicine, but generating evid
 We bring particular expertise in **critical care and infectious disease trials**, either national and international, frequently contributing rigorous statistical frameworks including pre-registered protocols and statistical analysis plans (SAPs). In parallel, our **community-embedded implementation science** addresses the gap between what trials show and what actually happens on the ground. We have acquired special expertise with implementation science particularly in **vulnerabilised settings** where standard trial infrastructure is absent and community trust must be earned.
 
 Our **Data Safety Monitoring Board (DSMB) work** gives us experience and a privileged advantage point across a broad portfolio of trials worldwide, informing decisions that directly affect participant safety and the integrity of the evidence base.
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:0;margin:1.8rem 0 2.2rem;border-radius:10px;overflow:hidden;background:#c89520;">
+  <div style="flex:1;min-width:130px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;">6</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;">Randomised Trials</div>
+  </div>
+  <div style="flex:1;min-width:130px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;">~47,000</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;">Randomised Patients</div>
+  </div>
+  <div style="flex:1;min-width:130px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;">17</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;">Countries</div>
+  </div>
+  <div style="flex:1;min-width:130px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;">&gt;100</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;">Centres</div>
+  </div>
+  <div style="flex:1;min-width:130px;padding:20px 10px;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;">5</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;">DSMBs</div>
+  </div>
+</div>
 
 ---
 
