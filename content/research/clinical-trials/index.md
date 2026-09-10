@@ -50,11 +50,9 @@ Our **Data Safety Monitoring Board (DSMB) work** gives us experience and a privi
 
 ---
 
-<div class="ct-section-title">🧪 Clinical Trials</div>
+<div class="ct-section-title">Clinical Trials</div>
 
-Randomised controlled trials where I contributed as PI, co-investigator, trialist or lead statistician, including traditional and adaptive designs, frequentist and Bayesian frameworks.
-
-<div class="ct-section-title" style="font-size:1rem;margin-top:1.5rem;margin-bottom:0.5rem;color:#555;">🟡 Ongoing / Analysis Phase</div>
+Randomised controlled trials where I contributed as PI, trialist or lead statistician, including traditional and adaptive designs, frequentist and Bayesian frameworks.
 
 <!-- ── TELESCOPE 2 ─────────────────────────────────────────── -->
 <div class="trial-card">
@@ -68,7 +66,7 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
       <strong>Design:</strong> Stepped-wedge cluster RCT, open-label, multicentre &nbsp;·&nbsp;
       <strong>Role:</strong> Scientific coordinator / Trialist &nbsp;·&nbsp;
       <strong>Setting:</strong> 25 ICUs &nbsp;·&nbsp;
-      <strong>Period:</strong> Jan 2024 - Jan 2026
+      <strong>Period:</strong> 2024-2026
     </div>
     <div class="trial-links">
           <a href="https://clinicaltrials.gov/study/NCT05960994" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT05960994</a>
@@ -83,13 +81,12 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
     <div class="trial-header">
       <span class="trial-name">SAFE-REDUCE: SAFEly REDUCE Antimicrobial Consumption in Intensive Care Units (Registry-Embedded trial)</span>
       <span class="trial-pill ongoing">Ongoing</span>
-      <span class="trial-pill" style="background:rgba(42,122,42,0.1);color:#2a7a2a;font-size:0.67rem;font-weight:700;padding:2px 9px;border-radius:20px;text-transform:uppercase;letter-spacing:0.06em;">2025–2026</span>
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Hybrid effectiveness-implementation Type I, stepped-wedge cluster RCT &nbsp;·&nbsp; 
       <strong>Setting:</strong> 9 ICUs &nbsp;·&nbsp;
       <strong>Platform/Registry:</strong> <a href="https://criticalcarescience.org/wp-content/uploads/sites/7/articles_xml/1982-4335-rbti-34-04-0418-20209/1982-4335-rbti-34-04-0418-20209-en.pdf" target="_blank" rel="noopener" style="font-weight:normal;">IMPACTO-MR</a> &nbsp;·&nbsp;
-      <strong>Role:</strong> Researcher / Trialist
+      <strong>Role:</strong> Researcher / Trialist &nbsp;·&nbsp; <strong>Period:</strong> 2025-2026
     </div>
     <div class="trial-links">
       <a href="https://clinicaltrials.gov/study/NCT07093450" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT07093450</a>
@@ -97,7 +94,6 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
   </div>
 </div>
 
-✅ Completed Clinical Trials</div>
 
 <!-- ── TELESCOPE ────────────────────────────────────────────── -->
 <div class="trial-card completed">
@@ -110,36 +106,18 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
     <div class="trial-meta">
       <strong>Design:</strong> Parallel cluster RCT with baseline period, N = 15,230 patients &nbsp;·&nbsp;
       <strong>Role:</strong> CO-PI  &nbsp;·&nbsp;
-      <strong>Setting:</strong> 30 ICUs &nbsp;·&nbsp; 2019-2021
+      <strong>Setting:</strong> 30 ICUs &nbsp;·&nbsp; <strong>Period:</strong> 2019-2021
     </div>
     <div class="trial-links">
       <a href="https://clinicaltrials.gov/study/NCT03920501" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT03920501</a>
       <a href="https://doi.org/10.1136/bmjopen-2020-042302" class="tl-btn protocol" target="_blank" rel="noopener">📄 Protocol - BMJ Open 2021</a>
-      <a href="https://criticalcarescience.org/wp-content/uploads/sites/7/articles_xml/1982-4335-rbti-34-01-0087-20003/1982-4335-rbti-34-01-0087-20003-en.pdf" class="tl-btn sap" target="_blank" rel="noopener">📊 SAP - RBTI 2022</a>
+      <a href="https://criticalcarescience.org/wp-content/uploads/sites/7/articles_xml/1982-4335-rbti-34-01-0087-20003/1982-4335-rbti-34-01-0087-20003-en.pdf" class="tl-btn sap" target="_blank" rel="noopener">📊 SAP - CCS 2022</a>
       <a href="https://doi.org/10.1001/jama.2024.20651" class="tl-btn paper" target="_blank" rel="noopener">📑 JAMA 2024</a>
     </div>
   </div>
 </div>
 
-<!-- ── GRAVITY-VAP ──────────────────────────────────────────── -->
-<div class="trial-card completed">
-  <div class="trial-badge completed">Gravity-<br>VAP</div>
-  <div class="trial-body">
-    <div class="trial-header">
-      <span class="trial-name">Gravity-VAP: Lateral Trendelenburg vs Semirecumbent Position for VAP Prevention</span>
-      <span class="trial-pill completed">Completed - Stopped Early</span>
-    </div>
-    <div class="trial-meta">
-      <strong>Design:</strong> Multicenter RCT, N = 395 patients &nbsp;·&nbsp;
-      <strong>Role:</strong> Methodologist/Trialist &nbsp;·&nbsp;
-      <strong>Setting:</strong> Multi-european countries &nbsp;·&nbsp; 2010-2015
-    </div>
-    <div class="trial-links">
-      <a href="https://clinicaltrials.gov/study/NCT01138540" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT01138540</a>
-      <a href="https://doi.org/10.1007/s00134-017-4858-1" class="tl-btn paper" target="_blank" rel="noopener">📑 Intensive Care Med 2017</a>
-    </div>
-  </div>
-</div>
+
 
 <!-- ── V-TRIAGE ────────────────────────────────────────────── -->
 <div class="trial-card completed">
@@ -152,10 +130,10 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
     <div class="trial-meta">
       <strong>Design:</strong> Randomised factorial vignette trial, N = 125 intensivists &nbsp;·&nbsp;
       <strong>Role:</strong> Co-Investigator &nbsp;·&nbsp;
-      <strong>Setting:</strong> Brazil &nbsp;·&nbsp; 2021
+      <strong>Setting:</strong> Brazil &nbsp;·&nbsp; <strong>Period:</strong> 2021
     </div>
     <div class="trial-links">
-      <a href="https://doi.org/10.5935/0103-507X.20210029" class="tl-btn paper" target="_blank" rel="noopener">📑 Rev Bras Ter Intensiva 2021</a>
+      <a href="https://doi.org/10.5935/0103-507X.20210029" class="tl-btn paper" target="_blank" rel="noopener">📑 CCS 2021</a>
     </div>
   </div>
 </div>
@@ -171,7 +149,7 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
     <div class="trial-meta">
       <strong>Design:</strong> Randomised crossover study, N = 59 participants &nbsp;·&nbsp;
       <strong>Role:</strong> Trialist &nbsp;·&nbsp;
-      <strong>Setting:</strong> Barcelona, Spain &nbsp;·&nbsp; 2020
+      <strong>Setting:</strong> Barcelona, Spain &nbsp;·&nbsp; <strong>Period:</strong> 2017
     </div>
     <div class="trial-links">
       <a href="https://doi.org/10.1016/j.envres.2020.109812" class="tl-btn paper" target="_blank" rel="noopener">📑 Environ Res 2020</a>
@@ -179,13 +157,75 @@ Randomised controlled trials where I contributed as PI, co-investigator, trialis
   </div>
 </div>
 
----
+<!-- ── GRAVITY-VAP ──────────────────────────────────────────── -->
+<div class="trial-card completed">
+  <div class="trial-badge completed">Gravity-<br>VAP</div>
+  <div class="trial-body">
+    <div class="trial-header">
+      <span class="trial-name">Gravity-VAP: Lateral Trendelenburg vs Semirecumbent Position for VAP Prevention</span>
+      <span class="trial-pill completed">Completed - Stopped Early</span>
+    </div>
+    <div class="trial-meta">
+      <strong>Design:</strong> Multicenter RCT, N = 395 patients &nbsp;·&nbsp;
+      <strong>Role:</strong> Methodologist/Trialist &nbsp;·&nbsp;
+      <strong>Setting:</strong> Multi-european countries &nbsp;·&nbsp; <strong>Period:</strong> 2010-2015
+    </div>
+    <div class="trial-links">
+      <a href="https://clinicaltrials.gov/study/NCT01138540" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT01138540</a>
+      <a href="https://doi.org/10.1007/s00134-017-4858-1" class="tl-btn paper" target="_blank" rel="noopener">📑 Intensive Care Med 2017</a>
+      <a href="https://datahealthlab.org/project-impact/translational-vap-icu/" class="tl-btn paper" target="_blank" rel="noopener">📑 Impact & Translational History</a>
+    </div>
+  </div>
+</div>
 
-<div class="ct-section-title">🏘️ Implementation Science</div>
+<div class="ct-section-title">Implementation Science</div>
 
 Implementation science asks not just *what works* in trials, but *how* proven interventions can be delivered equitably at scale, in hospitals and communities that need them most. Our work spans vaccine delivery and infectious disease prevention in vulnerabilised urban settings, and quality improvement in emergency and critical care globally.
 
 We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-Implementation Trial Designs](https://doi.org/10.1097/MLR.0b013e3182408812) and the [Consolidated Framework for Implementation Research (CFIR)](https://cfirguide.org/), while embracing **innovative and creative approaches** that go beyond standard templates: partnering with local organisations, embedding community health workers, co-designing data collection tools with frontline staff, and adapting interventions to resource-constrained realities. We work **with** communities, clinicians and stakeholders.
+
+
+<!-- ── DOURADOS DENGUE ───────────────────────── -->
+<div class="ct-section-title" style="font-size:0.92rem;margin-top:2rem;margin-bottom:0.5rem;color:#888;text-transform:uppercase;letter-spacing:0.06em;font-weight:600;">Community-based interventions</div>
+
+<div class="trial-card">
+  <div class="trial-badge">Dengue</div>
+  <div class="trial-body">
+    <div class="trial-header">
+      <span class="trial-name">Dengue Vaccine: Community-Based Campaign, Dourados</span>
+      <span class="trial-pill ongoing">Ongoing</span>
+    </div>
+    <div class="trial-meta">
+      <strong>Setting:</strong> Dourados, Mato Grosso do Sul, Brazil (~250,000 inhabitants) &nbsp;·&nbsp;
+      <strong>Role:</strong> Researcher / Epidemiologist &nbsp;·&nbsp;
+      <strong>Design:</strong> Implementation study + prospective cohort for VE estimation&nbsp;·&nbsp;<strong>Period:</strong> 2024-
+    </div>
+    <div class="trial-links">
+    </div>
+  </div>
+</div>
+
+
+<!-- ── WOLBACHIA ─────────────────────────────────────────────── -->
+
+<div class="trial-card completed">
+  <div class="trial-badge completed">Wol-<br>bachia</div>
+  <div class="trial-body">
+    <div class="trial-header">
+      <span class="trial-name">Wolbachia Campo Grande: Large-Scale Release of Wolbachia Mosquitoes on Dengue Incidence</span>
+      <span class="trial-pill completed">Completed</span>
+    </div>
+    <div class="trial-meta">
+      <strong>Design:</strong> Ecological study, neighbourhood-level interrupted time series &nbsp;·&nbsp;
+      <strong>Role:</strong> Epidemiologist / External Evaluator &nbsp;·&nbsp;
+      <strong>Setting:</strong> Campo Grande, Brazil (first federal Wolbachia deployment) &nbsp;·&nbsp; <strong>Period:</strong> 2020-2024
+    </div>
+    <div class="trial-links">
+      <a href="https://doi.org/10.1016/j.lana.2025.101327" class="tl-btn paper" target="_blank" rel="noopener">📑 Lancet Reg Health Am 2026</a>
+    </div>
+  </div>
+</div>
+
 
 <!-- ── VACINA MARÉ ────────────────────────────────────────────── -->
 <div class="trial-card completed">
@@ -199,7 +239,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
       <strong>Setting:</strong> Maré favela complex, Rio de Janeiro, Brazil &nbsp;·&nbsp;
       <strong>Role:</strong> Scientitific Coordinator / Implementation Scientist &nbsp;·&nbsp;
       <strong>Design:</strong> Implementation study + embedded test-negative VE study &nbsp;·&nbsp;
-      <strong>N:</strong> >36,000 residents vaccinated
+      <strong>N:</strong> >36,000 residents vaccinated &nbsp;·&nbsp; <strong>Period:</strong> 2021-2022
     </div>
     <div class="trial-links">
       <a href="https://www.vacinamare.org.br/english" class="tl-btn report" target="_blank" rel="noopener">🌐 Website</a>
@@ -211,48 +251,11 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
   </div>
 </div>
 
-<!-- ── DOURADOS DENGUE ───────────────────────── -->
-<div class="trial-card completed">
-  <div class="trial-badge completed">Dengue</div>
-  <div class="trial-body">
-    <div class="trial-header">
-      <span class="trial-name">Dengue Vaccine: Community-Based Campaign, Dourados</span>
-      <span class="trial-pill completed">Completed - Under Evaluation</span>
-    </div>
-    <div class="trial-meta">
-      <strong>Setting:</strong> Dourados, Mato Grosso do Sul, Brazil (~250,000 inhabitants) &nbsp;·&nbsp;
-      <strong>Role:</strong> Researcher / Epidemiologist &nbsp;·&nbsp;
-      <strong>Design:</strong> Implementation study + prospective cohort for VE estimation
-    </div>
-    <div class="trial-links">
-    </div>
-  </div>
-</div>
 
 
-<!-- ── WOLBACHIA ─────────────────────────────────────────────── -->
-<div class="ct-section-title" style="font-size:0.92rem;margin-top:2rem;margin-bottom:0.5rem;color:#888;text-transform:uppercase;letter-spacing:0.06em;font-weight:600;">🦟 Vector Control</div>
-
-<div class="trial-card completed">
-  <div class="trial-badge completed">Wol-<br>bachia</div>
-  <div class="trial-body">
-    <div class="trial-header">
-      <span class="trial-name">Wolbachia Campo Grande: Large-Scale Release of Wolbachia Mosquitoes on Dengue Incidence</span>
-      <span class="trial-pill completed">Completed - Evaluation Role</span>
-    </div>
-    <div class="trial-meta">
-      <strong>Design:</strong> Ecological study, neighbourhood-level interrupted time series &nbsp;·&nbsp;
-      <strong>Role:</strong> Epidemiologist / External Evaluator &nbsp;·&nbsp;
-      <strong>Setting:</strong> Campo Grande, Brazil (first federal Wolbachia deployment) &nbsp;·&nbsp; 2020-2024
-    </div>
-    <div class="trial-links">
-      <a href="https://doi.org/10.1016/j.lana.2025.101327" class="tl-btn paper" target="_blank" rel="noopener">📑 Lancet Reg Health Am 2026</a>
-    </div>
-  </div>
-</div>
 
 <!-- ── ICU QI ────────────────────────────────────────────────── -->
-<div class="ct-section-title" style="font-size:0.92rem;margin-top:2rem;margin-bottom:0.5rem;color:#888;text-transform:uppercase;letter-spacing:0.06em;font-weight:600;">🏥 Critical Care Quality Improvement</div>
+<div class="ct-section-title" style="font-size:0.92rem;margin-top:2rem;margin-bottom:0.5rem;color:#888;text-transform:uppercase;letter-spacing:0.06em;font-weight:600;">Critical Care Quality Improvement</div>
 
 <!-- ── EQUIPS-ICU ──────────────────────────────────────────── -->
 <div class="trial-card">
@@ -265,7 +268,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
     <div class="trial-meta">
       <strong>Design:</strong> Type III hybrid implementation-effectiveness study, 35 ICUs, 11 LMICs &nbsp;·&nbsp;
       <strong>Role:</strong> Co-Investigator (active) &nbsp;·&nbsp;
-      <strong>Setting:</strong> Asia & Africa, CCAA Network
+      <strong>Setting:</strong> Asia & Africa, CCAA Network &nbsp;·&nbsp; <strong>Period:</strong> 2025-2026
     </div>
     <div class="trial-links">
       <a href="https://clinicaltrials.gov/study/NCT06666738" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT06666738</a>
@@ -285,7 +288,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
     <div class="trial-meta">
       <strong>Design:</strong> Prospective before-after study, Tertiary Hospital, 110 ICU beds, N = 2,374 urgent referrals &nbsp;·&nbsp;
       <strong>Role:</strong> Researcher &nbsp;·&nbsp;
-      <strong>Setting:</strong> Tertiary hospital network, Brazil &nbsp;·&nbsp; 2014-2015
+      <strong>Setting:</strong> Tertiary hospital network, Brazil &nbsp;·&nbsp; <strong>Period:</strong> 2014-2015
     </div>
     <div class="trial-links">
       <a href="https://doi.org/10.1016/j.jcrc.2019.02.002" class="tl-btn paper" target="_blank" rel="noopener">📑 J Crit Care 2019</a>
@@ -304,7 +307,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
     <div class="trial-meta">
       <strong>Design:</strong> Quality improvement multicenter project, interrupted time series, 10 ICUs, N = 22,963 patients &nbsp;·&nbsp;
       <strong>Role:</strong> Implementation scientist &nbsp;·&nbsp;
-      <strong>Setting:</strong> AMIL network, Brazil &nbsp;·&nbsp; 2010-2012
+      <strong>Setting:</strong> AMIL network, Brazil &nbsp;·&nbsp; <strong>Period:</strong> 2010-2012
     </div>
     <div class="trial-links">
       <a href="https://doi.org/10.1186/s13054-014-0580-3" class="tl-btn paper" target="_blank" rel="noopener">📑 Crit Care 2014</a>
@@ -323,7 +326,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
     <div class="trial-meta">
       <strong>Design:</strong> Pre-post multicentre study, 10 hospitals (1,650 beds), N = 2,120 patients &nbsp;·&nbsp;
       <strong>Role:</strong> Co-Investigator / Methodologist &nbsp;·&nbsp;
-      <strong>Setting:</strong> AMIL network, Brazil &nbsp;·&nbsp; 2010–2012
+      <strong>Setting:</strong> AMIL network, Brazil &nbsp;·&nbsp; <strong>Period:</strong> 2010–2012
     </div>
     <div class="trial-links">
       <a href="https://doi.org/10.1007/s00134-013-3131-5" class="tl-btn paper" target="_blank" rel="noopener">📑 Intensive Care Med 2014</a>
@@ -334,7 +337,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
 
 ---
 
-<div class="ct-section-title dsmb-title">🛡️ Data Safety Monitoring Board (DSMB) Memberships</div>
+<div class="ct-section-title dsmb-title">Data Safety Monitoring Board (DSMB) Memberships</div>
 
 As an expert, I have contributed to independent DSMBs, either as chair, trialist or statistician. My role is to protect participant safety, guaranteeing high methodological and ethical standards, review accumulating unblinded data on efficacy and harm, and make independent recommendations to trial steering committees, including decisions to stop, modify, or continue a trial.
 
