@@ -1,7 +1,6 @@
 {
   "htmlElements": {
     "tags": [
-      "<div",
       "a",
       "article",
       "aside",
@@ -53,10 +52,13 @@
     "classes": [
       "!mb-4",
       "__dimensions_badge_embed__",
+      "academicons",
+      "academicons-lattes",
       "active",
       "ai",
       "ai-clarivate",
       "ai-google-scholar",
+      "ai-lattes",
       "ai-pubmed",
       "ai-scopus",
       "align-items-center",
@@ -161,6 +163,8 @@
       "ct",
       "ct-section-title",
       "cta-group",
+      "custom",
+      "custom-lattes",
       "d-flex",
       "d-inline-flex",
       "d-lg-inline-flex",
@@ -466,7 +470,6 @@
     ],
     "ids": [
       "-background",
-      "-communities--forums",
       "-conference-reports-and-expert-panel-fluid-removal-at-de-escalation-phase-2025",
       "-conference-reports-and-expert-panel-volume-of-resuscitation-fluids-2025",
       "-consensus-global-climate-and-health-summit-2025-2025",
@@ -489,11 +492,9 @@
       "-our-contribution",
       "-our-research-cited-in-patents-policy-documents-and-guidelines",
       "-pioneering-translational-research",
-      "-repositories--code-templates",
       "-research-group-culture",
       "-statistics--modelling",
       "-transforming-vaccine-science-into-policy-and-practice",
-      "-useful-packages--hidden-gems",
       "-useful-packages-perhaps-hidden-within-the-mainstream",
       "-who-expanding-our-understanding-of-post-covid-19-condition-2021",
       "awards",
