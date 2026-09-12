@@ -78,9 +78,12 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 weight: 5
 ---
 I graduated in **Physiotherapy** from Universitat Ramon Llull (Barcelona) in 2019 and completed a Master’s degree in Chest Physiotherapy at Escoles Universitàries Gimbernat in 2021. I’m currently pursuing a Master’s degree in Bioinformatics and Biostatistics in Universitat Oberta de Catalunya (UOC). 
 
 Over the years, my academic and professional path has progressively evolved toward a data-driven research profile within the biomedical field, combining clinical expertise with quantitative and analytical skills. 
+
+## MSc Dissertation
+"Applying causal inference and predictive modelling to disentangle the effects of a tele-critical care intervention in critically ill mechanically ventilated patients"

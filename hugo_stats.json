@@ -52,8 +52,6 @@
     "classes": [
       "!mb-4",
       "__dimensions_badge_embed__",
-      "academicons",
-      "academicons-lattes",
       "active",
       "ai",
       "ai-clarivate",
@@ -163,8 +161,6 @@
       "ct",
       "ct-section-title",
       "cta-group",
-      "custom",
-      "custom-lattes",
       "d-flex",
       "d-inline-flex",
       "d-lg-inline-flex",
