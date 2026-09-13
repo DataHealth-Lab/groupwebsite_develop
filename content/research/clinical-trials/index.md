@@ -26,25 +26,29 @@ We bring particular expertise in **critical care and infectious disease trials**
 
 Our **Data Safety Monitoring Board (DSMB) work** gives us experience and a privileged advantage point across a broad portfolio of trials worldwide, informing decisions that directly affect participant safety and the integrity of the evidence base.
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:0;margin:1.8rem 0 2.2rem;border-radius:10px;overflow:hidden;background:#c89520;">
-  <div style="flex:1;min-width:130px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;">6</div>
-    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;">Randomised Trials</div>
+  <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">6</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Randomised Trials</div>
   </div>
-  <div style="flex:1;min-width:130px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;">~47,000</div>
-    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;">Randomised Patients</div>
+  <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">8</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Implementation Studies</div>
   </div>
-  <div style="flex:1;min-width:130px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;">17</div>
-    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;">Countries</div>
+  <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">~47,000</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Randomised Patients</div>
   </div>
-  <div style="flex:1;min-width:130px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;">&gt;100</div>
-    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;">Centres</div>
+  <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">17</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Countries</div>
   </div>
-  <div style="flex:1;min-width:130px;padding:20px 10px;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;">5</div>
-    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;">DSMBs</div>
+  <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">&gt;100</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Centres</div>
+  </div>
+  <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">5</div>
+    <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">DSMBs</div>
   </div>
 </div>
 
@@ -173,7 +177,7 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
     <div class="trial-links">
       <a href="https://clinicaltrials.gov/study/NCT01138540" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT01138540</a>
       <a href="https://doi.org/10.1007/s00134-017-4858-1" class="tl-btn paper" target="_blank" rel="noopener">📑 Intensive Care Med 2017</a>
-      <a href="https://datahealthlab.org/project-impact/translational-vap-icu/" class="tl-btn paper" target="_blank" rel="noopener">📑 Impact & Translational History</a>
+      <a href="https://datahealthlab.org/project-impact/translational-vap-icu/" class="tl-btn impact" target="_blank" rel="noopener">📑 Impact & Translational History</a>
     </div>
   </div>
 </div>
@@ -277,6 +281,25 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
   </div>
 </div>
 
+<!-- ── AIR INTERVENTION ───────────────────────────────────────── -->
+<div class="trial-card">
+  <div class="trial-badge">AIR</div>
+  <div class="trial-body">
+    <div class="trial-header">
+      <span class="trial-name">AIR: Implementation of a Family-Led Discharge Intervention for Tracheostomised ICU Survivors in India</span>
+      <span class="trial-pill ongoing">Analysis Phase</span>
+    </div>
+    <div class="trial-meta">
+      <strong>Design:</strong> Multicentre Hybrid Type II implementation-effectiveness study, N = 427 patients &nbsp;·&nbsp;
+      <strong>Role:</strong> Methodologist / Implementation Scientist &nbsp;·&nbsp;
+      <strong>Setting:</strong> 4 hospitals &nbsp;·&nbsp; <strong>Period:</strong> 2024–2025
+    </div>
+    <div class="trial-links">
+      <a href="https://ctri.nic.in/Clinicaltrials/pmaindet2.php?EncHid=MTA3OTM1&Enc=&userName=" class="tl-btn ct" target="_blank" rel="noopener">🔗 CTRI/2024/07/069946</a>
+    </div>
+  </div>
+</div>
+
 <!-- ── ICU TRIAGE TOOL ────────────────────────────────────────── -->
 <div class="trial-card completed">
   <div class="trial-badge completed">ICU<br>Triage</div>
@@ -336,6 +359,12 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
 
 
 ---
+
+<div style="margin:2.5rem 0 0.6rem;">
+  <div class="ct-section-title" style="margin-bottom:1rem;">Where have we been working?</div>
+  <img src="trials_map.svg" alt="World map of trial and implementation countries" style="width:100%;max-width:860px;display:block;margin:0 auto;border-radius:6px;">
+  <p style="text-align:center;font-size:0.75rem;color:#888;margin-top:0.4rem;font-style:italic;">Countries involved in clinical trials and implementation science work (n&nbsp;=&nbsp;17).</p>
+</div>
 
 <div class="ct-section-title dsmb-title">Data Safety Monitoring Board (DSMB) Memberships</div>
 

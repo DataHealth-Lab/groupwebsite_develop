@@ -438,12 +438,16 @@
 .tl-btn.report       { border-color: rgba(0,0,0,0.2); color: #555; }
 .tl-btn.report:hover { background: rgba(0,0,0,0.05); }
 
+.tl-btn.impact       { background: #c89520; border-color: #c89520; color: #fff; }
+.tl-btn.impact:hover { background: #a87a18; }
+
 /* --- Dark mode ------------------------------------------- */
 .dark .trial-card        { --ct-card-bg: #1e1e2a; border-color: rgba(255,255,255,0.08); }
 .dark .ct-stat-label     { color: #aaa; }
 .dark .trial-pill.completed { color: #aaa; }
 .dark .trial-meta        { color: #aaa; }
 .dark .tl-btn.paper      { background: #3a9a3a; border-color: #3a9a3a; }
+.dark .tl-btn.impact     { background: #d4a030; border-color: #d4a030; }
 .dark .ct-stat-number    { color: #6dbf6d; }
 .dark .ct-section-title  { border-left-color: #6dbf6d; }
 
