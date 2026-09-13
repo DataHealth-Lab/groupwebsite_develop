@@ -20,7 +20,7 @@ role: Erasmus+ traineeship
 
 # Organizations/Affiliations
 organizations:
-  - name: UNIVERSITÀ VITA-SALUTE SAN RAFFELE
+  - name: U. VITA-SALUTE SAN RAFFELE
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
