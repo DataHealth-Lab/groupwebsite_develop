@@ -18,8 +18,9 @@ This is under construction.
 
 ## 📖 Getting Started
 
-- [The Epidemiologist R Handbook](https://www.epirhandbook.com/en/) — comprehensive R reference for epidemiologists
-- [R for Data Science](https://r4ds.had.co.nz/) — Hadley Wickham's essential introduction to R and the tidyverse
+- [The Epidemiologist R Handbook](https://www.epirhandbook.com/en/) - comprehensive R reference for epidemiologists
+- [R for Data Science](https://r4ds.had.co.nz/) - Hadley Wickham's essential introduction to R and the tidyverse
+- [Fundamentals of Statistical Software & Analysis](https://www.ndph.ox.ac.uk/study-with-us/short-courses/fundamentals-of-statistical-software-analysis) - Oxford Population Health self-taught course covering a range of statistics tests
 
 ---
 
@@ -37,10 +38,20 @@ This is under construction.
 
 ## 🎓 Courses, Tutorials & Workshops
 
-- 
+**Environmental Epidemiology**
+- [Interrupted Times Series](https://github.com/benmarhnia-lab/ISEE_ITS_workshop) - Workshop at ISEE2026 by Tarik Benmarhnia and Yiqun Ma
+
+
+**OMOP Common Data Model**
+- [RWEpi IDIAPJGol](https://github.com/rwepi-idiapjgol/Curso_OMOP_2026) - Introduction Course to OMOP 
+- [OMOP Tidy](https://ohdsi.github.io/Tidy-R-programming-with-OMOP/index.html) - Tidy R programming with the OMOP
+- [Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/) - Observational Health Data Sciences and Informatics
+
 
 ---
 
 ## 📦 Useful Packages (perhaps hidden within the mainstream)
+-
 
-- 
+
+---

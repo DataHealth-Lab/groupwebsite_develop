@@ -27,7 +27,7 @@ We bring particular expertise in **critical care and infectious disease trials**
 Our **Data Safety Monitoring Board (DSMB) work** gives us experience and a privileged advantage point across a broad portfolio of trials worldwide, informing decisions that directly affect participant safety and the integrity of the evidence base.
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:0;margin:1.8rem 0 2.2rem;border-radius:10px;overflow:hidden;background:#c89520;">
   <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">6</div>
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">7</div>
     <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Randomised Trials</div>
   </div>
   <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
@@ -78,6 +78,25 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
     </div>
   </div>
 </div>
+<!-- ── NOVA ───────────────────────────────────────────────────── -->
+<div class="trial-card">
+  <div class="trial-badge">NoVa</div>
+  <div class="trial-body">
+    <div class="trial-header">
+      <span class="trial-name">NoVa: Norepinephrine and Vasopressin for Rescue Versus Early Vasopressin for Vasopressor-Dependent Sepsis</span>
+      <span class="trial-pill ongoing">Ongoing</span>
+    </div>
+    <div class="trial-meta">
+      <strong>Design:</strong> Multicentre, open-label, randomized controlled trial &nbsp;·&nbsp;  <strong>Setting:</strong> 20 centres  &nbsp;·&nbsp; N = 2,800 patients (target) &nbsp;·&nbsp;
+      <strong>Role:</strong> Steering Committee / Trialist &nbsp;·&nbsp;
+      <strong>Period:</strong> 2024–
+    </div>
+    <div class="trial-links">
+      <a href="https://clinicaltrials.gov/study/NCT06464510" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT06464510</a>
+      <a href="https://novatrial.org/estudo/" class="tl-btn protocol" target="_blank" rel="noopener">🌐 novatrial.org</a>
+    </div>
+  </div>
+</div>
 <!-- ── SAFE-REDUCE ────────────────────────────────────────────── -->
 <div class="trial-card">
   <div class="trial-badge">SAFE-<br>REDUCE</div>
@@ -90,7 +109,7 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
       <strong>Design:</strong> Hybrid effectiveness-implementation Type I, stepped-wedge cluster RCT &nbsp;·&nbsp; 
       <strong>Setting:</strong> 9 ICUs &nbsp;·&nbsp;
       <strong>Platform/Registry:</strong> <a href="https://criticalcarescience.org/wp-content/uploads/sites/7/articles_xml/1982-4335-rbti-34-04-0418-20209/1982-4335-rbti-34-04-0418-20209-en.pdf" target="_blank" rel="noopener" style="font-weight:normal;">IMPACTO-MR</a> &nbsp;·&nbsp;
-      <strong>Role:</strong> Researcher / Trialist &nbsp;·&nbsp; <strong>Period:</strong> 2025-2026
+      <strong>Role:</strong> Steering Committee / Trialist &nbsp;·&nbsp; <strong>Period:</strong> 2025-2026
     </div>
     <div class="trial-links">
       <a href="https://clinicaltrials.gov/study/NCT07093450" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT07093450</a>
@@ -170,7 +189,7 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
       <span class="trial-pill completed">Completed - Stopped Early</span>
     </div>
     <div class="trial-meta">
-      <strong>Design:</strong> Multicenter RCT, N = 395 patients &nbsp;·&nbsp;
+      <strong>Design:</strong> Multicentre RCT, N = 395 patients &nbsp;·&nbsp;
       <strong>Role:</strong> Methodologist/Trialist &nbsp;·&nbsp;
       <strong>Setting:</strong> Multi-european countries &nbsp;·&nbsp; <strong>Period:</strong> 2010-2015
     </div>
