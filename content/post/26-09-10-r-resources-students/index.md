@@ -40,7 +40,7 @@ This is under construction.
 
 **Environmental Epidemiology**
 - [Interrupted Times Series](https://github.com/benmarhnia-lab/ISEE_ITS_workshop) - Workshop at ISEE2026 by Tarik Benmarhnia and Yiqun Ma
-
+- [Times series and DLM/DLNM](https://github.com/benmarhnia-lab/Timeseries_DLNM_Workshop) - CITES team workshop on timeseries and case crossover designs
 
 **OMOP Common Data Model**
 - [RWEpi IDIAPJGol](https://github.com/rwepi-idiapjgol/Curso_OMOP_2026) - Introduction Course to OMOP 
