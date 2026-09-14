@@ -48,6 +48,9 @@ This is under construction.
 - [OMOP Tidy](https://ohdsi.github.io/Tidy-R-programming-with-OMOP/index.html) - Tidy R programming with the OMOP
 - [Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/) - Observational Health Data Sciences and Informatics
 
+**Bayesian Statistics**
+- [Statistical Rethinking 2026](https://github.com/rmcelreath/stat_rethinking_2026) - Richard McElreath's Bayesian data analysis course, with lectures and code
+
 **Coding Practices**
 - [Code Book](https://chrissyhroberts.github.io/Code_Book/) - practical coding tips and reproducible workflows - *via [Thiago](https://github.com/csthiago)*
 
