@@ -26,7 +26,8 @@ This is under construction.
 
 ## 📊 Data Wrangling & Visualisation
 
-- 
+- [The Art of Data Visualisation](https://nrennie.rbind.io/art-of-viz/) - Nicola Rennie's guide to thoughtful, well-crafted data visualisation in R - *via [Thiago](https://github.com/csthiago)*
+- [Open Visualization Academy](https://openvisualizationacademy.beehiiv.com/) - newsletter and tutorials on data visualisation - *via [Thiago](https://github.com/csthiago)*
 
 ---
 
@@ -47,11 +48,13 @@ This is under construction.
 - [OMOP Tidy](https://ohdsi.github.io/Tidy-R-programming-with-OMOP/index.html) - Tidy R programming with the OMOP
 - [Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/) - Observational Health Data Sciences and Informatics
 
+**Coding Practices**
+- [Code Book](https://chrissyhroberts.github.io/Code_Book/) - practical coding tips and reproducible workflows - *via [Thiago](https://github.com/csthiago)*
 
 ---
 
 ## 📦 Useful Packages (perhaps hidden within the mainstream)
--
+- [`skimr`](https://docs.ropensci.org/skimr/) - quick and tidy summary statistics for data frames
 
 
 ---
