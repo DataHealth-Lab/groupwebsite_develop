@@ -1,13 +1,17 @@
 ---
 title: "Impact of immunosuppression on incidence, aetiology and outcome of ventilator-associated lower respiratory tract infections"
 publication: "**Eur Respir J**. 51(3). <a href='https://doi.org/10.1183/13993003.01656-2017' target='_blank' rel='noopener noreferrer'>10.1183/13993003.01656-2017</a>"
+doi_value: "10.1183/13993003.01656-2017"
 authors:
-- Moreau AS
-- Martin-Loeches I
-- Povoa P
-- ...
+- Moreau A
+- Martín‐Loeches I
+- Póvoa P
+- "..."
+- Rouzé A
 - Nseir S
-- TAVeM Study Group
 date: "2018-03-01"
 pub_keys: [critical care, pneumonia]
+oa_status: "bronze"
+fwci: 2.59
+citations: 63
 ---

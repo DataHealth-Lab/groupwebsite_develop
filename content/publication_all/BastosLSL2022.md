@@ -1,8 +1,9 @@
 ---
 title: "Primary healthcare protects vulnerable populations from inequity in COVID-19 vaccination: An ecological analysis of nationwide data from Brazil"
 publication: "**Lancet Reg Health Am**. 14:100335. <a href='https://doi.org/10.1016/j.lana.2022.100335' target='_blank' rel='noopener noreferrer'>10.1016/j.lana.2022.100335</a>"
+doi_value: "10.1016/j.lana.2022.100335"
 authors:
-- Bastos LSL
+- Bastos LdSL
 - Aguilar S
 - Rache B
 - Maçaira P
@@ -14,4 +15,7 @@ authors:
 - Bozza FA
 date: "2022-10-01"
 pub_keys: [covid, vaccine]
+oa_status: "gold"
+fwci: 5.02
+citations: 31
 ---

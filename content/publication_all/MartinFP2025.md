@@ -1,15 +1,19 @@
 ---
 title: "Identification and validation of robust hospital-acquired pneumonia subphenotypes associated with all-cause mortality: a multi-cohort derivation and validation"
 publication: "**Intensive Care Med**. 51(4):692-707. <a href='https://doi.org/10.1007/s00134-025-07884-3' target='_blank' rel='noopener noreferrer'>10.1007/s00134-025-07884-3</a>"
+doi_value: "10.1007/s00134-025-07884-3"
 authors:
-- Martin FP
+- Martin F
 - Poulain C
 - Mulier JH
-- ...
+- " ..."
 - otavioranzani
-- ...
-- Cremer O
+- "..."
+- Cremer OL
 - Roquilly A
 date: "2025-04-01"
 pub_keys: [pneumonia]
+oa_status: "green"
+fwci: 7.51
+citations: 12
 ---

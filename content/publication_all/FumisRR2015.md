@@ -1,11 +1,15 @@
 ---
 title: "Anxiety, depression, and satisfaction in close relatives of patients in an open visiting policy intensive care unit in Brazil"
 publication: "**J Crit Care**. 30(2):440.e1-6. <a href='https://doi.org/10.1016/j.jcrc.2014.11.022' target='_blank' rel='noopener noreferrer'>10.1016/j.jcrc.2014.11.022</a>"
+doi_value: "10.1016/j.jcrc.2014.11.022"
 authors:
-- Fumis RR
+- Fumis RRL
 - otavioranzani
 - Faria PP
 - Schettino G
 date: "2015-04-01"
 pub_keys: [critical care]
+oa_status: "closed"
+fwci: 8.29
+citations: 87
 ---

@@ -16,6 +16,31 @@
         {{ .Params.publication | markdownify }}.
       {{ end }}
       <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+
+      {{/* Metrics chips — only for papers with show_metrics: true */}}
+      {{ if .Params.show_metrics }}
+      <div class="pub-metrics-row">
+        {{ with .Params.oa_status }}
+        <span class="pub-metric-chip oa-{{ . }}">
+          {{- if eq . "gold" -}}Gold OA
+          {{- else if eq . "green" -}}Green OA
+          {{- else if eq . "bronze" -}}Bronze OA
+          {{- else if eq . "diamond" -}}Diamond OA
+          {{- else if eq . "hybrid" -}}Hybrid OA
+          {{- else if eq . "closed" -}}Closed
+          {{- else -}}{{ . | title }}
+          {{- end -}}
+        </span>
+        {{ end }}
+        {{ with .Params.fwci }}
+        <span class="pub-metric-chip fwci-chip">FWCI&nbsp;{{ . }}</span>
+        {{ end }}
+        {{ with .Params.citations }}
+        <span class="pub-metric-chip cite-chip">{{ . }}&nbsp;citations</span>
+        {{ end }}
+      </div>
+      {{ end }}
+
     {{ end }}
   </div>
 

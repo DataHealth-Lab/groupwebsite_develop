@@ -1,10 +1,14 @@
 ---
 title: "Severity scoring systems for pneumonia: current understanding and next steps"
 publication: "**Curr Opin Pulm Med**. 24(3):227-236. <a href='https://doi.org/10.1097/mcp.0000000000000468' target='_blank' rel='noopener noreferrer'>10.1097/mcp.0000000000000468</a>"
+doi_value: "10.1097/mcp.0000000000000468"
 authors:
 - otavioranzani
 - Taniguchi LU
 - Torres A
 date: "2018-05-01"
 pub_keys: [pneumonia]
+oa_status: "closed"
+fwci: 0.92
+citations: 12
 ---

@@ -1,13 +1,17 @@
 ---
 title: "Sociodemographic characteristics, clinical manifestations, and concurrent outcomes of Oropouche fever and dengue in Espírito Santo, Brazil"
 publication: "**Rev Panam Salud Publica**. 49:e127. <a href='https://doi.org/10.26633/rpsp.2025.127' target='_blank' rel='noopener noreferrer'>10.26633/rpsp.2025.127</a>"
+doi_value: "10.26633/rpsp.2025.127"
 authors:
 - Cola JP
-- do Prado TN
+- Prado TNd
 - otavioranzani
-- ...
-- Noia Maciel EL
+- "..."
+- Maciel ELN
 - Vicente CR
 date: "2025-01-01"
 pub_keys: [unknown]
+oa_status: "diamond"
+fwci: 0.91
+citations: 1
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Evaluation of cost-effectiveness from the funding body's point of view of ultrasound-guided central venous catheter insertion compared with the conventional technique"
 publication: "**Rev Bras Ter Intensiva**. 28(1):62-9. <a href='https://doi.org/10.5935/0103-507x.20160014' target='_blank' rel='noopener noreferrer'>10.5935/0103-507x.20160014</a>"
+doi_value: "10.5935/0103-507x.20160014"
 authors:
 - Noritomi DT
 - Zigaib R
@@ -8,4 +9,7 @@ authors:
 - Teich V
 date: "2016-01-01"
 pub_keys: [critical care]
+oa_status: "diamond"
+fwci: 3.42
+citations: 13
 ---

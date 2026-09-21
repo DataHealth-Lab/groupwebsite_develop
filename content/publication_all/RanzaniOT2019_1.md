@@ -1,10 +1,14 @@
 ---
 title: "Biomarkers in community-acquired pneumonia: can we do better by using them correctly?"
 publication: "**J Bras Pneumol**. 45(4):e20190189. <a href='https://doi.org/10.1590/1806-3713/e20190189' target='_blank' rel='noopener noreferrer'>10.1590/1806-3713/e20190189</a>"
+doi_value: "10.1590/1806-3713/e20190189"
 authors:
 - otavioranzani
 - Coelho L
 - Torres A
 date: "2019-09-05"
 pub_keys: [pneumonia]
+oa_status: "diamond"
+fwci: 0.45
+citations: 6
 ---

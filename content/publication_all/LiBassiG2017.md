@@ -1,13 +1,17 @@
 ---
 title: "Randomized, multicenter trial of lateral Trendelenburg versus semirecumbent body position for the prevention of ventilator-associated pneumonia"
 publication: "**Intensive Care Med**. 43(11):1572-1584. <a href='https://doi.org/10.1007/s00134-017-4858-1' target='_blank' rel='noopener noreferrer'>10.1007/s00134-017-4858-1</a>"
+doi_value: "10.1007/s00134-017-4858-1"
 authors:
-- Li Bassi G
+- Bassi GL
 - Panigada M
 - otavioranzani
-- ...
+- "..."
 - Torres A
-- Gravity-VAP Network
+- Network ftG
 date: "2017-11-01"
 pub_keys: [critical care, pneumonia]
+oa_status: "green"
+fwci: 3.2
+citations: 50
 ---

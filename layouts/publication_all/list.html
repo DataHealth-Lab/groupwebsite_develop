@@ -50,6 +50,13 @@
             </select>
           </div>
 
+          <div class="col-auto pub-sort-controls">
+            <span class="pub-sort-label">Sort:</span>
+            <button class="pub-sort-btn active" data-sort="date">Date</button>
+            <button class="pub-sort-btn" data-sort="citations">Citations</button>
+            <button class="pub-sort-btn" data-sort="fwci">FWCI</button>
+          </div>
+
         </div>
 
         <div id="container-publications">
@@ -65,7 +72,10 @@
                         pubtype-{{ $.Scratch.Get "pubtype" }}
                         year-{{ .Date.Format "2006" }}
                         {{ range .Params.categories }}category-{{ . | urlize }} {{ end }}
-                        {{ with .Params.pub_keys }}{{ range . }}pub_key-{{ . | urlize }} {{ end }}{{ end }}">
+                        {{ with .Params.pub_keys }}{{ range . }}pub_key-{{ . | urlize }} {{ end }}{{ end }}"
+                        data-date="{{ .Date.Format "2006-01-02" }}"
+                        data-fwci="{{ if .Params.fwci }}{{ .Params.fwci }}{{ else }}0{{ end }}"
+                        data-citations="{{ if .Params.citations }}{{ .Params.citations }}{{ else }}0{{ end }}">
               {{ partial "li_citation.html" . }}
             </div>
 
@@ -76,5 +86,36 @@
     </div>
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var container = document.getElementById('container-publications');
+  var btns = document.querySelectorAll('.pub-sort-btn');
+
+  function sortItems(key) {
+    var items = Array.from(container.querySelectorAll('.isotope-item'));
+    items.sort(function (a, b) {
+      var av = a.dataset[key] || '0';
+      var bv = b.dataset[key] || '0';
+      if (key === 'date') {
+        return bv.localeCompare(av); // newest first
+      }
+      return parseFloat(bv) - parseFloat(av); // highest first
+    });
+    items.forEach(function (el) { container.appendChild(el); });
+    if (window.jQuery && jQuery(container).data('isotope')) {
+      jQuery(container).isotope('reloadItems').isotope();
+    }
+  }
+
+  btns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      btns.forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      sortItems(btn.dataset.sort);
+    });
+  });
+});
+</script>
 
 {{- end -}}

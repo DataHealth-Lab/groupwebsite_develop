@@ -1,16 +1,20 @@
 ---
 title: "Determination of Anti-Phospholipase A2 and Anti-Thrombospondin Type 1 Domain-Containing Protein 7A in Latin Patients with Membranous Nephropathy"
 publication: "**Diagnostics (Basel)**. 13(1). <a href='https://doi.org/10.3390/diagnostics13010017' target='_blank' rel='noopener noreferrer'>10.3390/diagnostics13010017</a>"
+doi_value: "10.3390/diagnostics13010017"
 authors:
 - Battaini LC
 - otavioranzani
 - Marçal LJ
-- Antonangelo L
-- Jorge LB
+- Antonângelo L
+- Jorge L
 - Bitencourt CD
 - Woronik V
-- Malheiros DMA
+- Malheiros DMAC
 - Yu L
 date: "2022-12-21"
 pub_keys: [unknown]
+oa_status: "gold"
+fwci: 0.12
+citations: 1
 ---

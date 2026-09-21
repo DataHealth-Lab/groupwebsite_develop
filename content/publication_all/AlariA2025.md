@@ -1,6 +1,7 @@
 ---
 title: "Long-term exposure to air pollution and lower respiratory infections in a large population-based adult cohort in Catalonia"
 publication: "**Environ Int**. 195:109230. <a href='https://doi.org/10.1016/j.envint.2024.109230' target='_blank' rel='noopener noreferrer'>10.1016/j.envint.2024.109230</a>"
+doi_value: "10.1016/j.envint.2024.109230"
 authors:
 - Alari A
 - otavioranzani
@@ -8,9 +9,12 @@ authors:
 - Olmos S
 - Basagaña X
 - Dadvand P
-- Duarte-Salles T
+- Duarte‐Salles T
 - Nieuwenhuijsen M
 - Tonne C
 date: "2025-01-01"
 pub_keys: [pneumonia, air pollution]
+oa_status: "gold"
+fwci: 3.36
+citations: 15
 ---

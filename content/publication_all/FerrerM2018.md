@@ -1,11 +1,12 @@
 ---
 title: "Severe community-acquired pneumonia: Characteristics and prognostic factors in ventilated and non-ventilated patients"
 publication: "**PLoS One**. 13(1):e0191721. <a href='https://doi.org/10.1371/journal.pone.0191721' target='_blank' rel='noopener noreferrer'>10.1371/journal.pone.0191721</a>"
+doi_value: "10.1371/journal.pone.0191721"
 authors:
 - Ferrer M
 - Travierso C
-- Cilloniz C
-- Gabarrus A
+- Cillóniz C
+- Gabarrús A
 - otavioranzani
 - Polverino E
 - Liapikou A
@@ -13,4 +14,7 @@ authors:
 - Torres A
 date: "2018-01-01"
 pub_keys: [pneumonia]
+oa_status: "gold"
+fwci: 8.83
+citations: 178
 ---
