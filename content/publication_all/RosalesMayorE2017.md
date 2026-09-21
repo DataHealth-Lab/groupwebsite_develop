@@ -13,7 +13,9 @@ authors:
 - Torres A
 date: "2017-01-01"
 pub_keys: [pneumonia]
+show_metrics: true
 oa_status: "gold"
 fwci: 4.87
 citations: 44
+countries: 1
 ---

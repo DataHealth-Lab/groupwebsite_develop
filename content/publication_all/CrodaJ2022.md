@@ -7,7 +7,9 @@ authors:
 - otavioranzani
 date: "2022-04-01"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "green"
 fwci: 0.99
 citations: 18
+countries: 2
 ---

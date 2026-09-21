@@ -13,7 +13,9 @@ authors:
 - Pescarini JM
 date: "2026-05-01"
 pub_keys: [tuberculosis]
+show_metrics: true
 oa_status: "hybrid"
 fwci: 16.32
 citations: 3
+countries: 3
 ---

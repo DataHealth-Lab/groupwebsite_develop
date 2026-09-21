@@ -8,7 +8,9 @@ authors:
 - Azoulay É
 date: "2017-09-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "bronze"
 fwci: 0.67
 citations: 12
+countries: 3
 ---

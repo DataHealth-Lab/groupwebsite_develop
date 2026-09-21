@@ -11,7 +11,9 @@ authors:
 - Nieuwenhuijsen M
 date: "2020-09-01"
 pub_keys: [environment]
+show_metrics: true
 oa_status: "hybrid"
 fwci: 5.06
 citations: 124
+countries: 4
 ---

@@ -11,7 +11,9 @@ authors:
 - Croda J
 date: "2021-10-28"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "gold"
 fwci: 4.71
 citations: 80
+countries: 3
 ---

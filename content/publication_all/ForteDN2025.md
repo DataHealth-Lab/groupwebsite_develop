@@ -8,7 +8,9 @@ authors:
 - otavioranzani
 date: "2025-09-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 2.24
 citations: 3
+countries: 2
 ---

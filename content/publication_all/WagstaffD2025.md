@@ -13,7 +13,9 @@ authors:
 - Beane A
 date: "2025-02-25"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 4.98
 citations: 8
+countries: 19
 ---

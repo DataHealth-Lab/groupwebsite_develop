@@ -13,7 +13,9 @@ authors:
 - Silva FPd
 date: "2014-01-01"
 pub_keys: [critical care, telemedicine]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.56
 citations: 77
+countries: 1
 ---

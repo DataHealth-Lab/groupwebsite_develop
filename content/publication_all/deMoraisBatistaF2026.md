@@ -13,7 +13,9 @@ authors:
 - Croda J
 date: "2026-02-01"
 pub_keys: [unknown]
+show_metrics: true
 oa_status: "gold"
 fwci: 3.15
 citations: 4
+countries: 4
 ---

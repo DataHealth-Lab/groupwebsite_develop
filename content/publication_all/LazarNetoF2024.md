@@ -12,7 +12,9 @@ authors:
 - Duarte‐Salles T
 date: "2024-06-19"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.85
 citations: 3
+countries: 3
 ---

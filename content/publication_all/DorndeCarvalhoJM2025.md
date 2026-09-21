@@ -13,7 +13,9 @@ authors:
 - Maia IWA
 date: "2025-10-17"
 pub_keys: [unknown]
+show_metrics: true
 oa_status: "gold"
 fwci: 0
 citations: 0
+countries: 3
 ---

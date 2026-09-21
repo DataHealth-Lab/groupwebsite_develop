@@ -13,6 +13,8 @@ authors:
 - Jeffery MM
 date: "2025-06-10"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 citations: 1
+countries: 6
 ---

@@ -11,7 +11,9 @@ authors:
 - Croda J
 date: "2021-09-01"
 pub_keys: [covid]
+show_metrics: true
 oa_status: "gold"
 fwci: 10.15
 citations: 170
+countries: 3
 ---

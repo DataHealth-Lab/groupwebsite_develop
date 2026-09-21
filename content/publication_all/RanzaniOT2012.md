@@ -12,7 +12,9 @@ authors:
 - Torres A
 date: "2012-09-01"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "closed"
 fwci: 3.74
 citations: 43
+countries: 3
 ---

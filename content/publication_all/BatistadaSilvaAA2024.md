@@ -12,7 +12,9 @@ authors:
 - otavioranzani
 date: "2024-08-01"
 pub_keys: [vaccine]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.4
 citations: 1
+countries: 3
 ---

@@ -8,7 +8,9 @@ authors:
 - otavioranzani
 date: "2018-05-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "green"
 fwci: 0.31
 citations: 6
+countries: 4
 ---

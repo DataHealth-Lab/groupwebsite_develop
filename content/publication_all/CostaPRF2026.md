@@ -13,7 +13,9 @@ authors:
 - Barreto ML
 date: "2026-01-01"
 pub_keys: [temperature]
+show_metrics: true
 oa_status: "gold"
 fwci: 0
 citations: 0
+countries: 3
 ---

@@ -11,7 +11,9 @@ authors:
 - Noritomi DT
 date: "2013-10-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "diamond"
 fwci: 1.17
 citations: 43
+countries: 1
 ---

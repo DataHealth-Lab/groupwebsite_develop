@@ -11,7 +11,9 @@ authors:
 - otavioranzani
 date: "2015-08-20"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.06
 citations: 1
+countries: 2
 ---

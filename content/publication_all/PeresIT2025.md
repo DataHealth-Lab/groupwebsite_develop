@@ -12,8 +12,9 @@ authors:
 - Bozza FA
 date: "2025-10-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 3.65
 citations: 4
-show_metrics: true
+countries: 3
 ---

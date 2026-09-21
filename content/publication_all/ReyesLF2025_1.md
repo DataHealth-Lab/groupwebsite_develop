@@ -12,7 +12,9 @@ authors:
 - Martín‐Loeches I
 date: "2025-05-06"
 pub_keys: [pneumonia]
+show_metrics: true
 oa_status: "gold"
 fwci: 5.95
 citations: 8
+countries: 17
 ---

@@ -8,7 +8,9 @@ authors:
 - Herridge MS
 date: "2022-08-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "bronze"
 fwci: 4.36
 citations: 30
+countries: 3
 ---

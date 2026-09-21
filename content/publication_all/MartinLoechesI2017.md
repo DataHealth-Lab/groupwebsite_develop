@@ -12,7 +12,9 @@ authors:
 - Torres A
 date: "2017-09-01"
 pub_keys: [unknown]
+show_metrics: true
 oa_status: "diamond"
 fwci: 0.17
 citations: 2
+countries: 6
 ---

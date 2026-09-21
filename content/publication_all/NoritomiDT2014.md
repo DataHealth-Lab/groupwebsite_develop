@@ -12,7 +12,9 @@ authors:
 - Machado FR
 date: "2014-02-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 8.2
 citations: 134
+countries: 2
 ---

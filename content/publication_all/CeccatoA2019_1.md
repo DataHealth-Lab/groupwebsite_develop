@@ -11,7 +11,9 @@ authors:
 - Torres A
 date: "2019-06-13"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.12
 citations: 43
+countries: 3
 ---

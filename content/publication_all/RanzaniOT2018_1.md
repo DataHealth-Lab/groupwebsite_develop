@@ -8,7 +8,9 @@ authors:
 - Park M
 date: "2018-10-01"
 pub_keys: [pneumonia]
+show_metrics: true
 oa_status: "closed"
 fwci: 1.22
 citations: 18
+countries: 3
 ---

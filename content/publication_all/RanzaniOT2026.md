@@ -11,7 +11,9 @@ authors:
 - Croda J
 date: "2026-01-01"
 pub_keys: [vaccine]
+show_metrics: true
 oa_status: "closed"
 fwci: 17.22
 citations: 19
+countries: 2
 ---

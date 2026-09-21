@@ -13,7 +13,9 @@ authors:
 - Tonne C
 date: "2022-08-01"
 pub_keys: [environment]
+show_metrics: true
 oa_status: "gold"
 fwci: 5.27
 citations: 102
+countries: 5
 ---

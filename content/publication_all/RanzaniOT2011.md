@@ -14,7 +14,9 @@ authors:
 - Park M
 date: "2011-11-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 1.85
 citations: 27
+countries: 1
 ---

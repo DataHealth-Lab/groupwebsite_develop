@@ -12,7 +12,9 @@ authors:
 - Cummings DAT
 date: "2022-07-01"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "green"
 fwci: 2.44
 citations: 31
+countries: 3
 ---

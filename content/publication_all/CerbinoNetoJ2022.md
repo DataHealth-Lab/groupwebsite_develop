@@ -13,7 +13,9 @@ authors:
 - Penna GO
 date: "2022-01-01"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.29
 citations: 3
+countries: 2
 ---

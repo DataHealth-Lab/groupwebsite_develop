@@ -12,7 +12,9 @@ authors:
 - Silva FPd
 date: "2013-07-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "diamond"
 fwci: 0.5
 citations: 35
+countries: 1
 ---

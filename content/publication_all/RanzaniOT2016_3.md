@@ -10,7 +10,9 @@ authors:
 - Forte WCN
 date: "2016-05-01"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "diamond"
 fwci: 0.22
 citations: 6
+countries: 1
 ---

@@ -13,7 +13,9 @@ authors:
 - Ostermann M
 date: "2022-07-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "green"
 fwci: 9.3
 citations: 71
+countries: 11
 ---

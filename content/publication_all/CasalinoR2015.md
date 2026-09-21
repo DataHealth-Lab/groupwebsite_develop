@@ -14,7 +14,9 @@ authors:
 - Grinberg M
 date: "2015-01-01"
 pub_keys: [unknown]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.34
 citations: 16
+countries: 1
 ---

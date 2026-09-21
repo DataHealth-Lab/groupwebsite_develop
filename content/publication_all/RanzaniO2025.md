@@ -11,7 +11,9 @@ authors:
 - Dobaño C
 date: "2025-12-13"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.02
 citations: 3
+countries: 3
 ---

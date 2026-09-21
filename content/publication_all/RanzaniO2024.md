@@ -8,7 +8,9 @@ authors:
 - Singer M
 date: "2024-12-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "green"
 fwci: 1.24
 citations: 5
+countries: 4
 ---

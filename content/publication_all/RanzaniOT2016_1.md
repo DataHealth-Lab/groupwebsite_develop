@@ -9,7 +9,9 @@ authors:
 - Noritomi DT
 date: "2016-10-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "green"
 fwci: 7.46
 citations: 52
+countries: 1
 ---

@@ -13,7 +13,9 @@ authors:
 - Forte DN
 date: "2019-06-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 2.97
 citations: 21
+countries: 3
 ---

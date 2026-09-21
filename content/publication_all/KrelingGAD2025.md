@@ -8,7 +8,9 @@ authors:
 - Besen BAMP
 date: "2025-12-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 0.69
 citations: 1
+countries: 2
 ---

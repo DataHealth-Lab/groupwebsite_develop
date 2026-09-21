@@ -13,7 +13,9 @@ authors:
 - Schulz WL
 date: "2022-12-01"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "gold"
 fwci: 1.66
 citations: 18
+countries: 3
 ---

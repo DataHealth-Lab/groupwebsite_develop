@@ -11,7 +11,9 @@ authors:
 - otavioranzani
 date: "2025-03-31"
 pub_keys: [covid, tuberculosis]
+show_metrics: true
 oa_status: "closed"
 fwci: 0
 citations: 0
+countries: 2
 ---

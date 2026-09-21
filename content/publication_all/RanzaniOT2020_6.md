@@ -11,7 +11,9 @@ authors:
 - Tonne C
 date: "2020-06-01"
 pub_keys: [critical care, air pollution, environment]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.75
 citations: 18
+countries: 4
 ---

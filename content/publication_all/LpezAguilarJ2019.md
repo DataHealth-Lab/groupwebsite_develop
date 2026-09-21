@@ -13,7 +13,9 @@ authors:
 - Blanch L
 date: "2019-07-01"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "closed"
 fwci: 1.21
 citations: 10
+countries: 1
 ---

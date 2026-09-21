@@ -14,6 +14,7 @@ authors:
 - Bozza FA
 date: "2023-06-01"
 pub_keys: [covid, critical care]
+show_metrics: true
 oa_status: "bronze"
 fwci: 2.6
 citations: 13

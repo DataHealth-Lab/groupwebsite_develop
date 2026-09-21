@@ -11,7 +11,9 @@ authors:
 - Paixão ES
 date: "2025-11-15"
 pub_keys: [temperature]
+show_metrics: true
 oa_status: "green"
 fwci: 2.25
 citations: 4
+countries: 3
 ---

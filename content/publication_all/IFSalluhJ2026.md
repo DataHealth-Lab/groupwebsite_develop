@@ -11,7 +11,9 @@ authors:
 - otavioranzani
 date: "2026-09-15"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 0.29
 citations: 1
+countries: 6
 ---

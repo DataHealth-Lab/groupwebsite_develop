@@ -13,7 +13,9 @@ authors:
 - Granholm A
 date: "2025-03-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "green"
 fwci: 60.86
 citations: 65
+countries: 15
 ---

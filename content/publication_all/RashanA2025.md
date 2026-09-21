@@ -13,7 +13,9 @@ authors:
 - Udayanga S
 date: "2025-08-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 4.38
 citations: 7
+countries: 5
 ---

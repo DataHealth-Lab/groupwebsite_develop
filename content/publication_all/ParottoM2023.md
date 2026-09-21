@@ -12,7 +12,9 @@ authors:
 - Herridge MS
 date: "2023-08-01"
 pub_keys: [covid]
+show_metrics: true
 oa_status: "bronze"
 fwci: 43.2
 citations: 280
+countries: 6
 ---

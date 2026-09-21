@@ -11,7 +11,9 @@ authors:
 - otavioranzani
 date: "2024-12-03"
 pub_keys: [critical care, telemedicine]
+show_metrics: true
 oa_status: "green"
 fwci: 14.69
 citations: 38
+countries: 4
 ---

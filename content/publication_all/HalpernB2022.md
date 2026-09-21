@@ -7,7 +7,9 @@ authors:
 - otavioranzani
 date: "2022-08-01"
 pub_keys: [covid]
+show_metrics: true
 oa_status: "green"
 fwci: 1.78
 citations: 12
+countries: 1
 ---

@@ -8,7 +8,9 @@ authors:
 - Waldman EA
 date: "2019-01-31"
 pub_keys: [tuberculosis]
+show_metrics: true
 oa_status: "closed"
 fwci: 2.79
 citations: 45
+countries: 1
 ---

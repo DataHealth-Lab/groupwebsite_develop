@@ -9,7 +9,9 @@ authors:
 - Teich V
 date: "2016-01-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "diamond"
 fwci: 3.42
 citations: 13
+countries: 1
 ---

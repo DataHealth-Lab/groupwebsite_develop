@@ -20,6 +20,7 @@
       {{/* Metrics chips — only for papers with show_metrics: true */}}
       {{ if .Params.show_metrics }}
       <div class="pub-metrics-row">
+        {{/* OA status */}}
         {{ with .Params.oa_status }}
         <span class="pub-metric-chip oa-{{ . }}">
           {{- if eq . "gold" -}}Gold OA
@@ -32,11 +33,15 @@
           {{- end -}}
         </span>
         {{ end }}
+        {{/* Quantitative metrics */}}
         {{ with .Params.fwci }}
         <span class="pub-metric-chip fwci-chip">FWCI&nbsp;{{ . }}</span>
         {{ end }}
         {{ with .Params.citations }}
         <span class="pub-metric-chip cite-chip">{{ . }}&nbsp;citations</span>
+        {{ end }}
+        {{ with .Params.countries }}
+        <span class="pub-metric-chip countries-chip">{{ . }}&nbsp;countries</span>
         {{ end }}
       </div>
       {{ end }}

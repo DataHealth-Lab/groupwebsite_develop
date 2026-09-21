@@ -13,7 +13,9 @@ authors:
 - Timsit J
 date: "2020-12-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "bronze"
 fwci: 9.41
 citations: 167
+countries: 7
 ---

@@ -8,7 +8,9 @@ authors:
 - Barreto ML
 date: "2020-04-01"
 pub_keys: [environment]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.23
 citations: 2
+countries: 2
 ---

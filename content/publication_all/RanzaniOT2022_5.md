@@ -8,7 +8,9 @@ authors:
 - Torres A
 date: "2022-09-01"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "bronze"
 fwci: 4.03
 citations: 32
+countries: 3
 ---

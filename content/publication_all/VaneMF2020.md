@@ -10,7 +10,9 @@ authors:
 - Caruso P
 date: "2020-03-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "bronze"
 fwci: 0
 citations: 1
+countries: 2
 ---

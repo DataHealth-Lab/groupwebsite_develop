@@ -15,7 +15,9 @@ authors:
 - Kogevinas M
 date: "2024-11-01"
 pub_keys: [covid, post-infection, environment]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.52
 citations: 2
+countries: 3
 ---

@@ -12,7 +12,9 @@ authors:
 - Soares M
 date: "2019-01-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "green"
 fwci: 1.54
 citations: 22
+countries: 2
 ---

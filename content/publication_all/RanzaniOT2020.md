@@ -11,7 +11,9 @@ authors:
 - Tonne C
 date: "2020-02-01"
 pub_keys: [air pollution, environment]
+show_metrics: true
 oa_status: "hybrid"
 fwci: 1.99
 citations: 35
+countries: 4
 ---

@@ -13,7 +13,9 @@ authors:
 - Adli M
 date: "2021-01-01"
 pub_keys: [environment]
+show_metrics: true
 oa_status: "gold"
 fwci: 7.77
 citations: 244
+countries: 9
 ---

@@ -11,7 +11,9 @@ authors:
 - Kogevinas M
 date: "2024-09-01"
 pub_keys: [covid, post-infection]
+show_metrics: true
 oa_status: "hybrid"
 fwci: 1.97
 citations: 7
+countries: 1
 ---

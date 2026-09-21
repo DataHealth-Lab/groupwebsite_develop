@@ -13,8 +13,9 @@ authors:
 - Silva FPd
 date: "2014-07-17"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.7
 citations: 60
-show_metrics: true
+countries: 2
 ---

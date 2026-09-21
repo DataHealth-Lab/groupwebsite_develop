@@ -9,7 +9,9 @@ authors:
 - Schettino G
 date: "2015-04-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 8.29
 citations: 87
+countries: 1
 ---

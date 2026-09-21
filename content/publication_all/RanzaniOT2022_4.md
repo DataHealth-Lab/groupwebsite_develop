@@ -7,7 +7,9 @@ authors:
 - Bozza FA
 date: "2022-08-01"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "bronze"
 fwci: 0.49
 citations: 5
+countries: 2
 ---

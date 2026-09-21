@@ -11,7 +11,9 @@ authors:
 - Pereira AJ
 date: "2021-06-21"
 pub_keys: [critical care, telemedicine]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.58
 citations: 6
+countries: 2
 ---

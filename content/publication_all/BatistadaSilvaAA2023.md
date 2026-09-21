@@ -12,7 +12,9 @@ authors:
 - Bozza FA
 date: "2023-05-01"
 pub_keys: [covid]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.86
 citations: 5
+countries: 2
 ---

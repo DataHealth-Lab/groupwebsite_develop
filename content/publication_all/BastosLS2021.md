@@ -10,7 +10,9 @@ authors:
 - Bozza FA
 date: "2021-08-01"
 pub_keys: [covid]
+show_metrics: true
 oa_status: "bronze"
 fwci: 4.51
 citations: 79
+countries: 2
 ---

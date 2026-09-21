@@ -10,7 +10,9 @@ authors:
 - Carvalho CRRd
 date: "2018-04-01"
 pub_keys: [tuberculosis]
+show_metrics: true
 oa_status: "diamond"
 fwci: 0.56
 citations: 9
+countries: 3
 ---

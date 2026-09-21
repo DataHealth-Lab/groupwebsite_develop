@@ -9,7 +9,9 @@ authors:
 - Murray V
 date: "2018-01-25"
 pub_keys: [environment]
+show_metrics: true
 oa_status: "green"
 fwci: 0.32
 citations: 6
+countries: 5
 ---

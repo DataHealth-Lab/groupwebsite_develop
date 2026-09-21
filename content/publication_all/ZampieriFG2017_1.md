@@ -10,7 +10,9 @@ authors:
 - otavioranzani
 date: "2017-10-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "diamond"
 fwci: 6.88
 citations: 144
+countries: 1
 ---

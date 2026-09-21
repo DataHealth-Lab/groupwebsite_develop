@@ -13,7 +13,9 @@ authors:
 - Sunyer J
 date: "2021-01-01"
 pub_keys: [environment]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.16
 citations: 27
+countries: 2
 ---

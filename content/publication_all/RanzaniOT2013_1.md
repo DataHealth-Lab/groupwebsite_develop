@@ -10,7 +10,9 @@ authors:
 - Park M
 date: "2013-01-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 7.28
 citations: 470
+countries: 1
 ---

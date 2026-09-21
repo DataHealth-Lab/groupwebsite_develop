@@ -11,7 +11,9 @@ authors:
 - Ramos JGR
 date: "2024-02-01"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "diamond"
 fwci: 0.23
 citations: 2
+countries: 2
 ---

@@ -13,7 +13,9 @@ authors:
 - Nassar AP
 date: "2024-01-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "hybrid"
 fwci: 3.77
 citations: 12
+countries: 8
 ---

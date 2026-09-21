@@ -11,7 +11,9 @@ authors:
 - Moreno RP
 date: "2025-12-16"
 pub_keys: [unknown]
+show_metrics: true
 oa_status: "green"
 fwci: 76.3
 citations: 122
+countries: 29
 ---

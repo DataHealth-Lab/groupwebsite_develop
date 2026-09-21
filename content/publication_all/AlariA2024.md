@@ -11,7 +11,9 @@ authors:
 - Tonne C
 date: "2024-02-14"
 pub_keys: [covid, air pollution]
+show_metrics: true
 oa_status: "green"
 fwci: 0.9
 citations: 4
+countries: 2
 ---

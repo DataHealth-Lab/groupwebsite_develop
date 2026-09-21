@@ -13,7 +13,9 @@ authors:
 - Amato MBP
 date: "2016-07-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 1.88
 citations: 12
+countries: 2
 ---

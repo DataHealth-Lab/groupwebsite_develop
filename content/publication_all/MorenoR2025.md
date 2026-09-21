@@ -11,7 +11,9 @@ authors:
 - Singer M
 date: "2025-10-01"
 pub_keys: [unknown]
+show_metrics: true
 oa_status: "gold"
 fwci: 30.65
 citations: 49
+countries: 27
 ---

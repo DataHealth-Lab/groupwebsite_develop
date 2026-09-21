@@ -8,8 +8,9 @@ authors:
 - Torres A
 date: "2015-09-12"
 pub_keys: [pneumonia]
+show_metrics: true
 oa_status: "bronze"
 fwci: 21.88
 citations: 521
-show_metrics: true
+countries: 2
 ---

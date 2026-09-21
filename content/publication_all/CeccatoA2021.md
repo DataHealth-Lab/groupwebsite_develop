@@ -13,7 +13,9 @@ authors:
 - Torres A
 date: "2021-02-01"
 pub_keys: [pneumonia, critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 2.49
 citations: 22
+countries: 3
 ---

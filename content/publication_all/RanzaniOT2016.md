@@ -8,7 +8,9 @@ authors:
 - Torres A
 date: "2016-12-01"
 pub_keys: [pneumonia]
+show_metrics: true
 oa_status: "closed"
 fwci: 0.62
 citations: 4
+countries: 2
 ---

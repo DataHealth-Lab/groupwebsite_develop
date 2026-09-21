@@ -14,7 +14,9 @@ authors:
 - Costa SF
 date: "2016-11-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.8
 citations: 35
+countries: 2
 ---

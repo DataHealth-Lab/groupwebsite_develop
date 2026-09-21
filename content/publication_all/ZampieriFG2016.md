@@ -11,7 +11,9 @@ authors:
 - Libório AB
 date: "2016-12-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 6.15
 citations: 49
+countries: 2
 ---

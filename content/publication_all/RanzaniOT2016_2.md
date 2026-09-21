@@ -9,7 +9,9 @@ authors:
 - Rodrigues LC
 date: "2016-03-23"
 pub_keys: [tuberculosis]
+show_metrics: true
 oa_status: "gold"
 fwci: 4.17
 citations: 52
+countries: 2
 ---

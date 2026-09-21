@@ -7,7 +7,9 @@ authors:
 - otavioranzani
 date: "2025-06-01"
 pub_keys: [critical care, telemedicine]
+show_metrics: true
 oa_status: "hybrid"
 fwci: 8.32
 citations: 9
+countries: 3
 ---

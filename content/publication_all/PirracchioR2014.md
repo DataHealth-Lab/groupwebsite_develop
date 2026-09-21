@@ -7,7 +7,9 @@ authors:
 - otavioranzani
 date: "2014-03-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "bronze"
 fwci: 0.41
 citations: 15
+countries: 2
 ---

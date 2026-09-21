@@ -11,7 +11,9 @@ authors:
 - Nseir S
 date: "2015-11-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "green"
 fwci: 12.68
 citations: 217
+countries: 5
 ---

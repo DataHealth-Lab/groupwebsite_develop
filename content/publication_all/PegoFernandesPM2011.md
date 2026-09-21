@@ -11,7 +11,9 @@ authors:
 - Jatene FB
 date: "2011-01-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "diamond"
 fwci: 1.44
 citations: 21
+countries: 1
 ---

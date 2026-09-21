@@ -12,7 +12,9 @@ authors:
 - Moor MB
 date: "2023-11-01"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "gold"
 fwci: 1.33
 citations: 8
+countries: 5
 ---

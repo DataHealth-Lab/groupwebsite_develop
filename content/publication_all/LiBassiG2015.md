@@ -13,7 +13,9 @@ authors:
 - Torres A
 date: "2015-02-27"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.54
 citations: 28
+countries: 3
 ---

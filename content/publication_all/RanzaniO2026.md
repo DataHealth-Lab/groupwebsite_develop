@@ -10,7 +10,9 @@ authors:
 - Salluh JI
 date: "2026-09-10"
 pub_keys: [pneumonia, critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 0
 citations: 0
+countries: 2
 ---

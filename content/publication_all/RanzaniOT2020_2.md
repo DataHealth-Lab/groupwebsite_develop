@@ -9,7 +9,9 @@ authors:
 - Azevedo LCP
 date: "2020-08-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "green"
 fwci: 1.11
 citations: 10
+countries: 2
 ---

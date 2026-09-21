@@ -9,7 +9,9 @@ authors:
 - Schettino G
 date: "2015-01-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 16.47
 citations: 128
+countries: 1
 ---

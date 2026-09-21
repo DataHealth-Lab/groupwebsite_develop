@@ -11,7 +11,9 @@ authors:
 - Network ftG
 date: "2017-11-01"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "green"
 fwci: 3.2
 citations: 50
+countries: 6
 ---

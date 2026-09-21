@@ -15,7 +15,9 @@ authors:
 - Bozza FA
 date: "2022-10-01"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "gold"
 fwci: 5.02
 citations: 31
+countries: 2
 ---

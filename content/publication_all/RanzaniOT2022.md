@@ -15,7 +15,9 @@ authors:
 - Tonne C
 date: "2022-07-01"
 pub_keys: [air pollution, environment]
+show_metrics: true
 oa_status: "gold"
 fwci: 1.01
 citations: 12
+countries: 4
 ---

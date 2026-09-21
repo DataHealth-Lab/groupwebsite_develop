@@ -12,7 +12,9 @@ authors:
 - Tonne C
 date: "2021-01-01"
 pub_keys: [temperature]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.48
 citations: 167
+countries: 1
 ---

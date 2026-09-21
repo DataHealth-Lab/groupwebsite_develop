@@ -7,7 +7,9 @@ authors:
 - otavioranzani
 date: "2018-10-01"
 pub_keys: [air pollution]
+show_metrics: true
 oa_status: "closed"
 fwci: 0.22
 citations: 3
+countries: 1
 ---

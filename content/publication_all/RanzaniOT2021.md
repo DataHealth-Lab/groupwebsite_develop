@@ -11,7 +11,9 @@ authors:
 - Croda J
 date: "2021-08-20"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "hybrid"
 fwci: 20.42
 citations: 344
+countries: 3
 ---

@@ -12,7 +12,9 @@ authors:
 - Lakbar I
 date: "2025-11-20"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 3.27
 citations: 15
+countries: 9
 ---

@@ -13,7 +13,9 @@ authors:
 - Sheehan E
 date: "2024-11-22"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "gold"
 fwci: 3.25
 citations: 11
+countries: 27
 ---

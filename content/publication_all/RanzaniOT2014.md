@@ -10,7 +10,9 @@ authors:
 - Noritomi DT
 date: "2014-10-24"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.37
 citations: 23
+countries: 1
 ---

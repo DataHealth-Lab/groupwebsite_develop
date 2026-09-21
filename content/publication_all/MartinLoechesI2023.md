@@ -12,7 +12,9 @@ authors:
 - Pezzi A
 date: "2023-10-01"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "hybrid"
 fwci: 14.6
 citations: 86
+countries: 15
 ---

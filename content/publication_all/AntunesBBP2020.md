@@ -12,7 +12,9 @@ authors:
 - Bozza FA
 date: "2020-06-01"
 pub_keys: [covid]
+show_metrics: true
 oa_status: "diamond"
 fwci: 1.01
 citations: 35
+countries: 4
 ---

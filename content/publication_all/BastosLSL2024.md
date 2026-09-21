@@ -13,7 +13,9 @@ authors:
 - Salluh JI
 date: "2024-04-01"
 pub_keys: [covid, critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 0.5
 citations: 3
+countries: 3
 ---

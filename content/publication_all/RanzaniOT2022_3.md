@@ -14,7 +14,9 @@ authors:
 - Bozza FA
 date: "2022-05-01"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "hybrid"
 fwci: 1.46
 citations: 15
+countries: 2
 ---

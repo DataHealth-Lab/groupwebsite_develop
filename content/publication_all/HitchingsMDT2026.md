@@ -14,7 +14,9 @@ authors:
 - Cummings DAT
 date: "2026-02-06"
 pub_keys: [unknown]
+show_metrics: true
 oa_status: "gold"
 fwci: 7.52
 citations: 1
+countries: 4
 ---

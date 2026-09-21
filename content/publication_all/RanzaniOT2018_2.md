@@ -8,7 +8,9 @@ authors:
 - Torres A
 date: "2018-05-01"
 pub_keys: [pneumonia]
+show_metrics: true
 oa_status: "closed"
 fwci: 0.92
 citations: 12
+countries: 2
 ---

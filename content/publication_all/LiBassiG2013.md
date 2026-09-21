@@ -15,7 +15,9 @@ authors:
 - Torres A
 date: "2013-02-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 3.23
 citations: 61
+countries: 5
 ---

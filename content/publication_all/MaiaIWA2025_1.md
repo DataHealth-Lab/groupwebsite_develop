@@ -13,7 +13,9 @@ authors:
 - Reis V
 date: "2025-12-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 8.5
 citations: 8
+countries: 7
 ---

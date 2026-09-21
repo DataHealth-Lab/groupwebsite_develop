@@ -13,7 +13,9 @@ authors:
 - Granholm A
 date: "2025-10-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 31.28
 citations: 32
+countries: 13
 ---

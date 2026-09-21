@@ -11,7 +11,9 @@ authors:
 - Herridge MS
 date: "2021-08-01"
 pub_keys: [covid, critical care]
+show_metrics: true
 oa_status: "bronze"
 fwci: 3.63
 citations: 28
+countries: 7
 ---

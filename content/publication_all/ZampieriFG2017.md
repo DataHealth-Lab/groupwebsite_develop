@@ -9,6 +9,8 @@ authors:
 - Kellum JA
 date: "2017-02-01"
 pub_keys: [unknown]
+show_metrics: true
 oa_status: "closed"
 citations: 0
+countries: 2
 ---

@@ -13,7 +13,9 @@ authors:
 - Bozza FA
 date: "2023-01-01"
 pub_keys: [covid, vaccine]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.23
 citations: 4
+countries: 2
 ---

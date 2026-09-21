@@ -7,7 +7,9 @@ authors:
 - otavioranzani
 date: "2022-10-01"
 pub_keys: [tuberculosis]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.85
 citations: 4
+countries: 2
 ---

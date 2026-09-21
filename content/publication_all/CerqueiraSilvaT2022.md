@@ -12,7 +12,9 @@ authors:
 - Barral-Netto M
 date: "2022-06-01"
 pub_keys: [covid]
+show_metrics: true
 oa_status: "bronze"
 fwci: 11.66
 citations: 124
+countries: 3
 ---

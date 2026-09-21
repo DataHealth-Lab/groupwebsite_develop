@@ -13,8 +13,9 @@ authors:
 - Torres A
 date: "2018-11-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 0.3
 citations: 2
-show_metrics: true
+countries: 2
 ---

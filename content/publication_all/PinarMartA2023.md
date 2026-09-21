@@ -13,7 +13,9 @@ authors:
 - Júlvez J
 date: "2023-05-01"
 pub_keys: [environment]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.21
 citations: 18
+countries: 3
 ---

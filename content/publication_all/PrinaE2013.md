@@ -11,7 +11,9 @@ authors:
 - Torres A
 date: "2013-03-01"
 pub_keys: [pneumonia]
+show_metrics: true
 oa_status: "closed"
 fwci: 3.55
 citations: 73
+countries: 3
 ---

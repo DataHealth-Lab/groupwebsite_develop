@@ -10,7 +10,9 @@ authors:
 - Tonne C
 date: "2020-01-03"
 pub_keys: [air pollution, environment]
+show_metrics: true
 oa_status: "gold"
 fwci: 3.09
 citations: 54
+countries: 3
 ---

@@ -13,7 +13,9 @@ authors:
 - Rochwerg B
 date: "2020-06-01"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "bronze"
 fwci: 5.8
 citations: 235
+countries: 4
 ---

@@ -13,7 +13,9 @@ authors:
 - Dean NE
 date: "2024-08-27"
 pub_keys: [vaccine]
+show_metrics: true
 oa_status: "hybrid"
 fwci: 0.4
 citations: 1
+countries: 3
 ---

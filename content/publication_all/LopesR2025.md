@@ -10,7 +10,9 @@ authors:
 - otavioranzani
 date: "2025-02-01"
 pub_keys: [temperature]
+show_metrics: true
 oa_status: "gold"
 fwci: 2.69
 citations: 7
+countries: 2
 ---

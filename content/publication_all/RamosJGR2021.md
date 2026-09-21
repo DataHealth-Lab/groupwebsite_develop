@@ -9,8 +9,9 @@ authors:
 - Forte DN
 date: "2021-04-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "diamond"
 fwci: 0.29
 citations: 3
-show_metrics: true
+countries: 2
 ---

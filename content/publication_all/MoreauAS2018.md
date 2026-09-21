@@ -11,7 +11,9 @@ authors:
 - Nseir S
 date: "2018-03-01"
 pub_keys: [critical care, pneumonia]
+show_metrics: true
 oa_status: "bronze"
 fwci: 2.59
 citations: 63
+countries: 5
 ---

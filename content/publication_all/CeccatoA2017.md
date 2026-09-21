@@ -8,7 +8,9 @@ authors:
 - Torres A
 date: "2017-08-04"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 0.36
 citations: 3
+countries: 3
 ---

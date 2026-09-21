@@ -9,7 +9,9 @@ authors:
 - Park M
 date: "2015-12-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 0.24
 citations: 12
+countries: 1
 ---

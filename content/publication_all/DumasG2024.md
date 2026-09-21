@@ -12,7 +12,9 @@ authors:
 - Helms J
 date: "2024-01-01"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "closed"
 fwci: 3.71
 citations: 23
+countries: 6
 ---

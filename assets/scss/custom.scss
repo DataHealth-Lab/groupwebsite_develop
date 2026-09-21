@@ -259,7 +259,7 @@
   min-width: 110px;
   background: rgba(42, 122, 42, 0.06);
   border: 1px solid rgba(42, 122, 42, 0.16);
-  border-radius: 10px;
+  border-radius: 4px;
   padding: 1rem 0.8rem;
   text-align: center;
 }
@@ -327,7 +327,7 @@
   flex-shrink: 0;
   width: 76px;
   height: 76px;
-  border-radius: 10px;
+  border-radius: 4px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -475,8 +475,8 @@
   display: inline-block;
   font-size: 0.62rem;
   font-weight: 600;
-  padding: 1px 6px;
-  border-radius: 10px;
+  padding: 2px 7px;
+  border-radius: 4px;
   letter-spacing: 0.03em;
   white-space: nowrap;
   line-height: 1.6;
@@ -554,3 +554,52 @@
   color: var(--primary, #6ea8fe);
   background: rgba(110, 168, 254, 0.12);
 }
+
+/* Sort button tooltips */
+.pub-sort-btn[data-tooltip] {
+  position: relative;
+}
+.pub-sort-btn[data-tooltip]::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: #fff;
+  padding: 6px 9px;
+  border-radius: 4px;
+  font-size: 0.68rem;
+  font-weight: 400;
+
+  white-space: pre-line;
+  width: max-content;
+  max-width: 260px;
+  line-height: 1.35;
+  text-align: left;
+
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+  z-index: 10;
+}
+.pub-sort-btn[data-tooltip]:hover::after {
+  opacity: 1;
+}
+.dark .pub-sort-btn[data-tooltip]::after {
+  background: #555;
+  color: #f0f0f0;
+}
+
+/* Countries chip */
+.pub-metric-chip.countries-chip {
+  background: rgba(0, 100, 180, 0.07);
+  color: #0055a0;
+  border-color: rgba(0, 100, 180, 0.35);
+}
+.dark .pub-metric-chip.countries-chip {
+  background: rgba(100, 170, 255, 0.1);
+  color: #80b8f8;
+  border-color: rgba(100, 170, 255, 0.3);
+}
+

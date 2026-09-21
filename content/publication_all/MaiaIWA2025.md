@@ -13,7 +13,9 @@ authors:
 - Jeffery MM
 date: "2025-04-17"
 pub_keys: [critical care]
+show_metrics: true
 oa_status: "gold"
 fwci: 30.82
 citations: 29
+countries: 6
 ---
