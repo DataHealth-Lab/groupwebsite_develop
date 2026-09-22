@@ -5,7 +5,7 @@ publication: "**JAMA Netw Open**. 2020;*3(1)*:e1918504. <a href='https://jamanet
 
 # Publication name and optional abbreviated publication name.
 # publication_short: ""
-
+add_plumx: true
 authors:
 - otavioranzani
 - Milà C

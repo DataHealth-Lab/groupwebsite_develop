@@ -30,7 +30,7 @@ publication_types: ["article-journal"]
 
 doi: "10.1016/S1473-3099(25)00382-2"
 add_badge: true
-
+add_plumx: true
 featured: true
 
 categories: ["dengue", 'vaccine']

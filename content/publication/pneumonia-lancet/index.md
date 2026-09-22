@@ -23,7 +23,7 @@ featured: true
 categories: ['pneumonia']
 
 date: "2015-09-12"
-
+add_plumx: true
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-02"
 

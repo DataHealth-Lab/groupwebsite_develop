@@ -20,7 +20,7 @@ publication_types: ["article-journal"]
 
 doi: "10.1371/journal.pone.0059321"
 add_badge: true
-
+add_plumx: true
 featured: true
 
 categories: ['sepsis',"biomarker"]

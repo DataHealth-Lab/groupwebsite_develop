@@ -1,20 +1,16 @@
 ---
-title: "Invasive and non-invasive diagnostic approaches for microbiological diagnosis of hospital-acquired pneumonia"
-publication: "**Crit Care**. 23(1):51. <a href='https://doi.org/10.1186/s13054-019-2348-2' target='_blank' rel='noopener noreferrer'>10.1186/s13054-019-2348-2</a>"
-doi_value: "10.1186/s13054-019-2348-2"
+title: "Biomarkers in community-acquired pneumonia: can we do better by using them correctly?"
+publication: "**J Bras Pneumol**. 45(4):e20190189. <a href='https://doi.org/10.1590/1806-3713/e20190189' target='_blank' rel='noopener noreferrer'>10.1590/1806-3713/e20190189</a>"
+doi_value: "10.1590/1806-3713/e20190189"
 authors:
 - otavioranzani
-- Senussi T
-- Idone F
-- Ceccato A
-- Bassi GL
-- Ferrer M
+- Coelho L
 - Torres A
-date: "2019-02-18"
+date: "2019-09-05"
 pub_keys: [pneumonia]
 show_metrics: true
-oa_status: "gold"
-fwci: 3.61
-citations: 63
-countries: 5
+oa_status: "diamond"
+fwci: 0.45
+citations: 6
+countries: 3
 ---

@@ -15,8 +15,12 @@
       {{ else if .Params.publication }}
         {{ .Params.publication | markdownify }}.
       {{ end }}
-      <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
-
+      <div style="display:flex; flex-wrap:wrap; align-items:center; row-gap:2px;">
+  {{ partial "page_links" (dict "page" . "is_list" 1) }}
+  {{ if and .Params.add_plumx .Params.doi }}
+  <plumx-widget type="artifact" identifier-type="doi" identifier="{{ .Params.doi }}" display="badge" config='{"hideWhenEmpty":true}' style="margin-left:6px;"></plumx-widget>
+  {{ end }}
+</div>
       {{/* Metrics chips — only for papers with show_metrics: true */}}
       {{ if .Params.show_metrics }}
       <div class="pub-metrics-row">
@@ -41,7 +45,7 @@
         <span class="pub-metric-chip cite-chip">{{ . }}&nbsp;citations</span>
         {{ end }}
         {{ with .Params.countries }}
-        <span class="pub-metric-chip countries-chip">{{ . }}&nbsp;countries</span>
+        <span class="pub-metric-chip countries-chip">{{ . }}&nbsp;author countries</span>
         {{ end }}
       </div>
       {{ end }}

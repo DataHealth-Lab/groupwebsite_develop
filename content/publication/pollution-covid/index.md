@@ -34,7 +34,7 @@ publication_types: ["article-journal"]
 
 doi: "10.1038/s41467-023-38469-7"
 add_badge: true
-
+add_plumx: true
 featured: true
 
 categories: ['covid',"air pollution"]

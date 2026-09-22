@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 
 doi: "10.1016/S2213-2600(23)00239-4"
 add_badge: true
-
+add_plumx: true
 featured: true
 
 categories: ['covid',"post-infection"]

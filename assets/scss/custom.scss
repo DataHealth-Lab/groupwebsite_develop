@@ -603,3 +603,24 @@
   border-color: rgba(100, 170, 255, 0.3);
 }
 
+
+
+/* PlumX inline with buttons */
+.pub-list-item .btn-links {
+  display: contents;
+}
+
+/* Mobile: badge column stacks below citation text */
+@media (max-width: 576px) {
+  .media.stream-item.align-items-start {
+    flex-wrap: wrap;
+  }
+  .media.stream-item.align-items-start > .ml-3 {
+    width: 100%;
+    margin-left: 0 !important;
+    margin-top: 0.5rem;
+    flex-direction: row !important;
+    gap: 12px;
+    justify-content: flex-start;
+  }
+}

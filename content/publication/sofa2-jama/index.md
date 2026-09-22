@@ -29,7 +29,7 @@ featured: true
 categories: ['score',"sofa", 'critical care']
 
 date: "2025-10-29"
-
+add_plumx: true
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-10-29"
 

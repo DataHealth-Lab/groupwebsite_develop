@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 
 doi: "10.1016/S1473-3099(19)30518-3"
 add_badge: true
-
+add_plumx: true
 featured: true
 
 categories: ["post-infection"]

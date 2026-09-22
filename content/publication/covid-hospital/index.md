@@ -5,7 +5,7 @@ publication: "**Lancet Respir Med**. 2021;*9*(4):407-418. <a href='https://www.t
 
 # Publication name and optional abbreviated publication name.
 # publication_short: ""
-
+add_plumx: true
 authors:
 - otavioranzani
 - Bastos LSL

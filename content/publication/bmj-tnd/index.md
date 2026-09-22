@@ -5,6 +5,7 @@ publication: "**BMJ**. 2021;*374*:n2015. <a href='https://www.bmj.com/lookup/pmi
 
 # Publication name and optional abbreviated publication name.
 # publication_short: ""
+add_plumx: true
 
 authors:
 - otavioranzani

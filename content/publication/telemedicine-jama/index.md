@@ -4,7 +4,7 @@ title: "Effect of Tele-ICU on Clinical Outcomes of Critically Ill Patients: The 
 publication: "**JAMA**. 2024;*332*(21):1798-1807. <a href='https://jamanetwork.com/journals/jama/fullarticle/2824927' target='_blank' rel='noopener noreferrer'>10.1001/jama.2024.20651</a>"
 # Publication name and optional abbreviated publication name.
 # publication_short: ""
-
+add_plumx: true
 authors:
 - Pereira AJ  
 - Noritomi DT  
