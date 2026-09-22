@@ -610,17 +610,23 @@
   display: contents;
 }
 
-/* Mobile: badge column stacks below citation text */
+/* Mobile: force badge column below citation text */
 @media (max-width: 576px) {
-  .media.stream-item.align-items-start {
-    flex-wrap: wrap;
+  .stream-item.align-items-start {
+    flex-wrap: wrap !important;
   }
-  .media.stream-item.align-items-start > .ml-3 {
-    width: 100%;
+  .stream-item.align-items-start > .media-body {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+  .stream-item.align-items-start > .ml-3 {
+    width: 100% !important;
     margin-left: 0 !important;
-    margin-top: 0.5rem;
+    margin-top: 0.75rem;
+    display: flex !important;
     flex-direction: row !important;
-    gap: 12px;
+    gap: 16px;
     justify-content: flex-start;
+    align-items: center;
   }
 }
