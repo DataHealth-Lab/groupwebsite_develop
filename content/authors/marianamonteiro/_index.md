@@ -24,9 +24,6 @@ organizations:
     url: ''
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:mariana.bmon@yahoo.com.br'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mariana-monteiro-06a905149/

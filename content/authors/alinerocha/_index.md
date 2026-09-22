@@ -47,9 +47,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:breno.gsilva@fiocruz.br'
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-3806-6446
