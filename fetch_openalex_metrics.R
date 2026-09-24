@@ -2,7 +2,6 @@
 # Reads DOIs from content/publication/*/index.md,
 # queries OpenAlex via openalexR, and writes
 # assets/openalex_metrics.json for the Hugo site to use.
-library(tidyverse)
 library(openalexR)
 library(jsonlite)
 
