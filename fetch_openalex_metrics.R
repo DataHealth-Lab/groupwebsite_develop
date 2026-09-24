@@ -4,6 +4,8 @@
 # assets/openalex_metrics.json for the Hugo site to use.
 library(openalexR)
 library(jsonlite)
+library(purrr)
+library(dplyr)
 
 # Helper (base R version of rlang's %||%)
 `%||%` <- function(a, b) if (!is.null(a) && !is.na(a)) a else b
