@@ -8,7 +8,11 @@ library(purrr)
 library(dplyr)
 
 # Helper (base R version of rlang's %||%)
-`%||%` <- function(a, b) if (!is.null(a) && !is.na(a)) a else b
+`%||%` <- function(a, b) {
+    if (is.null(a)) return(b)
+    if (length(a) == 1 && is.na(a)) return(b)
+    a
+}
 
 # ── 1. Collect DOIs from publication frontmatter ──────────────────────────────
 
