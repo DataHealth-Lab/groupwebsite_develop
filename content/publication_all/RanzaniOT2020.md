@@ -8,7 +8,7 @@ authors:
 - Sanchez M
 - "..."
 - Kinra S
-- Tonne C
+- Tonne CC
 date: "2020-02-01"
 pub_keys: [air pollution, environment]
 show_metrics: true

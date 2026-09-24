@@ -5,7 +5,7 @@ doi_value: "10.1183/20734735.009217"
 authors:
 - Martín‐Loeches I
 - Zampieri FG
-- Póvoa P
+- Póvoa PMSR
 - otavioranzani
 - Bos LDJ
 - Aliberti S

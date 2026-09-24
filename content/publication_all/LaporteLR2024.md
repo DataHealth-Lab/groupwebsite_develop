@@ -6,7 +6,7 @@ authors:
 - Laporte LR
 - Chavez AvFG
 - otavioranzani
-- Caldas J
+- Caldas JR
 - Passos RdH
 - Ramos JGR
 date: "2024-02-01"

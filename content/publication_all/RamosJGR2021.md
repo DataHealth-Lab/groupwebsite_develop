@@ -5,7 +5,7 @@ doi_value: "10.5935/0103-507x.20210029"
 authors:
 - Ramos JGR
 - otavioranzani
-- Dias RD
+- DIAS RD
 - Forte DN
 date: "2021-04-01"
 pub_keys: [critical care]

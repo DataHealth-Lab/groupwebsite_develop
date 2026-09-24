@@ -5,7 +5,7 @@ doi_value: "10.1016/j.lana.2021.100025"
 authors:
 - Hitchings MDT
 - otavioranzani
-- Torres M
+- Torres MSS
 - "..."
 - Ko AI
 - Croda J

@@ -4,7 +4,7 @@ publication: "**JAMA Netw Open**. 3(4):e202968. <a href='https://doi.org/10.1001
 doi_value: "10.1001/jamanetworkopen.2020.2968"
 authors:
 - otavioranzani
-- Tonne C
+- Tonne CC
 - Barreto ML
 date: "2020-04-01"
 pub_keys: [environment]

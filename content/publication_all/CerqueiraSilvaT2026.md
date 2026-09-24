@@ -4,7 +4,7 @@ publication: "**Nat Med**. 32(5):1927-1934. <a href='https://doi.org/10.1038/s41
 doi_value: "10.1038/s41591-026-04294-w"
 authors:
 - Cerqueira-Silva T
-- Boaventura V
+- Boaventura VS
 - Paixão ES
 - Sanchez MN
 - Leyrat C

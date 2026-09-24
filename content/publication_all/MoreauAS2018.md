@@ -5,7 +5,7 @@ doi_value: "10.1183/13993003.01656-2017"
 authors:
 - Moreau A
 - Martín‐Loeches I
-- Póvoa P
+- Póvoa PMSR
 - "..."
 - Rouzé A
 - Nseir S

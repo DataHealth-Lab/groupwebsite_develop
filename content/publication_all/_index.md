@@ -1,6 +1,6 @@
 ---
 title: List of Publications
-subtitle: Original Articles, Reviews, Letters, Editorials, etc
+subtitle: Original Articles, Reviews, Letters and Editorials
 layout: publication_all
 
 # Listing view

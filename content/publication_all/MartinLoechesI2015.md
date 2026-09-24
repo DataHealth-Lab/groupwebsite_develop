@@ -4,8 +4,8 @@ publication: "**Lancet Respir Med**. 3(11):859-68. <a href='https://doi.org/10.1
 doi_value: "10.1016/s2213-2600(15)00326-4"
 authors:
 - Martín‐Loeches I
-- Póvoa P
-- Rodríguez A
+- Póvoa PMSR
+- Rodríguez AH
 - "..."
 - Salluh JI
 - Nseir S

@@ -9,7 +9,7 @@ authors:
 - Bozza FA
 - otavioranzani
 date: "2025-02-01"
-pub_keys: [temperature]
+pub_keys: [temperature, dengue]
 show_metrics: true
 oa_status: "gold"
 fwci: 2.68

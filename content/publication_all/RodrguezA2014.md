@@ -3,8 +3,8 @@ title: "Incidence and diagnosis of ventilator-associated tracheobronchitis in th
 publication: "**Crit Care**. 18(1):R32. <a href='https://doi.org/10.1186/cc13725' target='_blank' rel='noopener noreferrer'>10.1186/cc13725</a>"
 doi_value: "10.1186/cc13725"
 authors:
-- Rodríguez A
-- Póvoa P
+- Rodríguez AH
+- Póvoa PMSR
 - Nseir S
 - Salluh JI
 - Curcio D

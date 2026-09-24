@@ -10,14 +10,14 @@ authors:
 - otavioranzani
 - "..."
 - Pazinatto M
-- Reis V
+- Reis VCeS
 date: "2025-12-01"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "gold"
 fwci: 8.37
 citations: 8
-countries: 7
+countries: 6
 is_top_10_percent: true
 is_top_1_percent: false
 ---

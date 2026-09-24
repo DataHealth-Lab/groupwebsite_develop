@@ -4,7 +4,7 @@ publication: "**Environ Health Perspect**. 132(11):117701. <a href='https://doi.
 doi_value: "10.1289/ehp15377"
 authors:
 - Saucy A
-- Espinosa A
+- Espinosa AB
 - Iraola‐Guzmán S
 - Castaño-Vinyals G
 - Harding BN

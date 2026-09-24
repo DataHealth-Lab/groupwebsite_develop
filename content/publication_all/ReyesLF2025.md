@@ -9,7 +9,7 @@ authors:
 - " ..."
 - otavioranzani
 - "..."
-- Antonelli M
+- Antonelli MM
 - Martín‐Loeches I
 date: "2025-01-26"
 pub_keys: [pneumonia]

@@ -9,7 +9,7 @@ authors:
 - otavioranzani
 - Milà C
 - Ballester J
-- Tonne C
+- Tonne CC
 date: "2021-01-01"
 pub_keys: [temperature]
 show_metrics: true

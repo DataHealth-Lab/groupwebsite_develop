@@ -4,7 +4,7 @@ publication: "**Intensive Care Med**. 51(10):1749-1763. <a href='https://doi.org
 doi_value: "10.1007/s00134-025-08058-x"
 authors:
 - Ostermann M
-- Alshamsi F
+- Alshamsi FE
 - Artigas A
 - " ..."
 - otavioranzani

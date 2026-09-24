@@ -12,7 +12,7 @@ authors:
 - Gonçalves CCM
 - Croda J
 date: "2026-02-01"
-pub_keys: [unknown]
+pub_keys: [dengue]
 show_metrics: true
 oa_status: "gold"
 fwci: 3.05

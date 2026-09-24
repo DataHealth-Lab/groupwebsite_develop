@@ -4,8 +4,8 @@ publication: "**Intensive Care Med**. 48(7):801-810. <a href='https://doi.org/10
 doi_value: "10.1007/s00134-022-06660-x"
 authors:
 - Møller MH
-- Alhazzani W
-- Lewis K
+- Alhazzani WA
+- Lewis KA
 - " ..."
 - otavioranzani
 - "..."

@@ -10,7 +10,7 @@ authors:
 - Hitchings MDT
 - Croda J
 date: "2026-01-01"
-pub_keys: [vaccine]
+pub_keys: [vaccine, dengue]
 show_metrics: true
 oa_status: "closed"
 fwci: 18.64

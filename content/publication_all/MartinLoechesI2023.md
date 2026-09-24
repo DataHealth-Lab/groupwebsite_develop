@@ -16,7 +16,7 @@ show_metrics: true
 oa_status: "hybrid"
 fwci: 14.54
 citations: 86
-countries: 15
+countries: 14
 is_top_10_percent: true
 is_top_1_percent: true
 ---

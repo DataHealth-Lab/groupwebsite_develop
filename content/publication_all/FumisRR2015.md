@@ -6,7 +6,7 @@ authors:
 - Fumis RRL
 - otavioranzani
 - Faria PP
-- Schettino G
+- Schettino GDPP
 date: "2015-04-01"
 pub_keys: [critical care]
 show_metrics: true

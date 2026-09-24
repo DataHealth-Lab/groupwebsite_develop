@@ -5,7 +5,7 @@ doi_value: "10.1186/s13054-019-2348-2"
 authors:
 - otavioranzani
 - Senussi T
-- Idone F
+- Idone FA
 - Ceccato A
 - Bassi GL
 - Ferrer M

@@ -5,9 +5,9 @@ doi_value: "10.1001/jamanetworkopen.2019.18504"
 authors:
 - otavioranzani
 - Milà C
-- Kulkarni B
+- Kulkarni BK
 - Kinra S
-- Tonne C
+- Tonne CC
 date: "2020-01-03"
 pub_keys: [air pollution, environment]
 show_metrics: true

@@ -9,7 +9,7 @@ authors:
 - " ..."
 - otavioranzani
 - "..."
-- Ramírez J
+- Ramírez JCP
 - Torres A
 date: "2014-05-01"
 pub_keys: [critical care, pneumonia]
@@ -17,7 +17,7 @@ show_metrics: true
 oa_status: "closed"
 fwci: 2.73
 citations: 53
-countries: 4
+countries: 3
 is_top_10_percent: false
 is_top_1_percent: false
 ---

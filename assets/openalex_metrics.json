@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:47:40Z",
+  "generated_at": "2026-09-24T15:43:01Z",
   "source": "openalex",
   "count": 214,
   "metrics": {
@@ -8409,6 +8409,51 @@
         }
       ]
     },
+    "10.1016/j.resuscitation.2019.12.041": {
+      "doi": "10.1016/j.resuscitation.2019.12.041",
+      "cited_by_count": 1,
+      "fwci": 0,
+      "citation_percentile": 0.0126,
+      "is_top_1_percent": false,
+      "is_top_10_percent": false,
+      "is_oa": true,
+      "oa_status": "bronze",
+      "countries_distinct_count": 2,
+      "counts_by_year": [
+        {
+          "year": 2019,
+          "count": 0
+        },
+        {
+          "year": 2020,
+          "count": 0
+        },
+        {
+          "year": 2021,
+          "count": 0
+        },
+        {
+          "year": 2022,
+          "count": 0
+        },
+        {
+          "year": 2023,
+          "count": 0
+        },
+        {
+          "year": 2024,
+          "count": 0
+        },
+        {
+          "year": 2025,
+          "count": 0
+        },
+        {
+          "year": 2026,
+          "count": 1
+        }
+      ]
+    },
     "10.1097/ccm.0000000000006853": {
       "doi": "10.1097/ccm.0000000000006853",
       "cited_by_count": 1,
@@ -9230,51 +9275,6 @@
         },
         {
           "year": 2023,
-          "count": 1
-        }
-      ]
-    },
-    "10.1016/j.resuscitation.2019.12.041": {
-      "doi": "10.1016/j.resuscitation.2019.12.041",
-      "cited_by_count": 1,
-      "fwci": 0,
-      "citation_percentile": 0.0126,
-      "is_top_1_percent": false,
-      "is_top_10_percent": false,
-      "is_oa": true,
-      "oa_status": "bronze",
-      "countries_distinct_count": 2,
-      "counts_by_year": [
-        {
-          "year": 2019,
-          "count": 0
-        },
-        {
-          "year": 2020,
-          "count": 0
-        },
-        {
-          "year": 2021,
-          "count": 0
-        },
-        {
-          "year": 2022,
-          "count": 0
-        },
-        {
-          "year": 2023,
-          "count": 0
-        },
-        {
-          "year": 2024,
-          "count": 0
-        },
-        {
-          "year": 2025,
-          "count": 0
-        },
-        {
-          "year": 2026,
           "count": 1
         }
       ]

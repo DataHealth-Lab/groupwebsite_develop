@@ -8,11 +8,11 @@ authors:
 - Milà C
 - Sanchez M
 - otavioranzani
-- Marshall J
-- Kulkarni B
+- Marshall JD
+- Kulkarni BK
 - Bhogadi S
 - Kinra S
-- Tonne C
+- Tonne CC
 date: "2019-07-01"
 pub_keys: [critical care, air pollution, environment]
 show_metrics: true

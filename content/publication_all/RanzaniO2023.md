@@ -8,7 +8,7 @@ authors:
 - Olmos S
 - "..."
 - Vivanco R
-- Tonne C
+- Tonne CC
 date: "2023-05-24"
 pub_keys: [covid, air pollution]
 show_metrics: true

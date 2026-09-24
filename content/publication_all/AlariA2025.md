@@ -10,8 +10,8 @@ authors:
 - Basagaña X
 - Dadvand P
 - Duarte‐Salles T
-- Nieuwenhuijsen M
-- Tonne C
+- Nieuwenhuijsen MJ
+- Tonne CC
 date: "2025-01-01"
 pub_keys: [pneumonia, air pollution]
 show_metrics: true

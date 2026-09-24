@@ -10,7 +10,7 @@ authors:
 - Valério F
 - Halonen JI
 - Basagaña X
-- Tonne C
+- Tonne CC
 date: "2022-08-01"
 pub_keys: [environment]
 show_metrics: true

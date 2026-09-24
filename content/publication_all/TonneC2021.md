@@ -3,7 +3,7 @@ title: "Defining pathways to healthy sustainable urban development"
 publication: "**Environ Int**. 146:106236. <a href='https://doi.org/10.1016/j.envint.2020.106236' target='_blank' rel='noopener noreferrer'>10.1016/j.envint.2020.106236</a>"
 doi_value: "10.1016/j.envint.2020.106236"
 authors:
-- Tonne C
+- Tonne CC
 - Adair LS
 - Adlakha D
 - " ..."

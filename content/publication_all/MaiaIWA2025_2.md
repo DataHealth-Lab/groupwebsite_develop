@@ -17,6 +17,6 @@ show_metrics: true
 oa_status: "gold"
 citations: 1
 countries: 6
-is_top_10_percent: NA
-is_top_1_percent: NA
+is_top_10_percent: false
+is_top_1_percent: false
 ---

@@ -6,7 +6,7 @@ authors:
 - Zampieri FG
 - otavioranzani
 - Morato PF
-- Campos P
+- Campos PPZdA
 - Caruso P
 date: "2013-04-01"
 pub_keys: [critical care]

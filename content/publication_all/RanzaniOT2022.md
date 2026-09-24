@@ -6,13 +6,13 @@ authors:
 - otavioranzani
 - Bhogadi S
 - Milà C
-- Kulkarni B
+- Kulkarni BK
 - Balakrishnan K
 - Sambandam S
 - García‐Aymerich J
-- Marshall J
+- Marshall JD
 - Kinra S
-- Tonne C
+- Tonne CC
 date: "2022-07-01"
 pub_keys: [air pollution, environment]
 show_metrics: true

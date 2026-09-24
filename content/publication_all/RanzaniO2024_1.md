@@ -8,7 +8,7 @@ authors:
 - Olmos S
 - "..."
 - Vivanco‐Hidalgo RM
-- Tonne C
+- Tonne CC
 date: "2024-03-01"
 pub_keys: [covid, air pollution]
 show_metrics: true

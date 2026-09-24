@@ -9,7 +9,7 @@ authors:
 - " ..."
 - otavioranzani
 - "..."
-- Pelosi P
+- Pelosi PP
 - Torres A
 date: "2018-10-20"
 pub_keys: [pneumonia]

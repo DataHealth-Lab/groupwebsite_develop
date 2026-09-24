@@ -8,7 +8,7 @@ authors:
 - Sanchez M
 - "..."
 - Kinra S
-- Tonne C
+- Tonne CC
 date: "2020-06-01"
 pub_keys: [critical care, air pollution, environment]
 show_metrics: true

@@ -10,7 +10,7 @@ authors:
 - Shankar‐Hari M
 - Singer M
 date: "2025-10-01"
-pub_keys: [unknown]
+pub_keys: [critical care]
 show_metrics: true
 oa_status: "gold"
 fwci: 29.95

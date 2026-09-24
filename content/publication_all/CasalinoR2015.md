@@ -3,7 +3,7 @@ title: "EuroSCORE models in a cohort of patients with valvular heart disease and
 publication: "**PLoS One**. 10(2):e0118357. <a href='https://doi.org/10.1371/journal.pone.0118357' target='_blank' rel='noopener noreferrer'>10.1371/journal.pone.0118357</a>"
 doi_value: "10.1371/journal.pone.0118357"
 authors:
-- Casalino R
+- Casalino RS
 - Tarasoutchi F
 - Spina GS
 - Katz M

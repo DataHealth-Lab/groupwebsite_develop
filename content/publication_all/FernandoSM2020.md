@@ -9,8 +9,8 @@ authors:
 - " ..."
 - otavioranzani
 - "..."
-- Guyatt G
-- Rochwerg B
+- Guyatt GH
+- Rochwerg BN
 date: "2020-06-01"
 pub_keys: [critical care, pneumonia]
 show_metrics: true

@@ -11,7 +11,7 @@ authors:
 - García-Gallo E
 - Bozza FA
 date: "2025-10-01"
-pub_keys: [critical care]
+pub_keys: [critical care, dengue]
 show_metrics: true
 oa_status: "gold"
 fwci: 3.63

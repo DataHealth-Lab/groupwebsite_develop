@@ -5,7 +5,7 @@ doi_value: "10.1002/jmv.29862"
 authors:
 - Karachaliou M
 - otavioranzani
-- Espinosa A
+- Espinosa AB
 - "..."
 - Moncunill G
 - Kogevinas M

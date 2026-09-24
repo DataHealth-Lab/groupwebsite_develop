@@ -6,7 +6,7 @@ authors:
 - Dell’Aringa MF
 - otavioranzani
 - Bierens J
-- Murray V
+- Murray VS
 date: "2018-01-25"
 pub_keys: [environment]
 show_metrics: true

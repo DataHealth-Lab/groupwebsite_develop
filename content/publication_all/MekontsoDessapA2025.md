@@ -4,7 +4,7 @@ publication: "**Intensive Care Med**. 51(3):461-477. <a href='https://doi.org/10
 doi_value: "10.1007/s00134-025-07840-1"
 authors:
 - Dessap AM
-- Alshamsi F
+- Alshamsi FE
 - Belletti A
 - " ..."
 - otavioranzani

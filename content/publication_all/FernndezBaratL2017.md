@@ -7,7 +7,7 @@ authors:
 - Motos A
 - otavioranzani
 - "..."
-- Antonelli M
+- Antonelli MM
 - Torres A
 date: "2017-09-20"
 pub_keys: [critical care, pneumonia]

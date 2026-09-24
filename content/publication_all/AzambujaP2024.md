@@ -16,7 +16,7 @@ show_metrics: true
 oa_status: "gold"
 fwci: 4.64
 citations: 18
-countries: 5
+countries: 4
 is_top_10_percent: true
 is_top_1_percent: false
 ---

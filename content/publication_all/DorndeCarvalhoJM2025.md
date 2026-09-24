@@ -12,7 +12,7 @@ authors:
 - Hajjar LA
 - Maia IWA
 date: "2025-10-17"
-pub_keys: [unknown]
+pub_keys: [critical care]
 show_metrics: true
 oa_status: "gold"
 fwci: 0

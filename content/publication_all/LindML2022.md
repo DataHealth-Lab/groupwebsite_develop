@@ -5,7 +5,7 @@ doi_value: "10.1371/journal.pmed.1004136"
 authors:
 - Lind ML
 - Robertson AJ
-- Silva J
+- Silva JDS
 - " ..."
 - otavioranzani
 - "..."

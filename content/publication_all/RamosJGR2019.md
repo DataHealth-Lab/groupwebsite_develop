@@ -6,8 +6,8 @@ authors:
 - Ramos JGR
 - otavioranzani
 - Perondi B
-- Dias RD
-- Jones D
+- DIAS RD
+- Jones DR
 - Carvalho CRRd
 - Velasco IT
 - Forte DN
