@@ -656,6 +656,7 @@
   gap: 1rem;
   justify-content: center;
   margin: 1.5rem 0 0.5rem;
+  overflow: visible;
 }
 
 .oa-stat-tile {
@@ -691,4 +692,32 @@
   opacity: 0.6;
   text-align: right;
   margin-top: 0.25rem;
+}
+
+.oa-has-tooltip {
+  position: relative;
+  cursor: default;
+}
+
+.oa-tooltip {
+  display: none;
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 0.5rem 0.8rem;
+  border-radius: 5px;
+  white-space: normal;
+  width: 260px;
+  z-index: 9999;
+  text-align: center;
+  pointer-events: none;
+  line-height: 1.4;
+}
+
+.oa-has-tooltip:hover .oa-tooltip {
+  display: block;
 }

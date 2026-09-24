@@ -17,10 +17,11 @@
     <span class="oa-stat-num">{{ $data.n_top10 }}</span>
     <span class="oa-stat-label">World Top 10%</span>
   </div>
-  <div class="oa-stat-tile" title="Median FWCI {{ $data.median_fwci }}: papers are cited {{ $data.median_fwci }}× more than the world average for their field">
+  <div class="oa-stat-tile oa-has-tooltip">
     <span class="oa-stat-num">{{ $data.median_fwci }}</span>
     <span class="oa-stat-label">median FWCI</span>
-  </div>
+    <span class="oa-tooltip">Median FWCI: papers cited {{ $data.median_fwci }}× more than world average for their field</span>
+</div>
 </div>
 <p class="oa-summary-source">Source: <a href="https://openalex.org/authors/a5003418812" target="_blank" rel="noopener"><strong>OpenAlex</strong></a> · {{ $data.generated_at | time.Format "2 January 2006" }}</p>
 {{ end }}
