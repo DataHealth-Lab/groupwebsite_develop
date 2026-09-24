@@ -22,7 +22,9 @@ jobs:
           r-version: "release"
  
       - name: Install R packages
-        run: Rscript -e 'install.packages(c("openalexR", "jsonlite"), repos = "https://cloud.r-project.org")'
+        run: |
+          Rscript -e 'install.packages("pak", repos = "https://cloud.r-project.org")'
+          Rscript -e 'pak::pak(c("openalexR", "jsonlite"))'
  
       - name: Fetch OpenAlex metrics
         run: Rscript fetch_openalex_metrics.R
