@@ -15,7 +15,9 @@ date: "2026-05-01"
 pub_keys: [tuberculosis]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 16.32
+fwci: 15.5
 citations: 3
 countries: 3
+is_top_10_percent: true
+is_top_1_percent: false
 ---

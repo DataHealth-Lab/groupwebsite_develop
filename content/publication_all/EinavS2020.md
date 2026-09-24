@@ -9,7 +9,9 @@ date: "2020-08-01"
 pub_keys: [unknown]
 show_metrics: true
 oa_status: "bronze"
-fwci: 2.13
+fwci: 2.09
 citations: 10
 countries: 3
+is_top_10_percent: false
+is_top_1_percent: false
 ---

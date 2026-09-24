@@ -16,4 +16,6 @@ oa_status: "green"
 fwci: 2.25
 citations: 4
 countries: 3
+is_top_10_percent: false
+is_top_1_percent: false
 ---

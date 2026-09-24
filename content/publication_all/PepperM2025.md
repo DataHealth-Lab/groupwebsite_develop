@@ -15,7 +15,9 @@ date: "2025-01-01"
 pub_keys: [pneumonia, air pollution]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 0.58
+fwci: 0.52
 citations: 7
 countries: 3
+is_top_10_percent: false
+is_top_1_percent: false
 ---

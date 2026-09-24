@@ -14,4 +14,6 @@ oa_status: "closed"
 fwci: 0.24
 citations: 12
 countries: 1
+is_top_10_percent: false
+is_top_1_percent: false
 ---

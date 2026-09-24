@@ -15,7 +15,9 @@ date: "2026-02-01"
 pub_keys: [unknown]
 show_metrics: true
 oa_status: "gold"
-fwci: 3.15
+fwci: 3.05
 citations: 4
 countries: 4
+is_top_10_percent: true
+is_top_1_percent: false
 ---

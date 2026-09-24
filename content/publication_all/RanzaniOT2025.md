@@ -13,7 +13,9 @@ date: "2025-12-16"
 pub_keys: [unknown]
 show_metrics: true
 oa_status: "green"
-fwci: 76.3
-citations: 122
+fwci: 81.28
+citations: 133
 countries: 29
+is_top_10_percent: true
+is_top_1_percent: true
 ---

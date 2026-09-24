@@ -13,7 +13,9 @@ date: "2026-01-01"
 pub_keys: [vaccine]
 show_metrics: true
 oa_status: "closed"
-fwci: 17.22
-citations: 19
+fwci: 18.64
+citations: 21
 countries: 2
+is_top_10_percent: true
+is_top_1_percent: true
 ---

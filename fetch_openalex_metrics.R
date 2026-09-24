@@ -182,3 +182,75 @@ out <- list(
 write_json(out, "assets/openalex_metrics.json", pretty = TRUE, auto_unbox = TRUE)
 cat(sprintf("Wrote assets/openalex_metrics.json (%d entries)\n", length(metrics_list)))
 
+
+
+# ── 4. Patch frontmatter of each publication file ─────────────────────────────
+
+patch_frontmatter <- function(path, m) {
+    lines <- readLines(path, warn = FALSE)
+    marks <- which(trimws(lines) == "---")
+    if (length(marks) < 2) return(invisible(FALSE))
+    
+    fm_range <- seq(marks[1] + 1, marks[2] - 1)
+    
+    # Update a field that already exists in frontmatter
+    replace_field <- function(lines, field, value) {
+        pat <- paste0("^", field, ":")
+        idx <- grep(pat, lines[fm_range])
+        if (length(idx) == 0) return(lines)
+        abs_idx <- fm_range[idx[1]]
+        lines[abs_idx] <- paste0(field, ": ", value)
+        lines
+    }
+    
+    # Add a field just before the closing --- if it doesn't exist
+    add_or_replace_field <- function(lines, field, value) {
+        pat <- paste0("^", field, ":")
+        idx <- grep(pat, lines[fm_range])
+        if (length(idx) > 0) {
+            abs_idx <- fm_range[idx[1]]
+            lines[abs_idx] <- paste0(field, ": ", value)
+        } else {
+            # Insert before closing ---
+            close_mark <- marks[2]
+            lines <- c(lines[1:(close_mark - 1)],
+                       paste0(field, ": ", value),
+                       lines[close_mark:length(lines)])
+        }
+        lines
+    }
+    
+    lines <- replace_field(lines, "citations", as.integer(m$cited_by_count))
+    lines <- replace_field(lines, "fwci",      round(m$fwci, 2))
+    lines <- replace_field(lines, "oa_status", paste0('"', m$oa_status, '"'))
+    lines <- add_or_replace_field(lines, "is_top_1_percent",  tolower(as.character(m$is_top_1_percent)))
+    lines <- add_or_replace_field(lines, "is_top_10_percent", tolower(as.character(m$is_top_10_percent)))
+    
+    writeLines(lines, path, useBytes = TRUE)
+    invisible(TRUE)
+}
+
+patched <- 0
+for (path in index_files) {
+    doi <- extract_doi(path)
+    if (!is.na(doi) && doi %in% names(metrics_list)) {
+        m <- metrics_list[[doi]]
+        if (patch_frontmatter(path, m)) patched <- patched + 1
+    }
+}
+cat(sprintf("Patched %d/%d publication files\n", patched, length(index_files)))
+
+
+# ── 5. Stamp the publications index with the update date ──────────────────────
+
+index_file <- file.path("content/publication_all", "_index.md")
+if (file.exists(index_file)) {
+    idx <- readLines(index_file, warn = FALSE)
+    date_line <- paste0('<small style="color: #888;">Updated: ',
+                        format(Sys.Date(), "%d %B %Y"), "</small>")
+    idx <- idx[!grepl("^<small.*Updated:", idx)]   # remove old line if present
+    writeLines(c(idx, date_line), index_file)
+    cat(sprintf("Stamped index: %s\n", date_line))
+} else {
+    cat("No _index.md found at content/publication_all/_index.md — skipping stamp\n")
+}

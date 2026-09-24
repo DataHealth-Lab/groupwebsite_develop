@@ -13,7 +13,9 @@ date: "2020-09-01"
 pub_keys: [environment]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 5.06
+fwci: 5.05
 citations: 124
 countries: 4
+is_top_10_percent: true
+is_top_1_percent: false
 ---

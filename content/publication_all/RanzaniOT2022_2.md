@@ -18,4 +18,6 @@ oa_status: "gold"
 fwci: 5.27
 citations: 102
 countries: 5
+is_top_10_percent: true
+is_top_1_percent: false
 ---

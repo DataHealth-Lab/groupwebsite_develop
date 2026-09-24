@@ -13,4 +13,6 @@ oa_status: "bronze"
 fwci: 3.91
 citations: 49
 countries: 3
+is_top_10_percent: true
+is_top_1_percent: false
 ---

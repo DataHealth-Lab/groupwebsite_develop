@@ -10,7 +10,9 @@ date: "2015-09-12"
 pub_keys: [pneumonia]
 show_metrics: true
 oa_status: "bronze"
-fwci: 21.88
-citations: 521
+fwci: 21.86
+citations: 523
 countries: 2
+is_top_10_percent: true
+is_top_1_percent: true
 ---

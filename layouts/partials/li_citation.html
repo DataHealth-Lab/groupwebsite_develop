@@ -47,6 +47,11 @@
         {{ with .Params.countries }}
         <span class="pub-metric-chip countries-chip">{{ . }}&nbsp;author countries</span>
         {{ end }}
+        {{ if .Params.is_top_1_percent }}
+        <span class="pub-metric-chip top1-chip">Top 1%</span>
+        {{ else if .Params.is_top_10_percent }}
+        <span class="pub-metric-chip top10-chip">Top 10%</span>
+        {{ end }}
       </div>
       {{ end }}
 

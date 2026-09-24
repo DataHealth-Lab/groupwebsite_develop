@@ -16,4 +16,6 @@ oa_status: "diamond"
 fwci: 0.23
 citations: 2
 countries: 2
+is_top_10_percent: false
+is_top_1_percent: false
 ---

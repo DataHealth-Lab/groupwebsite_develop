@@ -13,7 +13,9 @@ date: "2025-10-01"
 pub_keys: [unknown]
 show_metrics: true
 oa_status: "gold"
-fwci: 30.65
+fwci: 29.95
 citations: 49
 countries: 27
+is_top_10_percent: true
+is_top_1_percent: true
 ---

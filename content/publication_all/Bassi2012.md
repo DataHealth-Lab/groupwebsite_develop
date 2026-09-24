@@ -16,4 +16,6 @@ show_metrics: true
 oa_status: "closed"
 fwci: 0
 citations: 1
+is_top_10_percent: false
+is_top_1_percent: false
 ---

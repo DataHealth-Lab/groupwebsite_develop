@@ -16,7 +16,9 @@ date: "2015-01-01"
 pub_keys: [unknown]
 show_metrics: true
 oa_status: "gold"
-fwci: 2.34
+fwci: 2.32
 citations: 16
 countries: 1
+is_top_10_percent: false
+is_top_1_percent: false
 ---

@@ -11,4 +11,6 @@ show_metrics: true
 oa_status: "closed"
 citations: 0
 countries: 2
+is_top_10_percent: NA
+is_top_1_percent: NA
 ---

@@ -16,6 +16,8 @@ pub_keys: [critical care]
 show_metrics: true
 oa_status: "bronze"
 fwci: 9.41
-citations: 167
+citations: 168
 countries: 7
+is_top_10_percent: true
+is_top_1_percent: false
 ---

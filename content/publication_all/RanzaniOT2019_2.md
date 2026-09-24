@@ -15,6 +15,8 @@ pub_keys: [pneumonia]
 show_metrics: true
 oa_status: "gold"
 fwci: 3.61
-citations: 63
+citations: 64
 countries: 5
+is_top_10_percent: true
+is_top_1_percent: false
 ---
