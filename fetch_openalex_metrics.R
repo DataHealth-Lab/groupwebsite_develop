@@ -243,14 +243,39 @@ cat(sprintf("Patched %d/%d publication files\n", patched, length(index_files)))
 
 # ── 5. Stamp the publications index with the update date ──────────────────────
 
-index_file <- file.path("content/publication_all", "_index.md")
-if (file.exists(index_file)) {
-    idx <- readLines(index_file, warn = FALSE)
-    date_line <- paste0('<small style="color: #888;">Updated: ',
-                        format(Sys.Date(), "%d %B %Y"), "</small>")
-    idx <- idx[!grepl("^<small.*Updated:", idx)]   # remove old line if present
-    writeLines(c(idx, date_line), index_file)
-    cat(sprintf("Stamped index: %s\n", date_line))
-} else {
-    cat("No _index.md found at content/publication_all/_index.md — skipping stamp\n")
-}
+# index_file <- file.path("content/publication_all", "_index.md")
+# if (file.exists(index_file)) {
+#     idx <- readLines(index_file, warn = FALSE)
+#     date_line <- paste0('<small style="color: #888;">Updated: ',
+#                         format(Sys.Date(), "%d %B %Y"), "</small>")
+#     idx <- idx[!grepl("^<small.*Updated:", idx)]   # remove old line if present
+#     writeLines(c(idx, date_line), index_file)
+#     cat(sprintf("Stamped index: %s\n", date_line))
+# } else {
+#     cat("No _index.md found at content/publication_all/_index.md — skipping stamp\n")
+# }
+
+# ── 6. Write summary stats ────────────────────────────────────────────────────
+
+ml <- metrics_list
+n_oa      <- sum(sapply(ml, function(x) isTRUE(x$is_oa)))
+n_top1    <- sum(sapply(ml, function(x) isTRUE(x$is_top_1_percent)))
+n_top10   <- sum(sapply(ml, function(x) isTRUE(x$is_top_10_percent)))
+fwci_vals <- sapply(ml, function(x) if (is.null(x$fwci) || is.na(x$fwci)) NA_real_ else x$fwci)
+med_fwci  <- round(median(fwci_vals, na.rm = TRUE), 1)
+p75_fwci <- round(as.numeric(quantile(fwci_vals, 0.75, na.rm = TRUE)),1)
+count_fwci_1 <- sum(fwci_vals>1, na.rm = T)
+
+summary_out <- list(
+    generated_at = format(Sys.time(), "%Y-%m-%dT%H:%M:%SZ", tz = "UTC"),
+    n_total      = length(dois),
+    n_oa         = n_oa,
+    n_top1       = n_top1,
+    n_top10      = n_top10,
+    median_fwci  = med_fwci,
+    p75_fwci     = p75_fwci,
+    count_fwci_1 = count_fwci_1
+)
+write_json(summary_out, "assets/openalex_summary.json", pretty = TRUE, auto_unbox = TRUE)
+cat(sprintf("Summary: %d OA | Top 1%%: %d | Top 10%%: %d | Median FWCI: %.1f\n",
+            n_oa, n_top1, n_top10, med_fwci))

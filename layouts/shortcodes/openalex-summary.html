@@ -1,0 +1,26 @@
+{{ $data := resources.Get "openalex_summary.json" | transform.Unmarshal }}
+{{ if $data }}
+<div class="oa-summary-grid">
+  <div class="oa-stat-tile">
+    <span class="oa-stat-num">{{ $data.n_total }}</span>
+    <span class="oa-stat-label">Publications</span>
+  </div>
+  <div class="oa-stat-tile">
+    <span class="oa-stat-num">{{ $data.n_oa }}</span>
+    <span class="oa-stat-label">Open Access</span>
+  </div>
+  <div class="oa-stat-tile">
+    <span class="oa-stat-num">{{ $data.n_top1 }}</span>
+    <span class="oa-stat-label">World Top 1%</span>
+  </div>
+  <div class="oa-stat-tile">
+    <span class="oa-stat-num">{{ $data.n_top10 }}</span>
+    <span class="oa-stat-label">World Top 10%</span>
+  </div>
+  <div class="oa-stat-tile" title="Median FWCI {{ $data.median_fwci }}: papers are cited {{ $data.median_fwci }}× more than the world average for their field">
+    <span class="oa-stat-num">{{ $data.median_fwci }}</span>
+    <span class="oa-stat-label">median FWCI</span>
+  </div>
+</div>
+<p class="oa-summary-source">Source: <a href="https://openalex.org/authors/a5003418812" target="_blank" rel="noopener"><strong>OpenAlex</strong></a> · {{ $data.generated_at | time.Format "2 January 2006" }}</p>
+{{ end }}

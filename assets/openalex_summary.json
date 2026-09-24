@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-09-24T12:59:26Z",
+  "n_total": 215,
+  "n_oa": 165,
+  "n_top1": 16,
+  "n_top10": 88,
+  "median_fwci": 2,
+  "p75_fwci": 4.1,
+  "count_fwci_1": 142
+}
