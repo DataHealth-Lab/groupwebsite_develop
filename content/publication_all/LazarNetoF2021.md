@@ -6,11 +6,9 @@ authors:
 - Neto FL
 - Marino LO
 - Torres A
-- " ..."
-- otavioranzani
 - "..."
-- Chio YHP
-- Gómez LMG
+- Souza HP
+- otavioranzani
 date: "2021-07-01"
 pub_keys: [covid, pneumonia]
 show_metrics: true

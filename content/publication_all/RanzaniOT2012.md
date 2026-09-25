@@ -16,7 +16,7 @@ show_metrics: true
 oa_status: "closed"
 fwci: 3.71
 citations: 43
-countries: 2
+countries: 3
 is_top_10_percent: true
 is_top_1_percent: false
 ---

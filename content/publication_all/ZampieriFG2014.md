@@ -8,7 +8,7 @@ authors:
 - Sabatoski V
 - Souza HPd
 - Barbeiro HV
-- Neto LMCd
+- Neto LMdC
 - Park M
 - Silva FPd
 date: "2014-01-01"

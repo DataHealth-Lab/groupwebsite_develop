@@ -278,3 +278,4 @@ summary_out <- list(
 write_json(summary_out, "assets/openalex_summary.json", pretty = TRUE, auto_unbox = TRUE)
 cat(sprintf("Summary: %d OA | Top 1%%: %d | Top 10%%: %d | Median FWCI: %.1f\n",
             n_oa, n_top1, n_top10, med_fwci))
+

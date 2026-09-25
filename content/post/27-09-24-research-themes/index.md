@@ -22,4 +22,4 @@ Where does our research sit in the scientific landscape? [OpenAlex](https://open
 
 <iframe src="/media/topics_field_treemap.html" width="100%" height="340" style="border:none;"></iframe>
 
-<p style="font-size: 0.75rem; opacity: 0.6; text-align: right; margin-top: 0.5rem;">Source: <a href="https://openalex.org">OpenAlex</a> · primary topic per paper (rank 1) · 24 September 2026</p>
+<p style="font-size: 0.75rem; opacity: 0.6; text-align: right; margin-top: 0.5rem;">Source: <a href="https://openalex.org">OpenAlex</a> · primary topic per paper (rank 1) · 25 September 2026</p>
