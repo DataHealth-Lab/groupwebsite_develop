@@ -13,7 +13,7 @@ date: "2021-08-20"
 pub_keys: [covid, vaccine]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 20.42
+fwci: 20.28
 citations: 344
 countries: 3
 is_top_10_percent: true

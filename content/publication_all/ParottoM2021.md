@@ -13,7 +13,7 @@ date: "2021-08-01"
 pub_keys: [covid, critical care]
 show_metrics: true
 oa_status: "bronze"
-fwci: 3.59
+fwci: 3.58
 citations: 28
 countries: 7
 is_top_10_percent: true

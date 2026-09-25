@@ -13,7 +13,7 @@ date: "2026-01-01"
 pub_keys: [vaccine, dengue]
 show_metrics: true
 oa_status: "closed"
-fwci: 18.64
+fwci: 18.5
 citations: 21
 countries: 2
 is_top_10_percent: true
