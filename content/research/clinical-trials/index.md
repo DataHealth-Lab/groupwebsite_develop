@@ -27,7 +27,7 @@ We bring particular expertise in **critical care and infectious disease trials**
 Our **Data Safety Monitoring Board (DSMB) work** gives us experience and a privileged advantage point across a broad portfolio of trials worldwide, informing decisions that directly affect participant safety and the integrity of the evidence base.
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:0;margin:1.8rem 0 2.2rem;border-radius:10px;overflow:hidden;background:#c89520;">
   <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">7</div>
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">9</div>
     <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Randomised Trials</div>
   </div>
   <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
@@ -35,7 +35,7 @@ Our **Data Safety Monitoring Board (DSMB) work** gives us experience and a privi
     <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Implementation Studies</div>
   </div>
   <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">~47,000</div>
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">~50,000</div>
     <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Randomised Patients</div>
   </div>
   <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
@@ -43,7 +43,7 @@ Our **Data Safety Monitoring Board (DSMB) work** gives us experience and a privi
     <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Countries</div>
   </div>
   <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;border-right:1px solid rgba(255,255,255,0.3);display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">&gt;100</div>
+    <div style="font-size:1.9rem;font-weight:800;color:#fff;line-height:1.1;white-space:nowrap;">&gt;120</div>
     <div style="font-size:0.7rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.88);margin-top:5px;hyphens:none;word-break:keep-all;">Centres</div>
   </div>
   <div style="flex:1;min-width:100px;padding:20px 10px;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;">
@@ -58,6 +58,25 @@ Our **Data Safety Monitoring Board (DSMB) work** gives us experience and a privi
 
 Randomised controlled trials where I contributed as PI, trialist or lead statistician, including traditional and adaptive designs, frequentist and Bayesian frameworks.
 
+<!-- ── CONNECT ────────────────────────────────────────────────── -->
+<div class="trial-card">
+  <div class="trial-badge">CON-<br>NECT</div>
+  <div class="trial-body">
+    <div class="trial-header">
+      <span class="trial-name">CONNECT: Patient Characterization Panel to Improve Satisfaction With the Intensive Care Unit Stay</span>
+      <span class="trial-pill ongoing">Ongoing</span>
+    </div>
+    <div class="trial-meta">
+      <strong>Design:</strong> Stepped-wedge cluster RCT, open-label, multicentre, N = 966 patients (target) &nbsp;·&nbsp;
+      <strong>Role:</strong> CO-PI / Steering Committee / Trialist &nbsp;·&nbsp;
+      <strong>Setting:</strong> 6 ICUs &nbsp;·&nbsp;
+      <strong>Period:</strong> 2026-2028
+    </div>
+    <div class="trial-links">
+      <a href="https://clinicaltrials.gov/study/NCT07830043" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT07830043</a>
+    </div>
+  </div>
+</div>
 <!-- ── TELESCOPE 2 ─────────────────────────────────────────── -->
 <div class="trial-card">
   <div class="trial-badge">TELE-<br>SCOPE·2</div>
@@ -176,6 +195,27 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
     </div>
     <div class="trial-links">
       <a href="https://doi.org/10.1016/j.envres.2020.109812" class="tl-btn paper" target="_blank" rel="noopener">📑 Environ Res 2020</a>
+    </div>
+  </div>
+</div>
+
+<!-- ── WALNUTs ────────────────────────────────────────────────── -->
+<div class="trial-card completed">
+  <div class="trial-badge completed">WAL-<br>NUTs</div>
+  <div class="trial-body">
+    <div class="trial-header">
+      <span class="trial-name">WALNUTs: Walnut Intake and Adolescent Brain Development</span>
+      <span class="trial-pill completed">Completed</span>
+    </div>
+    <div class="trial-meta">
+      <strong>Design:</strong> Cluster RCT, N = 771 adolescents &nbsp;·&nbsp;
+      <strong>Role:</strong> Trialist &nbsp;·&nbsp;
+      <strong>Setting:</strong> 12 high schools &nbsp;·&nbsp; <strong>Period:</strong> 2016-2017
+    </div>
+    <div class="trial-links">
+      <a href="https://clinicaltrials.gov/study/NCT02590848" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT02590848</a>
+      <a href="https://doi.org/10.3389/fped.2021.593847" class="tl-btn protocol" target="_blank" rel="noopener">📄 Protocol - Front Pediatr 2021</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S2589537023001311" class="tl-btn paper" target="_blank" rel="noopener">📑 eClinicalMedicine 2023</a>
     </div>
   </div>
 </div>
