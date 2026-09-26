@@ -22,3 +22,7 @@ assets/jsconfig.json
 .Renviron
 .env
 secrets/
+
+# Claude
+/Claude outputs
+CLAUDE.md
