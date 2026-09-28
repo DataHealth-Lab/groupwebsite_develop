@@ -10,7 +10,7 @@ date: "2019-09-05"
 pub_keys: [pneumonia]
 show_metrics: true
 oa_status: "diamond"
-fwci: 0.45
+fwci: 0.44
 citations: 6
 countries: 3
 is_top_10_percent: false

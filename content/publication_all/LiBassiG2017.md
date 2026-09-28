@@ -13,7 +13,7 @@ date: "2017-11-01"
 pub_keys: [critical care, pneumonia]
 show_metrics: true
 oa_status: "green"
-fwci: 3.18
+fwci: 3.17
 citations: 51
 countries: 6
 is_top_10_percent: true

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T09:42:34Z",
+  "generated_at": "2026-09-28T09:57:59Z",
   "source": "openalex",
   "count": 223,
   "metrics": {
@@ -456,13 +456,13 @@
     "10.1038/s41591-022-01807-1": {
       "doi": "10.1038/s41591-022-01807-1",
       "cited_by_count": 63,
-      "fwci": 7.1248,
-      "citation_percentile": 0.9858,
+      "fwci": 7.1165,
+      "citation_percentile": 0.9857,
       "is_top_1_percent": false,
       "is_top_10_percent": true,
       "is_oa": true,
       "oa_status": "hybrid",
-      "countries_distinct_count": 7,
+      "countries_distinct_count": 6,
       "counts_by_year": [
         {
           "year": 2019,
@@ -996,8 +996,8 @@
     "10.1007/s00134-017-4858-1": {
       "doi": "10.1007/s00134-017-4858-1",
       "cited_by_count": 51,
-      "fwci": 3.18,
-      "citation_percentile": 0.9278,
+      "fwci": 3.1743,
+      "citation_percentile": 0.9276,
       "is_top_1_percent": false,
       "is_top_10_percent": true,
       "is_oa": true,
@@ -1671,13 +1671,13 @@
     "10.1007/s00134-022-06800-3": {
       "doi": "10.1007/s00134-022-06800-3",
       "cited_by_count": 18,
-      "fwci": 2.4783,
-      "citation_percentile": 0.9062,
+      "fwci": 2.4737,
+      "citation_percentile": 0.906,
       "is_top_1_percent": false,
       "is_top_10_percent": true,
       "is_oa": true,
       "oa_status": "bronze",
-      "countries_distinct_count": 4,
+      "countries_distinct_count": 3,
       "counts_by_year": [
         {
           "year": 2018,
@@ -1806,13 +1806,13 @@
     "10.1016/j.envint.2024.109230": {
       "doi": "10.1016/j.envint.2024.109230",
       "cited_by_count": 15,
-      "fwci": 3.3108,
-      "citation_percentile": 0.9249,
+      "fwci": 3.3036,
+      "citation_percentile": 0.9247,
       "is_top_1_percent": false,
       "is_top_10_percent": true,
       "is_oa": true,
       "oa_status": "gold",
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 2,
       "counts_by_year": [
         {
           "year": 2019,
@@ -1851,8 +1851,8 @@
     "10.1007/s00134-022-06894-9": {
       "doi": "10.1007/s00134-022-06894-9",
       "cited_by_count": 12,
-      "fwci": 1.7807,
-      "citation_percentile": 0.8541,
+      "fwci": 1.7707,
+      "citation_percentile": 0.853,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
@@ -2166,8 +2166,8 @@
     "10.1097/ccm.0b013e31828a453b": {
       "doi": "10.1097/ccm.0b013e31828a453b",
       "cited_by_count": 24,
-      "fwci": 1.5712,
-      "citation_percentile": 0.8265,
+      "fwci": 1.5643,
+      "citation_percentile": 0.8257,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": false,
@@ -2301,13 +2301,13 @@
     "10.1371/journal.pone.0246072": {
       "doi": "10.1371/journal.pone.0246072",
       "cited_by_count": 13,
-      "fwci": 1.1455,
-      "citation_percentile": 0.7496,
+      "fwci": 1.1439,
+      "citation_percentile": 0.7494,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
       "oa_status": "gold",
-      "countries_distinct_count": 3,
+      "countries_distinct_count": 2,
       "counts_by_year": [
         {
           "year": 2019,
@@ -2571,8 +2571,8 @@
     "10.1136/bmjopen-2023-072314": {
       "doi": "10.1136/bmjopen-2023-072314",
       "cited_by_count": 4,
-      "fwci": 1.5773,
-      "citation_percentile": 0.8343,
+      "fwci": 1.5696,
+      "citation_percentile": 0.8334,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
@@ -2751,8 +2751,8 @@
     "10.62675/2965-2774.20250339": {
       "doi": "10.62675/2965-2774.20250339",
       "cited_by_count": 2,
-      "fwci": 1.2284,
-      "citation_percentile": 0.778,
+      "fwci": 1.2027,
+      "citation_percentile": 0.7741,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
@@ -2976,8 +2976,8 @@
     "10.1007/s00134-020-06112-4": {
       "doi": "10.1007/s00134-020-06112-4",
       "cited_by_count": 10,
-      "fwci": 2.0858,
-      "citation_percentile": 0.8939,
+      "fwci": 2.0693,
+      "citation_percentile": 0.8933,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
@@ -3696,8 +3696,8 @@
     "10.1097/ccm.0000000000006868": {
       "doi": "10.1097/ccm.0000000000006868",
       "cited_by_count": 1,
-      "fwci": 0.6265,
-      "citation_percentile": 0.7465,
+      "fwci": 0.6013,
+      "citation_percentile": 0.7392,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": false,
@@ -4152,7 +4152,7 @@
       "is_top_10_percent": null,
       "is_oa": true,
       "oa_status": "hybrid",
-      "countries_distinct_count": 7,
+      "countries_distinct_count": 6,
       "counts_by_year": [
         {
           "year": 2018,
@@ -4398,7 +4398,7 @@
     "10.1371/journal.pone.0059321": {
       "doi": "10.1371/journal.pone.0059321",
       "cited_by_count": 475,
-      "fwci": 7.185,
+      "fwci": 7.1587,
       "citation_percentile": 0.9779,
       "is_top_1_percent": false,
       "is_top_10_percent": true,
@@ -4668,13 +4668,13 @@
     "10.1007/s00134-013-3131-5": {
       "doi": "10.1007/s00134-013-3131-5",
       "cited_by_count": 134,
-      "fwci": 8.1559,
+      "fwci": 8.126,
       "citation_percentile": 0.9827,
       "is_top_1_percent": false,
       "is_top_10_percent": true,
       "is_oa": false,
       "oa_status": "closed",
-      "countries_distinct_count": 2,
+      "countries_distinct_count": 1,
       "counts_by_year": [
         {
           "year": 2019,
@@ -4983,13 +4983,13 @@
     "10.1186/s13054-019-2348-2": {
       "doi": "10.1186/s13054-019-2348-2",
       "cited_by_count": 64,
-      "fwci": 3.5947,
-      "citation_percentile": 0.9305,
+      "fwci": 3.5887,
+      "citation_percentile": 0.9303,
       "is_top_1_percent": false,
       "is_top_10_percent": true,
       "is_oa": true,
       "oa_status": "gold",
-      "countries_distinct_count": 5,
+      "countries_distinct_count": 4,
       "counts_by_year": [
         {
           "year": 2019,
@@ -5298,13 +5298,13 @@
     "10.1016/s1473-3099(25)00382-2": {
       "doi": "10.1016/s1473-3099(25)00382-2",
       "cited_by_count": 21,
-      "fwci": 18.4267,
-      "citation_percentile": 0.9958,
+      "fwci": 18.3207,
+      "citation_percentile": 0.9957,
       "is_top_1_percent": true,
       "is_top_10_percent": true,
       "is_oa": false,
       "oa_status": "closed",
-      "countries_distinct_count": 2,
+      "countries_distinct_count": 3,
       "counts_by_year": [
         {
           "year": 2019,
@@ -5703,8 +5703,8 @@
     "10.1097/ccm.0b013e318259203d": {
       "doi": "10.1097/ccm.0b013e318259203d",
       "cited_by_count": 43,
-      "fwci": 3.7127,
-      "citation_percentile": 0.9349,
+      "fwci": 3.6937,
+      "citation_percentile": 0.9346,
       "is_top_1_percent": false,
       "is_top_10_percent": true,
       "is_oa": false,
@@ -5883,8 +5883,8 @@
     "10.1007/s00134-022-06773-3": {
       "doi": "10.1007/s00134-022-06773-3",
       "cited_by_count": 33,
-      "fwci": 4.0311,
-      "citation_percentile": 0.9512,
+      "fwci": 4.0301,
+      "citation_percentile": 0.9514,
       "is_top_1_percent": false,
       "is_top_10_percent": true,
       "is_oa": true,
@@ -5928,8 +5928,8 @@
     "10.1016/s2213-2600(21)00318-0": {
       "doi": "10.1016/s2213-2600(21)00318-0",
       "cited_by_count": 28,
-      "fwci": 3.5808,
-      "citation_percentile": 0.9383,
+      "fwci": 3.5745,
+      "citation_percentile": 0.9379,
       "is_top_1_percent": false,
       "is_top_10_percent": true,
       "is_oa": true,
@@ -5973,13 +5973,13 @@
     "10.1016/j.cmi.2020.08.015": {
       "doi": "10.1016/j.cmi.2020.08.015",
       "cited_by_count": 24,
-      "fwci": 0.5805,
-      "citation_percentile": 0.5522,
+      "fwci": 0.5788,
+      "citation_percentile": 0.551,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
       "oa_status": "bronze",
-      "countries_distinct_count": 3,
+      "countries_distinct_count": 2,
       "counts_by_year": [
         {
           "year": 2019,
@@ -6018,8 +6018,8 @@
     "10.1186/s13054-014-0580-3": {
       "doi": "10.1186/s13054-014-0580-3",
       "cited_by_count": 23,
-      "fwci": 2.3583,
-      "citation_percentile": 0.8873,
+      "fwci": 2.351,
+      "citation_percentile": 0.8869,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
@@ -6108,8 +6108,8 @@
     "10.1016/j.eclinm.2023.101954": {
       "doi": "10.1016/j.eclinm.2023.101954",
       "cited_by_count": 18,
-      "fwci": 2.1892,
-      "citation_percentile": 0.8689,
+      "fwci": 2.1852,
+      "citation_percentile": 0.8686,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
@@ -6783,8 +6783,8 @@
     "10.1097/ccm.0000000000003438": {
       "doi": "10.1097/ccm.0000000000003438",
       "cited_by_count": 22,
-      "fwci": 1.5209,
-      "citation_percentile": 0.8249,
+      "fwci": 1.518,
+      "citation_percentile": 0.8246,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
@@ -7278,8 +7278,8 @@
     "10.1016/j.jcrc.2022.154077": {
       "doi": "10.1016/j.jcrc.2022.154077",
       "cited_by_count": 10,
-      "fwci": 1.034,
-      "citation_percentile": 0.7473,
+      "fwci": 1.0322,
+      "citation_percentile": 0.7468,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
@@ -7683,8 +7683,8 @@
     "10.1097/aln.0000000000004161": {
       "doi": "10.1097/aln.0000000000004161",
       "cited_by_count": 6,
-      "fwci": 0.6884,
-      "citation_percentile": 0.6767,
+      "fwci": 0.6872,
+      "citation_percentile": 0.6761,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": false,
@@ -7728,13 +7728,13 @@
     "10.1016/s2214-109x(22)00366-7": {
       "doi": "10.1016/s2214-109x(22)00366-7",
       "cited_by_count": 4,
-      "fwci": 0.8423,
-      "citation_percentile": 0.7566,
+      "fwci": 0.8359,
+      "citation_percentile": 0.7553,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
       "oa_status": "gold",
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 2,
       "counts_by_year": [
         {
           "year": 2019,
@@ -7953,8 +7953,8 @@
     "10.1590/1806-3713/e20190189": {
       "doi": "10.1590/1806-3713/e20190189",
       "cited_by_count": 6,
-      "fwci": 0.4462,
-      "citation_percentile": 0.6474,
+      "fwci": 0.4423,
+      "citation_percentile": 0.6451,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
@@ -8133,8 +8133,8 @@
     "10.1016/j.envint.2024.108530": {
       "doi": "10.1016/j.envint.2024.108530",
       "cited_by_count": 4,
-      "fwci": 0.6628,
-      "citation_percentile": 0.6628,
+      "fwci": 0.6607,
+      "citation_percentile": 0.6619,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
@@ -9240,13 +9240,13 @@
     "10.1016/j.puhe.2024.10.016": {
       "doi": "10.1016/j.puhe.2024.10.016",
       "cited_by_count": 2,
-      "fwci": 0.5188,
-      "citation_percentile": 0.6879,
+      "fwci": 0.5175,
+      "citation_percentile": 0.6873,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": false,
       "oa_status": "closed",
-      "countries_distinct_count": 2,
+      "countries_distinct_count": 3,
       "counts_by_year": [
         {
           "year": 2019,
@@ -9376,7 +9376,7 @@
       "doi": "10.1016/j.resuscitation.2019.12.041",
       "cited_by_count": 1,
       "fwci": 0,
-      "citation_percentile": 0.0126,
+      "citation_percentile": 0.0125,
       "is_top_1_percent": false,
       "is_top_10_percent": false,
       "is_oa": true,
