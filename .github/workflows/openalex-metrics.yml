@@ -39,6 +39,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/openalex_metrics.json content/publication_all/
+          git add assets/openalex_metrics.json assets/openalex_summary.json content/publication_all/
           git diff --cached --quiet || git commit -m "chore: refresh OpenAlex citation metrics [skip ci]"
           git push
