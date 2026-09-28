@@ -7,6 +7,10 @@ on:
   # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
+  # Redeploy after the weekly OpenAlex metrics refresh
+  workflow_run:
+    workflows: ["Refresh OpenAlex metrics"]
+    types: [completed]
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
@@ -23,7 +27,10 @@ concurrency:
 jobs:
   # Build website
   build:
-    if: github.repository_owner != 'HugoBlox'
+    if: >-
+      github.repository_owner != 'HugoBlox' &&
+      (github.event_name != 'workflow_run' ||
+       github.event.workflow_run.conclusion == 'success')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
