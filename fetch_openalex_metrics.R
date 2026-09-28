@@ -224,7 +224,9 @@ patch_frontmatter <- function(path, m) {
     lines <- replace_field(lines, "fwci",      round(m$fwci, 2))
     lines <- replace_field(lines, "oa_status", paste0('"', m$oa_status, '"'))
     lines <- add_or_replace_field(lines, "is_top_1_percent",  tolower(as.character(isTRUE(m$is_top_1_percent))))
-    lines <- add_or_replace_field(lines, "is_top_10_percent", tolower(as.character(isTRUE(m$is_top_10_percent))))    
+    lines <- add_or_replace_field(lines, "is_top_10_percent", tolower(as.character(isTRUE(m$is_top_10_percent))))
+    if (!is.null(m$countries_distinct_count) && !is.na(m$countries_distinct_count))
+        lines <- replace_field(lines, "countries", as.integer(m$countries_distinct_count))
     writeLines(lines, path, useBytes = TRUE)
     invisible(TRUE)
 }
