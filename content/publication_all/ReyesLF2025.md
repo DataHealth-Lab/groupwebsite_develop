@@ -15,7 +15,7 @@ date: "2025-01-26"
 pub_keys: [pneumonia]
 show_metrics: true
 oa_status: "gold"
-fwci: 2.93
+fwci: 2.89
 citations: 4
 countries: 15
 is_top_10_percent: false

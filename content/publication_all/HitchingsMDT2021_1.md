@@ -13,8 +13,8 @@ date: "2021-09-01"
 pub_keys: [covid]
 show_metrics: true
 oa_status: "gold"
-fwci: 10.18
-citations: 170
+fwci: 10.07
+citations: 169
 countries: 3
 is_top_10_percent: true
 is_top_1_percent: false

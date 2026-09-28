@@ -16,7 +16,7 @@ date: "2024-07-04"
 pub_keys: [covid, vaccine]
 show_metrics: true
 oa_status: "gold"
-fwci: 1.6
+fwci: 1.58
 citations: 4
 countries: 3
 is_top_10_percent: false

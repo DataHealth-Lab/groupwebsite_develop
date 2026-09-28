@@ -15,7 +15,7 @@ date: "2024-04-01"
 pub_keys: [covid, critical care]
 show_metrics: true
 oa_status: "closed"
-fwci: 0.5
+fwci: 0.49
 citations: 3
 countries: 3
 is_top_10_percent: false

@@ -15,7 +15,7 @@ date: "2022-07-01"
 pub_keys: [covid]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 7.19
+fwci: 7.12
 citations: 63
 countries: 7
 is_top_10_percent: true

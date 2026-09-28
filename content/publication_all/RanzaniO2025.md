@@ -13,7 +13,7 @@ date: "2025-12-13"
 pub_keys: [covid, vaccine]
 show_metrics: true
 oa_status: "gold"
-fwci: 1.97
+fwci: 1.94
 citations: 3
 countries: 3
 is_top_10_percent: false
