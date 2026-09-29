@@ -28,17 +28,17 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Cardio-Respiratory Physioterapy
+  - Cardio-Respiratory Physiotherapy
   - Critical Care
   - Innovation
 
 education:
   courses:
-    - course: MSc in Thoracic Physioterapy
+    - course: MSc in Thoracic Physiotherapy
       institution: Escoles Universitàries Gimbernat i Tomàs Cerdà (UAB)
       year: 2021
-    - course: Physioterapy
-      institution: Universitat International de Catalunya
+    - course: Physiotherapy
+      institution: Universitat Internacional de Catalunya
       year: 2009
 
 

@@ -33,7 +33,6 @@ user_groups:
 ---
 ## Master output
 <a href="https://www.atsjournals.org/doi/10.1513/AnnalsATS.201910-781OC?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed" target="_blank">"Association of Sepsis Diagnosis at Daytime and on Weekdays with Compliance with the 3-Hour Sepsis Treatment Bundles. A Multicenter Cohort Study"</a>
-</p>
 
 
 ## Awards

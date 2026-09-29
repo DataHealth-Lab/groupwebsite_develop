@@ -23,7 +23,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Oncology
@@ -76,11 +76,11 @@ weight: 4
 ---
 
 
-## Phd output
+## PhD output
 <a href="https://www.nature.com/articles/s41467-024-49285-y" target="_blank">"Effectiveness of COVID-19 vaccines against severe COVID-19 among patients with cancer in Catalonia, Spain"</a>
 
-## Phd output
+## PhD output
 <a href="https://linkinghub.elsevier.com/retrieve/pii/S2667-193X(24)00082-6" target="_blank">"Effectiveness of the fourth dose of COVID-19 vaccines against severe COVID-19 among adults 40 years or older in Brazil: a population-based cohort study"</a>
 
-## Phd output
+## PhD output
 <a href="https://publications.ersnet.org/content/book/monograph/978-1-84984-182-5/part/part_1/chapter/chapter_6" target="_blank">"Vaccination against COVID-19 in a post-pandemic era"</a>

@@ -36,11 +36,11 @@ education:
     - course: MSc In Bioinformatics And Biostatistics
       institution: Universitat Oberta de Catalunya (UOC-UB)
       year: ongoing
-    - course: MSc in Thoracic Physioterapy
+    - course: MSc in Thoracic Physiotherapy
       institution: Escoles Universitàries Gimbernat i Tomàs Cerdà (UAB)
       year: 2021
-    - course: BSc in Physioterapy
-      institution: Universitat Ramon Llull (URB)
+    - course: BSc in Physiotherapy
+      institution: Universitat Ramon Llull (URL)
       year: 2019
 
 # Social/Academic Networking

@@ -72,9 +72,9 @@ user_groups:
   - Alumni
 ---
 
-## Phd output
+## PhD output
 <a href="https://linkinghub.elsevier.com/retrieve/pii/S2667-193X(24)00154-6" target="_blank">"#VacinaMare campaign: addressing vaccine inequity in socially vulnerabilised communities"</a>
 
 
-## Phd output
+## PhD output
 <a href="https://gh.bmj.com/lookup/pmidlookup?view=long&pmid=37253531" target="_blank">"Effectiveness of a multicomponent intervention to face the COVID-19 pandemic in Rio de Janeiro's favelas: difference-in-differences analysis"</a>

@@ -42,7 +42,7 @@ image:
 
 **[Rodrigo Scotini](https://datahealthlab.org/author/rodrigo-scotini/)** joins us as a PhD student at UAB. He brings over a decade of experience in international public health policy, and is currently Executive Director of the Infectious Disease Alliance. His doctoral research focuses on harmonising infectious disease burden and health financing data to identify systematic gaps in investment, building on a One Health approach.
 
-**[Sofia Di Bisceglie](https://datahealthlab.org/author/sofia-di-bisceglie/)** joins us for a 3-month Erasmus+ traineeship, having recently completed her medical degree at Università Vita-Salute San Raffaele, Italy. During her stay she will work on critical care area.
+**[Sofia Di Bisceglie](https://datahealthlab.org/author/sofia-di-bisceglie/)** joins us for a 3-month Erasmus+ traineeship, having recently completed her medical degree at Università Vita-Salute San Raffaele, Italy. During her stay she will work in the critical care area.
 
 Their arrival strengthens the international and interdisciplinary profile of our group, across infectious diseases, climate and health, and health policy.
 

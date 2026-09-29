@@ -8,7 +8,7 @@ date: "2024-10-22"
 # external_link: "https://www.science.org/content/article/breathing-polluted-air-increases-risk-osteoporosis-growing-evidence-shows"
 
 image:
-  caption: Dexmetomedine ICU
+  caption: Dexmedetomidine ICU
   focal_point: smart
 full_image: true
 
@@ -54,7 +54,7 @@ Our scientific publications have been cited in several key documents, including 
 #### 📄 WHO, Expanding our understanding of Post COVID-19 condition (2021)
 
 > Member of the Working Group (WG1), Pathophysiology
-📎 [See Webnar](https://www.who.int/news-room/events/detail/2021/06/15/default-calendar/expanding-our-understanding-of-post-covid-19-condition-webinar-2)
+📎 [See Webinar](https://www.who.int/news-room/events/detail/2021/06/15/default-calendar/expanding-our-understanding-of-post-covid-19-condition-webinar-2)
 
 ---
 

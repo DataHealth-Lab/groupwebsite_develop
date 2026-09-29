@@ -90,3 +90,4 @@ user_groups:
 *I view science as a social construct essential for enhancing and promoting the health and well-being of individuals.*
 
 Full profile: [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/)
+</div>

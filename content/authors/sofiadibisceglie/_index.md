@@ -20,7 +20,7 @@ role: Erasmus+ traineeship
 
 # Organizations/Affiliations
 organizations:
-  - name: U. VITA-SALUTE SAN RAFFELE
+  - name: U. VITA-SALUTE SAN RAFFAELE
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: MD in Medicine
-      institution: UNIVERSITÀ VITA-SALUTE SAN RAFFELE, Italy
+      institution: UNIVERSITÀ VITA-SALUTE SAN RAFFAELE, Italy
       year: 2026
 
 # Social/Academic Networking

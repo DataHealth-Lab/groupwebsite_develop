@@ -73,9 +73,9 @@ user_groups:
 ---
 
 
-## Phd output
+## PhD output
 <a href="https://dx.plos.org/10.1371/journal.pone.0246072" target="_blank">"Noninvasive ventilation in critically ill very old patients with pneumonia: A multicenter retrospective cohort study"</a>
 
 
-## Phd Thesis
+## PhD Thesis
 <a href="https://www.teses.usp.br/teses/disponiveis/5/5169/tde-09112021-095718/publico/BrunoAdlerMaccagnanPinheiroBesenVersaoCorrigida.pdf" target="_blank">"Association between noninvasive ventilation compared to invasive mechanical ventilation and hospital mortality among very elderly patients admitted for pneumonia in intensive care units: retrospective cohort study"</a>

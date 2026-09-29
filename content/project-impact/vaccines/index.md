@@ -39,7 +39,7 @@ Our work spans the full translational spectrum, from methodological innovation a
 - **Implementation Science:** Designed and evaluated large-scale vaccination strategies in vulnerable settings, including the **Vacina Maré initiative** in Rio de Janeiro.  
 - **Policy Engagement:** Contributed evidence used in **national and international decision-making**, including WHO-linked processes.  
 
-{{< figure src="cover_vaccine_lancet.png" title="Two of our vaccine studies were featured on the covers of [The Lancet Regional Health Americas](https://www.thelancet.com/journals/lanam/issue/vol1nonull/PIIS2667-193X(21)X0002-6#) (2022, *left*) and [The Lancet Infections Diseases](https://www.thelancet.com/journals/laninf/issue/vol26no1/PIIS1473-3099(25)X0013-X) (2026, *right*)" lightbox="true" >}}
+{{< figure src="cover_vaccine_lancet.png" title="Two of our vaccine studies were featured on the covers of [The Lancet Regional Health Americas](https://www.thelancet.com/journals/lanam/issue/vol1nonull/PIIS2667-193X(21)X0002-6#) (2022, *left*) and [The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/issue/vol26no1/PIIS1473-3099(25)X0013-X) (2026, *right*)" lightbox="true" >}}
 
 
 
@@ -52,7 +52,7 @@ Our work spans the full translational spectrum, from methodological innovation a
   - Overall evidence from VEBRA-COVID contributed to **emergency use decisions and global policy discussions**, particularly in low- and middle-income countries.
   - Findings were cited in **WHO and national immunization guidelines**, patents, Wikipedia and broadly discussed in the academic and lay media, influencing vaccine deployment strategies worldwide.
 
-{{< figure src="bmj_impact_vaccine.png" title="**BMJ** email showing their reconigtion for our publication as a major policy change" lightbox="true" >}}
+{{< figure src="bmj_impact_vaccine.png" title="**BMJ** email showing their recognition of our publication as a major policy change" lightbox="true" >}}
 
 - **Scientific Breakthrough in Real-World VE:**  
   - Established robust evidence on vaccine performance against **Gamma and Omicron variants**, including booster strategies.  
@@ -63,7 +63,7 @@ Our work spans the full translational spectrum, from methodological innovation a
 
   - Co-led a **community-based mass vaccination campaign** in one of Brazil’s largest favelas.
   - The first phase of the mass vaccination campaign was performed in the 16 slums of Maré. It occurred between July 29 and August 1, 2021, which immunized more than 36,000 residents over the age of 18 in just four days.
-  - Achieved **near-universal vaccine coverage**, demonstrating feasibility of equitable vaccine delivery. 
+  - Achieved **near-universal vaccine coverage**, demonstrating the feasibility of equitable vaccine delivery. 
   - Embedded a test-negative design (TND) [vaccine effectiveness](https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(22)00056-8/fulltext) study, requested by and co-developed with the community to quantify real-world protection and directly address local concerns about vaccine performance. This **community-driven evidence** generation reinforced the campaign during a period of political controversy and rising vaccine hesitancy in Brazil.
   - Generated direct reductions in **cases and transmission**, while strengthening **trust between communities and health systems**.  
   - Became a **model for implementation science in vulnerabilized settings**, integrating civil society, local leaders, and public health authorities.
@@ -76,7 +76,7 @@ Our work spans the full translational spectrum, from methodological innovation a
 <br>  
 - **Next-Generation Vaccines - Dengue:**  
   - First real-world evaluation of **TAK-003 dengue vaccine effectiveness** (*Lancet Infectious Diseases*, 2026). 
-  - Researcher in the **community-based mass vaccination campaign** in the city of Dourados, Brazil (~250,000 inhabitants), for [TAK-003](https://pubmed.ncbi.nlm.nih.gov/40006668/), still on evaluation. 
+  - Researcher in the **community-based mass vaccination campaign** in the city of Dourados, Brazil (~250,000 inhabitants), for [TAK-003](https://pubmed.ncbi.nlm.nih.gov/40006668/), still under evaluation. 
   - Provided critical evidence for **national immunization programs**, particularly in the context of prior safety concerns with dengue vaccines.  
   - Supports safe and evidence-based deployment in endemic regions.  
 
@@ -128,6 +128,6 @@ Batista-da-Silva AA, Bastos LSL, ..., <strong>Ranzani OT</strong>. (2024) *#Vaci
 
 Hitchings MDT, Lewnard JA, ..., <strong>Ranzani OT,</strong> ..., Cummings DAT. (2022). *Use of Recently Vaccinated Individuals to Detect Bias in Test-Negative Case-Control Studies of COVID-19 Vaccine Effectiveness.* Epidemiology. 33(4):450-456. doi: [10.1097/EDE.0000000000001484](https://doi.org/10.1097/EDE.0000000000001484).  
 
-<strong>Ranzani OT*,</strong> Hitchings MDT*, Dorion M, et al. (2021). *Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study.* BMJ. 374:n2015. doi: [10.1136/bmj.n2015](https://doi.org/110.1136/bmj.n2015).  
+<strong>Ranzani OT*,</strong> Hitchings MDT*, Dorion M, et al. (2021). *Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study.* BMJ. 374:n2015. doi: [10.1136/bmj.n2015](https://doi.org/10.1136/bmj.n2015).  
 
 ---

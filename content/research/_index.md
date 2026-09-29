@@ -40,7 +40,7 @@ sections:
             }
           }
         </style>
-        <div class="banner-title">Where we think on challenges to solve</div>
+        <div class="banner-title">Where we think about challenges to solve</div>
       text: |
         <div style="position: relative;">
           <div class="photo-credit">

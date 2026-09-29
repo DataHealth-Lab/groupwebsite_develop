@@ -24,7 +24,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Infectious Disease
@@ -77,4 +77,3 @@ user_groups:
 
 ## Fellow output
 <a href="https://linkinghub.elsevier.com/retrieve/pii/S0033-3506(24)00427-X" target="_blank">"The burden, clinical features and outcomes of SARS-CoV-2, Influenza and co-infections during concurrently out-of-season outbreaks in Brazil"</a>
-</p>

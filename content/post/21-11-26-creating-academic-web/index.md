@@ -42,7 +42,7 @@ These websites served as valuable inspiration for design, structure, and content
 
 Automated publication management tools I plan to explore:
 
-- [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter) for Academic File Converter from BibTex
+- [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter) for Academic File Converter from BibTeX
 - [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser)
 
 ---

@@ -10,4 +10,4 @@ image:
 
 <!--more-->
 
-Otavio has been an Associated Editor of Intensive Care Medicine (ICM) for many years and presented his experience and knowledge at the ICM Boot at LIVES2024.
+Otavio has been an Associate Editor of Intensive Care Medicine (ICM) for many years and presented his experience and knowledge at the ICM Booth at LIVES2024.

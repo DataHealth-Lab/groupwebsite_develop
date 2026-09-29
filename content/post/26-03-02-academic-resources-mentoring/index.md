@@ -16,7 +16,7 @@ This is under construction.
 
 ## 🔍 Inspirations
 
-These researchers and academic websites served as valuable source:
+These researchers and academic websites served as valuable sources:
 
 <!-- This text will not appear in the final document -->
 

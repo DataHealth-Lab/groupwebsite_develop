@@ -1,7 +1,7 @@
 ---
 title: PhD Thesis Prize to Amanda Batista
 date: 2025-10-17
-summary: Amanda was a former PhD student from our lab and won the Best Thesis Prize for her area
+summary: Amanda, a former PhD student from our lab, won the Best Thesis Prize for her area
 
 image:
   filename: featured.jpg
@@ -11,7 +11,7 @@ image:
 <!--more-->
 
 {{< figure src="amanda_batista_phd_prize.png" 
-title="Amanda holding her prize at the <br> 45th National Meeting on Production Engineering cerimony" 
+title="Amanda holding her prize at the <br> 45th National Meeting on Production Engineering ceremony" 
 lightbox="true" width="300" height="200">}}
 
 
@@ -23,5 +23,5 @@ Amanda defended her thesis, "Preparedness for Public Health Emergencies: The COV
 
 This recognition from ABEPRO adds to a growing list of honors Amanda has received for her doctoral work, including the Best Social and Engagement Action Award at PUC-Rio and a travel award to present her research at the international conference [Pandemic Sciences 2024](https://www.psi.ox.ac.uk/news-and-opinion/international-pandemic-sciences-conference-2024-concludes-with-record-breaking-attendance-and-global-impact).
 
-Congratulations, Amanda, for this outstanding achievement — a testament to your dedication, impactful research, and commitment to bridging science and social action.
+Congratulations, Amanda, on this outstanding achievement — a testament to your dedication, impactful research, and commitment to bridging science and social action.
 We are proud to have you as part of our team at the DataHealth Lab! 👏
