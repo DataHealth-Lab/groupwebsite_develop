@@ -58,7 +58,7 @@ Photo by [Redes da Maré](https://www.flickr.com/photos/redesmare/albums/7215771
 ---
 
 ### ![Floods Brazil](/media/flood_brazil.jpg)  
-**Major Flooding Disaster in South of Brazil, 2024**  
+**Major Flooding Disaster in Southern Brazil, 2024**  
 Photo by [Tarsila Vieceli](https://datahealthlab.org/author/tarsila-vieceli/)  
 
 <div style="background-color: #f5f5f5; padding: 1rem; margin: 1rem 0; border-radius: 4px;">
@@ -86,7 +86,7 @@ eFigure 8 by [Ranzani OT. et al. Long-term survival and cause-specific mortality
 ---
 ### ![Beach Sardinia Climate](/media/sardegna_beach_science.png)  
 **Sardinia, Summer 2025**  
-Photo by [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/) in Tuerredda Beach, Italy  
+Photo by [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/) at Tuerredda Beach, Italy  
 
 
 <div style="background-color: #f5f5f5; padding: 1rem; margin: 1rem 0; border-radius: 4px;">

@@ -73,7 +73,7 @@ user_groups:
 weight: 5
 ---
 
-## Master of Clinical Research International Health
+## Master in Clinical Research – International Health
 
 
 ## MSc Dissertation

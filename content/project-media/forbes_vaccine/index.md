@@ -1,7 +1,7 @@
 ---
 title: The World's Vaccine Capital
 summary: "
-Interview for **The Forbes** on the successful COVID-19 campaign vaccination in São Paulo."
+Interview for **Forbes** on the successful COVID-19 vaccination campaign in São Paulo."
 tags: ['Press']
 date: "2022-01-23"
 

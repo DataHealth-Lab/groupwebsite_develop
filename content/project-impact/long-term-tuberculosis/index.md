@@ -1,6 +1,6 @@
 ---
 title: Post-Tuberculosis Burden
-summary: "Impact on new research area, Post-TB Lung Disease"
+summary: "Impact on a new research area: Post-TB Lung Disease"
 tags: ['Science', 'Impact']
 date: "2020-03-22"
 
@@ -24,11 +24,11 @@ url_video: ""
 
 ### 📜 Background  
 
-Tuberculosis (TB) is a model of chronic respiratory infection. During my PhD, I conducted **population-based, longitudinal research** on TB in São Paulo State, Brazil (~44 million inhabitants), following patients newly diagnosed between 2010–2015 for over five years.  
+Tuberculosis (TB) is a model of chronic respiratory infection. During my PhD, I conducted **population-based, longitudinal research** on TB in São Paulo State, Brazil (~44 million inhabitants), following patients newly diagnosed between 2010 and 2015 for over five years.  
 
-At the start of Otavio's PhD, **Post-TB Lung Disease** was an emerging field, which has now become **consolidated and is gaining importance**, particularly in quantifying the long-term burden of TB. Using record linkage methods between administrative and health big databases, we quantified **mortality and cause-specific outcomes**, contributing foundational knowledge to this area.  
+At the start of Otavio's PhD, **Post-TB Lung Disease** was an emerging field, which has now become **consolidated and is gaining importance**, particularly in quantifying the long-term burden of TB. Using record linkage methods between administrative and big health databases, we quantified **mortality and cause-specific outcomes**, contributing foundational knowledge to this area.  
 
-We also considered the vulnerable determinants of long-term outcomes of TB, including biological (diabetes and mental diseases), social (homelessness and incarcerated individuals) and health behaviour (alcohol and drug use). In a new evaluation of this research area, our group published an original article tackling some limitations of previous analysis, including better evaluation of socioeconomic confounders, comparing with an individually-matched cohort (instead of using life-tables), including contacts without TB, and reinforced the burden of Post-TB disease.   
+We also considered the determinants of vulnerability in long-term outcomes of TB, including biological (diabetes and mental diseases), social (homelessness and incarceration) and health behaviour (alcohol and drug use). In a new evaluation of this research area, our group published an original article tackling some limitations of previous analyses, including better evaluation of socioeconomic confounders, comparing with an individually-matched cohort (instead of using life-tables), including contacts without TB, and reinforcing the evidence on the burden of Post-TB disease.   
 
 ---
 

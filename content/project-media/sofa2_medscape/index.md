@@ -1,7 +1,7 @@
 ---
 title: SOFA-2 impact in ICUs
 summary: "
-Interviewed at the portal **Medscape Global** about the use of SOFA-2 score in the daily activities of critical care units."
+Interviewed by the portal **Medscape Global** about the use of the SOFA-2 score in the daily activities of critical care units."
 tags: ['Journals']
 date: "2025-12-24"
 

@@ -76,7 +76,7 @@ weight: 3
 ---
 
 ## Profile  
-I finished my Ph.D. in Statistics at the University of São Paulo (USP-ESALQ) in 2025 and during my doctoral studies, I completed a research visit as a visiting scholar at Hasselt University (Belgium), where I joined the Interuniversity Institute for Biostatistics and Statistical Bioinformatics (I-BioStat) to advance my research on mixed-effects statistical methodologies.  
+I finished my Ph.D. in Statistics at the University of São Paulo (USP-ESALQ) in 2025. During my doctoral studies, I completed a research visit as a visiting scholar at Hasselt University (Belgium), where I joined the Interuniversity Institute for Biostatistics and Statistical Bioinformatics (I-BioStat) to advance my research on mixed-effects statistical methodologies.  
 
 I hold an M.Sc. in Biostatistics (2020) and a B.Sc. in Mathematics (2017), both from the State University of Maringá. My academic trajectory reflects a sustained commitment to advancing statistical knowledge across multiple disciplines. I have authored over 50 peer-reviewed publications covering interdisciplinary topics (see my [Lattes CV](http://lattes.cnpq.br/0979747665756033) and [ORCID](https://orcid.org/0000-0002-8322-9235)).
 

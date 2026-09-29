@@ -73,4 +73,4 @@ user_groups:
 weight: 4
 ---
 
-I completed a Master’s degree in Analytics and am currently pursuing a PhD focused on antimicrobial prescribing patterns in ICUs in low and middle income countries (LMICs). As an early career researcher, my experience has progressively evolved toward data-driven research design and analysis, particularly within acute and critical care settings in LMICs. My work spans statistical modelling and AI driven methods, supported by solid programming expertise across diverse languages and data systems.
+I completed a Master’s degree in Analytics and am currently pursuing a PhD focused on antimicrobial prescribing patterns in ICUs in low- and middle-income countries (LMICs). As an early career researcher, my experience has progressively evolved toward data-driven research design and analysis, particularly within acute and critical care settings in LMICs. My work spans statistical modelling and AI-driven methods, supported by solid programming expertise across diverse languages and data systems.

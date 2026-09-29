@@ -62,7 +62,7 @@ Our work spans the full translational spectrum, from methodological innovation a
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/redesmare/52320325064/in/album-72157719586288512" title="Seminário Vacina Maré"><img src="https://live.staticflickr.com/65535/52320325064_fb11846135_k.jpg" width="2048" height="923" alt="Seminário Vacina Maré"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
   - Co-led a **community-based mass vaccination campaign** in one of Brazil’s largest favelas.
-  - The first phase of the mass vaccination campaign was performed in the 16 slums of Maré. It occurred between July 29 and August 1, 2021, which immunized more than 36,000 residents over the age of 18 in just four days.
+  - The first phase of the mass vaccination campaign was performed in the 16 slums of Maré. It occurred between July 29 and August 1, 2021, and vaccinated more than 36,000 residents over the age of 18 in just four days.
   - Achieved **near-universal vaccine coverage**, demonstrating the feasibility of equitable vaccine delivery. 
   - Embedded a test-negative design (TND) [vaccine effectiveness](https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(22)00056-8/fulltext) study, requested by and co-developed with the community to quantify real-world protection and directly address local concerns about vaccine performance. This **community-driven evidence** generation reinforced the campaign during a period of political controversy and rising vaccine hesitancy in Brazil.
   - Generated direct reductions in **cases and transmission**, while strengthening **trust between communities and health systems**.  
@@ -84,7 +84,7 @@ Our work spans the full translational spectrum, from methodological innovation a
 
 ### 🤝 Global Collaborative Network  
 
-This work was conducted through a **multinational research network**, integrating academic institutions, public health agencies, and local stakeholders, always with active collaboration with PAHO, Brazilian Ministry of Health, State and Municipal Health Secretaries.
+This work was conducted through a **multinational research network**, integrating academic institutions, public health agencies, and local stakeholders, always in active collaboration with PAHO, the Brazilian Ministry of Health, and State and Municipal Health Secretariats.
 
 For instance, we are leading partners on the **VEBRA** Research Network on Vaccines.
 
