@@ -1,7 +1,7 @@
 ---
-title: Research themes, a topic map of our publications
+title: "Our research fingerprint: a topic map of our publications"
 date: 2026-09-24
-summary: Our publication landscape mapped through OpenAlex topic classifications.
+summary: Our research fingerprint, mapped through OpenAlex topic classifications.
 image:
   filename: featured.jpg
   preview_only: true
