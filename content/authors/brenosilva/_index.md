@@ -26,7 +26,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Statistical Modeling
+  - Statistical Modelling
   - Biostatistics
   - Computational Statistics
 

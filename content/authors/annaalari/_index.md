@@ -28,7 +28,7 @@ organizations:
 interests:
   - Infectious diseases epidemiology
   - Climate change
-  - Environmental Exposures 
+  - Environmental exposures 
   
 education:
   courses:
@@ -77,4 +77,4 @@ weight: 3
 ---
 
 ## Profile  
-Dr. Anna Alari, PhD, is a postdoctoral fellow with expertise in the health impacts of environmental exposures. She earned her PhD in infectious diseases from the Pasteur Institute in France before shifting her research focus to evaluating the health burden of environmental factors. She gained postdoctoral experience at INSERM (France), the University of San Diego (USA) and the Barcelona Institute for Global Health (ISGlobal, Spain). Her research interests center on the effects of climate change and air pollution on human health, with a particular focus on understanding the environmental drivers of infectious diseases
+Dr. Anna Alari, PhD, is a postdoctoral fellow with expertise in the health impacts of environmental exposures. She earned her PhD in infectious diseases from the Pasteur Institute in France before shifting her research focus to evaluating the health burden of environmental factors. She gained postdoctoral experience at INSERM (France), the University of San Diego (USA) and the Barcelona Institute for Global Health (ISGlobal, Spain). Her research interests centre on the effects of climate change and air pollution on human health, with a particular focus on understanding the environmental drivers of infectious diseases

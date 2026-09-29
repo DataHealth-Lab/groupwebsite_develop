@@ -33,7 +33,7 @@ interests:
 
 education:
   courses:
-    - course: MSc In Bioinformatics And Biostatistics
+    - course: MSc in Bioinformatics and Biostatistics
       institution: Universitat Oberta de Catalunya (UOC-UB)
       year: ongoing
     - course: MSc in Thoracic Physiotherapy

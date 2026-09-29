@@ -10,7 +10,7 @@ image:
 This is under construction.
 
 <!--
-# Building the **DataHealth Lab** website has been a mix of technical hurdles and rewarding customization. Here's a log of inspirations, resources, and pending ideas.
+# Building the **DataHealth Lab** website has been a mix of technical hurdles and rewarding customisation. Here's a log of inspirations, resources, and pending ideas.
 -->
 <!--more-->
 
@@ -29,17 +29,17 @@ These researchers and academic websites served as valuable sources:
 - [Ipea Access Opportunities](https://www.ipea.gov.br/acessooportunidades/en/) – Project structure
 - [Allan Lab](https://www.allanlab.org/publications/) – Publications and team sections
 - [YX Liu Group](https://www.yxliu.group/) – Clean and highly functional lab site
-- [Gökçin Çınar](https://www.gokcincinar.com/) – Customized, elegant research group layout
+- [Gökçin Çınar](https://www.gokcincinar.com/) – Customised, elegant research group layout
 - [Parra Lab](https://parralab.netlify.app/) – Started an academic group website with same template temporally similar to ours
 - [Deep Policy Lab](https://deeppolicylab.github.io/research.html) – Beautiful research layout (using Quarto)
 - [Prof. Masiello, UW](https://faculty.washington.edu/masiello/) – Quarto inspiration
-- [Jason Helvy](https://www.jhelvy.com/about) – Quarto inspiration
+- [John Paul Helveston](https://www.jhelvy.com/about) – Quarto inspiration
 - [Tiago Zortea](https://tzcorda.github.io/) – Quarto inspiration
 -->
 
 ---
 
-## 🛠 Research group Culture
+## 🛠 Research Group Culture
 
 - [A supportive research group culture](https://www.nature.com/articles/s41562-026-02407-6)
 

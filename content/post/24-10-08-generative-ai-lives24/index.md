@@ -1,7 +1,7 @@
 ---
 title: Otavio Ranzani presents AI in Publishing at LIVES 2024
 date: 2024-10-08
-summary: "With an engaged audience, Otavio shared insights on generative AI and publishing during LIVES2024."
+summary: "With an engaged audience, Otavio shared insights on generative AI and publishing during LIVES 2024."
 
 image:
   filename: featured.jpg
@@ -10,4 +10,4 @@ image:
 
 <!--more-->
 
-Otavio has been an Associate Editor of Intensive Care Medicine (ICM) for many years and presented his experience and knowledge at the ICM Booth at LIVES2024.
+Otavio has been an Associate Editor of Intensive Care Medicine (ICM) for many years and presented his experience and knowledge at the ICM Booth at LIVES 2024.

@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:

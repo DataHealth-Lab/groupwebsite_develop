@@ -34,7 +34,7 @@ image:
 
 🎉 This September we are delighted to welcome five new members to the DataHealth Lab!
 
-**[Abrar Jamal](https://datahealthlab.org/author/abrar-jamal/)** joins as a PhD student at UAB. He holds a Master's degree from Kuwait University and has professional experience in public health surveillance and vaccination campaigns. His doctoral research will focus on vaccine coverage, uptake and hesitancy.
+**[Abrar Jamal](https://datahealthlab.org/author/abrar-jamal/)** joins as a PhD student at UAB. He holds a Master's degree in Environmental and Occupational Health from Kuwait University and has professional experience in public health surveillance and vaccination campaigns. His doctoral research will focus on vaccine coverage, uptake and hesitancy.
 
 **[Dr. Anna Alari](https://datahealthlab.org/author/anna-alari/)** joins as a Postdoctoral Researcher to work on the project *Protecting Respiratory Health in Catalonia: Climate, Pollution, and Patient Perspectives* (PRISMA-CAT), funded by [La Marató de 3Cat](https://www.3cat.cat/tv3/marato/es/projectes-financats/2024/3330/). She has expertise in the health impacts of environmental exposures and previous postdoctoral experience at INSERM, UC San Diego and ISGlobal, with a focus on climate change, air pollution and the environmental drivers of infectious diseases.
 

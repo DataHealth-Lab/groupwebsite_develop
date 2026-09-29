@@ -33,7 +33,7 @@ education:
       year: 2018
     - course: MSc in Epidemiology
       institution: London School of Hygiene & Tropical Medicine (LSHTM)
-      year: 2014
+      year: 2015
     - course: MD in Medicine
       institution: University of São Paulo, Brazil
       year: 2008
@@ -103,7 +103,7 @@ I completed a Research Fellowship (ERS, 2016) at Hospital Clinic, Barcelona, and
 
 I am the **Principal Investigator** of the [DataHealth Lab](https://datahealthlab.org), where I supervise undergraduates, Master's and PhD students, postdocs, and junior researchers. My group receives support from competitive funding, including national and international grants and we are actively involved in international networks.
 
-Our work has informed [policy discussions](https://datahealthlab.org/impact/) on severe infections, air pollution, vaccines, and health systems. I serve as Associate Editor for a leading journal in Critical Care and contribute to teaching at postgraduate programs in epidemiology and global health.
+Our work has informed [policy discussions](https://datahealthlab.org/impact/) on severe infections, air pollution, vaccines, and health systems. I serve as Associate Editor for a leading journal in Critical Care and contribute to teaching at postgraduate programmes in epidemiology and global health.
 
 </div>
 

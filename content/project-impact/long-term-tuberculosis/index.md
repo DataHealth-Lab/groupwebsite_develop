@@ -24,7 +24,7 @@ url_video: ""
 
 ### 📜 Background  
 
-Tuberculosis (TB) is a model of chronic respiratory infection. During my PhD, I conducted **population-based, longitudinal research** on TB in São Paulo State, Brazil (~44 million inhabitants), following patients newly diagnosed between 2010 and 2015 for over five years.  
+Tuberculosis (TB) is a model of chronic respiratory infection. During his PhD, Otavio conducted **population-based, longitudinal research** on TB in São Paulo State, Brazil (~44 million inhabitants), following patients newly diagnosed between 2010 and 2015 for over five years.  
 
 At the start of Otavio's PhD, **Post-TB Lung Disease** was an emerging field, which has now become **consolidated and is gaining importance**, particularly in quantifying the long-term burden of TB. Using record linkage methods between administrative and big health databases, we quantified **mortality and cause-specific outcomes**, contributing foundational knowledge to this area.  
 
@@ -32,11 +32,11 @@ We also considered the determinants of vulnerability in long-term outcomes of TB
 
 ---
 
-### 🔬 My Contribution  
+### 🔬 Otavio's Contribution  
 
 - **Big Data Integration:** Linked multiple big databases to track TB patients longitudinally.  
 - **Study Design & Analysis:** Led the design, statistical analysis, and interpretation of long-term outcomes.  
-- **Publications & Dissemination:** First author on a landmark Lancet Infect Dis study, plus three additional TB articles from my thesis.  
+- **Publications & Dissemination:** First author on a landmark Lancet Infect Dis study, plus three additional TB articles from his thesis.  
 
 ---
 
@@ -44,7 +44,7 @@ We also considered the determinants of vulnerability in long-term outcomes of TB
 
 - Provided **robust evidence on long-term mortality** after TB.  
 - Contributed to the **consolidation of Post-TB Lung Disease as an important research area**, particularly in quantifying its burden.  
-- Influenced **national TB program strategies**, including recommendations for post-TB patient care.  
+- Influenced **national TB programme strategies**, including recommendations for post-TB patient care.  
 - Findings cited in **Post-TB Lung Disease guidelines** and discussed in **national/international media**.  
 - Advanced understanding of **determinants, prognostic biomarkers, and potential mitigation strategies** for post-TB sequelae.  
 

@@ -32,12 +32,15 @@ interests:
   
 education:
   courses:
-    - course: Master of Public Health
+    - course: MSc in Environmental and Occupational Health
       institution: Kuwait University, Kuwait
       year: 2025
-    - course: BSc  Environmental Health Science
-      institution: University of Peradeniya, Sri Lanka
+    - course: BSc in Environmental Science
+      institution: The Public Authority for Applied Education and Training (PAAET), Kuwait
       year: 2011
+    - course: Diploma in Environmental Health
+      institution: The Public Authority for Applied Education and Training (PAAET), Kuwait
+      year: 2001
 
 
 # Social/Academic Networking
@@ -76,5 +79,5 @@ user_groups:
 weight: 4
 ---
 
-PhD scholarship student at the Autonomous University of Barcelona (UAB), pursuing doctoral research in biomedical research methodology and public health. A Master's degree in Environmental and Occupational Health was earned at Kuwait University (KU), where research was published as "Bacterial Contamination in Dental Unit Water Lines at Primary Health Care Centres (2022–2023): A Nationwide Study." A Bachelor's degree in Environmental Health Science was completed at the Public Authority for Applied Education and Training (PAAET).
+PhD scholarship student at the Autonomous University of Barcelona (UAB), pursuing doctoral research in biomedical research methodology and public health. A Master's degree in Environmental and Occupational Health was earned at Kuwait University (KU), where research was published as "Bacterial Contamination in Dental Unit Water Lines at Primary Health Care Centres (2022–2023): A Nationwide Study." A Bachelor's degree in Environmental Science was completed at the Public Authority for Applied Education and Training (PAAET).
 Professional experience spans preventive health inspection, water and food safety sampling, chronic disease surveillance, vaccination and implementation of public health campaigns

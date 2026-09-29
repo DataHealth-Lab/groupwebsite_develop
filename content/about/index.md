@@ -11,9 +11,9 @@ sections:
       text: |
         The  <span style="color: #009E73; font-weight: 600;">DataHealth Lab</span> is a research group dedicated to producing **high-quality**, **policy-relevant science** that addresses today's most pressing health challenges. We work across Epidemiology, Data Science, Clinical Research, and Implementation Science, with special attention to vulnerable populations and the systems shaping their lives.    
         
-        Founded and led by [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/), the lab is grounded in a commitment to scientific rigour, openness, and equity (our values below). [Our work](https://datahealthlab.org/research) focuses on <span style="color: #009E73; font-weight: 600;">acute systemic stressors</span>, particularly infections and environmental exposures, and their biological and structural consequences for acute clinical decompensation and health systems. Through this lens, we integrate critical care science, climate and environmental health, emerging infections, and health system organization to generate evidence that is both **methodologically sound** and **socially meaningful**.  
+        Founded and led by [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/), the lab is grounded in a commitment to scientific rigour, openness, and equity (our values below). [Our work](https://datahealthlab.org/research) focuses on <span style="color: #009E73; font-weight: 600;">acute systemic stressors</span>, particularly infections and environmental exposures, and their biological and structural consequences for acute clinical decompensation and health systems. Through this lens, we integrate critical care science, climate and environmental health, emerging infections, and health system organisation to generate evidence that is both **methodologically sound** and **socially meaningful**.  
         
-        We **collaborate** across disciplines and borders, employing different tools, from randomized trials to causal inference and artificial intelligence. Whether uncovering biological mechanisms or informing policy decisions, we transform complex data into evidence that improves clinical outcomes and system preparedness.
+        We **collaborate** across disciplines and borders, employing different tools, from randomised trials to causal inference and artificial intelligence. Whether uncovering biological mechanisms or informing policy decisions, we transform complex data into evidence that improves clinical outcomes and system preparedness.
         
         Though early in our journey, we've secured funding from national and international agencies, led high-tier, highly cited [publications](https://datahealthlab.org/publication) (*Lancet*, *JAMA*, *BMJ*, etc.), and contributed to community [impact](https://datahealthlab.org/impact) and advances in scientific methods and knowledge.
 
@@ -63,7 +63,7 @@ sections:
             </div>
             <div class="col-md-4 mb-4 text-center">
               <div style="font-size: 2rem;">🌍</div>
-              <h5>Decolonize Global Health</h5>
+              <h5>Decolonise Global Health</h5>
               <p>Working to deconstruct colonial narratives in global health practice and research.</p>
             </div>
             <div class="col-md-4 mb-4 text-center">
@@ -80,9 +80,9 @@ sections:
       title: "IR Sant Pau"
       subtitle: "A creative, innovative, multidisciplinary campus"
       text: |
-        Established in 1992, the [Research Institute](https://www.recercasantpau.cat/en/) at Sant Pau Campus is a leading biomedical hub dedicated to advancing health through cutting-edge science. Affiliated with the Autonomous University of Barcelona ([UAB](https://en.wikipedia.org/wiki/Autonomous_University_of_Barcelona)) since 2009 and integrated into the [CERCA](https://en.wikipedia.org/wiki/CERCA_Institute) system of Catalan research centers since 2011, <span style="color: #d32f2f; font-weight: 600;">IR SANT PAU</span> fosters a collaborative ecosystem where researchers conduct groundbreaking translational work spanning basic, epidemiological and clinical science through to real-world applications.
+        Established in 1992, the [Research Institute](https://www.recercasantpau.cat/en/) at Sant Pau Campus is a leading biomedical hub dedicated to advancing health through cutting-edge science. Affiliated with the Autonomous University of Barcelona ([UAB](https://en.wikipedia.org/wiki/Autonomous_University_of_Barcelona)) since 2009 and integrated into the [CERCA](https://en.wikipedia.org/wiki/CERCA_Institute) system of Catalan research centres since 2011, <span style="color: #d32f2f; font-weight: 600;">IR SANT PAU</span> fosters a collaborative ecosystem where researchers conduct groundbreaking translational work spanning basic, epidemiological and clinical science through to real-world applications.
 
-        The campus comprises the historic [Hospital de Sant Pau](https://en.wikipedia.org/wiki/Hospital_de_Sant_Pau), a six-century-old medical landmark, the [Cochrane Iberoamerican Centre](https://es.cochrane.org/en), [Primary Care](https://www.recercasantpau.cat/en/area/epidemiology-public-health-and-primary-care/) centers, Barcelona Public Health Agency ([ASPB](https://www.aspb.cat/)), UAB, among others, working together to transform discoveries into patient care.
+        The campus comprises the historic [Hospital de Sant Pau](https://en.wikipedia.org/wiki/Hospital_de_Sant_Pau), a six-century-old medical landmark, the [Cochrane Iberoamerican Centre](https://es.cochrane.org/en), [Primary Care](https://www.recercasantpau.cat/en/area/epidemiology-public-health-and-primary-care/) centres, Barcelona Public Health Agency ([ASPB](https://www.aspb.cat/)), UAB, among others, working together to transform discoveries into patient care.
 
         At the intersection of scientific excellence and innovation, IR SANT PAU trains international scientists while delivering tangible healthcare breakthroughs, embodying its mission to bridge knowledge and wellbeing, and is recognised as one of Catalonia’s most productive research institutions.  
     design:

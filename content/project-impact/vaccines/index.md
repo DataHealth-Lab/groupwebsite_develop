@@ -25,9 +25,9 @@ url_video: ""
 
 Vaccination is one of the most powerful public health interventions. **Real-world effectiveness, population impact, and implementation strategies** are critical to inform policy decisions, particularly during pandemics and emerging outbreaks.  
 
-During the COVID-19 pandemic, rapid and robust evidence on vaccine effectiveness (VE) was urgently needed to guide **global immunization strategies**, emergency authorizations, and public trust. At the same time, implementation in vulnerabilized populations required **context-specific, community-driven approaches**.  
+During the COVID-19 pandemic, rapid and robust evidence on vaccine effectiveness (VE) was urgently needed to guide **global immunisation strategies**, emergency authorisations, and public trust. At the same time, implementation in vulnerabilised populations required **context-specific, community-driven approaches**.  
 
-Our work spans the full translational spectrum, from methodological innovation and large-scale effectiveness studies to direct implementation in vulnerabilized communities. These interventions were developed **horizontally and co-designed with communities and civil society**, engaging stakeholders across multiple levels, including local leaders, politicians, municipal authorities, ministries of health, and academia. This approach was grounded in **best-practice implementation science** frameworks, incorporating principles of patient and public involvement and engagement (PPIE) to ensure acceptability, equity, and sustainability of vaccination strategies.  
+Our work spans the full translational spectrum, from methodological innovation and large-scale effectiveness studies to direct implementation in vulnerabilised communities. These interventions were developed **horizontally and co-designed with communities and civil society**, engaging stakeholders across multiple levels, including local leaders, politicians, municipal authorities, ministries of health, and academia. This approach was grounded in **best-practice implementation science** frameworks, incorporating principles of patient and public involvement and engagement (PPIE) to ensure acceptability, equity, and sustainability of vaccination strategies.  
 
 ---
 
@@ -50,7 +50,7 @@ Our work spans the full translational spectrum, from methodological innovation a
 - **Global Policy and Emergency Use:**  
   - Our landmark studies in *The Lancet Regional Health Americas* and *The BMJ* on CoronaVac were among the **first large-scale real-world evaluations** of an inactivated COVID-19 vaccine. The *BMJ* manuscript had massive dissemination both as a [pre-print](https://medrxiv.altmetric.com/details/106229054) and when [published](https://www.altmetric.com/details/112107472). We presented it at the WHO SAGE Committee and it was one of the main **pillars** supporting the vaccine's emergency authorization, particularly for having data on those aged ≥70 years who were not included in the phase-3 randomized trials. By Jan 2022, CoronaVac (Sinovac) was the [most used vaccine](https://www.nature.com/articles/d41586-022-00079-6) in the world.  
   - Overall evidence from VEBRA-COVID contributed to **emergency use decisions and global policy discussions**, particularly in low- and middle-income countries.
-  - Findings were cited in **WHO and national immunization guidelines**, patents, Wikipedia and broadly discussed in the academic and lay media, influencing vaccine deployment strategies worldwide.
+  - Findings were cited in **WHO and national immunisation guidelines**, patents, Wikipedia and broadly discussed in the academic and lay media, influencing vaccine deployment strategies worldwide.
 
 {{< figure src="bmj_impact_vaccine.png" title="**BMJ** email showing their recognition of our publication as a major policy change" lightbox="true" >}}
 
@@ -66,7 +66,7 @@ Our work spans the full translational spectrum, from methodological innovation a
   - Achieved **near-universal vaccine coverage**, demonstrating the feasibility of equitable vaccine delivery. 
   - Embedded a test-negative design (TND) [vaccine effectiveness](https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(22)00056-8/fulltext) study, requested by and co-developed with the community to quantify real-world protection and directly address local concerns about vaccine performance. This **community-driven evidence** generation reinforced the campaign during a period of political controversy and rising vaccine hesitancy in Brazil.
   - Generated direct reductions in **cases and transmission**, while strengthening **trust between communities and health systems**.  
-  - Became a **model for implementation science in vulnerabilized settings**, integrating civil society, local leaders, and public health authorities.
+  - Became a **model for implementation science in vulnerabilised settings**, integrating civil society, local leaders, and public health authorities.
   - Covered in the [New York Times](https://www.nytimes.com/2023/04/09/opinion/brazil-favelas-pandemic-trust.html)  
 <br>  
 - **Impact on Global Health Institutions:**  
@@ -77,7 +77,7 @@ Our work spans the full translational spectrum, from methodological innovation a
 - **Next-Generation Vaccines - Dengue:**  
   - First real-world evaluation of **TAK-003 dengue vaccine effectiveness** (*Lancet Infectious Diseases*, 2026). 
   - Researcher in the **community-based mass vaccination campaign** in the city of Dourados, Brazil (~250,000 inhabitants), for [TAK-003](https://pubmed.ncbi.nlm.nih.gov/40006668/), still under evaluation. 
-  - Provided critical evidence for **national immunization programs**, particularly in the context of prior safety concerns with dengue vaccines.  
+  - Provided critical evidence for **national immunisation programmes**, particularly in the context of prior safety concerns with dengue vaccines.  
   - Supports safe and evidence-based deployment in endemic regions.  
 
 ---

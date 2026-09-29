@@ -32,7 +32,7 @@ interests:
   
 education:
   courses:
-    - course: MSc in Statistical Methodology in Biomedical Research
+    - course: Master in Public Policy
       institution: Hertie School of Governance, Germany
       year: 2013
     - course: BSc in Psychology 

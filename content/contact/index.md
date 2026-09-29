@@ -28,7 +28,7 @@ sections:
         ### We Support Your Fellowship Applications
   
          If you're interested in applying for your own funding, we <span style="color: #2a5c99; font-weight: 600;">welcome your initiative</span> and provide full institutional support.
-         #### Popular Fellowship Programs:
+         #### Popular Fellowship Programmes:
          - **Marie Skłodowska-Curie Actions** (Postdoctoral Fellowships)  
          - **European Respiratory Society (ERS)** Fellowships  
          - **CAPES PrInt** (Brazilian researchers)  

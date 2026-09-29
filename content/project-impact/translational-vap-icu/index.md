@@ -26,11 +26,11 @@ This work integrated **medicine, engineering, and physics**, challenging a longs
 
 ---
 
-### 🔬 My Contribution  
+### 🔬 Otavio's Contribution  
 
 - **Bench Experiments:** First-author work on in vitro studies using artificial saliva to model secretion dynamics in endotracheal tubes under gravitational influence.  
 - **Animal Models:** Contributed to large-scale porcine models to test different scenarios of VAP prevention and severe VAP treatment.  
-- **Clinical Translation:** Designed and led the analyses for the **GRAVITY-VAP Trial**, a randomized multicenter clinical trial testing these hypotheses in humans.  
+- **Clinical Translation:** Designed and led the analyses for the **GRAVITY-VAP Trial**, a randomised multicentre clinical trial testing these hypotheses in humans.  
 
 The trial was presented in the **Clinical Trials Session at LIVES 2017 (Vienna)**, an acknowledgment reserved for impactful research in intensive care medicine.
 
@@ -40,7 +40,7 @@ The trial was presented in the **Clinical Trials Session at LIVES 2017 (Vienna)*
          alt="GRAVITY-VAP trial" width="600"/>
   </a>
   <figcaption>
-    CO-PIs Drs. Gianluigi Li Bassi and Mauro Panigada being interviewed at LIVES 2017
+    Co-PIs Drs. Gianluigi Li Bassi and Mauro Panigada being interviewed at LIVES 2017
   </figcaption>
 </figure>
 

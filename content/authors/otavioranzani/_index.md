@@ -30,7 +30,7 @@ education:
       year: 2018
     - course: MSc in Epidemiology
       institution: London School of Hygiene & Tropical Medicine (LSHTM)
-      year: 2014
+      year: 2015
     - course: MD in Medicine
       institution: University of São Paulo, Brazil
       year: 2008

@@ -8,7 +8,7 @@ show_table_of_contents: false
 Welcome to our visual archive. Below are the images used throughout our website with proper credits.  
 
 <small>
-Image Usage Terms: All images displayed here are used with permission exclusively for this website. For any other use, please contact the respective photographers directly. Unauthorized reproduction or redistribution is prohibited.
+Image Usage Terms: All images displayed here are used with permission exclusively for this website. For any other use, please contact the respective photographers directly. Unauthorised reproduction or redistribution is prohibited.
 </small>
 
 ---

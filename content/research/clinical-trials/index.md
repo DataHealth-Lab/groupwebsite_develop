@@ -68,7 +68,7 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Stepped-wedge cluster RCT, open-label, multicentre, N = 966 patients (target) &nbsp;·&nbsp;
-      <strong>Role:</strong> CO-PI / Steering Committee / Trialist &nbsp;·&nbsp;
+      <strong>Role:</strong> Co-PI / Steering Committee / Trialist &nbsp;·&nbsp;
       <strong>Setting:</strong> 6 ICUs &nbsp;·&nbsp;
       <strong>Period:</strong> 2026-2028
     </div>
@@ -106,7 +106,7 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
       <span class="trial-pill ongoing">Ongoing</span>
     </div>
     <div class="trial-meta">
-      <strong>Design:</strong> Multicentre, open-label, randomized controlled trial &nbsp;·&nbsp;  <strong>Setting:</strong> 20 centres  &nbsp;·&nbsp; N = 2,800 patients (target) &nbsp;·&nbsp;
+      <strong>Design:</strong> Multicentre, open-label, randomised controlled trial &nbsp;·&nbsp;  <strong>Setting:</strong> 20 centres  &nbsp;·&nbsp; N = 2,800 patients (target) &nbsp;·&nbsp;
       <strong>Role:</strong> Steering Committee / Trialist &nbsp;·&nbsp;
       <strong>Period:</strong> 2024–
     </div>
@@ -147,7 +147,7 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Parallel cluster RCT with baseline period, N = 15,230 patients &nbsp;·&nbsp;
-      <strong>Role:</strong> CO-PI  &nbsp;·&nbsp;
+      <strong>Role:</strong> Co-PI  &nbsp;·&nbsp;
       <strong>Setting:</strong> 30 ICUs &nbsp;·&nbsp; <strong>Period:</strong> 2019-2021
     </div>
     <div class="trial-links">
@@ -387,7 +387,7 @@ We draw on rigorous methodological frameworks, including [Hybrid Effectiveness-I
       <span class="trial-pill completed">Completed</span>
     </div>
     <div class="trial-meta">
-      <strong>Design:</strong> Quality improvement multicenter project, interrupted time series, 10 ICUs, N = 22,963 patients &nbsp;·&nbsp;
+      <strong>Design:</strong> Quality improvement multicentre project, interrupted time series, 10 ICUs, N = 22,963 patients &nbsp;·&nbsp;
       <strong>Role:</strong> Implementation scientist &nbsp;·&nbsp;
       <strong>Setting:</strong> AMIL network, Brazil &nbsp;·&nbsp; <strong>Period:</strong> 2010-2012
     </div>
@@ -439,7 +439,7 @@ As an expert, I have contributed to independent DSMBs, either as chair, trialist
       <span class="trial-pill" style="background:rgba(180,30,30,0.1);color:#a02020;font-size:0.67rem;font-weight:700;padding:2px 9px;border-radius:20px;text-transform:uppercase;letter-spacing:0.06em;">Ongoing</span>
     </div>
     <div class="trial-meta">
-      <strong>Design:</strong> Noninferiority RCT, open-label, multicenter &nbsp;·&nbsp;
+      <strong>Design:</strong> Noninferiority RCT, open-label, multicentre &nbsp;·&nbsp;
       <strong>Setting:</strong> <a href="https://doi.org/10.62675/2965-2774.20250284" target="_blank" rel="noopener">BRICNet</a>  &nbsp;·&nbsp;
 <strong>Condition:</strong> Ventilator-associated tracheobronchitis (ICU) &nbsp;·&nbsp;
       <strong>Period:</strong> 2024-present

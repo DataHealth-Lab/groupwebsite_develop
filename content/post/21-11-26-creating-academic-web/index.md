@@ -7,7 +7,7 @@ image:
   preview_only: true
 ---
 
-Building the **DataHealth Lab** website has been a mix of technical hurdles and rewarding customization. Here's a log of inspirations, resources, and pending ideas.
+Building the **DataHealth Lab** website has been a mix of technical hurdles and rewarding customisation. Here's a log of inspirations, resources, and pending ideas.
 
 <!--more-->
 
@@ -23,11 +23,11 @@ These websites served as valuable inspiration for design, structure, and content
 - [Ipea Access Opportunities](https://www.ipea.gov.br/acessooportunidades/en/) – Project structure
 - [Allan Lab](https://www.allanlab.org/publications/) – Publications and team sections
 - [YX Liu Group](https://www.yxliu.group/) – Clean and highly functional lab site
-- [Gökçin Çınar](https://www.gokcincinar.com/) – Customized, elegant research group layout
+- [Gökçin Çınar](https://www.gokcincinar.com/) – Customised, elegant research group layout
 - [Parra Lab](https://parralab.netlify.app/) – Started an academic group website with the same template, at around the same time as ours
 - [Deep Policy Lab](https://deeppolicylab.github.io/research.html) – Beautiful research layout (using Quarto)
 - [Prof. Masiello, UW](https://faculty.washington.edu/masiello/) – Quarto inspiration
-- [Jason Helvy](https://www.jhelvy.com/about) – Quarto inspiration
+- [John Paul Helveston](https://www.jhelvy.com/about) – Quarto inspiration
 - [Tiago Zortea](https://tzcorda.github.io/) – Quarto inspiration
 
 ---
@@ -53,6 +53,6 @@ Helpful communities and repositories:
 
 - [Hugo Discourse Forum](https://discourse.gohugo.io/)
 - [Wowchemy research community](https://discord.gg/z8wNYzb) on Discord
-- [HugoBlox Research Group Template](https://github.com/HugoBlox/theme-research-group)
+- [Hugo Blox Research Group Template](https://github.com/HugoBlox/theme-research-group)
 - [Hugo Blox Builder](https://github.com/HugoBlox/hugo-blox-builder)
 - [Documentation](https://docs.hugoblox.com/) - many links from the sources are broken, since they refer to the old Wowchemy documentation

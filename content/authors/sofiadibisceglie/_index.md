@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Erasmus+ traineeship
+role: Erasmus+ Trainee
 
 # Organizations/Affiliations
 organizations:

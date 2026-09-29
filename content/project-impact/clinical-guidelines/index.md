@@ -42,8 +42,8 @@ Our scientific publications have been cited in several key documents, including 
 
 - 10 articles were cited in 31 Patents (source: [lens.org](https://www.lens.org/lens/orcid/0000-0002-4677-6862))
 - 45 articles were cited in 105 Policy Documents (source: [overton.io](https://www.overton.io/))
-- 09 articles were cited in 09 Guidelines (source: Dimensions)
-- 03 articles were cited in 09 Wikipedia entries (source: Dimensions)
+- 9 articles were cited in 9 guidelines (source: Dimensions)
+- 3 articles were cited in 9 Wikipedia entries (source: Dimensions)
 
 ---
 

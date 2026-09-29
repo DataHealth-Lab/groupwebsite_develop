@@ -71,5 +71,5 @@ user_groups:
   - Alumni
 ---
 
-## Fellow output:
+## Fellow output
 <a href="https://dx.plos.org/10.1371/journal.pmed.1004079" target="_blank">"Urban-rural differences in hypertension prevalence in low-income and middle-income countries, 1990-2020: A systematic review and meta-analysis"</a>

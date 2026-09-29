@@ -1,7 +1,7 @@
 ---
 title: Air Pollution and COVID-19
 summary: "
-Interview for the national Spanish radio on COVID-19 severity and Air Pollution"
+Interview for Spanish national radio on COVID-19 severity and air pollution"
 tags: ['Radio']
 date: "2023-03-24"
 
