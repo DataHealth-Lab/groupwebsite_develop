@@ -38,12 +38,12 @@ We have played leadership roles in several national and international initiative
 
 ## 📚 Our Research Cited in Patents, Policy Documents and Guidelines
 
-Our scientific publications have been cited in several key documents, including (<strong>Under construction</strong>):
+Our scientific publications have been cited in several key documents, including (as of September 2026):
 
 - 10 articles were cited in 31 Patents (source: [lens.org](https://www.lens.org/lens/orcid/0000-0002-4677-6862))
-- 45 articles were cited in 105 Policy Documents (source: [overton.io](https://www.overton.io/))
-- 9 articles were cited in 9 guidelines (source: Dimensions)
-- 3 articles were cited in 9 Wikipedia entries (source: Dimensions)
+- Our work was cited **206 times in 184 policy documents** from governments, intergovernmental organisations and think tanks in more than 20 countries; these documents were themselves cited **784 times in 500 further policy documents** (source: [Overton](https://www.overton.io/), September 2026)
+- **24 of our articles were cited in 30 clinical guidelines and official recommendations**, including from WHO, ECDC/EMA, ATS/IDSA, ESICM, AWMF (Germany) and NACI (Canada) (sources: [Overton](https://www.overton.io/) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ranzani+OT%5Bau%5D), September 2026)
+- **10 articles were cited in 20 Wikipedia articles in 10 languages**, including entries on vaccines, pneumonia and intensive care (source: [Wikipedia](https://www.wikipedia.org/) search by DOI and author name, September 2026)
 
 ---
 
@@ -55,6 +55,13 @@ Our scientific publications have been cited in several key documents, including 
 
 > Member of the Working Group (WG1), Pathophysiology
 📎 [See Webinar](https://www.who.int/news-room/events/detail/2021/06/15/default-calendar/expanding-our-understanding-of-post-covid-19-condition-webinar-2)
+
+---
+
+#### 📄 Core Outcome Measures for Trials in People With COVID-19 (2021)
+
+> Panel member and collaborator, international consensus on core outcomes for COVID-19 trials (respiratory failure, multiorgan failure, shortness of breath and recovery), *Critical Care Medicine*
+📎 [View article](https://doi.org/10.1097/CCM.0000000000004817)
 
 ---
 
