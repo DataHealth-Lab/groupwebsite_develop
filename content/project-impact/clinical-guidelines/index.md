@@ -41,8 +41,8 @@ We have played leadership roles in several national and international initiative
 Our scientific publications have been cited in several key documents, including (as of September 2026):
 
 - 10 articles were cited in 31 Patents (source: [lens.org](https://www.lens.org/lens/orcid/0000-0002-4677-6862))
-- Our work was cited **206 times in 184 policy documents** from governments, intergovernmental organisations and think tanks in more than 20 countries; these documents were themselves cited **784 times in 500 further policy documents** (source: [Overton](https://www.overton.io/), September 2026)
-- **24 of our articles were cited in 30 clinical guidelines and official recommendations**, including from WHO, ECDC/EMA, ATS/IDSA, ESICM, AWMF (Germany) and NACI (Canada) (sources: [Overton](https://www.overton.io/) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ranzani+OT%5Bau%5D), September 2026)
+- Our work was cited **206 times in 184 policy documents** from governments, intergovernmental organisations and think tanks in more than 20 countries; these documents were themselves cited **784 times in 500 further policy documents** (source: [Sage Policy Profiles](https://policyprofiles.sagepub.com/), powered by [Overton](https://www.overton.io/), September 2026)
+- **24 of our articles were cited in 30 clinical guidelines and official recommendations**, including from WHO, ECDC/EMA, ATS/IDSA, ESICM, AWMF (Germany) and NACI (Canada) (sources: [Sage Policy Profiles](https://policyprofiles.sagepub.com/)/[Overton](https://www.overton.io/) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Ranzani+OT%5Bau%5D), September 2026)
 - **10 articles were cited in 20 Wikipedia articles in 10 languages**, including entries on vaccines, pneumonia and intensive care (source: [Wikipedia](https://www.wikipedia.org/) search by DOI and author name, September 2026)
 
 ---
