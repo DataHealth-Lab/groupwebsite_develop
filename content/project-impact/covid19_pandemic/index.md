@@ -30,7 +30,7 @@ Brazil recorded one of the highest COVID-19 death tolls in the world. Its health
 
 ### 🔬 Otavio's Contribution
 
-- **Hospital burden:** Co-led the first nationwide analysis of COVID-19 hospital admissions in Brazil (254,288 patients, February–August 2020), with openly released [analysis code](https://github.com/oranzani/Ranzani_Bastos_etal_LRM_COVID19Brazil), followed by a comparison of the first and second waves and an analysis of spatial and temporal fluctuations in hospital fatality.
+- **Hospital burden:** Led the first nationwide analysis of COVID-19 hospital admissions in Brazil (254,288 patients, February-August 2020), using official public data with openly released [analysis code](https://github.com/oranzani/Ranzani_Bastos_etal_LRM_COVID19Brazil), followed by a comparison of the first and second waves and an analysis of spatial and temporal fluctuations in hospital fatality.
 - **Vaccine effectiveness:** First author of real-world effectiveness studies within the VEBRA COVID-19 consortium, including CoronaVac in older adults and Ad26.COV2.S (Janssen). The full vaccine story is described in our [Vaccine Impact profile](/project-impact/vaccines/).
 - **Public epidemiology:** Explained epidemiological evidence, methods and uncertainty on Twitter/X ([@otavio_ranzani](https://x.com/otavio_ranzani)), in op-eds, interviews and webinars, and created **CORONAvito**, an educational comic explaining how infection and disease unfold over time ([thread, May 2020](https://threadreaderapp.com/thread/1261094738712813569.html)).
 - **Trial standards:** Panel member of the international consensus defining core outcome measures for COVID-19 trials (respiratory failure, multiorgan failure, shortness of breath and recovery), published in *[Critical Care Medicine](https://doi.org/10.1097/CCM.0000000000004817)* (2021).
@@ -65,13 +65,13 @@ Brazil recorded one of the highest COVID-19 death tolls in the world. Its health
   <div class="ctl-year">
     <div class="ctl-y">2020</div>
     <div class="ctl-events">
-      <div class="ctl-ev" style="--c:#2a5c99"><div class="ctl-card"><b>19 – 21 Mar 2020</b>Co-authors NOIS/PUC-Rio Technical Notes 3 and 4: how quickly containment measures worked abroad, and early case projections for Brazil</div></div>
-      <div class="ctl-ev" style="--c:#2e9e6b"><div class="ctl-card"><b>25 Mar 2020</b><i>Jornal da USP</i> quotes him as an author: containment takes 8–11 days to show effect, so it should start early to relieve hospitals</div></div>
-      <div class="ctl-ev" style="--c:#2a5c99"><div class="ctl-card"><b>1 – 3 Apr 2020</b>Technical Notes 5 and 6 check the accuracy of earlier projections and project ~41,000 cases by 20 April (reported by Estadão / Exame)</div></div>
-      <div class="ctl-ev" style="--c:#2e9e6b"><div class="ctl-card"><b>May – Aug 2020</b>Explains epidemic curves, data and methods in Twitter threads; his audience grows from ~3,000 (May) to ~12,300 followers (Aug)</div></div>
+      <div class="ctl-ev" style="--c:#2a5c99"><div class="ctl-card"><b>19 - 21 Mar 2020</b>Co-authors NOIS/PUC-Rio Technical Notes 3 and 4: how quickly containment measures worked abroad, and early case projections for Brazil</div></div>
+      <div class="ctl-ev" style="--c:#2e9e6b"><div class="ctl-card"><b>25 Mar 2020</b><i>Jornal da USP</i> quotes him as an author: containment takes 8-11 days to show effect, so it should start early to relieve hospitals</div></div>
+      <div class="ctl-ev" style="--c:#2a5c99"><div class="ctl-card"><b>1 - 3 Apr 2020</b>Technical Notes 5 and 6 check the accuracy of earlier projections and project ~41,000 cases by 20 April (reported by Estadão / Exame)</div></div>
+      <div class="ctl-ev" style="--c:#2e9e6b"><div class="ctl-card"><b>May - Aug 2020</b>Explains epidemic curves, data and methods in Twitter threads; his audience grows from ~3,000 (May) to ~12,300 followers (Aug)</div></div>
       <div class="ctl-ev" style="--c:#2e9e6b"><div class="ctl-card"><b>May 2020</b>Aos Fatos fact-check uses his expertise to rebut claims that Brazil's epidemic was mild; creates the CORONAvito comic</div></div>
       <div class="ctl-ev" style="--c:#c89520"><div class="ctl-card"><b>Jun 2020</b>His excess-mortality analysis is used as evidence in a Supreme Court petition (ADPF 690); the Court orders full daily COVID-19 data to be published again</div></div>
-      <div class="ctl-ev" style="--c:#2e9e6b"><div class="ctl-card"><b>Jul – Aug 2020</b>Herd-immunity op-ed (Agência Bori); two further Aos Fatos fact-checks draw on his explanations</div></div>
+      <div class="ctl-ev" style="--c:#2e9e6b"><div class="ctl-card"><b>Jul - Aug 2020</b>Herd-immunity op-ed (Agência Bori); two further Aos Fatos fact-checks draw on his explanations</div></div>
       <div class="ctl-ev" style="--c:#2e9e6b"><div class="ctl-card"><b>Dec 2020</b>Science Pulse / IBPAD network analysis ranks him 2nd for authority among Brazilian COVID-19 science voices</div></div>
     </div>
   </div>
@@ -120,23 +120,27 @@ Brazil recorded one of the highest COVID-19 death tolls in the world. Its health
 
 **Wider policy uptake**
 
-- The COVID-19 studies were also cited by the **European Medicines Agency and ECDC** ([joint statement on a fourth vaccine dose](https://www.ema.europa.eu/en/documents/public-statement/covid-19-joint-statement-ecdc-and-ema-administration-fourth-dose-mrna-vaccines_en.pdf), 2022), **WHO** [guidance on evaluating vaccine effectiveness](https://iris.who.int/handle/10665/363344) (2022) and its weekly epidemiological updates, **Africa CDC** scientific and public health policy updates (2021–2022), the **World Bank** ([2022](https://openknowledge.worldbank.org/handle/10986/37626), [2023](https://openknowledge.worldbank.org/handle/10986/39778)), the **Inter-American Development Bank** ([2025](https://doi.org/10.18235/0013757)), the Dutch **RIVM** ([2024](https://www.rivm.nl/publicaties/luchtkwaliteit-en-covid-19)) and **CONASS** ([2025](https://www.conass.org.br/biblioteca/cd49-lacen-covid19/)).
+- The COVID-19 studies were also cited by the **European Medicines Agency and ECDC** ([joint statement on a fourth vaccine dose](https://www.ema.europa.eu/en/documents/public-statement/covid-19-joint-statement-ecdc-and-ema-administration-fourth-dose-mrna-vaccines_en.pdf), 2022), **WHO** [guidance on evaluating vaccine effectiveness](https://iris.who.int/handle/10665/363344) (2022) and its weekly epidemiological updates, **Africa CDC** scientific and public health policy updates (2021-2022), the **World Bank** ([2022](https://openknowledge.worldbank.org/handle/10986/37626), [2023](https://openknowledge.worldbank.org/handle/10986/39778)), the **Inter-American Development Bank** ([2025](https://doi.org/10.18235/0013757)), the Dutch **RIVM** ([2024](https://www.rivm.nl/publicaties/luchtkwaliteit-en-covid-19)) and **CONASS** ([2025](https://www.conass.org.br/biblioteca/cd49-lacen-covid19/)).
 
 ---
 
 ### 📣 Reach and Engagement
 
 - Independent network analyses of the Brazilian COVID-19 conversation on Twitter by Science Pulse and [IBPAD](https://ibpad.com.br/) placed Otavio among the most influential scientists:
-  - **2020** (213,469 tweets from 1,200 profiles, June–October): **3rd** most influential among Brazilian researchers and institutions, **2nd for authority** (centrality in spreading information) and **3rd for articulation** (bridging between groups) ([report](https://www.ibpad.com.br/wp-content/uploads/2020/12/relatorio_vozesdacienciacovid_ibpad2020.pdf)).
-  - **2021** (450,906 tweets from 1,088 profiles, November 2020–November 2021): among the 15 most influential profiles, **4th for authority** and **7th for articulation** ([Núcleo](https://nucleo.jor.br/reportagem/2021-12-16-2021-colaboracao-cientifica-covid-twitter/)).
-  - In these analyses, *authority* identifies the profiles most central to the spread of information in the network, and therefore the most respected or prestigious sources. *Articulation* identifies profiles that act as bridges between groups. *Popularity* is simply the number of followers. The 2020 report noted that Otavio, "although not as popular, holds an important position in terms of authority and articulation in the network".
+  - **2020** (213,469 tweets from 1,200 profiles, June-October): **3rd** most influential among Brazilian researchers and institutions, **2nd for authority** (centrality in spreading information) and **3rd for articulation** (bridging between groups) ([report](https://www.ibpad.com.br/wp-content/uploads/2020/12/relatorio_vozesdacienciacovid_ibpad2020.pdf)).
+  - **2021** (450,906 tweets from 1,088 profiles, November 2020-November 2021): among the 15 most influential profiles, **4th for authority** and **7th for articulation** ([Núcleo](https://nucleo.jor.br/reportagem/2021-12-16-2021-colaboracao-cientifica-covid-twitter/)).
+  - In these analyses, *authority* identifies the profiles most central to the spread of information in the network, and therefore the most respected or prestigious sources. *Articulation* identifies profiles that act as bridges between groups. *Popularity* is simply the number of followers. The 2020 report noted that Otavio, "although not as popular [*by number of followers*], holds an important position in terms of authority and articulation in the network".
   - The 2020 ranking was presented at a [WHO EPI-WIN session](https://cdn.who.int/media/docs/default-source/epi-win/5_when-social-media-shapes-the-public-discourse_a-iamarino.pdf) on science communication during the pandemic (2021).
-  - A later academic study of these five leading voices described Otavio's communication as more technical than that of science communicators, consistent with his role as a specialist epidemiologist explaining data, methods and emerging evidence rather than a general-audience influencer ([*Animus*, 2023](https://doi.org/10.5902/2175497768910)).
+  - A later academic study of these five leading voices described Otavio's communication as more technical than that of general science communicators, consistent with his role as a specialist epidemiologist explaining data, methods and emerging evidence rather than a general-audience influencer ([*Animus*, 2023](https://doi.org/10.5902/2175497768910)).
 - An international study of COVID-19 vaccine communication on Twitter selected him as one of ten recognised health experts across five countries, as an expert voice for the Portuguese-speaking world ([*Media and Communication*, 2022](https://doi.org/10.17645/mac.v10i2.4955)).
 - His Twitter/X audience grew from about 3,000 followers (May 2020) to about 40,000 (May 2022).
+- In 2020, during COVID-19, Twitter verified Otavio's account as a notable expert voice. This was the platform's merit-based verification, which was replaced in April 2023 by paid subscription verification.
+- In December 2020, [Instituto Serrapilheira](https://serrapilheira.org/), a Brazilian science funder that supports Science Pulse, highlighted him as one of the three main Brazilian scientific influencers on COVID-19, alongside Atila Iamarino and Luiza Caires.
+
+{{< figure src="twitter_recognition.png" title="Left: Twitter/X legacy verification (April 2023), shortly before merit-based badges were removed. Right: Instituto Serrapilheira highlighting the top three Brazilian scientific influencers on COVID-19 in the 2020 Science Pulse analysis (December 2020)." lightbox="true" >}}
 - He spoke at public webinars, including those of FAPESP and Instituto Butantan, and Instituto Questão de Ciência, and was interviewed by national and international media.
 
-{{< figure src="sciencepulse_2020_network.png" title="Network of interactions among 1,200 scientists and experts discussing COVID-19 on Twitter, June–October 2020; group I = Brazilian researchers and institutions. Source: Science Pulse / IBPAD (2020)." lightbox="true" >}}
+{{< figure src="sciencepulse_2020_network.png" title="Network of interactions among 1,200 scientists, experts and organisations discussing COVID-19 on Twitter (June-October 2020): Brazilian cluster in green, international profiles in grey. The highlighted profiles (Otavio Ranzani, Luiza Caires and USP) are the network's ‘bridges’, connecting its most distant points; Otavio's node sits at the interface with the international cluster. Source: Science Pulse / IBPAD (2020)." lightbox="true" >}}
 
 {{< figure src="sciencepulse_2020_ranking.png" title="Rankings by popularity, authority and articulation among Brazilian researchers and institutions, 2020. Source: Science Pulse / IBPAD (2020); boxes added." lightbox="true" >}}
 
@@ -150,10 +154,10 @@ Brazil recorded one of the highest COVID-19 death tolls in the world. Its health
 
 📚 Selected References
 
-<strong>Ranzani OT*,</strong> Bastos LSL*, Gelli JGM, et al. (2021). *Characterisation of the first 250 000 hospital admissions for COVID-19 in Brazil: a retrospective analysis of nationwide data.* Lancet Respir Med. 9(4):407–418. doi: [10.1016/S2213-2600(20)30560-9](https://doi.org/10.1016/S2213-2600(20)30560-9).
+<strong>Ranzani OT*,</strong> Bastos LSL*, Gelli JGM, et al. (2021). *Characterisation of the first 250 000 hospital admissions for COVID-19 in Brazil: a retrospective analysis of nationwide data.* Lancet Respir Med. 9(4):407-418. doi: [10.1016/S2213-2600(20)30560-9](https://doi.org/10.1016/S2213-2600(20)30560-9).
 
-Bastos LSL, <strong>Ranzani OT,</strong> Souza TML, et al. (2021). *COVID-19 hospital admissions: Brazil's first and second waves compared.* Lancet Respir Med. 9(8):e82–e83. doi: [10.1016/S2213-2600(21)00287-3](https://doi.org/10.1016/S2213-2600(21)00287-3).
+Bastos LSL, <strong>Ranzani OT,</strong> Souza TML, et al. (2021). *COVID-19 hospital admissions: Brazil's first and second waves compared.* Lancet Respir Med. 9(8):e82-e83. doi: [10.1016/S2213-2600(21)00287-3](https://doi.org/10.1016/S2213-2600(21)00287-3).
 
-Brizzi A, Whittaker C, Servo LMS, et al. (2022). *Spatial and temporal fluctuations in COVID-19 fatality rates in Brazilian hospitals.* Nat Med. 28(7):1476–1485. doi: [10.1038/s41591-022-01807-1](https://doi.org/10.1038/s41591-022-01807-1).
+Brizzi A, Whittaker C, Servo LMS, et al. (2022). *Spatial and temporal fluctuations in COVID-19 fatality rates in Brazilian hospitals.* Nat Med. 28(7):1476-1485. doi: [10.1038/s41591-022-01807-1](https://doi.org/10.1038/s41591-022-01807-1).
 
 <strong>Ranzani OT*,</strong> Hitchings MDT*, Dorion M, et al. (2021). *Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study.* BMJ. 374:n2015. doi: [10.1136/bmj.n2015](https://doi.org/10.1136/bmj.n2015).
