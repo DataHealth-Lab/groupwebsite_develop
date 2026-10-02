@@ -1,6 +1,6 @@
 ---
-title: COVID-19 Pandemic in Brazil
-summary: "Evidence in a crisis: measuring, explaining and informing Brazil's COVID-19 response"
+title: COVID-19 Pandemic
+summary: "Evidence in a crisis: measuring, explaining and informing the COVID-19 response"
 tags: ['Society']
 date: "2020-11-10"
 
@@ -18,13 +18,13 @@ url_video: ""
 
 ## 🦠 Evidence in a Crisis
 
-**Measuring what the pandemic did in Brazil, explaining it to the public, and informing decisions**
+**Measuring what the pandemic did, explaining it to the public, and informing decisions**
 
 ---
 
 ### 📜 Background
 
-Brazil recorded one of the highest COVID-19 death tolls in the world. Its health system came under extreme and unequal strain, and public debate was shaped by contested official messaging and widespread misinformation. Decision-makers, journalists and the public needed rapid, trustworthy national evidence on who was being hospitalised, who was dying, and how well vaccines were working.
+COVID-19 caused millions of deaths worldwide and put health systems under extreme and unequal strain, while public debate was shaped by contested messaging and widespread misinformation. Decision-makers, journalists and the public needed rapid, trustworthy evidence on who was being hospitalised, who was dying, and how well vaccines were working. Otavio's work, largely based in Brazil, one of the hardest-hit countries, addressed these needs and was used by national and international bodies.
 
 ---
 
@@ -133,11 +133,12 @@ Brazil recorded one of the highest COVID-19 death tolls in the world. Its health
   - The 2020 ranking was presented at a [WHO EPI-WIN session](https://cdn.who.int/media/docs/default-source/epi-win/5_when-social-media-shapes-the-public-discourse_a-iamarino.pdf) on science communication during the pandemic (2021).
   - A later academic study of these five leading voices described Otavio's communication as more technical than that of general science communicators, consistent with his role as a specialist epidemiologist explaining data, methods and emerging evidence rather than a general-audience influencer ([*Animus*, 2023](https://doi.org/10.5902/2175497768910)).
 - An international study of COVID-19 vaccine communication on Twitter selected him as one of ten recognised health experts across five countries, as an expert voice for the Portuguese-speaking world ([*Media and Communication*, 2022](https://doi.org/10.17645/mac.v10i2.4955)).
+- In 2023, he was a nominee for the international [COVID-19 Influencers Social Media Awards](https://socmedawards.com/2023/), organised by UniteHealth.
 - His Twitter/X audience grew from about 3,000 followers (May 2020) to about 40,000 (May 2022).
 - In 2020, during COVID-19, Twitter verified Otavio's account as a notable expert voice. This was the platform's merit-based verification, which was replaced in April 2023 by paid subscription verification.
 - In December 2020, [Instituto Serrapilheira](https://serrapilheira.org/), a Brazilian science funder that supports Science Pulse, highlighted him as one of the three main Brazilian scientific influencers on COVID-19, alongside Atila Iamarino and Luiza Caires.
 
-{{< figure src="twitter_recognition.png" title="Left: Twitter/X legacy verification (April 2023), shortly before merit-based badges were removed. Right: Instituto Serrapilheira highlighting the top three Brazilian scientific influencers on COVID-19 in the 2020 Science Pulse analysis (December 2020)." lightbox="true" >}}
+{{< figure src="twitter_verified_badge.png" title="Twitter/X legacy verification (April 2023), shortly before merit-based badges were removed." lightbox="true" width="420" >}}
 - He spoke at public webinars, including those of FAPESP and Instituto Butantan, and Instituto Questão de Ciência, and was interviewed by national and international media.
 
 {{< figure src="sciencepulse_2020_network.png" title="Network of interactions among 1,200 scientists, experts and organisations discussing COVID-19 on Twitter (June-October 2020): Brazilian cluster in green, international profiles in grey. The highlighted profiles (Otavio Ranzani, Luiza Caires and USP) are the network's ‘bridges’, connecting its most distant points; Otavio's node sits at the interface with the international cluster. Source: Science Pulse / IBPAD (2020)." lightbox="true" >}}
