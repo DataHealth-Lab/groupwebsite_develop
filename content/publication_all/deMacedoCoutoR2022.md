@@ -11,7 +11,7 @@ date: "2022-06-01"
 pub_keys: [tuberculosis]
 show_metrics: true
 oa_status: "gold"
-fwci: 1.55
+fwci: 1.56
 citations: 46
 countries: 2
 is_top_10_percent: false

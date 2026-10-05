@@ -17,7 +17,7 @@ date: "2024-11-01"
 pub_keys: [covid, post-infection, environment]
 show_metrics: true
 oa_status: "gold"
-fwci: 0.52
+fwci: 0.51
 citations: 2
 countries: 3
 is_top_10_percent: false

@@ -14,7 +14,7 @@ pub_keys: [covid, vaccine]
 show_metrics: true
 oa_status: "hybrid"
 fwci: 20.26
-citations: 344
+citations: 343
 countries: 3
 is_top_10_percent: true
 is_top_1_percent: true

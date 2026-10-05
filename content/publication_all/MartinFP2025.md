@@ -15,7 +15,7 @@ date: "2025-04-01"
 pub_keys: [pneumonia]
 show_metrics: true
 oa_status: "green"
-fwci: 7.85
+fwci: 7.78
 citations: 13
 countries: 6
 is_top_10_percent: true

@@ -14,7 +14,7 @@ date: "2020-06-01"
 pub_keys: [covid]
 show_metrics: true
 oa_status: "diamond"
-fwci: 0.99
+fwci: 1
 citations: 35
 countries: 1
 is_top_10_percent: false

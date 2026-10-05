@@ -16,7 +16,7 @@ pub_keys: [critical care]
 show_metrics: true
 oa_status: "gold"
 citations: 0
-countries: 19
+countries: 17
 is_top_10_percent: false
 is_top_1_percent: false
 ---

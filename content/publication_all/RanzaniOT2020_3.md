@@ -17,7 +17,7 @@ show_metrics: true
 oa_status: "bronze"
 fwci: 0.58
 citations: 24
-countries: 3
+countries: 2
 is_top_10_percent: false
 is_top_1_percent: false
 ---
