@@ -28,9 +28,6 @@ main:
   - name: Posts
     url: post
     weight: 80
-  - name: Contact
+  - name: Contact/Join us
     url: contact
     weight: 90
-  - name: Join us
-    url: join
-    weight: 100

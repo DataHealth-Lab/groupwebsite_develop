@@ -1,11 +1,53 @@
 ---
-title: Contact
+title: Contact/Join us
 date: 2022-10-24
+aliases:
+  - /join/
 
 type: landing
 
 sections:
+  - block: slider
+    content:
+      slides:
+      - title: 👋 Welcome to the group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Lunch & Learn ☕️
+        content: Health’s biggest fights need your brain... and your hands.
+        align: left
+        background:
+          image:
+            filename: ocean_climatechange_ianward_bw.jpeg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Global, World-Class Lab for Science and Health
+        content: 'We’re always seeking talented and innovative minds.'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+    design:
+      slide_height: '500px'
+      is_fullscreen: false
+      # Automatically transition through slides
+      loop: true
+      interval: 5000
   - block: markdown
+    id: jobs
     content:
       title: "Jobs"
       subtitle: "Current Openings"
