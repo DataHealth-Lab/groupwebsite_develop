@@ -721,3 +721,17 @@
 .oa-has-tooltip:hover .oa-tooltip {
   display: block;
 }
+
+// Contact/Join us banner: slides open from the middle (as on rasoulsamei.com)
+@keyframes slider-open {
+  from { clip-path: inset(50% 0); }
+  to   { clip-path: inset(0); }
+}
+
+#section-slider .carousel-item.active {
+  animation: slider-open 1.1s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #section-slider .carousel-item.active { animation: none; }
+}

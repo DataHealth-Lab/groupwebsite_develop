@@ -45,7 +45,7 @@ sections:
       is_fullscreen: false
       # Automatically transition through slides
       loop: true
-      interval: 5000
+      interval: 3500
   - block: markdown
     id: jobs
     content:
