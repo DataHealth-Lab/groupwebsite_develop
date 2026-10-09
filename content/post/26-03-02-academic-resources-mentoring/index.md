@@ -9,6 +9,8 @@ image:
 
 This is under construction.
 
+Listing a resource here does not mean that we endorse it or its authors. These are materials we found interesting, shared for information; please use your own judgement before relying on them.
+
 <!--
 # Building the **DataHealth Lab** website has been a mix of technical hurdles and rewarding customisation. Here's a log of inspirations, resources, and pending ideas.
 -->
@@ -18,51 +20,24 @@ This is under construction.
 
 These researchers and academic websites served as valuable sources:
 
-<!-- This text will not appear in the final document -->
-
 - [Claes Bäckman](https://sites.google.com/view/claesbackman/tips-for-phd-students) – Tips for PhD students
-<!--
-- [Raymond Rumpf](https://raymondrumpf.com/publications/) – Publications layout
-- [Rémi Thériault](https://remi-theriault.com/) – Really nice, built with Hugo Blox, source of some of my customizations (e.g., Altmetrics)
-- [Julen Etxaniz](https://julenetxaniz.eus/en/) – Clean design and custom features
-- [Urban Demographics by Rafael Pereira](https://www.urbandemographics.org/publicacoes/) – Research output style
-- [Ipea Access Opportunities](https://www.ipea.gov.br/acessooportunidades/en/) – Project structure
-- [Allan Lab](https://www.allanlab.org/publications/) – Publications and team sections
-- [YX Liu Group](https://www.yxliu.group/) – Clean and highly functional lab site
-- [Gökçin Çınar](https://www.gokcincinar.com/) – Customised, elegant research group layout
-- [Parra Lab](https://parralab.netlify.app/) – Started an academic group website with same template temporally similar to ours
-- [Deep Policy Lab](https://deeppolicylab.github.io/research.html) – Beautiful research layout (using Quarto)
-- [Prof. Masiello, UW](https://faculty.washington.edu/masiello/) – Quarto inspiration
-- [John Paul Helveston](https://www.jhelvy.com/about) – Quarto inspiration
-- [Tiago Zortea](https://tzcorda.github.io/) – Quarto inspiration
--->
+
+---
+
+## 🎓 PhD and Postdoc Careers
+
+- [Ten simple rules for choosing a PhD supervisor](https://pmc.ncbi.nlm.nih.gov/articles/PMC8483297/) – *PLOS Computational Biology*, 2021. A concrete checklist: ask current and past students about meeting frequency, feedback and career outcomes, and align expectations on funding and publications.
+- [What makes PhD students happy? Good supervision](https://www.nature.com/articles/d41586-025-03416-7) – *Nature* editorial, 2025. Based on the *Nature* 2025 survey of more than 3,700 PhD students.
+- [Ten simple rules for launching an academic research career](https://pmc.ncbi.nlm.nih.gov/articles/PMC9754265) – *PLOS Computational Biology*, 2022. On the transition from postdoc to group leader: building a peer cohort, learning budgeting and learning to manage a group.
 
 ---
 
 ## 🛠 Research Group Culture
 
 - [A supportive research group culture](https://www.nature.com/articles/s41562-026-02407-6)
+- [Ten simple rules for developing a mentor-mentee expectations document](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709) – *PLOS Computational Biology*, 2017. A written agreement on hours, vacation, conflict resolution and authorship, to be revisited each year.
+- [How to build a nurturing collaborative research environment](https://jilltxt.net/how-to-build-a-nurturing-collaborative-research-environment/) – Jill Walker Rettberg, University of Bergen, 2019. Weekly group meetings with round-table updates instead of slides, and presentations capped at about 15 minutes.
+- [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006914) – *PLOS Computational Biology*, 2019. Includes not expecting work outside normal hours, weekends or holidays, and letting people set their own schedules and judging outcomes, not presence.
+- [Time Management for Researchers](https://faculty.cs.gwu.edu/gparmer/posts/2016-06-27-time-management.html) – Gabe Parmer, George Washington University, 2016. The lab agrees each semester which days are meeting days, so the other days stay free for long blocks of focused work.
 
 ---
-
-<!--
-## 🚧 Not Yet Implemented
-
-Automated publication management tools I plan to explore:
-
-- [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter) for Academic File Converter from BibTex
-- [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser)
-
----
-
-## 💬 Forums and Sources
-
-Helpful communities and repositories:
-
-- [Hugo Discourse Forum](https://discourse.gohugo.io/)
-- [Wowchemy research community](https://discord.gg/z8wNYzb) at discord
-- [HugoBlox Research Group Template](https://github.com/HugoBlox/theme-research-group)
-- [Hugo Blox Builder](https://github.com/HugoBlox/hugo-blox-builder)
-- [Documentation](https://docs.hugoblox.com/) - many links from the sources are broken, since they refer to the old Wowchemy documentation
-
--->
