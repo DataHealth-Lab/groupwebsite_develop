@@ -47,6 +47,12 @@ Automated publication management tools I plan to explore:
 
 ---
 
+## 🔁 Similar Pipelines
+
+- [erga](https://github.com/belalik/erga) – Takes a list of ORCID iDs, queries OpenAlex, removes duplicates and writes a single publications file that a website can render, with a GitHub Action to refresh it. It is quite similar to what we do here, but it arrived after our pipeline was ready.
+
+---
+
 ## 💬 Forums and Sources
 
 Helpful communities and repositories:

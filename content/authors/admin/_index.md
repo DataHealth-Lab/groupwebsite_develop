@@ -117,10 +117,10 @@ Our work has informed [policy discussions](https://datahealthlab.org/impact/) on
     <div class="card experience course">
         <div class="card-body">
           <a href="https://topscinet.com/scientist_profile/Ranzani,%20Otavio%20T./2007/?stype=single_year" target="_blank" rel="noopener">
-            <h4 class="card-title exp-title text-muted my-0">Listed among the top 2% most-cited scientists in the world in the years 2022, 2023, 2024 and 2025</h4>
+            <h4 class="card-title exp-title text-muted my-0">Listed among the top 2% most-cited scientists in the world in the years 2022, 2023, 2024, 2025 and 2026</h4>
           </a>
           <div class="card-subtitle my-0 article-metadata">
-            Stanford & Elsevier<span class="middot-divider"></span> 2025
+            Stanford & Elsevier<span class="middot-divider"></span> 2026
           </div>
         </div>
       </div>
