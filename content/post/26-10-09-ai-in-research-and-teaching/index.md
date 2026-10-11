@@ -37,6 +37,8 @@ Useful tools, and reusable instructions ("skills") for Claude and other assistan
 
 **Repositories of skills and templates for Claude Code:**
 
+- [Claude Code Academic Workflow](https://psantanna.com/claude-code-my-workflow/) (Pedro H. C. Sant'Anna, Emory University; [GitHub template](https://github.com/pedrohcgs/claude-code-my-workflow), MIT licence): a full setup for academic research, mainly economics, with skills (papers, data analysis, replication packages, slides, teaching), agents (referees, proofreaders, claim verifier), rules, hooks and a command that runs a set of checks. It is a large setup, so adopt only the parts you need.
+
 - [MixtapeTools](https://github.com/scunning1975/MixtapeTools) (Scott Cunningham, Baylor University): tools for coding, teaching and presentations with AI assistance, framing Claude as a thinking partner rather than an autonomous agent. It includes audit workflows (a replication-style audit run in a fresh session, a review for overlooked problems and a bibliography checker), slide-making workflows and a `CLAUDE.md` template. It states "use freely", with no formal licence.
 - [ChernyCode](https://github.com/meleantonio/ChernyCode) (meleantonio, MIT licence): a general software-development template that turns the Claude Code tips of Boris Cherny, its creator, into ready-to-copy configurations: project memory files, skills (such as commit, testing and code simplification) and subagents (such as code reviewer and verifier). It is not aimed at research.
 
