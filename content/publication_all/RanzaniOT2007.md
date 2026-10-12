@@ -11,7 +11,7 @@ date: "2007-11-01"
 pub_keys: [pneumonia]
 show_metrics: true
 oa_status: "bronze"
-fwci: 0.69
+fwci: 0.78
 citations: 12
 countries: 1
 is_top_10_percent: false

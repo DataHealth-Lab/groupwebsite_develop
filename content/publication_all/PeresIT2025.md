@@ -14,7 +14,7 @@ date: "2025-10-01"
 pub_keys: [critical care, dengue]
 show_metrics: true
 oa_status: "gold"
-fwci: 4.37
+fwci: 4.25
 citations: 5
 countries: 4
 is_top_10_percent: true

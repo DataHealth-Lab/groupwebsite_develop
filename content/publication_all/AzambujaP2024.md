@@ -14,7 +14,7 @@ date: "2024-09-01"
 pub_keys: [covid, post-infection]
 show_metrics: true
 oa_status: "gold"
-fwci: 4.58
+fwci: 4.2
 citations: 18
 countries: 5
 is_top_10_percent: true

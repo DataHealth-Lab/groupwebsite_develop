@@ -9,7 +9,7 @@ date: "2022-08-01"
 pub_keys: [covid]
 show_metrics: true
 oa_status: "green"
-fwci: 2
+fwci: 2.18
 citations: 13
 is_top_10_percent: false
 is_top_1_percent: false

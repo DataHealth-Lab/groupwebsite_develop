@@ -14,7 +14,7 @@ date: "2024-08-01"
 pub_keys: [vaccine]
 show_metrics: true
 oa_status: "gold"
-fwci: 0.4
+fwci: 0.44
 citations: 1
 countries: 3
 is_top_10_percent: false

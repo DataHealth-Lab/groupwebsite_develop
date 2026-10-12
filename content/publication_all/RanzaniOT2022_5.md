@@ -11,7 +11,7 @@ pub_keys: [critical care, pneumonia]
 show_metrics: true
 oa_status: "bronze"
 fwci: NA
-citations: 33
+citations: 32
 countries: 3
 is_top_10_percent: false
 is_top_1_percent: false

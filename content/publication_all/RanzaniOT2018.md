@@ -10,8 +10,8 @@ date: "2018-10-01"
 pub_keys: [pneumonia]
 show_metrics: true
 oa_status: "closed"
-fwci: 1.22
-citations: 18
+fwci: 1.32
+citations: 17
 countries: 3
 is_top_10_percent: false
 is_top_1_percent: false

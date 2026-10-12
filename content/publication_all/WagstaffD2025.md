@@ -15,7 +15,7 @@ date: "2025-02-25"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "gold"
-fwci: 4.57
+fwci: 4.24
 citations: 8
 countries: 17
 is_top_10_percent: true

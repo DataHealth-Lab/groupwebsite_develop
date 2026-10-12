@@ -9,7 +9,7 @@ date: "2018-10-01"
 pub_keys: [air pollution]
 show_metrics: true
 oa_status: "closed"
-fwci: 0.22
+fwci: 0.26
 citations: 3
 countries: 1
 is_top_10_percent: false

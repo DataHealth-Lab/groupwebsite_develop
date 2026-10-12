@@ -14,8 +14,8 @@ date: "2023-10-01"
 pub_keys: [critical care, pneumonia]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 14.77
-citations: 87
+fwci: 14.94
+citations: 80
 countries: 13
 is_top_10_percent: true
 is_top_1_percent: true

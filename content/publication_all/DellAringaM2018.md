@@ -11,7 +11,7 @@ date: "2018-01-25"
 pub_keys: [environment]
 show_metrics: true
 oa_status: "green"
-fwci: 0.32
+fwci: 0.28
 citations: 6
 countries: 4
 is_top_10_percent: false

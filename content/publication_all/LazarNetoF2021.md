@@ -13,8 +13,8 @@ date: "2021-07-01"
 pub_keys: [covid, pneumonia]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 5.91
-citations: 49
+fwci: 2.76
+citations: 45
 countries: 2
 is_top_10_percent: true
 is_top_1_percent: false

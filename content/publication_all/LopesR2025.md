@@ -12,9 +12,9 @@ date: "2025-02-01"
 pub_keys: [temperature, dengue]
 show_metrics: true
 oa_status: "gold"
-fwci: 2.66
+fwci: 1.13
 citations: 7
 countries: 2
-is_top_10_percent: true
+is_top_10_percent: false
 is_top_1_percent: false
 ---
