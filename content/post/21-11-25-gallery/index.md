@@ -97,6 +97,15 @@ Photo by [Redes da Maré, by Douglas Lopes](https://www.flickr.com/photos/redesm
 </div>
 
 
+
+<div style="background-color: #f5f5f5; padding: 1rem; margin: 1rem 0; border-radius: 4px;">
+
+### ![Child receiving vaccine](vaccine_europe_elpais.jpg)  
+**Childhood Vaccination**  
+Photo by [SELF Magazine / Heather Hazzan](https://commons.wikimedia.org/wiki/File:Young_girl_about_to_receive_a_vaccine_in_her_upper_arm_(48545990252).jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Used in: [Vaccination Losing Momentum in Europe](/outreach/)
+
+</div>
+
 <br>
 <small>
 Copyright Notice: Content and media are property of their respective owners. Licensed for display on this domain only.
