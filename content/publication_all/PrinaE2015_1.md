@@ -17,7 +17,7 @@ date: "2015-02-01"
 pub_keys: [pneumonia, critical care]
 show_metrics: true
 oa_status: "closed"
-fwci: 7.41
+fwci: 7.42
 citations: 196
 countries: 2
 is_top_10_percent: true

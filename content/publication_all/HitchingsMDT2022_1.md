@@ -14,8 +14,8 @@ date: "2022-07-01"
 pub_keys: [covid, vaccine]
 show_metrics: true
 oa_status: "green"
-fwci: 2.38
-citations: 27
+fwci: 2.49
+citations: 28
 countries: 3
 is_top_10_percent: true
 is_top_1_percent: false

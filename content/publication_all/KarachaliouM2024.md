@@ -13,7 +13,7 @@ date: "2024-09-01"
 pub_keys: [covid, post-infection]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 1.39
+fwci: 1.38
 citations: 6
 countries: 1
 is_top_10_percent: false

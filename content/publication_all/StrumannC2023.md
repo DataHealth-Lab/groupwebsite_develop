@@ -14,7 +14,7 @@ date: "2023-11-01"
 pub_keys: [covid, vaccine]
 show_metrics: true
 oa_status: "gold"
-fwci: 0.96
+fwci: 0.94
 citations: 5
 countries: 5
 is_top_10_percent: false

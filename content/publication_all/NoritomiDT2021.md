@@ -13,7 +13,7 @@ date: "2021-06-21"
 pub_keys: [critical care, telemedicine]
 show_metrics: true
 oa_status: "gold"
-fwci: 0.79
+fwci: 0.78
 citations: 6
 countries: 2
 is_top_10_percent: false

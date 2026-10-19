@@ -17,7 +17,7 @@ date: "2022-07-01"
 pub_keys: [air pollution, environment]
 show_metrics: true
 oa_status: "gold"
-fwci: 0.87
+fwci: 0.88
 citations: 12
 countries: 4
 is_top_10_percent: false

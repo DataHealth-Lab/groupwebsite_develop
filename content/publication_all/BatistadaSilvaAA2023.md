@@ -14,7 +14,7 @@ date: "2023-05-01"
 pub_keys: [covid]
 show_metrics: true
 oa_status: "gold"
-fwci: 1.06
+fwci: 1.04
 citations: 5
 countries: 2
 is_top_10_percent: false

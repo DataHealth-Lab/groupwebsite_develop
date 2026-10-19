@@ -15,7 +15,7 @@ date: "2014-01-01"
 pub_keys: [critical care, telemedicine]
 show_metrics: true
 oa_status: "gold"
-fwci: 4.04
+fwci: 4.05
 citations: 76
 countries: 1
 is_top_10_percent: true

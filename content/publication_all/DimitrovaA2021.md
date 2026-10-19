@@ -14,7 +14,7 @@ date: "2021-01-01"
 pub_keys: [temperature]
 show_metrics: true
 oa_status: "gold"
-fwci: 2.29
+fwci: 2.23
 citations: 164
 countries: 1
 is_top_10_percent: false

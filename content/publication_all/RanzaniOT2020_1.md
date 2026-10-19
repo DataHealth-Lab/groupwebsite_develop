@@ -12,7 +12,7 @@ date: "2020-01-03"
 pub_keys: [air pollution, environment]
 show_metrics: true
 oa_status: "gold"
-fwci: 2.92
+fwci: 2.93
 citations: 55
 countries: 3
 is_top_10_percent: true

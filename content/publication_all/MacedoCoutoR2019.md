@@ -10,7 +10,7 @@ date: "2019-01-31"
 pub_keys: [tuberculosis]
 show_metrics: true
 oa_status: "closed"
-fwci: 2.25
+fwci: 2.23
 citations: 45
 countries: 1
 is_top_10_percent: false

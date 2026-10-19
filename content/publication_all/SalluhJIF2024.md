@@ -15,7 +15,7 @@ date: "2024-01-01"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 4.63
+fwci: 4.55
 citations: 12
 countries: 7
 is_top_10_percent: true

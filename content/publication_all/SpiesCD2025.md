@@ -9,7 +9,7 @@ date: "2025-06-01"
 pub_keys: [critical care, telemedicine]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 9.32
+fwci: 9.13
 citations: 11
 countries: 3
 is_top_10_percent: true
