@@ -14,7 +14,7 @@ Listing a resource here does not mean that we endorse it or its authors. These a
 
 What works well in research, what to avoid, and how to stay transparent about it.
 
-*To be added.*
+- [How to avoid AI Brain Rot](https://x.com/MilesCranmer/status/2111105654211608847) (Miles Cranmer, University of Cambridge, October 2026): a talk of about 55 minutes, given to MPhil students, on avoiding the atrophy of your own thinking when you use AI for work and study. Video posted on X.
 
 ## 🎓 Teaching
 

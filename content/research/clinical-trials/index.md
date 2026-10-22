@@ -94,6 +94,7 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
     <div class="trial-links">
           <a href="https://clinicaltrials.gov/study/NCT05960994" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT05960994</a>
       <a href="https://doi.org/10.1016/j.ccrj.2026.100193" class="tl-btn protocol" target="_blank" rel="noopener">📄 Protocol - Crit Care Resusc 2026</a>
+      <a href="https://doi.org/10.62675/2965-2774.20260013" class="tl-btn sap" target="_blank" rel="noopener">📊 SAP - CCS 2026</a>
     </div>
   </div>
 </div>
