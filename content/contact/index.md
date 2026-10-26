@@ -1,8 +1,6 @@
 ---
 title: Contact/Join us
 date: 2022-10-24
-aliases:
-  - /join/
 
 type: landing
 
