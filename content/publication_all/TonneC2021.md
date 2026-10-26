@@ -16,7 +16,7 @@ pub_keys: [environment]
 show_metrics: true
 oa_status: "gold"
 fwci: 7.35
-citations: 246
+citations: 248
 countries: 8
 is_top_10_percent: true
 is_top_1_percent: false

@@ -16,7 +16,7 @@ date: "2025-01-01"
 pub_keys: [pneumonia, air pollution]
 show_metrics: true
 oa_status: "gold"
-fwci: 2.53
+fwci: 2.5
 citations: 16
 countries: 2
 is_top_10_percent: true

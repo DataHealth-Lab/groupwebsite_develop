@@ -12,7 +12,7 @@ date: "2021-08-01"
 pub_keys: [covid]
 show_metrics: true
 oa_status: "bronze"
-fwci: 4.96
+fwci: 4.95
 citations: 77
 countries: 2
 is_top_10_percent: true

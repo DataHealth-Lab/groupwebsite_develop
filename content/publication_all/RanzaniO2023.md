@@ -13,8 +13,8 @@ date: "2023-05-24"
 pub_keys: [covid, air pollution]
 show_metrics: true
 oa_status: "gold"
-fwci: 3.88
-citations: 39
+fwci: 3.96
+citations: 40
 countries: 1
 is_top_10_percent: true
 is_top_1_percent: false

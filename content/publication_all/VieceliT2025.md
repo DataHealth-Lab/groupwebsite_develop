@@ -12,9 +12,9 @@ date: "2025-01-01"
 pub_keys: [covid]
 show_metrics: true
 oa_status: "closed"
-fwci: 0.63
+fwci: 0.62
 citations: 2
-countries: 3
+countries: 2
 is_top_10_percent: false
 is_top_1_percent: false
 ---

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-19T10:52:54Z",
+  "generated_at": "2026-10-26T11:13:30Z",
   "n_total": 223,
   "n_oa": 172,
   "n_top1": 21,
   "n_top10": 94,
   "median_fwci": 2.1,
-  "p75_fwci": 4.4,
-  "count_fwci_1": 146
+  "p75_fwci": 4.5,
+  "count_fwci_1": 145
 }
