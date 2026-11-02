@@ -10,7 +10,7 @@ date: "2013-10-01"
 pub_keys: [critical care, telemedicine]
 show_metrics: true
 oa_status: "closed"
-fwci: 0
+fwci: NA
 citations: 0
 countries: 1
 is_top_10_percent: false

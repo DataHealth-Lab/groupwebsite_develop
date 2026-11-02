@@ -13,7 +13,7 @@ date: "2019-06-13"
 pub_keys: [critical care, pneumonia]
 show_metrics: true
 oa_status: "gold"
-fwci: 4.68
+fwci: 5.42
 citations: 43
 countries: 3
 is_top_10_percent: true

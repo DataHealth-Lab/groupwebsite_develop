@@ -16,7 +16,7 @@ date: "2011-11-01"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "gold"
-fwci: 1.87
+fwci: 2.1
 citations: 29
 countries: 1
 is_top_10_percent: false

@@ -13,7 +13,7 @@ date: "2025-01-01"
 pub_keys: [dengue]
 show_metrics: true
 oa_status: "diamond"
-fwci: 1.66
+fwci: 1.82
 citations: 2
 countries: 2
 is_top_10_percent: false

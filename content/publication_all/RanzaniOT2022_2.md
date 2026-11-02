@@ -15,9 +15,9 @@ date: "2022-08-01"
 pub_keys: [environment]
 show_metrics: true
 oa_status: "gold"
-fwci: 5.03
+fwci: 3.46
 citations: 99
-countries: 4
+countries: 5
 is_top_10_percent: true
 is_top_1_percent: false
 ---

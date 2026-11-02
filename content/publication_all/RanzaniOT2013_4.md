@@ -13,7 +13,7 @@ date: "2013-10-01"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "diamond"
-fwci: 1.3
+fwci: 1.46
 citations: 42
 countries: 1
 is_top_10_percent: false

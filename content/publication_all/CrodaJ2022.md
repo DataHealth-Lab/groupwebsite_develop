@@ -9,7 +9,7 @@ date: "2022-04-01"
 pub_keys: [covid, vaccine]
 show_metrics: true
 oa_status: "green"
-fwci: 1.55
+fwci: 1.66
 citations: 24
 countries: 2
 is_top_10_percent: false

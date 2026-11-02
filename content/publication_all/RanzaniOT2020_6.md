@@ -13,7 +13,7 @@ date: "2020-06-01"
 pub_keys: [critical care, air pollution, environment]
 show_metrics: true
 oa_status: "gold"
-fwci: 0.71
+fwci: 0.8
 citations: 18
 countries: 4
 is_top_10_percent: false

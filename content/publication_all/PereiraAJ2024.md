@@ -13,8 +13,8 @@ date: "2024-12-03"
 pub_keys: [critical care, telemedicine]
 show_metrics: true
 oa_status: "green"
-fwci: 15.46
-citations: 41
+fwci: 17.32
+citations: 42
 countries: 4
 is_top_10_percent: true
 is_top_1_percent: true

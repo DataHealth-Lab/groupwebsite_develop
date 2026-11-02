@@ -11,7 +11,7 @@ date: "2021-04-01"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "diamond"
-fwci: 0.49
+fwci: 0.54
 citations: 3
 countries: 2
 is_top_10_percent: false
