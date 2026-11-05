@@ -54,6 +54,9 @@ This is under construction.
 **Coding Practices**
 - [Code Book](https://chrissyhroberts.github.io/Code_Book/) - practical coding tips and reproducible workflows - *via [Thiago](https://github.com/csthiago)*
 
+**Bioinformatics**
+- [Advanced Bioinformatics](https://github.com/talharaziq/Advanced-Bioinformatics) - a free learning roadmap (GitHub, by talharaziq, curated October 2026) from Linux, Python and R to bulk RNA-seq, with links to courses and practice exercises; a list of links to other people's material, with no clear licence stated
+
 ---
 
 ## 📦 Useful Packages (perhaps hidden within the mainstream)
