@@ -13,9 +13,9 @@ date: "2025-11-15"
 pub_keys: [temperature]
 show_metrics: true
 oa_status: "green"
-fwci: 1.69
-citations: 4
+fwci: 2.6
+citations: 7
 countries: 3
-is_top_10_percent: false
+is_top_10_percent: true
 is_top_1_percent: false
 ---

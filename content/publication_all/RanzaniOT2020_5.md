@@ -13,8 +13,8 @@ date: "2020-01-01"
 pub_keys: [tuberculosis]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 7.28
-citations: 95
+fwci: 7.38
+citations: 100
 countries: 2
 is_top_10_percent: true
 is_top_1_percent: false

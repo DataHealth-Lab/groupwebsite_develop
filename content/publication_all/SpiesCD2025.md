@@ -10,7 +10,7 @@ pub_keys: [critical care, telemedicine]
 show_metrics: true
 oa_status: "hybrid"
 fwci: NA
-citations: 11
+citations: 12
 countries: 3
 is_top_10_percent: false
 is_top_1_percent: false

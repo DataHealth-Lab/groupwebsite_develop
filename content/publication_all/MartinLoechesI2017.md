@@ -14,8 +14,8 @@ date: "2017-09-01"
 pub_keys: [unknown]
 show_metrics: true
 oa_status: "diamond"
-fwci: 0.26
-citations: 2
+fwci: 0.4
+citations: 3
 countries: 7
 is_top_10_percent: false
 is_top_1_percent: false

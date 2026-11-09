@@ -15,8 +15,8 @@ date: "2023-05-01"
 pub_keys: [environment]
 show_metrics: true
 oa_status: "gold"
-fwci: 3.34
-citations: 19
+fwci: 3.31
+citations: 21
 countries: 3
 is_top_10_percent: true
 is_top_1_percent: false

@@ -12,7 +12,7 @@ pub_keys: [tuberculosis]
 show_metrics: true
 oa_status: "gold"
 fwci: 1.31
-citations: 45
+citations: 53
 countries: 2
 is_top_10_percent: false
 is_top_1_percent: false

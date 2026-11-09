@@ -10,8 +10,8 @@ date: "2022-08-01"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "bronze"
-fwci: 5.61
-citations: 30
+fwci: 5.22
+citations: 31
 countries: 3
 is_top_10_percent: true
 is_top_1_percent: false

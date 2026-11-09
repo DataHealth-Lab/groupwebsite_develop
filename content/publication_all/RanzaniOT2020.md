@@ -13,8 +13,8 @@ date: "2020-02-01"
 pub_keys: [air pollution, environment]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 1.94
-citations: 33
+fwci: 1.66
+citations: 31
 countries: 4
 is_top_10_percent: false
 is_top_1_percent: false

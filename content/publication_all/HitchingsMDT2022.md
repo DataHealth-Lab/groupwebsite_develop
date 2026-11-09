@@ -13,8 +13,8 @@ date: "2022-06-13"
 pub_keys: [covid, vaccine]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 2.08
-citations: 17
+fwci: 2.29
+citations: 18
 countries: 3
 is_top_10_percent: false
 is_top_1_percent: false

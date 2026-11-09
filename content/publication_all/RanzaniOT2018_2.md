@@ -11,7 +11,7 @@ pub_keys: [pneumonia]
 show_metrics: true
 oa_status: "closed"
 fwci: 0.14
-citations: 10
+citations: 11
 countries: 2
 is_top_10_percent: false
 is_top_1_percent: false

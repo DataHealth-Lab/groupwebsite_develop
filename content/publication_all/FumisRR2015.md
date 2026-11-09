@@ -11,8 +11,8 @@ date: "2015-04-01"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "closed"
-fwci: 11.97
-citations: 85
+fwci: 5.03
+citations: 105
 countries: 1
 is_top_10_percent: true
 is_top_1_percent: false
