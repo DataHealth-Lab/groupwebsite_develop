@@ -30,7 +30,7 @@ We chose this combination to cover different hospital types, patient and family 
 
 ### 👥 The team
 
-CONNECT is led and part of the PhD of Amanda P Botega, a stellar intensivist, supervised by Prof. Daniel Forte and [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/). Dr. Sabrina Ribeiro coordinates the trial at Monte Klinikum.
+CONNECT is led and part of the PhD of Amanda P Botega, a stellar intensivist, supervised by Prof. Daniel Forte and [Otavio Ranzani](https://datahealthlab.org/author/otavio-ranzani/). At Monte Klinikum, Dr. Fabio Lacerda and Dr. Sabrina Ribeiro are the local principal investigators.
 
 ### 🔗 Trial registration
 

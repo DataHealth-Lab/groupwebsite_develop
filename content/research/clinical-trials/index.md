@@ -123,7 +123,7 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
   <div class="trial-body">
     <div class="trial-header">
       <span class="trial-name">SAFE-REDUCE: SAFEly REDUCE Antimicrobial Consumption in Intensive Care Units (Registry-Embedded trial)</span>
-      <span class="trial-pill ongoing">Ongoing</span>
+      <span class="trial-pill ongoing">Analysis Phase</span>
     </div>
     <div class="trial-meta">
       <strong>Design:</strong> Hybrid effectiveness-implementation Type I, stepped-wedge cluster RCT &nbsp;·&nbsp; 
@@ -133,6 +133,7 @@ Randomised controlled trials where I contributed as PI, trialist or lead statist
     </div>
     <div class="trial-links">
       <a href="https://clinicaltrials.gov/study/NCT07093450" class="tl-btn ct" target="_blank" rel="noopener">🔗 NCT07093450</a>
+      <a href="https://criticalcarescience.org/article/effect-of-a-quality-improvement-intervention-to-safely-reduce-antimicrobial-consumption-in-intensive-care-units-study-protocol-and-statistical-analysis-plan-for-the-safe-reduce-stepped-wedge-cluster/" class="tl-btn protocol" target="_blank" rel="noopener">📄 Protocol &amp; SAP - CCS 2026</a>
     </div>
   </div>
 </div>
