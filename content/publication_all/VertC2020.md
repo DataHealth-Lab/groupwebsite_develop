@@ -13,9 +13,9 @@ date: "2020-09-01"
 pub_keys: [environment]
 show_metrics: true
 oa_status: "green"
-fwci: 15.11
+fwci: 14.66
 citations: 143
 countries: 4
 is_top_10_percent: true
-is_top_1_percent: true
+is_top_1_percent: false
 ---

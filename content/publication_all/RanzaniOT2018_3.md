@@ -12,8 +12,8 @@ date: "2018-04-01"
 pub_keys: [tuberculosis]
 show_metrics: true
 oa_status: "diamond"
-fwci: 0.76
-citations: 10
+fwci: 0.93
+citations: 11
 countries: 2
 is_top_10_percent: false
 is_top_1_percent: false

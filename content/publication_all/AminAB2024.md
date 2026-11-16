@@ -15,8 +15,8 @@ date: "2024-08-27"
 pub_keys: [vaccine]
 show_metrics: true
 oa_status: "hybrid"
-fwci: 0.25
-citations: 1
+fwci: 0.71
+citations: 3
 countries: 3
 is_top_10_percent: false
 is_top_1_percent: false

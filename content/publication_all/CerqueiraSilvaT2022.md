@@ -14,8 +14,8 @@ date: "2022-06-01"
 pub_keys: [covid]
 show_metrics: true
 oa_status: "bronze"
-fwci: 16.51
-citations: 136
+fwci: 16.22
+citations: 139
 countries: 4
 is_top_10_percent: true
 is_top_1_percent: true

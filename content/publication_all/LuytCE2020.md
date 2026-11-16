@@ -15,8 +15,8 @@ date: "2020-12-01"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "bronze"
-fwci: 3.46
-citations: 175
+fwci: 3.25
+citations: 177
 countries: 7
 is_top_10_percent: true
 is_top_1_percent: false

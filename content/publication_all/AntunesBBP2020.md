@@ -15,7 +15,7 @@ pub_keys: [covid]
 show_metrics: true
 oa_status: "diamond"
 fwci: 1.84
-citations: 55
+citations: 56
 countries: 1
 is_top_10_percent: true
 is_top_1_percent: false

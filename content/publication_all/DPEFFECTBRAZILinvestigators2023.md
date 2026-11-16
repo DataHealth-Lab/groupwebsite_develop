@@ -16,7 +16,7 @@ date: "2023-06-01"
 pub_keys: [covid, critical care]
 show_metrics: true
 oa_status: "bronze"
-fwci: 2.33
+fwci: 2.24
 citations: 12
 is_top_10_percent: false
 is_top_1_percent: false

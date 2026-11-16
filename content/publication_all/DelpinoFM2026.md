@@ -14,7 +14,7 @@ date: "2026-09-01"
 pub_keys: [dengue]
 show_metrics: true
 oa_status: "gold"
-fwci: 2.23
+fwci: 2.04
 citations: 2
 countries: 5
 is_top_10_percent: false

@@ -15,7 +15,7 @@ date: "2019-06-01"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "green"
-fwci: 3.08
+fwci: 2.99
 citations: 22
 countries: 3
 is_top_10_percent: true

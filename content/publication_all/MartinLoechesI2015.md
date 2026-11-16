@@ -13,8 +13,8 @@ date: "2015-11-01"
 pub_keys: [critical care]
 show_metrics: true
 oa_status: "green"
-fwci: 18.46
-citations: 213
+fwci: 17.63
+citations: 221
 countries: 5
 is_top_10_percent: true
 is_top_1_percent: true

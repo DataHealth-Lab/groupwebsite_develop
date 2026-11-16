@@ -13,8 +13,8 @@ date: "2013-03-01"
 pub_keys: [pneumonia]
 show_metrics: true
 oa_status: "closed"
-fwci: 4.12
-citations: 75
+fwci: 3.93
+citations: 77
 countries: 3
 is_top_10_percent: true
 is_top_1_percent: false

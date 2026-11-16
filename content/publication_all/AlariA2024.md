@@ -13,8 +13,8 @@ date: "2024-02-14"
 pub_keys: [covid, air pollution]
 show_metrics: true
 oa_status: "green"
-fwci: 0.82
-citations: 5
+fwci: 0.94
+citations: 6
 countries: 2
 is_top_10_percent: false
 is_top_1_percent: false
