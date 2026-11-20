@@ -19,7 +19,7 @@ role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: Kenya Critical Care Registry (KCCR)
+  - name: Kenya Critical Care Registry
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
